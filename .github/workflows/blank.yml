@@ -36,14 +36,14 @@ jobs:
           cat tmp1.txt
           cp tmp1.txt out.txt
           cat out.txt
+      
+      - name: Commit and push changes
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
 
           git add -A
           git commit -m "commit message xxx"
           git push
-
-
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
