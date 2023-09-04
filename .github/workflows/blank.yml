@@ -27,10 +27,14 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: |
-          pwd
-          date > out.txt
+        run: echo CiaoBello
       
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Ciaociao > out.txt 
+          date >> out.txt
+          
       - name: Commit and push changes
         run: |
           git config --global user.name "twincacca"
@@ -40,9 +44,3 @@ jobs:
           git push
           #with:
           #github_token: ${{ secrets.GH_TOKEN }} 
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
