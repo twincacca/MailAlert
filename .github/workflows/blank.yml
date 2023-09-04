@@ -39,9 +39,8 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          echo fuck
-          #git config --global user.name "twincacca"
-          #git config --global user.email "twincacca@gmail.com"
+          git config --global user.name "twincacca"
+          git config --global user.email "twincacca@gmail.com"
           #git add -A
           #git commit -m "commit message xxx"
           #git push
