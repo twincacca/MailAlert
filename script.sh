@@ -1,4 +1,4 @@
-#rm out*
+rm out*
 dd=$(date | sed 's/ /-/g')
 echo Ciaociao > out-$dd.txt
 date >> out-$dd.txt
