@@ -4,6 +4,8 @@ dd=$(date | sed 's/ /-/g')
 #date >> out-$dd.txt
 #cat user_input.txt | cowsay >> out-$dd.txt
 
+# check cani/gatti smarriti in zona
+rm animali
 wget http://spalv.ch/it/animali
 wait
-egrep -i "muralto|minusio|locarno" animali --color > out-$dd.txt
+egrep -i "muralto|minusio" animali --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-$dd.txt
