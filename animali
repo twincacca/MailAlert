@@ -1,0 +1,262 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <title>Società Protezione Animali Locarno e Valli / Animali</title>
+    
+    	
+  		<meta property="fb:app_id" content="264828770623952" />
+  		<meta property="og:title" content="Società Protezione Animali Locarno e Valli" />
+  		<meta property="og:site_name" content="Società Protezione Animali Locarno e Valli"/>
+  		<meta property="og:url" content="https://www.spalv.ch/it" />
+  		<meta property="og:description" content="Società Protezione Animali Locarno e Valli" />
+  		<meta property="og:type" content="website" />
+  		<meta property="og:locale" content="it_IT" />   
+  		<meta property="og:image" content="https://www.spalv.ch/images/layout/spalv-cover.jpg" />
+  		    
+    <link rel="stylesheet" href="https://www.spalv.ch/css/main.css?v=2">  
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <script src="https://www.spalv.ch/js/jquery-1.11.3.min.js"></script>
+    <script src="https://www.spalv.ch/js/plugins.js?v=1"></script>
+    <script src="https://www.spalv.ch/js/isotope-docs.min.js"></script>
+  </head>
+  <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.9";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <header>
+			
+			<div class="wrapper">
+			
+				<div class="logo th">
+					<a href="https://www.spalv.ch/it" title="Società Protezione Animali Locarno e Valli"><img src="https://www.spalv.ch/images/layout/spalv-logo.png" alt="SPALV logo"></a>
+          <h1><a href="https://www.spalv.ch/it" title="Società Protezione Animali Locarno e Valli">Società Protezione Animali<br />Locarno e Valli</a></h1>
+				</div>			
+				
+				<nav>
+				  <ul>
+					  <li class="nav0"><a href="https://www.spalv.ch/it" title="">Home</a><li class="nav_1 "><span class="link nav_parent">Informazioni</span><ul class="submenu"><li class="nav_1 "><a href="https://www.spalv.ch/it/comitato-e-personale-spalv" title="Comitato">Comitato</a></li><li class="nav_2 "><a href="https://www.spalv.ch/it/storia" title="Storia">Storia</a></li><li class="nav_3 "><a href="https://www.spalv.ch/it/sostegno" title="Sostegno">Sostegno</a></li><li class="nav_4 "><a href="https://www.spalv.ch/it/links" title="Links">Links</a></li><li class="nav_5 "><a href="https://www.spalv.ch/it/interventi-effettuati" title="Interventi effettuati">Interventi effettuati</a></li><li class="nav_6 "><a href="https://www.spalv.ch/it/pubblicazioni" title="Pubblicazioni">Pubblicazioni</a></li><li class="nav_7 "><a href="https://www.spalv.ch/it/news" title="News">News</a></li></ul></li><li class="nav_2 "><a href="https://www.spalv.ch/it/rifugio" title="Rifugio">Rifugio</a></li><li class="nav_3 "><a href="https://www.spalv.ch/it/pensione" title="Pensione">Pensione</a></li><li class="nav_4 active"><span class="link nav_parent">Animali</span><ul class="submenu"><li class="nav_1 "><a href="https://www.spalv.ch/it/animali/smarriti" title="Smarriti">Smarriti</a></li><li class="nav_2 "><a href="https://www.spalv.ch/it/animali/trovati" title="Trovati">Trovati</a></li><li class="nav_3 "><a href="https://www.spalv.ch/it/animali/cercano-casa" title="Cercano casa">Cercano casa</a></li><li class="nav_4 "><a href="https://www.spalv.ch/it/animali/adottati" title="Adottati">Adottati</a></li><li class="nav_5 "><a href="https://www.spalv.ch/it/animali/hanno-ritrovato-casa" title="Hanno ritrovato casa">Hanno ritrovato casa</a></li><li class="nav_6 "><a href="https://www.spalv.ch/it/animali/deceduti" title="Deceduti">Deceduti</a></li><li class="nav_7 "><a href="https://www.spalv.ch/it/foto-animali-adottati" title="Foto animali adottati">Foto animali adottati</a></li><li class="nav_8 "><a href="https://www.spalv.ch/it/giornate-al-rifugio" title="Giornate al rifugio">Giornate al rifugio</a></li><li class="nav_9 "><a href="https://www.spalv.ch/it/padrinati" title="Padrinati">Padrinati</a></li></ul></li><li class="nav_5 "><a href="https://www.spalv.ch/it/psa" title="PSA">PSA</a></li><li class="nav_6 "><a href="https://www.spalv.ch/it/contatti" title="Contatti">Contatti</a></li>				  </ul>
+								     
+				  <ul class="languages">
+				  	<li><a href="https://www.spalv.ch/de/tiere" title="">de</a></li>					</ul>
+			      	      
+				</nav>
+							
+		  	<div class="toggle_nav">
+			  	<div class="open_nav">
+			  		<span>Menu</span>
+				  	<div class="line line1"></div>
+				  	<div class="line line2"></div>
+				  	<div class="line line3"></div>
+			  	</div>
+			  </div>
+		  
+			</div>
+																							  							
+		</header>	
+		
+		    
+      
+      
+      <div class="page-cover" style="background-image: url(https://www.spalv.ch/images/original/spalv-02.jpg);"></div>
+            
+    		
+		<div class="main scroll-top-destination" role="main">
+		
+			
+	<div class="wrapper intro">
+	
+		<div class="block">
+			
+			<div class="col-xl-12">
+		
+				<h2>Animali</h2>
+						
+			</div>
+			
+		</div>
+	
+	</div>
+
+	<div class="section">
+	
+				
+			<div class="wrapper">
+	
+				<div class="block">
+					
+					<div class="col-xl-12">
+						
+						<h3>Smarriti</h3>	
+						
+						<p>Una lista costantemente aggiornata delle segnalazioni di animali dispersi pervenute alla SPALV. </p>						
+					</div>
+					
+					<div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12 "><a href="https://www.spalv.ch/it/animali/2023-09-20-gatto-milo-scappato-dopo-investimento-a-losone"><img src="https://www.spalv.ch/images/medium/Gatto_Milo_investito_e_fuggito.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-20-gatto-milo-scappato-dopo-investimento-a-losone" title="Milo">Milo</a></h3><p class="date">Smarrito a Losone il 20.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-17-smarrito-gatto-pandi-a-locarno"><img src="https://www.spalv.ch/images/medium/Gatto_Pandi_smarrito_Locarno.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-17-smarrito-gatto-pandi-a-locarno" title="Pandi">Pandi</a></h3><p class="date">Smarrito a Locarno il 17.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-08-29-gatto-musik-smarrito-a-pollegio-biasca"><img src="https://www.spalv.ch/images/medium/Gatto_Musik_smarrito_Biasca_dicembre_2022_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-08-29-gatto-musik-smarrito-a-pollegio-biasca" title="Musik">Musik</a></h3><p class="date">Smarrito a Pollegio - Biasca il 29.08.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-lg clear-sm"><a href="https://www.spalv.ch/it/animali/2023-08-18-smarrito-cane-baffo-in-val-calnegia-confine-svizzero"><img src="https://www.spalv.ch/images/medium/Baffo_scomparso_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-08-18-smarrito-cane-baffo-in-val-calnegia-confine-svizzero" title="Baffo">Baffo</a></h3><p class="date">Smarrito a Val Calnegia/Confine Svizzero il 18.08.2023</p></div><div class="col-xl-12 center pt">
+						<a class="more button" href="https://www.spalv.ch/it/animali/smarriti"> Vedi tutti (75)</a></div>			    
+			    
+				</div>
+				
+			</div>
+			
+			
+			<div class="wrapper">
+	
+				<div class="block">
+					
+					<div class="col-xl-12">
+						
+						<h3>Trovati</h3>	
+						
+						<p>Segnalazioni sempre aggiornate riguardanti gli animali trovati dalla SPALV.</p>						
+					</div>
+					
+					<div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-17-gatto-trovato-a-quartino"><img src="https://www.spalv.ch/images/medium/Gatto_trovato_a_quartino_nr-_4309_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-17-gatto-trovato-a-quartino" title="Gatto trovato">Gatto trovato</a></h3><p class="date">Trovato a Quartino il 17.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-15-trovato-gatto-deceduto-a-losone"><img src="https://www.spalv.ch/images/medium/Ponte_arcobaleno_17.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-15-trovato-gatto-deceduto-a-losone" title="Gatto deceduto">Gatto deceduto</a></h3><p class="date">Trovato a Losone il 15.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-lg clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-15-gatto-maschio-trovato-a-cugnasco"><img src="https://www.spalv.ch/images/medium/Gatto_trovato_a_Cugnasco_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-15-gatto-maschio-trovato-a-cugnasco" title="Gatto trovato">Gatto trovato</a></h3><p class="date">Trovato a Cugnasco il 15.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-12-trovata-gatta-a-gordola"><img src="https://www.spalv.ch/images/medium/Gatta_trovata_a_Gordola_12-09-2023_ridimensionata_1.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-12-trovata-gatta-a-gordola" title="Gatta trovata">Gatta trovata</a></h3><p class="date">Trovato a Gordola il 12.09.2023</p></div><div class="col-xl-12 center pt">
+						<a class="more button" href="https://www.spalv.ch/it/animali/trovati"> Vedi tutti (28)</a></div>			    
+			    
+				</div>
+				
+			</div>
+			
+			
+			<div class="wrapper">
+	
+				<div class="block">
+					
+					<div class="col-xl-12">
+						
+						<h3>Cercano casa</h3>	
+						
+						<p>Gli amici animali presso la SPALV che cercano una casa!</p>						
+					</div>
+					
+					<div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-13-bambi-cerca-una-nuova-casa-"><img src="https://www.spalv.ch/images/medium/Bambi.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-13-bambi-cerca-una-nuova-casa-" title="Bambi ">Bambi </a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-lg clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-13-lucky-cerca-una-nuova-casa-"><img src="https://www.spalv.ch/images/medium/Lucky.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-13-lucky-cerca-una-nuova-casa-" title="Lucky ">Lucky </a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-11-laika-cerca-una-nuova-casa-"><img src="https://www.spalv.ch/images/medium/Laika_1.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-11-laika-cerca-una-nuova-casa-" title="Laika ">Laika </a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-08-31-ghiacciolo-cerca-una-nuova-casa"><img src="https://www.spalv.ch/images/medium/ghiacciolo.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-08-31-ghiacciolo-cerca-una-nuova-casa" title="Ghiacciolo ">Ghiacciolo </a></h3></div><div class="col-xl-12 center pt">
+						<a class="more button" href="https://www.spalv.ch/it/animali/cercano-casa"> Vedi tutti (9)</a></div>			    
+			    
+				</div>
+				
+			</div>
+			
+			
+			<div class="wrapper">
+	
+				<div class="block">
+					
+					<div class="col-xl-12">
+						
+						<h3>Adottati</h3>	
+						
+						<p>I seguenti amici animali hanno trovato casa dopo la loro permanenza presso la SPALV.</p>						
+					</div>
+					
+					<div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-lg clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-04-michelle-cerca-una-nuova-casa-adottata-"><img src="https://www.spalv.ch/images/medium/gatta_gord-.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-04-michelle-cerca-una-nuova-casa-adottata-" title="Michelle">Michelle</a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-04-pino-cerca-una-nuova-casa-pino-e-stato-adottato"><img src="https://www.spalv.ch/images/medium/pino.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-04-pino-cerca-una-nuova-casa-pino-e-stato-adottato" title="Pino ADOTTATO">Pino ADOTTATO</a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-08-17-luis-cerca-una-nuova-casa-adottato"><img src="https://www.spalv.ch/images/medium/Luis_1.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-08-17-luis-cerca-una-nuova-casa-adottato" title="Luis ADOTTATO">Luis ADOTTATO</a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-lg clear-sm"><a href="https://www.spalv.ch/it/animali/2023-07-19-cane-kayo-cerca-una-nuova-casa-adottato"><img src="https://www.spalv.ch/images/medium/Kayo_1.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-07-19-cane-kayo-cerca-una-nuova-casa-adottato" title="Kayo ADOTTATO">Kayo ADOTTATO</a></h3></div><div class="col-xl-12 center pt">
+						<a class="more button" href="https://www.spalv.ch/it/animali/adottati"> Vedi tutti (455)</a></div>			    
+			    
+				</div>
+				
+			</div>
+			
+			
+			<div class="wrapper">
+	
+				<div class="block">
+					
+					<div class="col-xl-12">
+						
+						<h3>Hanno ritrovato casa</h3>	
+						
+						<p>I seguenti amici animali hanno ritrovato casa a seguito di una segnalazione e di un intervento della SPALV.</p>						
+					</div>
+					
+					<div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-18-cane-trovato-ad-ascona"><img src="https://www.spalv.ch/images/medium/Cane_Kenny_trovato_ad_Ascona_Moscia.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-18-cane-trovato-ad-ascona" title="Cane maschio">Cane maschio</a></h3><p class="date">Ritrovato il 19.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-18-smarrita-gatta-coco-a-brissago-coco-e-stata-ritrovata-dopo-quasi-tre-mesi"><img src="https://www.spalv.ch/images/medium/Coco_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-18-smarrita-gatta-coco-a-brissago-coco-e-stata-ritrovata-dopo-quasi-tre-mesi" title="Coco">Coco</a></h3><p class="date">Ritrovato il 18.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-lg clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-17-misu-e-stato-smarrito-a-losone-ha-ritrovato-casa-"><img src="https://www.spalv.ch/images/medium/gatto_smarrito_losone.jpeg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-17-misu-e-stato-smarrito-a-losone-ha-ritrovato-casa-" title="Misù ">Misù </a></h3><p class="date">Ritrovato il 17.09.2023</p></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-06-26-smarrito-gatto-simba-ad-avegno-valle-maggia"><img src="https://www.spalv.ch/images/medium/Simba_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-06-26-smarrito-gatto-simba-ad-avegno-valle-maggia" title="Simba">Simba</a></h3><p class="date">Ritrovato il 15.09.2023</p></div><div class="col-xl-12 center pt">
+						<a class="more button" href="https://www.spalv.ch/it/animali/hanno-ritrovato-casa"> Vedi tutti (767)</a></div>			    
+			    
+				</div>
+				
+			</div>
+			
+			
+			<div class="wrapper">
+	
+				<div class="block">
+					
+					<div class="col-xl-12">
+						
+						<h3>Deceduti</h3>	
+						
+												
+					</div>
+					
+					<div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-09-07-gatta-trovata-a-gudo-purtroppo-la-gatta-e-deceduta"><img src="https://www.spalv.ch/images/medium/Gatto_trovato_campo_di_calcio_Gudo_30-08-2023_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-09-07-gatta-trovata-a-gudo-purtroppo-la-gatta-e-deceduta" title="Gatta trovata. DECEDUTA">Gatta trovata. DECEDUTA</a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-lg clear-sm"><a href="https://www.spalv.ch/it/animali/2023-08-15-smarrito-gatto-blu-a-gerra-piano"><img src="https://www.spalv.ch/images/medium/Gatto_Blu_smarrito_a_Gerra_Piano_15-08-2023_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-08-15-smarrito-gatto-blu-a-gerra-piano" title="Blu DECEDUTO">Blu DECEDUTO</a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-md clear-sm"><a href="https://www.spalv.ch/it/animali/2023-08-11-smarrito-cane-jarppi-a-robiei-cresta-di-arzo-jarppi-e-stato-ritrovato-purtroppo-deceduto"><img src="https://www.spalv.ch/images/medium/Cane_Jarppi_smarrito_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-08-11-smarrito-cane-jarppi-a-robiei-cresta-di-arzo-jarppi-e-stato-ritrovato-purtroppo-deceduto" title="Jarppi DECEDUTO">Jarppi DECEDUTO</a></h3></div><div class="animal col-xl-3 col-lg-4 col-md-6 col-sm-12  clear-sm"><a href="https://www.spalv.ch/it/animali/2023-08-09-smarrita-gatta-lulu-a-losone-lulu-purtroppo-e-deceduta"><img src="https://www.spalv.ch/images/medium/Gatta_Lulu_smarrita_a_Losone_ridimensionata.jpg" alt="" /></a><h3><a href="https://www.spalv.ch/it/animali/2023-08-09-smarrita-gatta-lulu-a-losone-lulu-purtroppo-e-deceduta" title="Lulù DECEDUTA">Lulù DECEDUTA</a></h3></div><div class="col-xl-12 center pt">
+						<a class="more button" href="https://www.spalv.ch/it/animali/deceduti"> Vedi tutti (152)</a></div>			    
+			    
+				</div>
+				
+			</div>
+			
+			
+		
+	</div>
+	
+					
+		</div>
+		
+		<footer>
+			<div class="wrapper">
+				<div class="block">
+					<div class="col-xl-12">
+						<p>
+							<strong>Società Protezione Animali<br />Locarno e Valli</strong>
+						</p>
+						<p>
+							Via Stradonino 2<br />
+							CH 6596 Gordola</p>
+						<p>
+							Tel +41 91 859 39 69<br />
+							Fax +41 91 859 38 45<br />
+							<a href="mailto:postaspalv@gmail.com">postaspalv@gmail.com</a>
+						</p>
+						
+						<p><a href="https://www.facebook.com/spalv.ch" class="social" target="blank"><i class="fab fa-facebook-f"></i></a></p>
+						
+						<p>
+							<a href="http://www.protezione-animali.com/" target="blank"><img src="https://www.spalv.ch/images/layout/protezionesvizzeraanimali.png" class="psa" /></a>	
+						</p>
+					</div>
+				</div>
+			</div>                 
+		</footer>
+		
+    <script src="https://www.spalv.ch/js/main-min.js?v=2"></script>
+				
+		<!-- Start of LiveChat (www.livechatinc.com) code -->
+		<script>
+		    window.__lc = window.__lc || {};
+		    window.__lc.license = 12520296;
+		    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+		</script>
+		<noscript><a href="https://www.livechatinc.com/chat-with/12520296/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+		<!-- End of LiveChat code -->
+				
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-66596317-14', 'auto');
+      ga('send', 'pageview');
+    
+    </script>		
+        				
+  </body>
+</html>
