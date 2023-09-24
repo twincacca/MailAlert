@@ -8,4 +8,4 @@ dd=$(date | sed 's/ /-/g')
 rm animali
 wget http://spalv.ch/it/animali
 wait
-egrep -i "muralto|minusio" animali --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-$dd.txt
+egrep -i "muralto|minusio|tenero|locarno" animali --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-$dd.txt
