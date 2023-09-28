@@ -14,8 +14,15 @@ wget http://spalv.ch/it/animali
 wait
 egrep -i "muralto|minusio|tenero|locarno" animali --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
 
-# # check pigiama aldi
-# rm -r www.aldi-suisse.ch
-# wget -r -l1  https://www.aldi-suisse.ch/it/promozioni/promozioni-e-offerte-attuali/
-# wait
-# grep -i "pigiama" -r www.aldi-suisse.ch  > out-pigiama-aldi-$dd.txt
+# check pigiama aldi
+rm -r www.aldi-suisse.ch
+wget -r -l1  https://www.aldi-suisse.ch/it/promozioni/promozioni-e-offerte-attuali/
+wait
+grep -i "pigiama" -r www.aldi-suisse.ch  > out-pigiama-aldi-$dd.txt
+
+# check pigiama lidl
+rm -r www.lidl.ch
+wget -r -l1  https://www.lidl.ch/c/it-CH/azioni-della-settimana/a10029621?tabCode=Current_Sales_Week
+wait
+find www.lidl.ch | grep Current_Sales_Week | egrep -i "pigiama|pijama|pyjama"> out-pigiama-lidl-$dd.txt
+
