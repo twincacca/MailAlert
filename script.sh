@@ -8,16 +8,16 @@ dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
 #date >> out-$dd.txt
 #cat user_input.txt | cowsay >> out-$dd.txt
 
-# # check cani/gatti smarriti in zona
-# wget http://spalv.ch/it/animali
-# wait
-# egrep -i "muralto|minusio|tenero|locarno" animali --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
+# check cani/gatti smarriti in zona
+wget http://spalv.ch/it/animali
+wait
+egrep -i "muralto|minusio|tenero|locarno" animali --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
 rm animali
 
 # check pigiama aldi
-# wget -r -l1  https://www.aldi-suisse.ch/it/promozioni/promozioni-e-offerte-attuali/
-# wait
-# grep -i "pigiama" -r www.aldi-suisse.ch  > out-pigiama-aldi-$dd.txt
+wget -r -l1  https://www.aldi-suisse.ch/it/promozioni/promozioni-e-offerte-attuali/
+wait
+grep -i "pigiama" -r www.aldi-suisse.ch  > out-pigiama-aldi-$dd.txt
 rm -r www.aldi-suisse.ch
 
 # check pigiama lidl
