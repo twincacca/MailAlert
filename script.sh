@@ -25,4 +25,3 @@ wget -r -l1  https://www.lidl.ch/c/it-CH/azioni-della-settimana/a10029621?tabCod
 wait
 find www.lidl.ch | grep Current_Sales_Week | egrep -i "pigiama|pijama|pyjama"> out-pigiama-lidl-$dd.txt
 rm -r www.lidl.ch
-
