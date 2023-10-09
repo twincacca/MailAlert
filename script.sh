@@ -21,7 +21,7 @@ grep -i "pigiama" -r www.aldi-suisse.ch  > out-pigiama-aldi-$dd.txt
 rm -r www.aldi-suisse.ch
 
 # check pigiama lidl
-wget -r -l1  https://www.lidl.ch/c/it-CH/azioni-della-settimana/a10029621?tabCode=Current_Sales_Week
+wget -r -l1  https://www.lidl.ch/c/it-CH/azioni-della-settimana/a10030170?tabCode=Current_Sales_Week
 wait
 find www.lidl.ch | grep Current_Sales_Week | egrep -i "pigiama|pijama|pyjama"> out-pigiama-lidl-$dd.txt
 rm -r www.lidl.ch
