@@ -10,9 +10,9 @@ on:
     branches: [ "main" ]
 
   # cron non va...
-  #schedule:
+  schedule:
   #  - cron: "* * * * *" # every min
-  #  - cron: "*/3 * * * *" # every 5min 
+    - cron: "*/3 * * * *" # every 5min 
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
