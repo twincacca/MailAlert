@@ -15,6 +15,9 @@ egrep -i "muralto|minusio|tenero|locarno" animali --color | sed 's/ /\n/g' | gre
 rm animali
 diff old-out-cani-gatti-* out-cani-gatti-* > diff-cani-gatti-$dd.txt
 
+exit
+
+
 # check pigiama aldi
 rename 's/out-pigiama-aldi-/old-out-pigiama-aldi-/' 
 wget -r -l1  https://www.aldi-suisse.ch/it/promozioni/promozioni-e-offerte-attuali/
