@@ -33,6 +33,7 @@ jobs:
       - name: Install stuff
         run: |
           sudo apt-get install cowsay
+          sudo apt-get install rename
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
