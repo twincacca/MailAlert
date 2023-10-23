@@ -1,5 +1,6 @@
 
-rm old-out* diff-*
+#rm old-out* diff-*
+rm diff-*
 
 # dd=$(date | sed 's/ /-/g')
 dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
