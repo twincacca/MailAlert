@@ -27,10 +27,10 @@ diff old-out-pigiama-aldi-* out-pigiama-aldi-* > diff-pigiama-aldi-$dd.txt
 #rm -r out-pigiama-aldi-*
 
 # check pigiama lidl
-rename 's/out-pigiama-lidl-/old-out-pigiama-lidl-/'
-wget -r -l2  https://www.lidl.ch/
-wait
-find www.lidl.ch | grep Current_Sales_Week | egrep -i "pigiama|pijama|pyjama"> out-pigiama-lidl-$dd.txt
-rm -r www.lidl.ch
-diff old-out-pigiama-lidl-* out-pigiama-lidl-* > diff-pigiama-lidl-$dd.txt
-#rm -r out-pigiama-lidl-*
+#rename 's/out-pigiama-lidl-/old-out-pigiama-lidl-/'
+#wget -r -l2  https://www.lidl.ch/
+#wait
+#find www.lidl.ch | grep Current_Sales_Week | egrep -i "pigiama|pijama|pyjama"> out-pigiama-lidl-$dd.txt
+#rm -r www.lidl.ch
+#diff old-out-pigiama-lidl-* out-pigiama-lidl-* > diff-pigiama-lidl-$dd.txt
+##rm -r out-pigiama-lidl-*
