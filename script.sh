@@ -17,15 +17,15 @@ rm smarriti
 diff old-out-cani-gatti-* out-cani-gatti-* > diff-cani-gatti-$dd.txt
 #rm -r out-cani-gatti-*
 
-# check pigiama aldi
-rename 's/out-pigiama-aldi-/old-out-pigiama-aldi-/' * 
-wget -r -l1  https://www.aldi-suisse.ch/it/promozioni/promozioni-e-offerte-attuali/
-wait
-grep -i "pigiama" -r www.aldi-suisse.ch  > out-pigiama-aldi-$dd.txt
-rm -r www.aldi-suisse.ch
-diff old-out-pigiama-aldi-* out-pigiama-aldi-* > diff-pigiama-aldi-$dd.txt
-#rm -r out-pigiama-aldi-*
-
+# # check pigiama aldi
+# rename 's/out-pigiama-aldi-/old-out-pigiama-aldi-/' * 
+# wget -r -l1  https://www.aldi-suisse.ch/it/promozioni/promozioni-e-offerte-attuali/
+# wait
+# grep -i "pigiama" -r www.aldi-suisse.ch  > out-pigiama-aldi-$dd.txt
+# rm -r www.aldi-suisse.ch
+# diff old-out-pigiama-aldi-* out-pigiama-aldi-* > diff-pigiama-aldi-$dd.txt
+# #rm -r out-pigiama-aldi-*
+# 
 # # check pigiama lidl
 # rename 's/out-pigiama-lidl-/old-out-pigiama-lidl-/' * 
 # wget -r -l2  https://www.lidl.ch/
