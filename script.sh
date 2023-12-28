@@ -1,5 +1,5 @@
 rm old-out* diff-*
-rm smarriti
+rm smarriti*
 # dd=$(date | sed 's/ /-/g')
 dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
 #dd=$(env TZ=Europe/Berlin date +%Y%m%d  | sed 's/ /-/g')
