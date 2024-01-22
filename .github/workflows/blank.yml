@@ -11,10 +11,10 @@ on:
 
   schedule:
   #  - cron: "* * * * *" # every min
-  #  - cron: "*/10 * * * *" # every 10min 
+    - cron: "*/10 * * * *" # every 10min 
   #  - cron: "30 20 * * *" # every day 2130 
   #  - cron: "0 8 * * 1" # At 08:00 on Monday
-    - cron: "0 0 * * 0" # “At 00:00 on Sunday.”
+  #  - cron: "0 0 * * 0" # “At 00:00 on Sunday.”
 
 
   # Allows you to run this workflow manually from the Actions tab
