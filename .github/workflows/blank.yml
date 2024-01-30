@@ -35,6 +35,7 @@ jobs:
       - name: Install stuff
         run: |
           sudo apt-get update
+          sudo apt-get install fortune
           sudo apt-get install cowsay
           sudo apt-get install rename
 
