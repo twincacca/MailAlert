@@ -59,7 +59,8 @@ jobs:
           git config --global user.email "twincacca@gmail.com"
           git add .
           #git commit -m "commit message xxx"
-          git commit -F message.txt
+#          git commit -F message.txt
+          git commit -F diff-*
           git push
           rm message.txt
           #with:
