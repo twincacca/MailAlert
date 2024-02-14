@@ -50,6 +50,7 @@ jobs:
         run: |
           echo Run script
           bash script.sh
+          cat diff-* > diff.txt
 
       - name: Commit and push changes
         run: |
