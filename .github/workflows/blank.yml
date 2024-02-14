@@ -54,7 +54,7 @@ jobs:
       - name: Commit and push changes
         run: |
           fortune > message.txt
-          echo diffi > diff-test.txt
+          #echo diffi > diff-test.txt
           cat diff-* > diff.txt
 
           date >> message.txt
