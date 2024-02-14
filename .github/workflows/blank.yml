@@ -60,7 +60,7 @@ jobs:
           git add .
           #git commit -m "commit message xxx"
 #          git commit -F message.txt
-          git commit -F diff-*
+          git commit -F diff.txt
           git push
           rm message.txt
           #with:
