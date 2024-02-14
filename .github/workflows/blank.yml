@@ -54,8 +54,8 @@ jobs:
       - name: Commit and push changes
         run: |
           fortune > message.txt
-          echo diffi > diff.txt
-          #cat diff-* > diff.txt
+          #echo diffi > diff.txt
+          cat diff-* > diff.txt
 
           date >> message.txt
           git config --global user.name "twincacca"
