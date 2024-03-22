@@ -58,6 +58,7 @@ jobs:
           #cat diff-* > diff.txt
 
           echo Run script
+          echo "merda" > diff-merda
           rm old-out* diff-*
           dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
           
