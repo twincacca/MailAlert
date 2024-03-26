@@ -58,7 +58,8 @@ jobs:
           #cat diff-* > diff.txt
 
           echo Run script
-          #rm old-out* diff-*
+          echo cacca > diff-cacca
+          rm old-out* diff-*
           dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
           
           #-------- rename out-cani-gatti-* ---------
