@@ -1,0 +1,31 @@
+# GENERALE
+# Origine: www.ti.ch/oasi
+# Contatto: oasi@ti.ch
+# 
+# RICHIESTA
+# Url della richiesta: http://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=2024-04-03&to=2024-04-03&location=air_406%2001%2003
+# Data della richiesta: 03.04.2024 08:50:20 CEST
+# 
+# INFORMAZIONI SUI DATI
+# Dominio: air
+# Proprietario dati: DT-DA-SPAAS-UACER
+# Condizioni d'uso:
+#   In generale i dati scaricati possono essere liberamente usati o condivisi o pubblicati a condizione
+#   che venga citato adeguatamente il proprietario dei dati.
+#   Fanno eccezione i dati dell'Ufficio federale di meteorologia e climatologia MeteoSvizzera che
+#   non possono essere ne' pubblicati su internet o altri mass-media ne' trasmessi a terzi
+#   nella loro forma grezza ne' usati a scopo commerciale
+# Avvertenza: i dati recenti sono provvisori e possono subire modifiche durante il processo di controllo della qualita' dei dati
+# Luogo: Brione s. Minusio
+# Stazione: http://www.oasi.ti.ch/web/dati/stazioni-di-rilevamento.html?domain=air&code=air_406 01 03
+# Coordinate (CH1903): 706015/115655
+# Parametro: O3 - Ozono
+# Unita' di misura: µg/m³
+# Aggregazione: avg_hourly_max
+# Risoluzione temporalee: giornaliera
+# Indicazione temporale: meta' dell'intervallo di misura
+# Formato ora: GMT+01:00 (Without Dailight Saving Time)
+
+
+data;O3;provvisorio;
+03.04.2024 12:00:00;;;
