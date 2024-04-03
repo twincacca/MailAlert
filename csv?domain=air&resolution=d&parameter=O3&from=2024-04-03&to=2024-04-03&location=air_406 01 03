@@ -3,8 +3,8 @@
 # Contatto: oasi@ti.ch
 # 
 # RICHIESTA
-# Url della richiesta: http://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=2024-04-02&to=2024-04-02&location=air_406%2001%2003
-# Data della richiesta: 02.04.2024 08:09:10 CEST
+# Url della richiesta: http://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=2024-04-03&to=2024-04-03&location=air_406%2001%2003
+# Data della richiesta: 03.04.2024 08:05:53 CEST
 # 
 # INFORMAZIONI SUI DATI
 # Dominio: air
@@ -28,4 +28,4 @@
 
 
 data;O3;provvisorio;
-02.04.2024 12:00:00;;;
+03.04.2024 12:00:00;;;
