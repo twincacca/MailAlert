@@ -72,13 +72,13 @@ jobs:
           wget https://www.spalv.ch/it/animali/smarriti
           egrep -i "muralto|minusio|tenero|locarno" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
           rm smarriti*
-          diff old-out-cani-gatti-* out-cani-gatti-* > diff-cani-gatti-$dd.txt
+          #diff old-out-cani-gatti-* out-cani-gatti-* > diff-cani-gatti-$dd.txt
 
 
           # testing new things <<< 20240402 >>>:
-          date1=$(date -I -d "+0 days")
-          date2=$(date -I -d "+0 days")
-          wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=$date1&to=$date2&location=air_406%2001%2003"  #-O O3.dat
+          #date1=$(date -I -d "+0 days")
+          #date2=$(date -I -d "+0 days")
+          #wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=$date1&to=$date2&location=air_406%2001%2003"  #-O O3.dat
           
           echo DONE Run script
 
