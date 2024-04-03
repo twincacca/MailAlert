@@ -59,7 +59,7 @@ jobs:
 
           echo Run script
           echo cacca > diff-cacca
-          rm old-out* diff-* csv*
+          rm old-out* diff-* *domain*
           dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
           
           #-------- rename out-cani-gatti-* ---------
