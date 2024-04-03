@@ -60,7 +60,7 @@ jobs:
           echo Run script
           echo cacca > diff-cacca
           echo cacca > old-out-cacca
-          #rm old-out* diff-* 
+          rm old-out* diff-* 
           dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
           
           #-------- rename out-cani-gatti-* ---------
