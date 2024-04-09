@@ -78,8 +78,10 @@ jobs:
           # testing new things <<< 20240402 >>>:
           date1=$(date -I -d "+0 days")
           date2=$(date -I -d "+0 days")
-          wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=$date1&to=$date2&location=air_406%2001%2003"  -O O3.dat
-          
+          wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=2024-03-27&to=2024-04-09&location=air_423%2002%2002"  -O O3.dat
+          wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=NO2&from=2024-03-27&to=2024-04-09&location=air_423%2002%2002"  -O NO2.dat
+          wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=PM10&from=2024-03-27&to=2024-04-09&location=air_423%2002%2002"  -O PM10.dat
+          wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=PM2.5&from=2024-03-27&to=2024-04-09&location=air_423%2002%2002"  -O PM2.5.dat
           echo DONE Run script
 
 
