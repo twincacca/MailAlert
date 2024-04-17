@@ -3,8 +3,8 @@
 # Contatto: oasi@ti.ch
 # 
 # RICHIESTA
-# Url della richiesta: http://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=PM2.5&from=2024-04-15&to=2024-04-21&location=air_423%2002%2002
-# Data della richiesta: 15.04.2024 21:38:31 CEST
+# Url della richiesta: http://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=PM2.5&from=2024-04-17&to=2024-04-23&location=air_423%2002%2002
+# Data della richiesta: 17.04.2024 19:31:57 CEST
 # 
 # INFORMAZIONI SUI DATI
 # Dominio: air
@@ -28,10 +28,10 @@
 
 
 data;PM2.5;provvisorio;
-15.04.2024 12:00:00;;;
-16.04.2024 12:00:00;;;
 17.04.2024 12:00:00;;;
 18.04.2024 12:00:00;;;
 19.04.2024 12:00:00;;;
 20.04.2024 12:00:00;;;
 21.04.2024 12:00:00;;;
+22.04.2024 12:00:00;;;
+23.04.2024 12:00:00;;;
