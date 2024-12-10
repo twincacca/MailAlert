@@ -61,7 +61,7 @@ jobs:
           git commit -m "commit message xxx"
           git commit -F message.txt
           #git commit -F diff-cani-gatti-$dd.txt
-          git push
+          git push --force
           rm message.txt
           #with:
           github_token: ${{ secrets.GH_TOKEN }}
