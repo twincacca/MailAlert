@@ -54,6 +54,7 @@ jobs:
       - name: Commit and push changes
         run: |
           fortune > message.txt
+          date >> message.txt
 
 
 
