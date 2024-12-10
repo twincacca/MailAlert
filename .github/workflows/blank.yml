@@ -54,9 +54,50 @@ jobs:
       - name: Commit and push changes
         run: |
           fortune > message.txt
-          date >> message.txt
+          #echo diffi > diff-test.txt
+          #cat diff-* > diff.txt
 
-          git push --force
+          echo Run script
+          echo cacca > diff-cacca
+          echo cacca > old-out-cacca
+          rm old-out* diff-*
+          dd=$(env TZ=Europe/Berlin date | sed 's/ /-/g')
+
+          #-------- rename out-cani-gatti-* ---------
+          ls out-cani-gatti-* | awk '{print "mv " $1 " old-"$1}' > run.sh
+          bash run.sh
+          rm run.sh
+          #-------- rename out-cani-gatti-* ---------END
+
+          wget https://www.spalv.ch/it/animali/smarriti
+          egrep -i "muralto|minusio|tenero|locarno" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
+          rm smarriti*
+          diff old-out-cani-gatti-* out-cani-gatti-* > diff-cani-gatti-$dd.txt
+
+
+          # testing new things <<< 20240402 >>>:
+          # https://www.oasi.ti.ch/web/dati/selezione-avanzata.html?bG9jYXRpb25zPSU1QiU3QiUyMmRvbWFpbiUyMiUzQSUyMmFpciUyMiUyQyUyMmxvY2F0aW9uJTIyJTNBJTIyYWlyXzQyMyUyMDAyJTIwMDIlMjIlMkMlMjJyZXNvbHV0aW9uJTIyJTNBJTIyZCUyMiUyQyUyMnBhcmFtZXRlciUyMiUzQSUyMk8zJTIyJTJDJTIyZnJvbSUyMiUzQSUyMjIwMjQtMDQtMDglMjIlMkMlMjJ0byUyMiUzQSUyMjIwMjQtMDQtMTUlMjIlN0QlNUQ=
+          date1=$(date -I -d "+0 days")
+          date2=$(date -I -d "+6 days") # date '+%Y%m%d-%H%M%S' con time
+          #wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=O3&from=$date1&to=$date2&location=air_[0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]"  -O O3.dat
+          #wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=NO2&from=$date1&to=$date2&location=air_[0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]"  -O NO2.dat
+          #wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=PM10&from=$date1&to=$date2&location=air_[0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]"  -O PM10.dat
+          #wget "https://www.oasi.ti.ch/web/rest/measure/csv?domain=air&resolution=d&parameter=PM2.5&from=$date1&to=$date2&location=air_[0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]%[0-9][0-9][0-9][0-9]"  -O PM2.5.dat
+          echo DONE Run script
+
+
+          date >> message.txt
+          git config --global user.name "twincacca"
+          git config --global user.email "twincacca@gmail.com"
+          git add .
+          git commit -m "commit message xxx"
+          git commit -F message.txt
+          #git commit -F diff-cani-gatti-$dd.txt
+          git push
+          rm message.txt
+          #with:
+          github_token: ${{ secrets.GH_TOKEN }}
+
 
 
 
