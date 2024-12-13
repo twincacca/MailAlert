@@ -73,7 +73,7 @@ jobs:
           egrep -i "muralto|minusio|tenero|locarno" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
           rm smarriti*
           diff old-out-cani-gatti-* out-cani-gatti-* > diff-cani-gatti-$dd.txt
-
+          rm old-out-* 
 
           # testing new things <<< 20240402 >>>:
           # https://www.oasi.ti.ch/web/dati/selezione-avanzata.html?bG9jYXRpb25zPSU1QiU3QiUyMmRvbWFpbiUyMiUzQSUyMmFpciUyMiUyQyUyMmxvY2F0aW9uJTIyJTNBJTIyYWlyXzQyMyUyMDAyJTIwMDIlMjIlMkMlMjJyZXNvbHV0aW9uJTIyJTNBJTIyZCUyMiUyQyUyMnBhcmFtZXRlciUyMiUzQSUyMk8zJTIyJTJDJTIyZnJvbSUyMiUzQSUyMjIwMjQtMDQtMDglMjIlMkMlMjJ0byUyMiUzQSUyMjIwMjQtMDQtMTUlMjIlN0QlNUQ=
