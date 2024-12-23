@@ -30,7 +30,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Install stuff
         run: |
@@ -70,8 +70,10 @@ jobs:
           #-------- rename out-cani-gatti-* ---------END
 
           #wget https://www.spalv.ch/it/animali/smarriti
+          #egrep -i "muralto|minusio|tenero|locarno" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
           wget https://news.ycombinator.com/best -O smarriti
-          egrep -i "muralto|minusio|tenero|locarno" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
+          egrep -i "linux|bash|github" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
+          
           rm smarriti*
           diff old-out-cani-gatti-* out-cani-gatti-* > diff-cani-gatti-$dd.txt
 
