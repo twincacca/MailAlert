@@ -71,6 +71,7 @@ jobs:
 
           #wget https://www.spalv.ch/it/animali/smarriti
           #egrep -i "muralto|minusio|tenero|locarno" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
+          
           wget https://news.ycombinator.com/best -O smarriti
           egrep -i "linux|bash|github" smarriti* --color | sed 's/ /\n/g' | grep href | grep -v "><img" > out-cani-gatti-$dd.txt
           
