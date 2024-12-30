@@ -1,0 +1,81 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  schedule:
+    - cron: "30 18 * * *" # UTC time
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+      
+      - name: Install stuff
+        run: |
+          sudo apt-get update
+          sudo apt-get install cowsay
+          
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+
+          # Log last modification
+          echo "Last update:" > tmp.txt
+          date >> tmp.txt
+          cowsay < tmp.txt > last_update_info.txt
+          rm tmp.txt
+
+          # Put together query term for MeteoSuisse web resource
+          url=$(paste url_base_meteo_suisse cap_location <(echo "00") | xargs | sed 's/ //g')
+
+          # Extract all info from MeteoSuisse for that particular location specified in "cap_location"
+          wget $url -O info_meteo_all.txt
+
+          # Extract some info of particular interest
+          cat info_meteo_all.txt \
+          | sed 's/}/}\n/g' \
+          | sed 's/],/],\n/g' \
+          | sed 's/{//g' \
+          | sed 's/}//g' \
+          | sed 's/\[//g' \
+          | sed 's/\]//g' \
+          | egrep "currentWeather|warningsOverview|windSpeed3h|precipitationProbability3h" \
+          > info_meteo.txt
+          
+          # Cleanup
+          rm info_meteo_all.txt
+
+          # Also wget lost pets
+          wget https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
+          egrep -i "muralto|minusio|tenero|locarno" info_pets_all.txt --color | sed 's/ /\n/g' | grep href | grep -v "><img" > info_pets.txt
+
+          # Cleanup
+          rm info_pets_all.txt
+
+
+          git config --global user.name "antoine-buetti"
+          git config --global user.email "antoine.buetti@gmail.com"
+          git add .
+          git commit -m "Update info"
+          git push
+
+
+          
