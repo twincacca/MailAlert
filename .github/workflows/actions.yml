@@ -71,6 +71,13 @@ jobs:
           rm info_pets_all.txt
 
 
+          # Make a email alert from jobroom
+          python get_page_jobroom.py > info_jobroom.txt
+
+          # Cleanup
+          rm info_jobroom.txt
+
+
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
           git add .
