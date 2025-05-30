@@ -1,9 +1,9 @@
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+PhD in Seed Pathogens and Masting || ETH Zurich
 PhD position: Experimental evolution of reproductive strategies under varying sex ratios 80 % || Universität Zürich
 Scientific collaborator || Agroscope
 PhD inEcology(up to 4 years) 80 % || Universität Zürich
-Doctoral student in ecosystem COS exchange || ETH Zurich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Open PhD position in Population Genomics 80 % || Universität Zürich
@@ -20,6 +20,18 @@ Postdoctoral position in nutritional breath metabolomics || ETH Zurich
 Research Internship - Data Analyst 80 - 100 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Software-Engineer m/w || IT Recruitment GmbH
+Senior SW Engineer (m/f/d) || Work Selection
+Simulator Maintenance Engineer, 100% (m/f/d) || Lufthansa Aviation Training Switzerland AG
+Sachbearbeiterin / Sachbearbeiter Administration (50 Prozent) || Unabhängige Fachstelle für Sozialhilferecht UFS
+Ingénieur systèmes et réseaux || Jobup
+Azure Cloud Engineer (m/w/d) || Deloitte AG
+Cloud Infrastructure Engineer || Jobup
+Ingénieur système Microsoft Azure FR-EN (H/F) || Jobup
+Junior ICT Supporter/-in (100%) || myitjob GmbH
+SeniorLinuxSystem Engineer (a) || TechSearch AG
+Engineer mit Erfahrung im Security Bereich (a) || TechSearch AG
+Senior ICT-System Engineer:inLinux(a) || TechSearch AG
 SeniorLinuxSystem Engineer (80-100%) || myitjob GmbH
 Senior System Specialist (80-100%) || myitjob GmbH
 Ingénieur systèmes et réseaux || Jobup
@@ -28,20 +40,12 @@ SAP Basis Administrator:in (a) || TechSearch AG
 System Engineer mit Erfahrung im Security Bereich (a) || TechSearch AG
 ICT Specialist (m/w) || myitjob GmbH
 DevOps Engineer C5I (w/m/d) || RUAG SA
-Product Manager C5I (w/m/d) || RUAG SA
-ICT System Specialist (SAP Basis Administrator) (w/m/d) || RUAG SA
-System Engineer C5I (w/m/d) || RUAG SA
-Full Stack Entwickler in Java - mit Erfahrung und noch viel mehr Pioniergeist || Post CH AG
-ICT System Engineer (m/w/d) || Elvetino AG
-LinuxSystemadministrator*in 80-100% || Arca-Personal AG
-System Engineer Infrastructure Services || Arca-Personal AG
-System Ingenieur (a) 80-100% || TechSearch AG
-LinuxEngineer (a) || TechSearch AG
-ICT Infrastruktur Administrator:in (a) || TechSearch AG
-IT System Engineer m/w (80-100%) || Yellowshark
-Full Stack Entwickler:in Java || PostFinance AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Fachspezialist/-in Planung und Controlling / Stv Chef/-in || Schweizer Armee - Logistikbasis der Armee LBA
+Spécialiste planification et controlling / suppl chef/fe || Armée suisse - Base logistique de l'armée BLA
+Technische Sachbearbeiterin oder Technischer Sachbearbeiter Datenmanagement (w/m/d) || RUAG SA
+Isoleur anti-feu (H/F) || New Work Human Resources
 DevOps Engineer C5I mit Fokus Geoinformatik (w/m/d) || RUAG SA
 Project Manager C5I (w/m/d) || RUAG SA
 ICT Security Consultant (w/m/d) || RUAG SA
@@ -58,7 +62,3 @@ National Counter Intelligence Representative (NCIR) || Verteidigung - Kommando O
 Mécatronicien/-ne d'automobiles pour véhicules à pneus lourds || Armée suisse - Base logistique de l'armée BLA
 Automobilmechatroniker/-in schwere Radfahrzeuge || Schweizer Armee - Logistikbasis der Armee LBA
 ICT Architect C5I (w/m/d) || RUAG SA
-Release Train Engineer C5I (w/m/d) || RUAG SA
-ICT Supporter C5I (w/m/d) || RUAG SA
-DevOps Engineer C5I (w/m/d) || RUAG SA
-Data Engineer C5I (w/m/d) || RUAG SA
