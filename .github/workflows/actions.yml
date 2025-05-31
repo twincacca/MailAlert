@@ -37,6 +37,13 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo "Last update:" > tmp.txt
+          git config --global user.name "twincacca"
+          git config --global user.email "twincacca@gmail.com"
+          git add .
+          git commit -m "Update info"
+          git push
+
+
 
 
 
