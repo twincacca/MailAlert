@@ -32,6 +32,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install cowsay
+          pip install playwright beautifulsoup4
+          playwright install
 
 
           
@@ -63,6 +65,22 @@ jobs:
           
           # Cleanup
           rm info_meteo_all.txt
+
+
+
+          # Also wget lost pets
+          wget https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
+          egrep -i "muralto|minusio|tenero|locarno" info_pets_all.txt --color | sed 's/ /\n/g' | grep href | grep -v "><img" > info_pets.txt
+
+          # Cleanup
+          rm info_pets_all.txt
+
+
+          # Make a email alert from jobroom
+          python get_page_jobroom.py > info_jobroom.txt
+
+
+
 
 
 
