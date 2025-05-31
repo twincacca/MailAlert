@@ -38,44 +38,6 @@ jobs:
         run: |
           # Log last modification
           echo "Last update:" > tmp.txt
-          date >> tmp.txt
-          cowsay < tmp.txt > last_update_info.txt
-          rm tmp.txt
-
-          # Put together query term for MeteoSuisse web resource
-          url=$(paste url_base_meteo_suisse cap_location <(echo "00") | xargs | sed 's/ //g')
-
-          # Extract all info from MeteoSuisse for that particular location specified in "cap_location"
-          wget $url -O info_meteo_all.txt
-
-          # Extract some info of particular interest
-          cat info_meteo_all.txt \
-          | sed 's/}/}\n/g' \
-          | sed 's/],/],\n/g' \
-          | sed 's/{//g' \
-          | sed 's/}//g' \
-          | sed 's/\[//g' \
-          | sed 's/\]//g' \
-          | egrep "currentWeather|warningsOverview|windSpeed3h|precipitationProbability3h" \
-          > info_meteo.txt
-          
-          # Cleanup
-          rm info_meteo_all.txt
-
-          # Also wget lost pets
-          wget https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
-          egrep -i "muralto|minusio|tenero|locarno" info_pets_all.txt --color | sed 's/ /\n/g' | grep href | grep -v "><img" > info_pets.txt
-
-          # Cleanup
-          rm info_pets_all.txt
-
-
-          # Make a email alert from jobroom
-          python get_page_jobroom.py > info_jobroom.txt
-
-
-          # Make predictor TabPFN
-#          python TabPFN.py > info_TabPFN.txt
 
 
 
