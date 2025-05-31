@@ -89,20 +89,28 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 
 
-# Predict the next 5-day movement for AMGN
-# latest_df = stock_data['AMGN'].copy() # Original line causing error
-# Access the AMGN data directly from the yfinance library again
-amgn_ticker = yf.Ticker("AMGN")
-latest_df = amgn_ticker.history(period="10y") # Download the latest data for AMGN
+# Predict the next 5-day movement for each ticker
+for ticker_symbol in tickers:
+    print(f"\nPredicting for {ticker_symbol}")
+    # Access the ticker data directly from the yfinance library
+    current_ticker = yf.Ticker(ticker_symbol)
+    latest_df = current_ticker.history(period="10y") # Download the latest data for the ticker
 
-latest_processed = prepare_features(latest_df)
+    latest_processed = prepare_features(latest_df)
 
-# Get the most recent row (latest features)
-latest_row = latest_processed[features].iloc[-1:].values
-# Ensure the input data for prediction is float32, as required by TabPFN
-prediction = clf.predict(latest_row.astype(np.float32))
+    # Check if processed data is not empty before trying to predict
+    if not latest_processed.empty:
+        # Get the most recent row (latest features)
+        # Ensure features exist in the processed dataframe before selecting
+        latest_row = latest_processed[features].iloc[-1:].values
+        # Ensure the input data for prediction is float32, as required by TabPFN
+        prediction = clf.predict(latest_row.astype(np.float32))
 
-print(f"\nTabPFN prediction for AMGN's next 5-day move: {'UP' if prediction[0] == 1 else 'DOWN'}")
+        print(f"TabPFN prediction for {ticker_symbol}'s next 5-day move: {'UP' if prediction[0] == 1 else 'DOWN'}")
+    else:
+        print(f"Could not process enough data for {ticker_symbol} to make a prediction.")
+
+
 
 
 
