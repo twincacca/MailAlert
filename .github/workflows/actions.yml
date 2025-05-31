@@ -81,6 +81,10 @@ jobs:
           python get_page_jobroom.py > info_jobroom.txt
 
 
+          # Make predictor TabPFN
+          python TabPFN.py > info_TabPFN.txt
+
+
 
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
