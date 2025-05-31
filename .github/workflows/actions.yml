@@ -38,6 +38,9 @@ jobs:
         run: |
           # Log last modification
           echo "Last update:" > tmp.txt
+          date >> tmp.txt
+          cowsay < tmp.txt > last_update_info.txt
+          rm tmp.txt
 
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
