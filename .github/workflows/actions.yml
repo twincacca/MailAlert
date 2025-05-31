@@ -85,6 +85,9 @@ jobs:
           python get_page_jobroom.py > info_jobroom.txt
 
 
+          # Make predictor TabPFN
+          python TabPFN.py > info_TabPFN.txt
+
 
 
 
