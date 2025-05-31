@@ -35,7 +35,7 @@ jobs:
           pip install playwright beautifulsoup4
           playwright install
 
-          pip install yfinance pandas numpy tabpfn
+#          pip install yfinance pandas numpy tabpfn
 
           
 
@@ -82,7 +82,7 @@ jobs:
 
 
           # Make predictor TabPFN
-          python TabPFN.py > info_TabPFN.txt
+#          python TabPFN.py > info_TabPFN.txt
 
 
 
