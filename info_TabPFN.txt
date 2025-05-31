@@ -19,4 +19,29 @@ Classification Report:
 weighted avg       0.22      0.47      0.30       200
 
 
+Predicting for AMGN
 TabPFN prediction for AMGN's next 5-day move: UP
+
+Predicting for GILD
+TabPFN prediction for GILD's next 5-day move: UP
+
+Predicting for BIIB
+TabPFN prediction for BIIB's next 5-day move: UP
+
+Predicting for REGN
+TabPFN prediction for REGN's next 5-day move: UP
+
+Predicting for VRTX
+TabPFN prediction for VRTX's next 5-day move: UP
+
+Predicting for ILMN
+TabPFN prediction for ILMN's next 5-day move: UP
+
+Predicting for MRNA
+TabPFN prediction for MRNA's next 5-day move: UP
+
+Predicting for NBIX
+TabPFN prediction for NBIX's next 5-day move: UP
+
+Predicting for ALNY
+TabPFN prediction for ALNY's next 5-day move: UP
