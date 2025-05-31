@@ -1,0 +1,22 @@
+Downloading and processing AMGN
+Downloading and processing GILD
+Downloading and processing BIIB
+Downloading and processing REGN
+Downloading and processing VRTX
+Downloading and processing ILMN
+Downloading and processing MRNA
+Downloading and processing NBIX
+Downloading and processing ALNY
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       107
+           1       0.47      1.00      0.63        93
+
+    accuracy                           0.47       200
+   macro avg       0.23      0.50      0.32       200
+weighted avg       0.22      0.47      0.30       200
+
+
+TabPFN prediction for AMGN's next 5-day move: UP
