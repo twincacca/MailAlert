@@ -6,9 +6,13 @@ import pandas as pd
 import numpy as np
 from tabpfn import TabPFNClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.ensemble import RandomForestClassifier
+import matplotlib.pyplot as plt
+import seaborn as sns
 import torch
 import warnings
+
 
 warnings.filterwarnings("ignore")
 
