@@ -29,50 +29,50 @@ Predicting for REGN
 
               precision    recall  f1-score   support
 
-           0       0.52      0.72      0.60       102
-           1       0.51      0.31      0.38        98
+           0       0.51      0.71      0.60       102
+           1       0.50      0.31      0.38        98
 
-    accuracy                           0.52       200
+    accuracy                           0.51       200
    macro avg       0.51      0.51      0.49       200
-weighted avg       0.51      0.52      0.49       200
+weighted avg       0.51      0.51      0.49       200
 
 
 🔍 Evaluation Report for Random Forest:
 
               precision    recall  f1-score   support
 
-           0       0.52      0.72      0.60       102
-           1       0.51      0.31      0.38        98
+           0       0.51      0.71      0.60       102
+           1       0.50      0.31      0.38        98
 
-    accuracy                           0.52       200
+    accuracy                           0.51       200
    macro avg       0.51      0.51      0.49       200
-weighted avg       0.51      0.52      0.49       200
+weighted avg       0.51      0.51      0.49       200
 
 
 🔮 Next 5-Day Predictions by Random Forest:
 
 Ticker Prediction  Confidence
-  AMGN         Up       0.522
+  AMGN         Up       0.528
   GILD         Up       0.503
-  BIIB       Down       0.565
-  REGN       Down       0.607
+  BIIB       Down       0.564
+  REGN       Down       0.605
 
 🔍 Evaluation Report for TabPFN:
 
               precision    recall  f1-score   support
 
            0       0.51      0.97      0.67       102
-           1       0.50      0.03      0.06        98
+           1       0.40      0.02      0.04        98
 
     accuracy                           0.51       200
-   macro avg       0.51      0.50      0.36       200
-weighted avg       0.51      0.51      0.37       200
+   macro avg       0.45      0.50      0.35       200
+weighted avg       0.45      0.51      0.36       200
 
 
 🔮 Next 5-Day Predictions by TabPFN:
 
 Ticker Prediction  Confidence
-  AMGN       Down       0.538
+  AMGN       Down       0.529
   GILD       Down       0.532
-  BIIB       Down       0.541
+  BIIB       Down       0.535
   REGN       Down       0.555
