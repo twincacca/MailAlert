@@ -118,6 +118,60 @@ for ticker_symbol in tickers:
 
 
 
+# Add also Random Forest evaluation
+
+print("\n🔮 Random Forest \n")
+
+# --- RANDOM FOREST CLASSIFIER ---
+clf = RandomForestClassifier(n_estimators=100, max_depth=6, random_state=42)
+clf.fit(X_train, y_train)
+
+# --- EVALUATE ---
+y_pred = clf.predict(X_test)
+print("\n📊 Classification Report:\n")
+print(classification_report(y_test, y_pred))
+
+# # --- CONFUSION MATRIX ---
+# cm = confusion_matrix(y_test, y_pred)
+# sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Down', 'Up'], yticklabels=['Down', 'Up'])
+# plt.xlabel("Predicted")
+# plt.ylabel("Actual")
+# plt.title("Confusion Matrix")
+# plt.show()
+
+# # 📈 Optional: Plot Feature Importances
+# importances = pd.Series(clf.feature_importances_, index=features).sort_values(ascending=False)
+# importances.plot(kind='bar', title='Feature Importance (Random Forest)')
+# plt.ylabel("Importance")
+# plt.show()
+
+
+print("\n🔮 Predictions for Next 5-Day Movement:\n")
+
+all_data = []
+
+for ticker in tickers:
+    print(f"Downloading and processing {ticker}...")
+    data = yf.Ticker(ticker).history(period="10y")
+    df = prepare_features(data)
+    if not df.empty:
+        df['Ticker'] = ticker  # Make sure this is after dropping NaNs
+        all_data.append(df)
+
+# Combine all data
+full_df = pd.concat(all_data)
+
+
+for ticker in tickers:
+    df = full_df[full_df['Ticker'] == ticker]
+    latest_row = df[features].iloc[-1:].copy()
+    prediction = clf.predict(latest_row)[0]
+    prob = clf.predict_proba(latest_row)[0][prediction]
+    direction = "UP 📈" if prediction == 1 else "DOWN 📉"
+    print(f"{ticker}: {direction} (confidence: {prob:.2f})")
+
+
+
 
 
 
