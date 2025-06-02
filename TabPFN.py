@@ -157,11 +157,9 @@ for ticker_symbol in tickers:
         # Ensure the input data for prediction is float32, as required by TabPFN
         prediction = clf_TabPFN.predict(latest_row.astype(np.float32))
 
-        print(f"TabPFN prediction for {ticker_symbol}'s next 5-day move: {'UP' if prediction[0] == 1 else 'DOWN'}")
-    else:
-        print(f"Could not process enough data for {ticker_symbol} to make a prediction.")
-
-
+#         print(f"TabPFN prediction for {ticker_symbol}'s next 5-day move: {'UP' if prediction[0] == 1 else 'DOWN'}")
+#     else:
+#         print(f"Could not process enough data for {ticker_symbol} to make a prediction.")
 
 
 
@@ -203,12 +201,12 @@ print(classification_report(y_test, y_pred))
 # plt.show()
 
 
-print("\n🔮 Predictions for Next 5-Day Movement:\n")
+# print("\n🔮 Predictions for Next 5-Day Movement:\n")
 
 all_data = []
 
 for ticker in tickers:
-    print(f"Downloading and processing {ticker}...")
+#     print(f"Downloading and processing {ticker}...")
     data = yf.Ticker(ticker).history(period="10y")
     df = prepare_features(data)
     if not df.empty:
@@ -225,7 +223,7 @@ for ticker in tickers:
     prediction = clf_RF.predict(latest_row)[0]
     prob = clf_RF.predict_proba(latest_row)[0][prediction]
     direction = "UP 📈" if prediction == 1 else "DOWN 📉"
-    print(f"{ticker}: {direction} (confidence: {prob:.2f})")
+#     print(f"{ticker}: {direction} (confidence: {prob:.2f})")
 
 
 
