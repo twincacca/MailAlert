@@ -2,7 +2,6 @@
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 PhD in Seed Pathogens and Masting || ETH Zurich
 PhD position: Experimental evolution of reproductive strategies under varying sex ratios 80 % || Universität Zürich
-Scientific collaborator || Agroscope
 PhD inEcology(up to 4 years) 80 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
@@ -17,11 +16,13 @@ Senior Scientist Microbial Bioengineering || Syngenta Agro AG, Basel Branch
 Rust Software Engineer || Coopers Group AG
 PhD position in Computational Genomics / Animal Genomics || ETH Zurich
 Postdoctoral position in nutritional breath metabolomics || ETH Zurich
-Research Internship - Data Analyst 80 - 100 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Senior EmbeddedLinuxSoftware Entwicklungsingenieur 80 - 100 % (m/w/d) || Neocleus AG
 System Specialist Windows || Arca-Personal AG
 Field Service Engineer Spitalrobotik || Post CH AG
+Sr. Firmware Verification Engineer || Jobup
+Ingénieur systèmes || Jobup
 (Professional / Senior) IT System Engineer (m/w) 80-100% || Yellowshark
 IT System Engineer (Security) 80-100% || Yellowshark
 Backend Developer || LHH
@@ -37,11 +38,16 @@ Senior SW Engineer (m/f/d) || Work Selection
 Simulator Maintenance Engineer, 100% (m/f/d) || Lufthansa Aviation Training Switzerland AG
 Sachbearbeiterin / Sachbearbeiter Administration (50 Prozent) || Unabhängige Fachstelle für Sozialhilferecht UFS
 Ingénieur systèmes et réseaux || Jobup
-Azure Cloud Engineer (m/w/d) || Deloitte AG
-Cloud Infrastructure Engineer || Jobup
-Ingénieur système Microsoft Azure FR-EN (H/F) || Jobup
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Hochschulpraktikant/-in Joint Intelligence Center || Verteidigung - Kommando Operationen Kdo Op
+Stagiaire universitaire au Joint Intelligence Center || Défense - Commandement des Opérations Cdmt Op
+Responsable des systèmes de l'armée || Armée suisse - Base logistique de l'armée BLA
+Chef/-inArmeesysteme || Schweizer Armee - Logistikbasis der Armee LBA
+Responsable d'installations d'instruction à Breitfeld || Armée suisse - Base logistique de l'armée BLA
+Ausbildungsanlagenverantwortliche/-r Breitfeld || Schweizer Armee - Logistikbasis der Armee LBA
+Chef/fe Gestion de la qualité des Forces aériennes || Défense - Commandement des Opérations Cdmt Op
+Chef/-in Qualitätsmanagement Luftwaffe || Verteidigung - Kommando Operationen Kdo Op
 Systemspezialist/-in im Kompetenzzentrum Führungs- und Fachsysteme || Verteidigung - Kommando Operationen Kdo Op
 Spécialiste de systèmes au Centre de compétences des systèmes techniques et de conduite || Défense - Commandement des Opérations Cdmt Op
 Spécialiste en maintenance des systèmes / tableaux de base || Défense - Commandement d l'Instruction Cdmt Instr
@@ -54,11 +60,3 @@ Conseiller/ère RH || Armée suisse - Base logistique de l'armée BLA
 HR-Berater/-in || Schweizer Armee - Logistikbasis der Armee LBA
 Électronicien/ne en avionique, Base aérienne de Dübendorf || Défense - Commandement des Opérations Cdmt Op
 Elektroniker/-in Avionik, Militärflugplatz Dübendorf || Verteidigung - Kommando Operationen Kdo Op
-ICT-Berater/-in Professional || Verteidigung - Kommando Operationen Kdo Op
-Conseiller/ère TIC professional || Défense - Commandement des Opérations Cdmt Op
-Fachspezialist/-in Planung und Controlling / Stv Chef/-in || Schweizer Armee - Logistikbasis der Armee LBA
-Spécialiste planification et controlling / suppl chef/fe || Armée suisse - Base logistique de l'armée BLA
-Isoleur anti-feu (H/F) || New Work Human Resources
-Technische Sachbearbeiterin oder Technischer Sachbearbeiter Datenmanagement (w/m/d) || RUAG SA
-Isoleur anti-feu (H/F) || New Work Human Resources
-DevOps Engineer C5I mit Fokus Geoinformatik (w/m/d) || RUAG SA
