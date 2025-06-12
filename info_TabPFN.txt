@@ -6,12 +6,12 @@ Downloading and processing REGN
 Classification Report:
                precision    recall  f1-score   support
 
-           0       0.46      0.68      0.55        87
-           1       0.61      0.39      0.48       113
+           0       0.00      0.00      0.00        85
+           1       0.57      1.00      0.73       115
 
-    accuracy                           0.52       200
-   macro avg       0.54      0.53      0.51       200
-weighted avg       0.55      0.52      0.51       200
+    accuracy                           0.57       200
+   macro avg       0.29      0.50      0.37       200
+weighted avg       0.33      0.57      0.42       200
 
 
 Predicting for AMGN
@@ -29,50 +29,50 @@ Predicting for REGN
 
               precision    recall  f1-score   support
 
-           0       0.45      0.56      0.50        87
-           1       0.59      0.48      0.53       113
+           0       0.52      0.33      0.40        85
+           1       0.61      0.77      0.68       115
 
-    accuracy                           0.52       200
-   macro avg       0.52      0.52      0.51       200
-weighted avg       0.53      0.52      0.52       200
+    accuracy                           0.58       200
+   macro avg       0.56      0.55      0.54       200
+weighted avg       0.57      0.58      0.56       200
 
 
 🔍 Evaluation Report for Random Forest:
 
               precision    recall  f1-score   support
 
-           0       0.45      0.56      0.50        87
-           1       0.59      0.48      0.53       113
+           0       0.52      0.33      0.40        85
+           1       0.61      0.77      0.68       115
 
-    accuracy                           0.52       200
-   macro avg       0.52      0.52      0.51       200
-weighted avg       0.53      0.52      0.52       200
+    accuracy                           0.58       200
+   macro avg       0.56      0.55      0.54       200
+weighted avg       0.57      0.58      0.56       200
 
 
 🔮 Next 5-Day Predictions by Random Forest:
 
 Ticker Prediction  Confidence
-  AMGN         Up       0.509
-  GILD         Up       0.653
-  BIIB         Up       0.570
-  REGN         Up       0.836
+  AMGN         Up       0.633
+  GILD         Up       0.578
+  BIIB         Up       0.542
+  REGN         Up       0.731
 
 🔍 Evaluation Report for TabPFN:
 
               precision    recall  f1-score   support
 
-           0       0.45      0.67      0.54        87
-           1       0.59      0.37      0.46       113
+           0       0.00      0.00      0.00        85
+           1       0.57      1.00      0.73       115
 
-    accuracy                           0.50       200
-   macro avg       0.52      0.52      0.50       200
-weighted avg       0.53      0.50      0.49       200
+    accuracy                           0.57       200
+   macro avg       0.29      0.50      0.37       200
+weighted avg       0.33      0.57      0.42       200
 
 
 🔮 Next 5-Day Predictions by TabPFN:
 
 Ticker Prediction  Confidence
-  AMGN         Up       0.502
-  GILD         Up       0.501
-  BIIB       Down       0.501
-  REGN         Up       0.649
+  AMGN         Up       0.538
+  GILD         Up       0.542
+  BIIB         Up       0.542
+  REGN         Up       0.544
