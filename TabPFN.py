@@ -69,3 +69,39 @@ y_pred_rf = clf_rf.predict(X_test)
 
 print("\n📊 Classification Report: Random Forest\n")
 print(classification_report(y_test, y_pred_rf))
+
+
+
+
+
+print("\n📈 Recent 5-Day Trend Predictions vs. Actuals:\n")
+
+results = []
+
+# Look at last N rows of each ticker to simulate real recent forecasts
+N = 5  # how many recent windows to test
+for ticker in tickers:
+    df = yf.Ticker(ticker).history(period="6mo")  # recent 6 months
+    df = prepare_features(df)
+    df['Date'] = df.index
+
+    if len(df) >= N:
+        recent_df = df.iloc[-N:]
+        for _, row in recent_df.iterrows():
+            x_feat = row[features].values.astype(np.float32).reshape(1, -1)
+
+            pred_tabpfn = clf_tabpfn.predict(x_feat)[0]
+            pred_rf = clf_rf.predict(x_feat)[0]
+            actual = "Up" if row["Target"] == 1 else "Down"
+
+            results.append({
+                "Ticker": ticker,
+                "Date": row["Date"].strftime('%Y-%m-%d'),
+                "TabPFN": "Up" if pred_tabpfn == 1 else "Down",
+                "RandomForest": "Up" if pred_rf == 1 else "Down",
+                "Actual": actual
+            })
+
+# Display the result
+df_result = pd.DataFrame(results)
+print(df_result.to_string(index=False))
