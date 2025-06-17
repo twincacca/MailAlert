@@ -3,12 +3,12 @@
 
               precision    recall  f1-score   support
 
-           0       0.48      0.94      0.63        96
-           1       0.45      0.05      0.09       104
+           0       0.48      0.94      0.64        96
+           1       0.57      0.08      0.14       104
 
-    accuracy                           0.47       200
-   macro avg       0.47      0.49      0.36       200
-weighted avg       0.46      0.47      0.35       200
+    accuracy                           0.49       200
+   macro avg       0.53      0.51      0.39       200
+weighted avg       0.53      0.49      0.38       200
 
 
 📊 Classification Report: Random Forest
@@ -30,7 +30,7 @@ Ticker       Date TabPFN RandomForest Actual
   AMGN 2025-06-05   Down           Up     Up
   AMGN 2025-06-06   Down           Up     Up
   AMGN 2025-06-09   Down           Up     Up
-  AMGN 2025-06-10   Down           Up     Up
+  AMGN 2025-06-10   Down           Up   Down
   GILD 2025-06-04   Down         Down     Up
   GILD 2025-06-05   Down         Down     Up
   GILD 2025-06-06   Down         Down   Down
@@ -42,7 +42,7 @@ Ticker       Date TabPFN RandomForest Actual
   BIIB 2025-06-09   Down         Down   Down
   BIIB 2025-06-10   Down         Down   Down
   REGN 2025-06-04     Up           Up     Up
-  REGN 2025-06-05   Down           Up     Up
+  REGN 2025-06-05     Up           Up     Up
   REGN 2025-06-06   Down           Up     Up
   REGN 2025-06-09   Down           Up     Up
   REGN 2025-06-10   Down           Up   Down
