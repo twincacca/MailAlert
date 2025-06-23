@@ -2,8 +2,6 @@
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 PostDoc or Scientist on material dynamics in view of a carbon-binding society (80 - 100%) || Empa
 Postdoctoral researcher in Metabolomics of Amazonia's Useful Plants 70 % || Universität Zürich
-Consultant - Audit & Assurance - Climate & Sustainability (e/v/e/r/y/o/n/e) || Jobup
-Consultant - Audit & Assurance - Climate & Sustainability (e/v/e/r/y/o/n/e) || Deloitte AG
 PhD in Seed Pathogens and Masting || ETH Zurich
 PhD position: Experimental evolution of reproductive strategies under varying sex ratios 80 % || Universität Zürich
 PhD inEcology(up to 4 years) 80 % || Universität Zürich
@@ -19,16 +17,18 @@ Biostatistics Analyst || ETH Zürich
 Expert II - Biologics Structural Bioinformatician/Computational Chemist (80-100%*) || Novartis Pharma AG
 Mass Spectrometry Data Analyst || Genedata AG
 Open PhD position in Population Genomics 80 % || Universität Zürich
-Machine Learning Engineer – BioAI & DevOps Integration || Precise Health SA
 Chemoinformatics Specialist || Manpower
 Rust Software Engineer || Coopers Group AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Entwicklungsingenieur Virtual Engineering - Strukturmechanik & Umformsimulation (a) || THEMIS Personal AG
+Backend Developer || LHH
 Ingénieur Développement applicatif/logiciel embarqué (H/F) || LHH
 Jr Research Assistant Omics Data Analysis || Nestlé SA
 Surveillance Data Analyst Expert (80-100%) || Skyguide
 Software Engineer with Java expertise || UBS
 Applied Research Software Engineer - GenAI R&D for Future-Proof Teaching || ETH Zurich
+Développeur Java Flowable || Jobup
 IngénieurLinux || Jobup
 Ingenieur Senior Red HatLinux || Jobup
 System Engineer mit Projektverantwortung (m/w) 80-100% || Yellowshark
@@ -41,11 +41,19 @@ SystemengineerLinux(f/m) || IT Recruitment GmbH
 Applied Research Software Engineer – GenAI R&D for Future-Proof Teaching || ETH Zürich
 Senior Cloud Engineer (a) 80-100% [Ref:2655] || Freestar-Informatik AG, Zweigniederlassung Zürich
 Senior Cloud Engineer (a) 80-100% [Ref:2655] || Freestar-Informatik AG, Zweigniederlassung Zürich
-IT Supporter (m/w) 80-100% || Yellowshark
-DevOps Engineer || Swisscom AG
-LinuxSystem Engineer 80-100% || ZHAW
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Mécanicien/ne avions Jets || Armée suisse - Commandement des Opérations Cdmt Op
+Luftfahrzeugmechaniker/-in Jet || Schweizer Armee - Kommando Operationen Kdo Op
+Sachbearbeiterin Militärverwaltung / Stellvertreterin Kreiskommandant (m/w), 100% (befristet für 2 Jahre mit Option auf Verlängerung) || Amt für Bevölkerungsschutz und Armee
+Logisticien/ne en entrepôt de stockage sur site || Armée suisse - Base logistique de l'armée BLA
+Logistiker/-in Vorortlager || Schweizer Armee - Logistikbasis der Armee LBA
+Remplaçant/e chef/fe Service de commandement || Armée suisse - Commandement des Opérations Cdmt Op
+Stellvertetende/-r Chef/-in Führungsdienst || Schweizer Armee - Kommando Operationen Kdo Op
+Responsable technique Fabrication / Remise au complet || Armée suisse - Base logistique de l'armée BLA
+Fachverantwortliche/-r Fertigung und Komplettierung || Schweizer Armee - Logistikbasis der Armee LBA
+Expert/e technique pour l'examen théorique assisté par ordinateur || Armée suisse - Base logistique de l'armée BLA
+Fachexperte/-in Computerunterstützte Theorieprüfung (CUT) || Schweizer Armee - Logistikbasis der Armee LBA
 Hardware Design Engineer (w/m/d) || RUAG SA
 Konstrukteurin oder Konstrukteur/ Industrial Engineer (w/m/d) || RUAG SA
 Hochschulpraktikant/-in Dozentur Militärsoziologie (MILAK) || Schweizer Armee - Kommando Ausbildung Kdo Ausb
@@ -55,14 +63,3 @@ Hochschulpraktikant/-in georeferenzierte Datenanalyse || Schweizer Armee - Komma
 Collaborateur/trice exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
 Mitarbeiter/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
 Senior System Engineer Space C5I (w/m/d) || RUAG SA
-ProjektleiterIn Construction Management (w/m/d) || RUAG SA
-Assistant Design Organisation (w/m/d) || RUAG SA
-Intelligence Officer - Krisen- und Entführungsbearbeitung (Rapid Reaction Force) || Nachrichtendienst des Bundes NDB
-Senior ICT Supporter C5I (w/m/d) || RUAG SA
-Engineer Aerodynamics (w/m/d) || RUAG SA
-ArchitektIn oder BauingenieurIn für die Areal-/ Projektentwicklung in Thun (w/m/d) || RUAG SA
-Technician Sheet Metal (w/m/d) || RUAG SA
-DevOps Engineer C5I (w/m/d) || RUAG SA
-Commissaire SPPA appui à l'engagement || Défense - Commandement des Opérations Cdmt Op
-Kommissär/-in DPSA Einsatzunterstützung || Verteidigung - Kommando Operationen Kdo Op
-Mitarbeiter Ausbildungsanlagen Kaserne 80% || Kidston People GmbH
