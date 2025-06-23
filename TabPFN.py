@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 
 # List of tickers to analyze
 tickers = ['AMGN', 'GILD', 'BIIB', 'REGN']
-future_window = 5
+future_window = 50
 features = ['5d_return', '10d_return', 'volatility_10d', 'ma_10', 'ma_50', 'rsi']
 
 # --- Feature engineering function ---
