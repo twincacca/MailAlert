@@ -13,7 +13,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # List of tickers to analyze
-tickers = ['AMGN', 'GILD', 'BIIB', 'REGN']
+#tickers = ['AMGN', 'GILD', 'BIIB', 'REGN']
+tickers = ['SOPH','QGEN','ILMN','ONT.L','PACB','A','TMO','PKI','TXG']
 future_window = 50
 features = ['5d_return', '10d_return', 'volatility_10d', 'ma_10', 'ma_50', 'rsi']
 
