@@ -21,6 +21,8 @@ Chemoinformatics Specialist || Manpower
 Rust Software Engineer || Coopers Group AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Senior Network Engineer || Neocleus AG
+Senior Network Engineer || Neocleus AG
 Entwicklungsingenieur Virtual Engineering - Strukturmechanik & Umformsimulation (a) || THEMIS Personal AG
 Senior Storage Engineer || Jobup
 Backend Developer || LHH
@@ -39,10 +41,14 @@ Lehrstelle Informatiker:in EFZ Fachrichtung Plattformentwicklung (Sommer 2026) |
 Lehrstelle Informatiker:in EFZ Fachrichtung Plattformentwicklung (Sommer 2026) || Jobup
 Entwicklungsingenieur* (Elektrotechnik) || IT Recruitment GmbH
 SystemengineerLinux(f/m) || IT Recruitment GmbH
-Applied Research Software Engineer – GenAI R&D for Future-Proof Teaching || ETH Zürich
-Senior Cloud Engineer (a) 80-100% [Ref:2655] || Freestar-Informatik AG, Zweigniederlassung Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+DevOps Engineer C5I || Neocleus AG
+DevOps Engineer C5I || Neocleus AG
+Électronicien/ne avions Jets || Armée suisse - Commandement des Opérations Cdmt Op
+Elektroniker/-in Avionik Jet || Schweizer Armee - Kommando Operationen Kdo Op
+Mécanicien/ne sur aéronefs || Armée suisse - Commandement des Opérations Cdmt Op
+Luftfahrzeugmechaniker/-in || Schweizer Armee - Kommando Operationen Kdo Op
 Mécanicien/ne avions Jets || Armée suisse - Commandement des Opérations Cdmt Op
 Luftfahrzeugmechaniker/-in Jet || Schweizer Armee - Kommando Operationen Kdo Op
 Sachbearbeiterin Militärverwaltung / Stellvertreterin Kreiskommandant (m/w), 100% (befristet für 2 Jahre mit Option auf Verlängerung) || Amt für Bevölkerungsschutz und Armee
@@ -57,9 +63,3 @@ Fachexperte/-in Computerunterstützte Theorieprüfung (CUT) || Schweizer Armee -
 Hardware Design Engineer (w/m/d) || RUAG SA
 Konstrukteurin oder Konstrukteur/ Industrial Engineer (w/m/d) || RUAG SA
 Hochschulpraktikant/-in Dozentur Militärsoziologie (MILAK) || Schweizer Armee - Kommando Ausbildung Kdo Ausb
-Stagiaire universitaire à la chaire de sociologie militaire (ACAMIL) || Armée suisse - Commandement de l'Instruction Cdmt Instr
-Stagiaire universitaire en analyse de données géoréférencées || Armée suisse - Commandement des Opérations Cdmt Op
-Hochschulpraktikant/-in georeferenzierte Datenanalyse || Schweizer Armee - Kommando Operationen Kdo Op
-Collaborateur/trice exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
-Mitarbeiter/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
-Senior System Engineer Space C5I (w/m/d) || RUAG SA
