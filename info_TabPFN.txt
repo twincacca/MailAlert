@@ -3,46 +3,66 @@
 
               precision    recall  f1-score   support
 
-           0       0.70      0.69      0.69        99
-           1       0.70      0.71      0.71       101
+           0       0.65      0.56      0.60        98
+           1       0.63      0.71      0.66       102
 
-    accuracy                           0.70       200
-   macro avg       0.70      0.70      0.70       200
-weighted avg       0.70      0.70      0.70       200
+    accuracy                           0.64       200
+   macro avg       0.64      0.63      0.63       200
+weighted avg       0.64      0.64      0.63       200
 
 
 📊 Classification Report: Random Forest
 
               precision    recall  f1-score   support
 
-           0       0.60      0.66      0.63        99
-           1       0.63      0.57      0.60       101
+           0       0.60      0.41      0.48        98
+           1       0.56      0.74      0.64       102
 
-    accuracy                           0.61       200
-   macro avg       0.62      0.62      0.61       200
-weighted avg       0.62      0.61      0.61       200
+    accuracy                           0.57       200
+   macro avg       0.58      0.57      0.56       200
+weighted avg       0.58      0.57      0.56       200
 
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
 Ticker       Date TabPFN RandomForest Actual
-  AMGN 2025-04-03   Down         Down   Down
-  AMGN 2025-04-04   Down         Down   Down
-  AMGN 2025-04-07   Down         Down     Up
-  AMGN 2025-04-08   Down         Down     Up
-  AMGN 2025-04-09   Down         Down   Down
-  GILD 2025-04-03   Down           Up   Down
-  GILD 2025-04-04     Up           Up     Up
-  GILD 2025-04-07     Up           Up     Up
-  GILD 2025-04-08     Up           Up     Up
-  GILD 2025-04-09     Up           Up     Up
-  BIIB 2025-04-03     Up           Up     Up
-  BIIB 2025-04-04     Up           Up     Up
-  BIIB 2025-04-07     Up           Up     Up
-  BIIB 2025-04-08     Up           Up     Up
-  BIIB 2025-04-09     Up           Up     Up
-  REGN 2025-04-03   Down         Down   Down
-  REGN 2025-04-04   Down         Down   Down
-  REGN 2025-04-07   Down         Down   Down
-  REGN 2025-04-08   Down         Down   Down
-  REGN 2025-04-09   Down         Down   Down
+  SOPH 2025-04-03     Up           Up   Down
+  SOPH 2025-04-04     Up           Up     Up
+  SOPH 2025-04-07     Up           Up     Up
+  SOPH 2025-04-08     Up           Up     Up
+  SOPH 2025-04-09     Up           Up     Up
+  QGEN 2025-04-03     Up           Up     Up
+  QGEN 2025-04-04     Up           Up     Up
+  QGEN 2025-04-07     Up           Up     Up
+  QGEN 2025-04-08     Up           Up     Up
+  QGEN 2025-04-09     Up           Up     Up
+  ILMN 2025-04-03     Up           Up     Up
+  ILMN 2025-04-04     Up           Up     Up
+  ILMN 2025-04-07     Up           Up     Up
+  ILMN 2025-04-08     Up           Up     Up
+  ILMN 2025-04-09     Up           Up     Up
+ ONT.L 2025-04-02     Up           Up     Up
+ ONT.L 2025-04-03     Up           Up     Up
+ ONT.L 2025-04-04     Up           Up     Up
+ ONT.L 2025-04-07     Up           Up     Up
+ ONT.L 2025-04-08     Up           Up     Up
+  PACB 2025-04-03     Up         Down     Up
+  PACB 2025-04-04     Up         Down     Up
+  PACB 2025-04-07     Up         Down   Down
+  PACB 2025-04-08     Up         Down     Up
+  PACB 2025-04-09   Down         Down   Down
+     A 2025-04-03     Up           Up     Up
+     A 2025-04-04     Up           Up     Up
+     A 2025-04-07     Up           Up     Up
+     A 2025-04-08     Up           Up     Up
+     A 2025-04-09     Up           Up     Up
+   TMO 2025-04-03     Up         Down   Down
+   TMO 2025-04-04   Down         Down   Down
+   TMO 2025-04-07   Down         Down   Down
+   TMO 2025-04-08   Down         Down   Down
+   TMO 2025-04-09   Down         Down   Down
+   TXG 2025-04-03   Down           Up     Up
+   TXG 2025-04-04   Down           Up     Up
+   TXG 2025-04-07   Down           Up     Up
+   TXG 2025-04-08   Down           Up     Up
+   TXG 2025-04-09   Down         Down     Up
