@@ -3,66 +3,66 @@
 
               precision    recall  f1-score   support
 
-           0       0.65      0.56      0.60        98
-           1       0.63      0.72      0.67       102
+           0       0.68      0.63      0.65        99
+           1       0.66      0.71      0.69       101
 
-    accuracy                           0.64       200
-   macro avg       0.64      0.64      0.64       200
-weighted avg       0.64      0.64      0.64       200
+    accuracy                           0.67       200
+   macro avg       0.67      0.67      0.67       200
+weighted avg       0.67      0.67      0.67       200
 
 
 📊 Classification Report: Random Forest
 
               precision    recall  f1-score   support
 
-           0       0.64      0.45      0.53        98
-           1       0.59      0.75      0.66       102
+           0       0.67      0.44      0.53        99
+           1       0.59      0.78      0.67       101
 
-    accuracy                           0.60       200
-   macro avg       0.61      0.60      0.59       200
-weighted avg       0.61      0.60      0.60       200
+    accuracy                           0.61       200
+   macro avg       0.63      0.61      0.60       200
+weighted avg       0.63      0.61      0.60       200
 
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
 Ticker       Date TabPFN RandomForest Actual
-  SOPH 2025-04-08     Up           Up     Up
   SOPH 2025-04-09     Up           Up     Up
   SOPH 2025-04-10     Up           Up     Up
   SOPH 2025-04-11     Up           Up     Up
   SOPH 2025-04-14     Up           Up     Up
-  QGEN 2025-04-08     Up           Up     Up
+  SOPH 2025-04-15     Up           Up     Up
   QGEN 2025-04-09     Up           Up     Up
   QGEN 2025-04-10     Up           Up     Up
-  QGEN 2025-04-11     Up         Down     Up
+  QGEN 2025-04-11     Up           Up     Up
   QGEN 2025-04-14     Up           Up     Up
-  ILMN 2025-04-08     Up           Up     Up
+  QGEN 2025-04-15     Up           Up     Up
   ILMN 2025-04-09     Up           Up     Up
   ILMN 2025-04-10     Up           Up     Up
   ILMN 2025-04-11     Up           Up     Up
   ILMN 2025-04-14     Up           Up     Up
- ONT.L 2025-04-07     Up           Up     Up
+  ILMN 2025-04-15     Up           Up     Up
  ONT.L 2025-04-08     Up           Up     Up
  ONT.L 2025-04-09     Up           Up     Up
  ONT.L 2025-04-10     Up           Up     Up
- ONT.L 2025-04-11     Up         Down     Up
-  PACB 2025-04-08     Up           Up     Up
-  PACB 2025-04-09     Up         Down   Down
-  PACB 2025-04-10     Up         Down   Down
-  PACB 2025-04-11     Up         Down   Down
-  PACB 2025-04-14     Up           Up   Down
-     A 2025-04-08     Up         Down     Up
-     A 2025-04-09     Up         Down     Up
-     A 2025-04-10     Up         Down     Up
-     A 2025-04-11     Up         Down     Up
-     A 2025-04-14     Up         Down     Up
-   TMO 2025-04-08   Down         Down   Down
+ ONT.L 2025-04-11     Up           Up     Up
+ ONT.L 2025-04-14     Up           Up     Up
+  PACB 2025-04-09   Down         Down   Down
+  PACB 2025-04-10   Down         Down   Down
+  PACB 2025-04-11   Down         Down   Down
+  PACB 2025-04-14   Down         Down   Down
+  PACB 2025-04-15   Down         Down     Up
+     A 2025-04-09     Up           Up     Up
+     A 2025-04-10     Up           Up     Up
+     A 2025-04-11     Up           Up     Up
+     A 2025-04-14     Up           Up     Up
+     A 2025-04-15     Up           Up     Up
    TMO 2025-04-09   Down         Down   Down
    TMO 2025-04-10   Down         Down   Down
    TMO 2025-04-11   Down         Down   Down
    TMO 2025-04-14   Down         Down   Down
-   TXG 2025-04-08   Down         Down     Up
+   TMO 2025-04-15   Down         Down   Down
    TXG 2025-04-09   Down         Down     Up
    TXG 2025-04-10   Down         Down     Up
    TXG 2025-04-11   Down         Down     Up
    TXG 2025-04-14   Down         Down     Up
+   TXG 2025-04-15   Down         Down     Up
