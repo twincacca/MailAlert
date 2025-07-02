@@ -1,11 +1,13 @@
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+PhD Assisted Migration || ETH Zurich
 PostDoc or Scientist on material dynamics in view of a carbon-binding society (80 - 100%) || Empa
 Postdoctoral researcher in Metabolomics of Amazonia's Useful Plants 70 % || Universität Zürich
 PhD position: Experimental evolution of reproductive strategies under varying sex ratios 80 % || Universität Zürich
 PhD inEcology(up to 4 years) 80 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Bioinformatician for Computational Genomics and Omics Data Analysis || ETH Zürich
 Senior Bioinformatician || Michael Page International (Suisse) SA, succursale de Lausanne
 Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation || ETH Zurich
 e Lab Scientist in Functional Proteomics || Roche
@@ -23,8 +25,18 @@ Chemoinformatics Specialist || Manpower
 Rust Software Engineer || Coopers Group AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Bioinformatician for Computational Genomics and Omics Data Analysis || ETH Zürich
+Research Software Engineer || ETH Zurich
+Ingénieur Développement applicatif/logiciel embarqué (H/F) || LHH
+Web Front-End Developer || LHH
+Senior System Engineer (F/M) || LHH
 FPGA Engineer || Liquid-Markets GmbH
 Research Software Engineer || ETH Zürich
+(Junior) ICT-System Engineer - (m/w) || myitjob GmbH
+Data Center Engineer 80-100% || Jobup
+Senior System / Platform Engineer || Transgourmet Schweiz AG
+Senior ICT-System Engineer (m/w) 80-100% || myitjob GmbH
+ICT-Cloud Engineer (m/w) 80-100% || myitjob GmbH
 System & Network Engineer || Schweizerisches Bundesgericht BGer
 LinuxSystemingenieur:in (m/w/d) || ETH Zürich
 DevOps Engineer Space C5I (f/m/d) || RUAG SA
@@ -33,18 +45,18 @@ ICT System Administrator*in Einsatzleitzentrale 144/118, 80-100% || Stadt Züric
 Application Manager || Swisscom AG
 Oracle DBA || Jobup
 Application Support Engineer - IT Trading Team || Jobup
-Technischer Projektleiter - Azure Migration & Automatisierung || Hays (Schweiz) AG
-System Engineer - 3rd Level Support || Hays (Schweiz) AG
-Senior Network Software- EntwicklungsingenieurInLinux/ C++ || Neocleus AG
-Product Manager C5I || Neocleus AG
-System Engineer C5I (w/m/d) || RUAG SA
-Déveloper - Python/VBA Excel || Jobup
-Product Manager C5I (w/m/d) || RUAG SA
-DevOps Engineer C5I (w/m/d) || RUAG SA
-Junior ICT Techniker/-in || myitjob GmbH
-Product Owner Continuous Integration (m/w) 80-100% || myitjob GmbH
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Fachlehrer/-in IKT || Schweizer Armee - Kommando Cyber Kdo Cy
+Enseignant/e spécialisé/e TIC || Armée suisse - Commandement Cyber Cdmt Cyber
+Mécatronicien/-ne d'automobiles pour véhicules à pneus lourds || Armée suisse - Base logistique de l'armée BLA
+Automobilmechatroniker/-in schwere Radfahrzeuge || Schweizer Armee - Logistikbasis der Armee LBA
+Collaborateur/trice administratif état-major || Armée suisse - Base logistique de l'armée BLA
+Sachbearbeiter/-in Stab || Schweizer Armee - Logistikbasis der Armee LBA
+Collaborateur/-trice spécialisé/e pour le service de commissariat || Armée suisse - Commandement de l'Instruction Cdmt Instr
+Sachbearbeiter/-in Kommissariatsdienst || Schweizer Armee - Kommando Ausbildung Kdo Ausb
+Expert/e technique en assurance qualité pour le contrôle de véhicules || Armée suisse - Base logistique de l'armée BLA
+Fachexperte/-in Qualitätssicherung Fahrzeugprüfungen || Schweizer Armee - Logistikbasis der Armee LBA
 Chargé-e de projet - effecteurs au sol (artillerie et systèmes de combat lourds) || Office fédéral de l'armement armasuisse
 Projektkauffrau/mann Kommerz Wirkung Boden / Schwere Landsysteme || Bundesamt für Rüstung armasuisse
 Mitarbeiter/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
@@ -55,13 +67,3 @@ Hochschulpraktikant/-in Analyst/-in operative Funkaufklärung || Schweizer Armee
 Stagiaire universitaire en analyse pour l'exploration radio opérative 1 || Armée suisse - Commandement Cyber Cdmt Cyber
 Dein Beruf sollte mehr bieten? Werde Berufsunteroffizier/-in || Schweizer Armee - Armeestab A Stab
 Ton métier devrait offrir plus? Deviens sous-officier/ère de carrière || Armée suisse - Etat-major de l'armée EM A
-Sortir de la routine? Deviens officier/ère de carrière || Armée suisse - Etat-major de l'armée EM A
-Raus aus der Routine? Werde Berufsoffizier/-in || Schweizer Armee - Armeestab A Stab
-Reconversion en sous-officier/ère de carrière || Armée suisse - Etat-major de l'armée EM A
-Quereinsteiger/-in Berufsunteroffizier/-in || Schweizer Armee - Armeestab A Stab
-Quereinsteiger/-in Berufsoffizier/-in || Schweizer Armee - Armeestab A Stab
-Reconversion en officier/ère de carrière || Armée suisse - Etat-major de l'armée EM A
-Berufspraktikantin/Berufspraktikant || Kantonale Verwaltung Basel-Landschaft
-Mécatronicien/ne d'automobiles pour véhicules à pneus lourds || Armée suisse - Base logistique de l'armée BLA
-Automobilmechatroniker/-in schwere Radfahrzeuge || Schweizer Armee - Logistikbasis der Armee LBA
-Hochschulpraktikant/-in Joint Intelligence Center || Schweizer Armee - Kommando Operationen Kdo Op
