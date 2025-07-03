@@ -106,3 +106,11 @@ for ticker in tickers:
 # Display the result
 df_result = pd.DataFrame(results)
 print(df_result.to_string(index=False))
+
+
+
+
+print("just check")
+sop_data = yf.Ticker("SOPH").history(period="1mo")
+display(sop_data.tail(15))  # Compare this with what Google says
+
