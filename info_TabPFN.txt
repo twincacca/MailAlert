@@ -3,66 +3,87 @@
 
               precision    recall  f1-score   support
 
-           0       0.68      0.51      0.58        99
-           1       0.61      0.76      0.68       101
+           0       0.62      0.55      0.58       100
+           1       0.59      0.66      0.63       100
 
-    accuracy                           0.64       200
-   macro avg       0.64      0.63      0.63       200
-weighted avg       0.64      0.64      0.63       200
+    accuracy                           0.60       200
+   macro avg       0.61      0.60      0.60       200
+weighted avg       0.61      0.60      0.60       200
 
 
 📊 Classification Report: Random Forest
 
               precision    recall  f1-score   support
 
-           0       0.63      0.51      0.56        99
-           1       0.60      0.71      0.65       101
+           0       0.61      0.42      0.50       100
+           1       0.56      0.73      0.63       100
 
-    accuracy                           0.61       200
-   macro avg       0.61      0.61      0.61       200
-weighted avg       0.61      0.61      0.61       200
+    accuracy                           0.57       200
+   macro avg       0.58      0.57      0.56       200
+weighted avg       0.58      0.57      0.56       200
 
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
 Ticker       Date TabPFN RandomForest Actual
-  SOPH 2025-04-14     Up           Up     Up
-  SOPH 2025-04-15     Up           Up     Up
+  SOPH 2025-04-15   Down           Up     Up
   SOPH 2025-04-16     Up           Up     Up
-  SOPH 2025-04-17     Up           Up     Up
-  SOPH 2025-04-21     Up           Up     Up
-  QGEN 2025-04-14     Up           Up     Up
+  SOPH 2025-04-17   Down           Up     Up
+  SOPH 2025-04-21   Down           Up     Up
+  SOPH 2025-04-22   Down           Up     Up
   QGEN 2025-04-15     Up           Up     Up
-  QGEN 2025-04-16     Up           Up     Up
-  QGEN 2025-04-17     Up           Up     Up
+  QGEN 2025-04-16   Down           Up     Up
+  QGEN 2025-04-17   Down           Up     Up
   QGEN 2025-04-21     Up           Up     Up
-  ILMN 2025-04-14     Up           Up     Up
-  ILMN 2025-04-15     Up           Up     Up
+  QGEN 2025-04-22     Up           Up     Up
+  ILMN 2025-04-15   Down         Down     Up
   ILMN 2025-04-16     Up           Up     Up
   ILMN 2025-04-17     Up           Up     Up
   ILMN 2025-04-21     Up           Up     Up
- ONT.L 2025-04-11     Up           Up     Up
- ONT.L 2025-04-14     Up           Up     Up
- ONT.L 2025-04-15     Up           Up     Up
- ONT.L 2025-04-16     Up           Up     Up
- ONT.L 2025-04-17     Up           Up     Up
-  PACB 2025-04-14     Up           Up   Down
-  PACB 2025-04-15     Up           Up     Up
-  PACB 2025-04-16     Up         Down     Up
+  ILMN 2025-04-22     Up           Up     Up
+ ONT.L 2025-04-15     Up         Down     Up
+ ONT.L 2025-04-16     Up         Down     Up
+ ONT.L 2025-04-17     Up         Down     Up
+ ONT.L 2025-04-22     Up         Down     Up
+ ONT.L 2025-04-23     Up         Down     Up
+  PACB 2025-04-15     Up         Down     Up
+  PACB 2025-04-16     Up           Up     Up
   PACB 2025-04-17     Up           Up     Up
-  PACB 2025-04-21     Up         Down     Up
-     A 2025-04-14     Up           Up     Up
+  PACB 2025-04-21     Up           Up     Up
+  PACB 2025-04-22     Up         Down     Up
      A 2025-04-15     Up           Up     Up
      A 2025-04-16     Up           Up     Up
      A 2025-04-17     Up           Up     Up
      A 2025-04-21     Up           Up     Up
-   TMO 2025-04-14   Down         Down   Down
-   TMO 2025-04-15   Down         Down   Down
-   TMO 2025-04-16   Down         Down   Down
-   TMO 2025-04-17   Down         Down   Down
-   TMO 2025-04-21   Down         Down     Up
-   TXG 2025-04-14   Down         Down     Up
+     A 2025-04-22     Up           Up     Up
+   TMO 2025-04-15   Down           Up   Down
+   TMO 2025-04-16   Down           Up   Down
+   TMO 2025-04-17   Down           Up   Down
+   TMO 2025-04-21   Down           Up     Up
+   TMO 2025-04-22   Down           Up   Down
    TXG 2025-04-15   Down         Down     Up
-   TXG 2025-04-16     Up           Up     Up
-   TXG 2025-04-17     Up         Down     Up
-   TXG 2025-04-21     Up         Down     Up
+   TXG 2025-04-16   Down         Down     Up
+   TXG 2025-04-17   Down         Down     Up
+   TXG 2025-04-21   Down         Down     Up
+   TXG 2025-04-22   Down           Up     Up
+just check
+                           Open   High    Low  ...   Volume  Dividends  Stock Splits
+Date                                           ...                                  
+2025-06-12 00:00:00-04:00  2.90  3.081  2.860  ...   392600        0.0           0.0
+2025-06-13 00:00:00-04:00  2.90  2.910  2.800  ...    49100        0.0           0.0
+2025-06-16 00:00:00-04:00  2.90  3.020  2.872  ...    19900        0.0           0.0
+2025-06-17 00:00:00-04:00  2.96  3.030  2.890  ...    73700        0.0           0.0
+2025-06-18 00:00:00-04:00  3.00  3.090  2.932  ...   134200        0.0           0.0
+2025-06-20 00:00:00-04:00  3.00  3.320  2.590  ...  1908900        0.0           0.0
+2025-06-23 00:00:00-04:00  3.00  3.090  2.890  ...    51200        0.0           0.0
+2025-06-24 00:00:00-04:00  3.08  3.266  3.043  ...    39600        0.0           0.0
+2025-06-25 00:00:00-04:00  3.17  3.190  3.010  ...    39800        0.0           0.0
+2025-06-26 00:00:00-04:00  3.20  3.250  3.050  ...    67600        0.0           0.0
+2025-06-27 00:00:00-04:00  3.18  3.180  3.000  ...    30900        0.0           0.0
+2025-06-30 00:00:00-04:00  3.11  3.220  2.990  ...    41200        0.0           0.0
+2025-07-01 00:00:00-04:00  3.06  3.400  3.010  ...    60700        0.0           0.0
+2025-07-02 00:00:00-04:00  3.29  3.404  3.040  ...    59200        0.0           0.0
+2025-07-03 00:00:00-04:00  3.07  3.250  2.945  ...    63100        0.0           0.0
+
+[15 rows x 7 columns]
+done
