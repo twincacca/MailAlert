@@ -3,12 +3,12 @@
 
               precision    recall  f1-score   support
 
-           0       0.60      0.53      0.56       100
-           1       0.58      0.65      0.61       100
+           0       0.63      0.51      0.56       100
+           1       0.59      0.70      0.64       100
 
-    accuracy                           0.59       200
-   macro avg       0.59      0.59      0.59       200
-weighted avg       0.59      0.59      0.59       200
+    accuracy                           0.60       200
+   macro avg       0.61      0.60      0.60       200
+weighted avg       0.61      0.60      0.60       200
 
 
 📊 Classification Report: Random Forest
@@ -32,7 +32,7 @@ Ticker       Date TabPFN RandomForest Actual
   SOPH 2025-04-21     Up           Up     Up
   SOPH 2025-04-22   Down           Up     Up
   QGEN 2025-04-15     Up           Up     Up
-  QGEN 2025-04-16     Up           Up     Up
+  QGEN 2025-04-16   Down           Up     Up
   QGEN 2025-04-17   Down           Up     Up
   QGEN 2025-04-21     Up           Up     Up
   QGEN 2025-04-22     Up           Up     Up
