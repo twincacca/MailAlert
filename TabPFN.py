@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 # List of tickers to analyze
 #tickers = ['AMGN', 'GILD', 'BIIB', 'REGN']
 tickers = ['SOPH','QGEN','ILMN','ONT.L','PACB','A','TMO','PKI','TXG']
-future_window = 50
+future_window = 5 ##########
 features = ['5d_return', '10d_return', 'volatility_10d', 'ma_10', 'ma_50', 'rsi']
 
 # --- Feature engineering function ---
@@ -82,7 +82,7 @@ results = []
 # Look at last N rows of each ticker to simulate real recent forecasts
 N = 5  # how many recent windows to test
 for ticker in tickers:
-    df = yf.Ticker(ticker).history(period="6mo")  # recent 6 months
+    df = yf.Ticker(ticker).history(period="1mo")  # recent 6 months ########
     df = prepare_features(df)
     df['Date'] = df.index
 
