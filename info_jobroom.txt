@@ -1,8 +1,14 @@
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Lead Business Analyst/-in || Emil Frey Schweiz
+Software Engineer II, Device Integrity, IOS and Web - Google Careers || Google
+Application Manager /DeveloperIAM (w/m/d), 80-100 % || Concordia
+Senior JavaDeveloper || Swisscom AG
 Application Manager /DeveloperIAM (w/m/d), 80–100 % || Neocleus AG
 Fullstack TYPO3/PHP-Entwickler (a) || Neocleus AG
 BusinessDeveloper || Neocleus AG
+Senior SoftwareDeveloper/-Consultant (m/w) || myitjob GmbH
+EmbeddedDeveloper(m/w) || myitjob GmbH
 SoftwareDeveloperCMDB || Rent a Person Personalberatungs AG
 Senior .NETDeveloper || FORFIRM CONSULTING SAGL
 (Senior) PLC SoftwareDeveloperfor welding machines (m/f/d) || Georg Fischer AG
@@ -14,19 +20,12 @@ CADDeveloper(m/w) 60-100% || myitjob GmbH
 Principal Program Manager || Microsoft
 Application Engineer / IT Business Analyst (f/m/d) || Axpo
 LeadDeveloperJava (m/w) 100% || myitjob GmbH
-Business Intelligence Architect/Developer || LHH
-Application DevOps Manager || LHH
-Platform Engineer || LHH
-SoftwareDeveloper(all genders) || The Swatch Group SA
-Web Front-EndDeveloper || LHH
-(Senior) Backend Engineer (Cloud-Native Banking Solutions) || Avaloq
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Statistician 80 - 100 % || Universität Zürich
 PhD Position in ForestEcologyand Silviculture || ETH Zurich
 PhD Assisted Migration || ETH Zurich
 PostDoc or Scientist on material dynamics in view of a carbon-binding society (80 - 100%) || Empa
-Postdoctoral researcher in Metabolomics of Amazonia's Useful Plants 70 % || Universität Zürich
 PhD inEcology(up to 4 years) 80 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
@@ -40,7 +39,6 @@ Senior Bioinformatician || Michael Page International (Suisse) SA, succursale de
 Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation || ETH Zurich
 Jr Research Assistant Omics Data Analysis || Nestlé SA
 Scientific Researcher Position (80%) || Jobup
-PhD position in the Chemistry of Human-Plant Interactions 80 % || Universität Zürich
 Discovery Postdoctoral Fellow in Cancer Functional Genomics || Novartis Pharma AG
 Expert II - Biologics Structural Bioinformatician/Computational Chemist (80-100%*) || Novartis Pharma AG
 Open PhD position in Population Genomics 80 % || Universität Zürich
@@ -48,6 +46,11 @@ Chemoinformatics Specialist || Manpower
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 ICT System Administrator || Neocleus AG
+ICT Cloud Operator (m/w) 80-100% || myitjob GmbH
+IT Systemtechniker (m/w) - 80-100% || myitjob GmbH
+Connectivity Engineer || Avaloq
+(Senior) ICT System Engineer (m/w) 80-100% || myitjob GmbH
+Python Entwickler:in 80-100% || myitjob GmbH
 (Senior) PLC Software Developer for welding machines (m/f/d) || Georg Fischer AG
 Product Manager Instruments || Dr. Marino Müller AG
 Senior Software Entwickler/-in (m/w) 100% || myitjob GmbH
@@ -62,11 +65,6 @@ IT Infrastructure Engineer || LHH
 Betriebsinformatiker:in oder ICT-Systemtechniker:in (m/w/d) || ETH Zürich
 Enterprise Architect / IT Verantwortlicher || Workmanagement AG
 Ingénieur Système (H/F) - 100% - POSTE FIXE || ValJob
-Flotten- und Systembetreuer:in || BLS AG
-Ingénieur orientation système 80-100% CDI (H/F/D) || Adecco
-Ingénieur Systèmes et Réseaux 100% CDI (H/F/D) || Adecco
-1st Level Support 80-100% (m/w/d) || Green IT Solutions GmbH
-Software Engineer || Neocleus AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Logisticien/ne || Armée suisse - Base logistique de l'armée BLA
