@@ -1,33 +1,4 @@
 
-Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
-Senior Specialist -  FootwearDeveloper(Performance All Day) || On AG
-Fullstack Front- und BackendDeveloper || Neocleus AG
-Software Test Engineer || Stadler Signalling AG
-Scientific Assistant in the Optimization of Rail System Development Processes || ETH Zürich
-Senior Audio Engineer 100% || Sennheiser (Schweiz) AG
-Service NowDeveloper || Hays (Schweiz) AG
-Full-StackDeveloper || Jobup
-FullstackDeveloper(Java/Angular) || LHH
-DevOps Engineer Containisierung (w/m/d) || PostFinance AG
-Senior Lead - Sustainability Design || On AG
-Optimization Data Scientist || TOTSA TotalEnergies Trading SA
-Junior IT Projekt Manager || Comitas AG
-Senior .NET Engineer, 80-100% (w/m/d) || Swiss Life AG
-Career Opportunities: Technical Architect - Funds & Fees (122635) || Pictet Asset Management SA
-Senior .NET Engineer, 80-100% (w/m/d) || Swiss Life AG
-Lead Business Analyst/-in || Emil Frey Schweiz
-Software Engineer II, Device Integrity, IOS and Web - Google Careers || Google
-Application Manager /DeveloperIAM (w/m/d), 80-100 % || Concordia
-Senior JavaDeveloper || Swisscom AG
-Application Manager /DeveloperIAM (w/m/d), 80–100 % || Neocleus AG
-
-Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
-PhD: Promotion of Biodiversity in the Agricultural Landscape || Agroscope
-Statistician 80 - 100 % || Universität Zürich
-PhD Position in ForestEcologyand Silviculture || ETH Zurich
-PhD Assisted Migration || ETH Zurich
-PostDoc or Scientist on material dynamics in view of a carbon-binding society (80 - 100%) || Empa
-
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Development Scientist - Downstream Purification Development (f/m/d) || Lonza Group
 Bioinformatician for Computational Genomics and Omics Data Analysis || ETH Zurich
@@ -45,8 +16,149 @@ Expert II - Biologics Structural Bioinformatician/Computational Chemist (80-100%
 Open PhD position in Population Genomics 80 % || Universität Zürich
 Chemoinformatics Specialist || Manpower
 
+Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Development Scientist - Downstream Purification Development (f/m/d) || Lonza Group
+Senior Biomarker Scientist, BioX Genetics and Genomics Chapter || Roche
+Wissenschaftliche/-r Mitarbeiter/-in SektionBioinformatikund Datenwissenschaften || Bundesamt für Gesundheit BAG
+Collaboratore/-trice scientifico/-a presso la sezioneBioinformaticae scienze dei dati || Ufficio federale della sanità pubblica UFSP
+Collaborateur/-trice scientifique pour la sectionBioinformatiqueet sciences des données || Office fédéral de la santé publique OFSP
+Bioinformaticianfor Computational Genomics and Omics Data Analysis || ETH Zurich
+BioinformaticsSoftware Engineer for microbiome research || ETH Zurich
+BioinformaticsSoftware Engineer for microbiome research || ETH Zürich
+PhD position in Computational Genomics || ETH Zurich
+Bioinformaticianfor Computational Genomics and Omics Data Analysis || ETH Zürich
+Lehrstelle Laborant/in EFZ Biologie für 2026 100 % || Universität Zürich
+Lab Scientist in Functional Proteomics || Roche
+Data Scientist (m/w) - 60-80% || myitjob GmbH
+SeniorBioinformatician || Michael Page International (Suisse) SA, succursale de Lausanne
+Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation || ETH Zurich
+Wissenschafter*in Mikrobiom Analytik || Genuine-Analytics AG
+Jr Research Assistant Omics Data Analysis || Nestlé SA
+Scientific Researcher Position (80%) || Jobup
+Discovery Postdoctoral Fellow in Cancer Functional Genomics || Novartis Pharma AG
+Expert II - Biologics StructuralBioinformatician/Computational Chemist (80-100%*) || Novartis Pharma AG
+
+Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laboratory Technician QCMicrobiology80-100% || Lonza Group
+Laboratory Technician QCMicrobiology(all genders) || Lonza Group
+Field Service Engineer (m/f/d) || Bruker
+ScientistMicrobiology, Quality Control 80-100% || Lonza Group
+Analytical Project Leader Senior / Principal Scientist || Roche
+Sales Manager || Bruker
+Laboratory Technician || Nestlé SA
+PhD Student in Food Structure Engineering and Solid-State Fermentation || ETH Zurich
+Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation || ETH Zurich
+QC Environmental Monitoring &MicrobiologyTechnician (m/f/d) || Merck KGaA
+Laboratory Technician 100% || ETH Zürich
+Principal Scientist in Microbials Formulation Development (m/f/d) || Syngenta Crop Protection AG
+Laboratory Manager || Nestlé SA
+
+Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laboratory Technician QCMicrobiology80-100% || Lonza Group
+Laboratory Technician QCMicrobiology(all genders) || Lonza Group
+Field Service Engineer (m/f/d) || Bruker
+ScientistMicrobiology, Quality Control 80-100% || Lonza Group
+Laborantin(e) en Biologie, R&D Bioresearch - CDD de 6 mois || Debiopharm
+Laborantin(e) en Biologie, R&D Bioresearch CDD de 6 mois || Jobup
+Analytical Project Leader Senior / Principal Scientist || Roche
+Responsable de laboratoire FAMHmicrobiologie || Jobup
+Sales Manager || Bruker
+PhD Opening in Bioengineering: Microfluidic in-vitro Barrier Models for Bacterial Lung and Bladder Infections || ETH Zurich
+Laboratory Technician || Nestlé SA
+Bioinformatics Software Engineer formicrobiomeresearch || ETH Zurich
+Bioinformatics Software Engineer formicrobiomeresearch || ETH Zürich
+PhD Student in Food Structure Engineering and Solid-State Fermentation || ETH Zurich
+Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation || ETH Zurich
+Laborantin (H/F) || ValJob
+QC Environmental Monitoring &MicrobiologyTechnician (m/f/d) || Merck KGaA
+Auxiliaire de Laboratoire || Jobup
+Laboratory Technician 100% || ETH Zürich
+Laborantin enmicrobiologie(80-100%) || Bell Food Group
+
+Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laboratory Technician QC Microbiology 80-100% || Lonza Group
+Laboratory Technician QC Microbiology (all genders) || Lonza Group
+Laborant (m/w/d) (LSB) - KAU || Manpower
+Operational Purchaser (m/w/d) || Bruker
+Biologielaborantin / Biologielaborant Lebens- und Futtermittel (w/m/d) || Neocleus AG
+Produktions-Allrounder/in || Neocleus AG
+Biologielaborantin / Biologielaborantbr/Lebens- und Futtermittel (w/m/d) || UFAG Laboratorien AG
+Lebensmitteltechnologe/in (100%) || Neocleus AG
+Chemielaborant:in USZ Radiopharmazie 60-100% || Universitätsspital Zürich
+Laboratory Assistant || Coopers Group AG
+Taktischer Einkäufer für direkte Ausgaben (m/w/d) || Skan AG
+LaborantIn 60-80% (m/w/d) || ELAN Personal AG
+Lehrstelle Laborant/in EFZ Biologie für 2026 100 % || Universität Zürich
+Laborant*inMikrobiologiein der Qualitätskontrolle 100 % || Universität Zürich
+Manager Pharmazeutische Abfüllung (m/w) 100 % || Randstad (Schweiz) AG
+Produktions-Allrounder/in || Mineralquelle Eptingen AG
+Wissenschafter*inMikrobiomAnalytik || Genuine-Analytics AG
+Laborant:inMikrobiologie || Nestlé SA
+Laborantin / LaborantMikrobiologie50% (ausbildungsbegleitend) || Kanton Aargau
+Senior Quality Assurance Associate || Hays (Schweiz) AG
+
+Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+PhD: Promotion of Biodiversity in the Agricultural Landscape || Agroscope
+Statistician 80 - 100 % || Universität Zürich
+PhD Position in ForestEcologyand Silviculture || ETH Zurich
+PhD Assisted Migration || ETH Zurich
+PostDoc or Scientist on material dynamics in view of a carbon-binding society (80 - 100%) || Empa
+
+Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Doctorat Analyse de la gouvernance de la biodiversité dans le paysage agricole || Agroscope
+Dottorato Analisi della governance della biodiversità nel paesaggio agricolo || Agroscope
+Doctorate in Governance Analysis - Biodiversity in the Agricultural Landscape || Agroscope
+Doctorat Promotion de la biodiversité dans le paysage agricole || Agroscope
+Dottorato Promozione della biodiversità nel paesaggio agricolo || Agroscope
+PhD: Promotion of Biodiversity in the Agricultural Landscape || Agroscope
+Disponente/disponent (f/h/d) || Jobup
+Superviseur Technique H/F || Jobup
+Chargé d-étude / Calculateur (H/F) 100% - CDI Suisse Romande || Jobup
+Dessinateur ou Dessinatrice technique en installations sanitaires et gaz - 100% || Jobup
+CDD 1 an - Ingénieur·e d'exploitation du réseau primaire || Jobup
+Responsable processus, données et pilotage SIRH || Jobup
+Jardinier avec CFC - Mission tempo || ValJob
+Dessinateur ou Dessinatrice technique en installations sanitaires et gaz - 100% || Hôpitaux universitaires de Genève (HUG)
+Chef de projets structures (80-100%) || LHH
+Statistician 80 - 100 % || Universität Zürich
+Chef·fe de projet en génie civil à 80% - 100% (ref : 397) || Jobup
+Brand Financial Controller - L'Occitane en Provence || Jobup
+Rédacteur·trice auxiliaire à 60% || Jobup
+Stagista universitario/a nell'ambito della produzione rispettosa delle risorse e del consumo sosten || Ufficio federale dell'ambiente UFAM
+
+Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+DevOps Engineer Containisierung (w/m/d) - mit Innovationskraft und noch viel mehr Pioniergeist || Post CH AG
+Scientific Assistant in the Optimization of Rail System Development Processes || ETH Zurich
+Apprenticeship in Digital Business, Entwickler:in EFZ, August 2026 - Google Careers || Google
+Service Provider OperationsDeveloper- temporary 16 months || IKEA
+Apprenticeship in Application Development, Informatiker:in EFZ, August 2026 - Google Careers || Google
+Software Engineer III, Security/Privacy - Google Careers || Google
+SoftwareDeveloper50 - 100 % || Universität Zürich
+Senior Specialist -  FootwearDeveloper(Performance All Day) || On AG
+Fullstack Front- und BackendDeveloper || Neocleus AG
+Software Test Engineer || Stadler Signalling AG
+Scientific Assistant in the Optimization of Rail System Development Processes || ETH Zürich
+Senior Audio Engineer 100% || Sennheiser (Schweiz) AG
+Junior BackendDeveloper(m/w) 80-100% || myitjob GmbH
+ERPDeveloper(m/w) 80-100% || myitjob GmbH
+ServiceNow Entwickler/-in || myitjob GmbH
+Siemens TeamcenterDeveloper || Coopers Group AG
+Career Opportunities: Technical Architect - Funds & Fees (122635) || Pictet Asset Management SA
+Senior BackendDeveloper80-100% (m/w) || myitjob GmbH
+BackendDeveloper(m/w) || myitjob GmbH
+Service NowDeveloper || Hays (Schweiz) AG
+
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+DevOps Engineer Containisierung (w/m/d) - mit Innovationskraft und noch viel mehr Pioniergeist || Post CH AG
+Embedded Software Test Engineer || Hays (Schweiz) AG
+Software Engineer III, Security/Privacy - Google Careers || Google
 System & Network Engineer || Schweizerisches Bundesgericht BGer
+Python Entwickler m/w || IT Recruitment GmbH
+Ingénieur IAM, Sailpoint et plateformes de sécurité || Jobup
+IT System- und Network Administrator (60-100%) || myitjob GmbH
+IT System Engineer 80 - 100% (m/w) || Yellowshark
+ICT Support Specialist (m/w) || Yellowshark
+Software Engineer Java Backend - Yuh app || Jobup
 Développeur.se Junior - Python / VBA / Support Applicatif || Jobup
 Ingénieur Système || Jobup
 Fullstack Developer (Java/Angular) || LHH
@@ -55,19 +167,13 @@ Développeur.se Junior – Python / VBA / Support Applicatif || Experis
 Spécialistes réseau (Réseau de conduite suisse) || Armée suisse - Commandement Cyber Cdmt Cyber
 Specialista di rete (Rete di condotta Svizzera) || Esercito svizzero - Comando Ciber Cdo Ciber
 Netzwerk-Spezialisten/-innen Führungsnetz Schweiz || Schweizer Armee - Kommando Cyber Kdo Cy
+System Engineer - Senior 80-100% (m/w/d) || Galliker Service AG
 IT System Engineer m/w (80-100%) || Yellowshark
-Freelancer - (Junior/Senior) Data Engineer / SQL || KPMG AG
-Software Engineer Java Backend - Yuh app || Swissquote Bank SA
-(Senior) System Engineer 80 - 100% (m/w) || Yellowshark
-ICT System Administrator || Neocleus AG
-ICT Cloud Operator (m/w) 80-100% || myitjob GmbH
-IT Systemtechniker (m/w) - 80-100% || myitjob GmbH
-Connectivity Engineer || Avaloq
-(Senior) ICT System Engineer (m/w) 80-100% || myitjob GmbH
-Python Entwickler:in 80-100% || myitjob GmbH
-(Senior) PLC Software Developer for welding machines (m/f/d) || Georg Fischer AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+FachspezialistIn Planung / AVOR MRO (w/m/d) || RUAG SA
+Systemspezialist als Mitglied des Demoteams (m/w/d) || Rheinmetall Air Defence AG
+Technical Project Lead (w/m/d) || RUAG SA
 Spécialiste en préparation du travail || Armée suisse - Base logistique de l'armée BLA
 Sachbearbeiter/-in Arbeitsvorbereitung || Schweizer Armee - Logistikbasis der Armee LBA
 Leiter/-in HR IT || Schweizer Armee - Armeestab A Stab
@@ -85,18 +191,3 @@ Praktikant/-in Arbeitswelterfahrung || Schweizer Armee - Logistikbasis der Armee
 Spécialiste Exploitation pour le quartier général de l'armée || Armée suisse - Commandement des Opérations Cdmt Op
 Sachbearbeiter/-in Betrieb HQArmee || Schweizer Armee - Kommando Operationen Kdo Op
 Collaborateur/trice spécialisé/e pour le domaine Personnel SWISSINT || Armée suisse - Commandement des Opérations Cdmt Op
-Sachbearbeiter/-in Personelles SWISSINT || Schweizer Armee - Kommando Operationen Kdo Op
-Spécialiste en électrotechnique et titulaire d'une concession || Armée suisse - Base logistique de l'armée BLA
-Fachspezialist/-in Elektrotechnik und Konzessionsträger || Schweizer Armee - Logistikbasis der Armee LBA
-
-Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
-ScientistMicrobiology, Quality Control 80-100% || Lonza Group
-Analytical Project Leader Senior / Principal Scientist || Roche
-Sales Manager || Bruker
-Laboratory Technician || Nestlé SA
-PhD Student in Food Structure Engineering and Solid-State Fermentation || ETH Zurich
-Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation || ETH Zurich
-QC Environmental Monitoring &MicrobiologyTechnician (m/f/d) || Merck KGaA
-Laboratory Technician 100% || ETH Zürich
-Principal Scientist in Microbials Formulation Development (m/f/d) || Syngenta Crop Protection AG
-Laboratory Manager || Nestlé SA
