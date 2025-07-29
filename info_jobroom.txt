@@ -22,10 +22,8 @@ Responsable scientifique pour le secteur de génétique moléculaire (f/m), à 1
 Technical Quality Assurance Manager & CSV Expert || Genedata AG
 Bioinformatician(Phage Therapy) || Precise Health SA
 Mass Spectrometry / Proteomics Expert || ETH Zürich
-ICT Systemadministrator (m/w/d)Bioinformatik-Support || ETH Zurich
 Fachperson Science IT (80%) || Neocleus AG
 Data Scientist || Roche
-Bioprocess Engineer, Manufacturing (m/w/d) || Lonza Group
 Scientific Researcher Position (80%) || Jobup
 Senior Biomarker Scientist, BioX Genetics and Genomics Chapter || Roche
 Scientific Associate || Universität Bern Personalabteilung
@@ -37,6 +35,8 @@ Bioinformaticianfor Computational Genomics and Omics Data Analysis || ETH Züric
 Lehrstelle Laborant/in EFZ Biologie für 2026 100 % || Universität Zürich
 Lab Scientist in Functional Proteomics || Roche
 Data Scientist (m/w) - 60-80% || myitjob GmbH
+SeniorBioinformatician || Michael Page International (Suisse) SA, succursale de Lausanne
+Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation || ETH Zurich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Contamination Control and Cleaning, Senior QA Specialist 80-100% (f/m/d) || Lonza Group
@@ -77,6 +77,7 @@ Post Doctoral Researcher in Machine Learning (ML) and Solid-State Fermentation |
 Laborantin (H/F) || ValJob
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Biologielaborantin / Biologielaborantbr/Lebens- und Futtermittel (w/m/d) || UFAG Laboratorien AG
 Elektroingenieur*in (m/w/d) || Bruker
 Automatiker*in (m/w/d) || Bruker
 Laborant (m/w/d) (LSB) - KAU || Manpower
@@ -85,7 +86,6 @@ Verification and Validation Specialist 80 - 100 % (w/m/d) || Neocleus AG
 LaborantMikrobiologie80-100% || Neocleus AG
 Verification and Validation Specialist 80 - 100 % (w/m/d) || Hamilton
 Asset Excellence Manager || Hays (Schweiz) AG
-ICT Systemadministrator (m/w/d) Bioinformatik-Support || ETH Zurich
 Biologielaborantin / Biologielaborant Lebens- und Futtermittel (w/m/d) || Neocleus AG
 Biologielaborantin / Biologielaborantbr/Lebens- und Futtermittel (w/m/d) || UFAG Laboratorien AG
 Chemielaborant:in USZ Radiopharmazie 60-100% || Universitätsspital Zürich
@@ -96,7 +96,6 @@ Manager Pharmazeutische Abfüllung (m/w) 100 % || Randstad (Schweiz) AG
 Senior Quality Assurance Associate || Hays (Schweiz) AG
 Biomedizinische Analytikerin/Biomedizinischer Analytiker HF 60% - 80% || Spital Muri
 Laborant/in Biologie (a) || Schulen Luzern
-Lernende/r Laborant/in EFZ Fachrichtung Biologie (a) || Empa
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 PhD - Assessment of Regenerative Materials for Urban Biodiversity and Ecosystem Services || ETH Zurich
@@ -110,6 +109,7 @@ PhD Assisted Migration || ETH Zurich
 PostDoc or Scientist on material dynamics in view of a carbon-binding society (80 - 100%) || Empa
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Ingénieur·e en technique de l’environnement / CDD 80% || Environnement industriel, urbain et rural, Direction générale de l'environnement
 Responsable du Centre des fruits à noyau Breitenhof || Agroscope
 Responsabile Centro di frutta a nocciolo Breitenhof || Agroscope
 Directeur de travaux (f/h/d) || Jobup
@@ -129,13 +129,13 @@ Site Reliability Engineer (SRE) - Mail || Jobup
 Juriste || Jobup
 Responsable Sécurité Electrique || Jobup
 Directrice ou Directeur des Blocs opératoires - 100% || Hôpitaux universitaires de Genève (HUG)
-Polydesigner 3D (apprentissage) || Pfister AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Data DevOps Engineer (122516) || Banque Pictet & Cie SA
+Career Opportunities: Technical Architect - Funds & Fees (122635) || Pictet Asset Management SA
 Full-StackDeveloper || Goodcode SA
 Career Opportunities: Technical Architect - Funds & Fees (122635) || Pictet Asset Management SA
 Group Product Manager, Compute Engine, SAP - Google Careers || Google
-Career Opportunities: Technical Architect - Funds & Fees (122635) || Pictet Asset Management SA
 Technical Program Manager, Anti-Abuse Solutions, Account Device Integrity - Google Careers || Google
 Engineering Manager || SonarSource SA
 SAP Solution Consultant Schwerpunkt QM || Coopers Group AG
@@ -151,9 +151,9 @@ IT SoftwareDeveloper.NET / C m/w (80-100%) || Yellowshark
 Assistant Manager Financial Services - AI Business Analyst || KPMG AG
 Principal Mechanical Engineer MedTech (m/f/d) || Work Selection
 BusinessDeveloper- Life Sciences || Jobup
-SoftwareDeveloperC m/w (80-100%) || Yellowshark
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Ingénieur orientation système 80-100% CDI (H/F/D) || Adecco
 IT System Administrator m/w (80-100%) || Yellowshark
 Product Manager C5I (w/m/d) || RUAG SA
 ICT System Engineer 80%-100% || Kanton Basel-Stadt
@@ -173,9 +173,13 @@ Specialista di rete in ambito firewall (824) || Ufficio federale dell'informatic
 Netzwerkspezialist/-in im Bereich Firewall (824) || Bundesamt für Informatik und Telekommunikation BIT
 Senior Software Engineer || Roche
 Solution Engineer Defence (m/w/d) - Bern || Neocleus AG
-Software/System Ingenieur 80-100% (m/w) || Neocleus AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Mitarbeiterin / Mitarbeiter Hauswirtschaft Waffenplatz 50% || Kanton Aargau
+Spécialiste Exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
+Spezialist/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
+Spécialiste de la gestion des affaires || Armée suisse - Base logistique de l'armée BLA
+Spezialist/-in Geschäftsführung || Schweizer Armee - Logistikbasis der Armee LBA
 Stagiaire universitaire Transformation et innovation Défense || Armée suisse - Etat-major de l'armée EM A
 Hochschulpraktikant/-in Transformation & Innovation Verteidigung || Schweizer Armee - Armeestab A Stab
 Collaborateur/trice spécialisé/e pour le service du commissariat || Armée suisse - Commandement de l'Instruction Cdmt Instr
@@ -191,8 +195,3 @@ Product Manager C5I (w/m/d) || RUAG SA
 ICT Architect C5I (w/m/d) || RUAG SA
 DevOps Engineer Virtualisierung || Swisscom AG
 System Engineer Storage || Swisscom AG
-Linux Engineer || Swisscom AG
-Beschaffungscontroller/-in || Bundesamt für Rüstung armasuisse
-Formateur/trice formation professionnelle de base || Armée suisse - Base logistique de l'armée BLA
-Ausbildner/-in berufliche Grundbildung || Schweizer Armee - Logistikbasis der Armee LBA
-Stagiaire universitaire Entreprise Architecture || Armée suisse - Commandement des Opérations Cdmt Op
