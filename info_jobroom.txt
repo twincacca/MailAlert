@@ -1,5 +1,6 @@
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Internship - Building an LLM-Based Assistant for Target Safety Assessments for 12 months || Roche
 Biomedical Data Integration Specialist || Jobup
 Deputy Lead Health & Biomedical - Project & Product Owner || Jobup
 Technical Quality Assurance Manager & CSV Expert || Genedata AG
@@ -13,6 +14,7 @@ Lab Scientist in Functional Proteomics || Roche
 Jr Research Assistant Omics Data Analysis || Nestlé SA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Internship - Building an LLM-Based Assistant for Target Safety Assessments for 12 months || Roche
 Machine Learning Scientist for Drug Discovery || Roche
 Biomedical Data Integration Specialist || Jobup
 Deputy Lead Health & Biomedical - Project & Product Owner || Jobup
@@ -31,7 +33,6 @@ Jr Research Assistant Omics Data Analysis || Nestlé SA
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 QC Compliance Expert für non sterile materials testing in der QC Mikrobiologie (100 %) || Roche
 MicrobiologyExpert - Planning and Coordination Lead || Roche
-Project Leader Quality Control for Drug Product (m/f/d) || Lonza Group
 Bioinformatician (Phage Therapy) || Precise Health SA
 Project Manager (m/f/d) || Bruker
 Head ofMicrobiologyQuality Control Laboratory (m/f/d) - Manager 2 || Merck KGaA
@@ -46,7 +47,6 @@ QC Compliance Expert für non sterile materials testing in der QC Mikrobiologie 
 Technicien QCMicrobiologie || Jobup
 Spécialiste Qualité 80-100 % (h/f/x) || Jobup
 MicrobiologyExpert - Planning and Coordination Lead || Roche
-Project Leader Quality Control for Drug Product (m/f/d) || Lonza Group
 Emmi Schweiz AG  Apprenti-e technologue du lait CFC 2026 100% in Saignelégier || Emmi Group
 Apprenti-e technologue du lait CFC 2026 || Jobup
 Apprenti-e technologue du lait CFC 2026 || Jobup
@@ -62,6 +62,7 @@ Laborantin(e) en Biologie, R&D Bioresearch - CDD de 6 mois || Debiopharm
 Laborantin(e) en Biologie, R&D Bioresearch CDD de 6 mois || Jobup
 Analytical Project Leader Senior / Principal Scientist || Roche
 Sales Manager (m/f/d) || Bruker
+PhD Opening in Bioengineering: Microfluidic in-vitro Barrier Models for Bacterial Lung and Bladder Infections || ETH Zurich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Lab Technician (60-100%, befristet auf 2 Jahre) || Roche
@@ -76,7 +77,6 @@ Asset Excellence Manager || Hays (Schweiz) AG
 Chemielaborant:in USZ Radiopharmazie 60-100% || Universitätsspital Zürich
 Taktischer Einkäufer für direkte Ausgaben (m/w/d) || Skan AG
 LaborantIn 60-80% (m/w/d) || ELAN Personal AG
-Senior Quality Assurance Associate || Hays (Schweiz) AG
 Biomedizinische Analytikerin/Biomedizinischer Analytiker HF 60% - 80% || Spital Muri
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
@@ -113,6 +113,8 @@ Ingénieur·e en technique de l’environnement / CDD 80% || Environnement indus
 Responsable du Centre des fruits à noyau Breitenhof || Agroscope
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+AWS BackendDeveloper || Post CH AG
+Career Opportunities: Data DevOps Engineer (122516) || Pictet Asset Management SA
 Partner Development Manager || Microsoft
 Fullstack React /Node.jsDeveloper(H/F) || Jobup
 Career Opportunities: Data DevOps Engineer (122516) || Pictet Asset Management SA
@@ -120,14 +122,12 @@ Web Applications & Automation Specialist || ETH Zurich
 Business Analyst Customer Centricity - 80-100%, Bern, Bellinzona, Lausanne, Neuenburg und Homeoffice || Post CH AG
 Software Engineer III, Core Data Processing - Google Careers || Google
 SoftwareDeveloper(all genders) || The Swatch Group SA
-Senior FP&A Reporting Analyst Détails du poste | Richemont || Richemont Suisse SA
 Software Engineer II, YouTube, Feed Ads - Google Careers || Google
 Senior FP&A Reporting Analyst Job Details | Richemont || Richemont Suisse SA
 Web Applications & Automation Specialist || ETH Zürich
 Robotics Systems Engineer (M&W) || DAAV SA
 Freelancer - MS Power PlatformDeveloper(Power BI) || KPMG AG
 BusinessDeveloperHydro (Standort Sils i.D.), 80-100 % || Stadt Zurich
-Career Opportunities: Data DevOps Engineer (122516) || Pictet Asset Management SA
 BusinessDeveloperHydro (Standort Zürich), 80-100 % || Stadt Zurich
 Test Engineer (m/w) || myitjob GmbH
 DevOps Engineer H/F || ALBEDIS - GENEVE
@@ -135,6 +135,9 @@ Junior SAPDeveloper(m/w) 80-100% || myitjob GmbH
 SoftwareDeveloperSalesforce m/w || IT Recruitment GmbH
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Développeur.se Junior – Python / VBA / Support Applicatif || Experis
+IT-Supporter:in 80-100% (m/w/d) - Du weisst, was die Systeme brauchen, bevor sie abstürzen… || PKS Personal AG
+ICT Senior System Engineer 80-100% (m/w) || Yellowshark
 Senior Embedded Software Engineer (m/w) - 80-100% || myitjob GmbH
 Technicien support IT N2 || Jobup
 Senior IT Supporter (m/w) 80-100% || Yellowshark
@@ -152,11 +155,17 @@ Site Reliability Engineer (SRE) - Hosting platforms || Jobup
 Systemadministrator/in (m/w/d) || bbv Software Services AG
 DevOps Engineer H/F || ALBEDIS - GENEVE
 Ingénieur Systèmes et Réseaux 100% CDI (H/F/D) || Adecco
-Technische/-r Analyst/-in Cybersicherheit || Bundesamt für Cybersicherheit BACS
-Analyste technique en cybersécurité || Office fédéral de la cybersécurité OFCS
-Analista tecnico/a per la cibersicurezza || Ufficio federale della cibersicurezza UFCS
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Collaborateur/trice exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
+Mitarbeiter/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
+Zivilschutzinstruktorin / Zivilschutzinstruktor in Ausbildung 100% || Kanton Aargau
+Préposé/e au dépôt de carburant de ravitaillement || Armée suisse - Base logistique de l'armée BLA
+Tankanlagenwart/-in || Schweizer Armee - Logistikbasis der Armee LBA
+Collaborateur/trice exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
+Mitarbeiter/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
+Électronicien/ne en avionique || Armée suisse - Commandement des Opérations Cdmt Op
+Elektroniker/-in Avionik || Schweizer Armee - Kommando Operationen Kdo Op
 Mitarbeiter/in im Sicherheitsdienst 100 % || Public Jobs
 Projektmitarbeiterin / Projektmitarbeiter Lage Bevölkerungsschutz 70% || Public Jobs
 Systembetreuer ABC Schutz (w/m/d) || RUAG SA
@@ -168,12 +177,3 @@ Spécialiste de la Centrale d'alarme du DDPS || Armée suisse - Base logistique 
 Elektronikerin oder Elektroniker Surveillance System (w/m/d) || RUAG SA
 Stellvertreter/in Chef Einsatz Zivilschutz 100% || Kanton Zürich
 KonstrukteurIn / Mechanical Design Engineer (w/m/d) || RUAG SA
-Logisticien/ne || Armée suisse - Base logistique de l'armée BLA
-Logistiker/-in || Schweizer Armee - Logistikbasis der Armee LBA
-Gestionnaire du sourcing TIC (Remplacement de Congé maternité en job sharing) || Armée suisse - Commandement Cyber Cdmt Cyber
-ICT-Sourcing-Manager/-in (Mutterschaftsvertretung im Jobsharing) || Schweizer Armee - Kommando Cyber Kdo Cy
-Business Analyst (w/m/d) || RUAG SA
-Projektmitarbeiterin / Projektmitarbeiter Lage Bevölkerungsschutz 70% || Dep. Gesundheit & Soziales (DGS) Abteilung Militär und Bevölkerungsschutz
-Hochschulpraktikant/-in Krisenmanagement Verteidigung || Schweizer Armee - Kommando Operationen Kdo Op
-Stagiaire universitaire Gestion des crises Défense || Armée suisse - Commandement des Opérations Cdmt Op
-Agent de Sécurité (Patrouille, Opérateur ou Protection) || Jobup
