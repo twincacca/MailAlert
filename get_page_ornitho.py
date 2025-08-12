@@ -8,7 +8,8 @@ url = "https://www.ornitho.ch/index.php?m_id=4&p_c=duration&p_cc=-&sp_tg=1&sp_Da
 output_file = "all_birds.txt"
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)  # Change to True for silent run
+    #browser = p.chromium.launch(headless=False)  # Change to True for silent run
+    browser = p.chromium.launch(headless=True) # for running in github actions
     page = browser.new_page()
     page.goto(url)
 
