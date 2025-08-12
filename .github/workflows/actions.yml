@@ -11,7 +11,7 @@ on:
     branches: [ "main" ]
 
   schedule:
-    - cron: "30 19 * * *" # UTC time
+    - cron: "30 18 * * *" # UTC time
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -71,6 +71,8 @@ jobs:
           # Make a email alert from jobroom
           python get_page_jobroom.py > info_jobroom.txt
 
+          # Make a email alert for birds spotted in ornitho
+          python get_page_ornitho.py # generates all_birds.txt
 
 
           # Also wget lost pets
