@@ -1,3 +1,34 @@
+Region: Airolo [688/155] / Airolo (TI)
+  - Gheppio (Falco tinnunculus)
+----------------------------------------
+
+Region: Airolo [688/156] / Airolo (TI)
+  - Corvi imperiali (Corvus corax)
+----------------------------------------
+
+Region: Arogno [720/91] / Arogno (TI)
+  - Falchi pecchiaioli (Pernis apivorus)
+  - Poiane (Buteo buteo)
+  - Gheppi (Falco tinnunculus)
+  - Corvi imperiali (Corvus corax)
+----------------------------------------
+
+Region: Bolla Rossa / Locarno (TI)
+  - Cigni reali (Cygnus olor)
+  - Germani reali (Anas platyrhynchos)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Garzette (Egretta garzetta)
+  - Aironi cenerini (Ardea cinerea)
+  - Falco di palude (Circus aeruginosus)
+  - Gallinella d'acqua (Gallinula chloropus)
+  - Folaghe (Fulica atra)
+  - Beccaccini (Gallinago gallinago)
+  - Piro-piro culbianco (Tringa ochropus)
+  - Piro-piro boscherecci (Tringa glareola)
+  - Martin pescatore (Alcedo atthis)
+  - Ballerine bianche (Motacilla alba)
+----------------------------------------
+
 Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Cigni reali (Cygnus olor)
   - Falco pescatore (Pandion haliaetus)
@@ -62,6 +93,17 @@ Region: Nante / Airolo (TI)
   - Cardellino (Carduelis carduelis)
 ----------------------------------------
 
+Region: Passo del San Gottardo / Airolo (TI)
+  - Spioncelli (Anthus spinoletta)
+  - Passere scopaiole (Prunella modularis)
+  - Culbianchi (Oenanthe oenanthe)
+  - Corvo imperiale (Corvus corax)
+----------------------------------------
+
+Region: Peccia [686/145] / Peccia (TI)
+  - Pernici bianche (Lagopus muta)
+----------------------------------------
+
 Region: Stabio [716/78] / Stabio (TI)
   - Gheppio (Falco tinnunculus)
   - Tortore dal collare (Streptopelia decaocto)
@@ -85,13 +127,10 @@ Region: Airolo [684/154] / Airolo (TI)
   - Stiaccini (Saxicola rubetra)
   - Culbianchi (Oenanthe oenanthe)
   - Codirossone (Monticola saxatilis)
-  - Gracchi alpini (Pyrrhocorax graculus)
-  - Corvi imperiali (Corvus corax)
 ----------------------------------------
 
 Region: Airolo [690/154] / Airolo (TI)
   - Poiana (Buteo buteo)
-  - Corvi imperiali (Corvus corax)
 ----------------------------------------
 
 Region: Airolo [685/154] / Airolo (TI)
@@ -105,6 +144,18 @@ Region: Airolo [692/151] / Airolo (TI)
 
 Region: Airolo [691/151] / Airolo (TI)
   - Cincia dal ciuffo (Lophophanes cristatus)
+----------------------------------------
+
+Region: Airolo [684/154] / Airolo (TI)
+  - Gracchi alpini (Pyrrhocorax graculus)
+  - Corvi imperiali (Corvus corax)
+----------------------------------------
+
+Region: Airolo [690/154] / Airolo (TI)
+  - Corvi imperiali (Corvus corax)
+----------------------------------------
+
+Region: Airolo [691/151] / Airolo (TI)
   - Fringuello (Fringilla coelebs)
 ----------------------------------------
 
@@ -175,22 +226,6 @@ Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Piro-piro culbianco (Tringa ochropus)
   - Piro-piro boscherecci (Tringa glareola)
   - Piro-piro piccoli (Actitis hypoleucos)
-----------------------------------------
-
-Region: Bolle di Magadino / Tenero-Contra (TI)
-  - Porciglione (Rallus aquaticus)
-----------------------------------------
-
-Region: Bolle di Magadino - Castellaccio / Locarno (TI)
-  - Piro-piro boscherecci (Tringa glareola)
-  - Piro-piro piccolo (Actitis hypoleucos)
-  - Tortora selvatica (Streptopelia turtur)
-  - Balestrucci (Delichon urbicum)
-  - Ballerine gialle (Motacilla cinerea)
-  - Ballerine bianche (Motacilla alba)
-----------------------------------------
-
-Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Zafferano (Larus fuscus)
   - Gabbiani reali (Larus michahellis)
   - Martin pescatori (Alcedo atthis)
@@ -209,6 +244,7 @@ Region: Bolle di Magadino - Bolette / Locarno (TI)
 ----------------------------------------
 
 Region: Bolle di Magadino / Tenero-Contra (TI)
+  - Porciglione (Rallus aquaticus)
   - Picchio rosso minore (Dryobates minor)
   - Pigliamosche (Muscicapa striata)
   - Codibugnoli (Aegithalos caudatus)
@@ -216,6 +252,15 @@ Region: Bolle di Magadino / Tenero-Contra (TI)
   - Cinciallegre (Parus major)
   - Picchi muratori (Sitta europaea)
   - Rigogolo (Oriolus oriolus)
+----------------------------------------
+
+Region: Bolle di Magadino - Castellaccio / Locarno (TI)
+  - Piro-piro boscherecci (Tringa glareola)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Tortora selvatica (Streptopelia turtur)
+  - Balestrucci (Delichon urbicum)
+  - Ballerine gialle (Motacilla cinerea)
+  - Ballerine bianche (Motacilla alba)
 ----------------------------------------
 
 Region: Cabbio [725/84] / Cabbio (TI)
@@ -420,9 +465,6 @@ Region: Stabio [716/78] / Stabio (TI)
   - Pigliamosche (Muscicapa striata)
   - Rampichino comune (Certhia brachydactyla)
   - Gazze (Pica pica)
-  - Cornacchie grigie (Corvus cornix)
-  - Passere d'Italia (Passer italiae)
-  - Cardellino (Carduelis carduelis)
 ----------------------------------------
 
 Region: Stabio [716/77] / Stabio (TI)
@@ -435,13 +477,22 @@ Region: Stabio [716/77] / Stabio (TI)
   - Cince bigie (Poecile palustris)
   - Cinciallegra (Parus major)
   - Gazze (Pica pica)
+----------------------------------------
+
+Region: Stabio [716/78] / Stabio (TI)
   - Cornacchie grigie (Corvus cornix)
   - Passere d'Italia (Passer italiae)
-  - Passere mattugie (Passer montanus)
+  - Cardellino (Carduelis carduelis)
 ----------------------------------------
 
 Region: Stabio [715/77] / Stabio (TI)
   - Cornacchie grigie (Corvus cornix)
+----------------------------------------
+
+Region: Stabio [716/77] / Stabio (TI)
+  - Cornacchie grigie (Corvus cornix)
+  - Passere d'Italia (Passer italiae)
+  - Passere mattugie (Passer montanus)
 ----------------------------------------
 
 Region: Stagno WWF / Stabio (TI)
@@ -454,7 +505,7 @@ Region: Stagno WWF / Stabio (TI)
   - Codirossi spazzacamino (Phoenicurus ochruros)
   - Capinere (Sylvia atricapilla)
   - Codibugnolo (Aegithalos caudatus)
-  - Cincia bigia (Poecile palustris)
+  - Cince bigie (Poecile palustris)
   - Cinciarella (Cyanistes caeruleus)
   - Cinciallegre (Parus major)
   - Picchi muratori (Sitta europaea)
