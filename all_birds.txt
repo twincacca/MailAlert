@@ -1,3 +1,297 @@
+Region: Arbedo-Castione [724/120] / Arbedo-Castione (TI)
+  - Cornacchie grigie (Corvus cornix)
+----------------------------------------
+
+Region: Ascona [705/110] / Ascona (TI)
+  - Svasso maggiore (Podiceps cristatus)
+  - Folaga (Fulica atra)
+----------------------------------------
+
+Region: Bellinzona [723/119] / Bellinzona (TI)
+  - Balestruccio (Delichon urbicum)
+----------------------------------------
+
+Region: Bissone [718/89] / Bissone (TI)
+  - Cormorano (Phalacrocorax carbo)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Bissone [718/88] / Bissone (TI)
+  - Rondini (Hirundo rustica)
+----------------------------------------
+
+Region: Bolle di Magadino - Bolette / Locarno (TI)
+  - Cigni reali (Cygnus olor)
+  - Germani reali (Anas platyrhynchos)
+  - Moretta (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Nitticora (Nycticorax nycticorax)
+  - Garzette (Egretta garzetta)
+  - Airone bianco (Ardea alba)
+  - Aironi cenerini (Ardea cinerea)
+  - Airone rosso (Ardea purpurea)
+  - Falco di palude (Circus aeruginosus)
+  - Falco pescatore (Pandion haliaetus)
+  - Lodolaio (Falco subbuteo)
+  - Folaghe (Fulica atra)
+  - Beccaccia di mare (Haematopus ostralegus)
+  - Corrieri piccoli (Charadrius dubius)
+  - Pettegola (Tringa totanus)
+  - Pantana (Tringa nebularia)
+  - Piro-piro culbianco (Tringa ochropus)
+  - Piro-piro piccoli (Actitis hypoleucos)
+  - Gabbiani reali (Larus michahellis)
+  - Colombacci (Columba palumbus)
+  - Martin pescatori (Alcedo atthis)
+----------------------------------------
+
+Region: Bolle di Magadino - Castellaccio / Locarno (TI)
+  - Germani reali (Anas platyrhynchos)
+  - Astore (Astur gentilis)
+  - Martin pescatori (Alcedo atthis)
+----------------------------------------
+
+Region: Bolle di Magadino - Bolette / Locarno (TI)
+  - Torcicollo (Jynx torquilla)
+  - Picchi verdi (Picus viridis)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Picchi rossi minori (Dryobates minor)
+  - Rondini (Hirundo rustica)
+  - Balestrucci (Delichon urbicum)
+  - Cutrettola (Motacilla flava)
+  - Ballerine gialle (Motacilla cinerea)
+  - Ballerine bianche (Motacilla alba)
+  - Usignolo (Luscinia megarhynchos)
+  - Merlo (Turdus merula)
+  - Cannaiole comuni (Acrocephalus scirpaceus)
+  - Luì piccoli (Phylloscopus collybita)
+  - Regolo (Regulus regulus)
+  - Pigliamosche (Muscicapa striata)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cinciarella (Cyanistes caeruleus)
+  - Picchi muratori (Sitta europaea)
+  - Rampichini comuni (Certhia brachydactyla)
+  - Averla piccola (Lanius collurio)
+  - Cornacchie grigie (Corvus cornix)
+  - Passere mattugie (Passer montanus)
+  - Frosone (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Bolle di Magadino - Castellaccio / Locarno (TI)
+  - Ballerine bianche (Motacilla alba)
+  - Rigogolo (Oriolus oriolus)
+----------------------------------------
+
+Region: Bosco/Gurin [681/130] / Bosco/Gurin (TI)
+  - Colombaccio (Columba palumbus)
+----------------------------------------
+
+Region: Cabbio [725/85] / Cabbio (TI)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+
+Region: Cabbio [726/85] / Cabbio (TI)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+
+Region: Cabbio [726/84] / Cabbio (TI)
+  - Rondini (Hirundo rustica)
+----------------------------------------
+
+Region: Capolago [719/84] / Capolago (TI)
+  - Tortore dal collare (Streptopelia decaocto)
+  - Cornacchie grigie (Corvus cornix)
+----------------------------------------
+
+Region: Caviano [703/106] / Caviano (TI)
+  - Poiana (Buteo buteo)
+  - Gheppio (Falco tinnunculus)
+  - Picchi verdi (Picus viridis)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Codirosso (Phoenicurus phoenicurus)
+  - Tordela (Turdus viscivorus)
+  - Pigliamosche (Muscicapa striata)
+  - Balie nere (Ficedula hypoleuca)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegra (Parus major)
+  - Picchio muratore (Sitta europaea)
+  - Rampichino comune (Certhia brachydactyla)
+  - Averla piccola (Lanius collurio)
+  - Corvi imperiali (Corvus corax)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Contone [714/112] / Contone (TI)
+  - Merlo (Turdus merula)
+----------------------------------------
+
+Region: Dalpe [702/148] / Dalpe (TI)
+  - Ballerine bianche (Motacilla alba)
+  - Codirossi spazzacamino (Phoenicurus ochruros)
+  - Codirosso (Phoenicurus phoenicurus)
+  - Picchio muratore (Sitta europaea)
+  - Averle piccole (Lanius collurio)
+  - Ghiandaie (Garrulus glandarius)
+  - Fringuelli (Fringilla coelebs)
+  - Verzellini (Serinus serinus)
+  - Verdone (Chloris chloris)
+----------------------------------------
+
+Region: Lanca del Trodo / Magadino (TI)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Aironi cenerini (Ardea cinerea)
+  - Gallinelle d'acqua (Gallinula chloropus)
+----------------------------------------
+
+Region: Ligornetto [717/80] / Ligornetto (TI)
+  - Gheppio (Falco tinnunculus)
+  - Tortore dal collare (Streptopelia decaocto)
+  - Allocco (Strix aluco)
+  - Picchio verde (Picus viridis)
+  - Rondini (Hirundo rustica)
+  - Balestrucci (Delichon urbicum)
+  - Codirossi spazzacamino (Phoenicurus ochruros)
+  - Ghiandaia (Garrulus glandarius)
+  - Gazza (Pica pica)
+  - Cornacchia grigia (Corvus cornix)
+----------------------------------------
+
+Region: Lottigna [715/147] / Lottigna (TI)
+  - Rondoni maggiori (Tachymarptis melba)
+----------------------------------------
+
+Region: Lugano [717/95] / Lugano (TI)
+  - Germano reale (Anas platyrhynchos)
+----------------------------------------
+
+Region: Magadino / Isola del Trodo / Magadino (TI)
+  - Sparviere (Accipiter nisus)
+----------------------------------------
+
+Region: Meandri del Laveggio / Genestrerio (TI)
+  - Piccioni domestici (Columba livia f. domestica)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Melide [717/90] / Melide (TI)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Muggio [724/86] / Muggio (TI)
+  - Poiana (Buteo buteo)
+  - Gheppi (Falco tinnunculus)
+----------------------------------------
+
+Region: Muggio [725/86] / Muggio (TI)
+  - Rondini (Hirundo rustica)
+  - Codirossi spazzacamino (Phoenicurus ochruros)
+  - Zigoli gialli (Emberiza citrinella)
+----------------------------------------
+
+Region: Muralto [705/114] / Muralto (TI)
+  - Germani reali (Anas platyrhynchos)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorano (Phalacrocorax carbo)
+  - Folaghe (Fulica atra)
+----------------------------------------
+
+Region: Parco Ciani / Lugano (TI)
+  - Cornacchia grigia (Corvus cornix)
+----------------------------------------
+
+Region: Quinto [697/153] / Quinto (TI)
+  - Fagiano di monte (Lyrurus tetrix)
+----------------------------------------
+
+Region: Quinto [697/154] / Quinto (TI)
+  - Fagiano di monte (Lyrurus tetrix)
+----------------------------------------
+
+Region: Quinto [699/150] / Quinto (TI)
+  - Picchio verde (Picus viridis)
+----------------------------------------
+
+Region: Quinto [699/151] / Quinto (TI)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Scricciolo (Troglodytes troglodytes)
+----------------------------------------
+
+Region: Quinto [698/153] / Quinto (TI)
+  - Pettirosso (Erithacus rubecula)
+----------------------------------------
+
+Region: Quinto [699/150] / Quinto (TI)
+  - Merlo (Turdus merula)
+  - Cincia dal ciuffo (Lophophanes cristatus)
+  - Fringuello (Fringilla coelebs)
+----------------------------------------
+
+Region: Quinto [699/152] / Quinto (TI)
+  - Tordele (Turdus viscivorus)
+  - Cincia dal ciuffo (Lophophanes cristatus)
+----------------------------------------
+
+Region: Quinto [699/151] / Quinto (TI)
+  - Capinere (Sylvia atricapilla)
+  - Luì piccolo (Phylloscopus collybita)
+  - Picchio muratore (Sitta europaea)
+  - Ghiandaia (Garrulus glandarius)
+  - Nocciolaia (Nucifraga caryocatactes)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Quinto [698/153] / Quinto (TI)
+  - Cincia mora (Periparus ater)
+  - Ghiandaie (Garrulus glandarius)
+  - Nocciolaia (Nucifraga caryocatactes)
+----------------------------------------
+
+Region: Quinto [697/153] / Quinto (TI)
+  - Ghiandaie (Garrulus glandarius)
+  - Nocciolaie (Nucifraga caryocatactes)
+----------------------------------------
+
+Region: Sementina [718/115] / Sementina (TI)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Sigirino [715/103] / Sigirino (TI)
+  - Balestrucci (Delichon urbicum)
+----------------------------------------
+
+Region: Stabio [716/78] / Stabio (TI)
+  - Tortora dal collare (Streptopelia decaocto)
+  - Rondini (Hirundo rustica)
+  - Balestruccio (Delichon urbicum)
+  - Cornacchia grigia (Corvus cornix)
+----------------------------------------
+
+Region: Tesserete [718/103] / Tesserete (TI)
+  - Rondoni maggiori (Tachymarptis melba)
+  - Balestrucci (Delichon urbicum)
+  - Rampichino comune (Certhia brachydactyla)
+  - Ghiandaie (Garrulus glandarius)
+----------------------------------------
+
+Region: Torricella-Taverne [715/102] / Torricella-Taverne (TI)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: vecchio braccio del Ticino / Magadino (TI)
+  - Cormorani (Phalacrocorax carbo)
+  - Martin pescatore (Alcedo atthis)
+  - Picchio rosso minore (Dryobates minor)
+  - Cince bigie (Poecile palustris)
+  - Cinciallegre (Parus major)
+----------------------------------------
+
+Region: Vezia [715/97] / Vezia (TI)
+  - Rondine (Hirundo rustica)
+----------------------------------------
+
 Region: Airolo [685/157] / Airolo (TI)
   - Grifoni (Gyps fulvus)
 ----------------------------------------
@@ -79,12 +373,21 @@ Region: Brione (Verzasca) [704/126] / Brione (Verzasca) (TI)
   - Rondini montane (Ptyonoprogne rupestris)
 ----------------------------------------
 
+Region: Campagna Adorna / Mendrisio (TI)
+  - Ballerina bianca (Motacilla alba)
+  - Codirosso spazzacamino (Phoenicurus ochruros)
+----------------------------------------
+
 Region: Campo (Blenio) [711/158] / Blenio (TI)
   - Grifoni (Gyps fulvus)
 ----------------------------------------
 
 Region: Contone [714/112] / Contone (TI)
   - Sparviere (Accipiter nisus)
+----------------------------------------
+
+Region: Crocetta / Genestrerio (TI)
+  - Cornacchie grigie (Corvus cornix)
 ----------------------------------------
 
 Region: Dalpe [702/147] / Dalpe (TI)
@@ -105,21 +408,43 @@ Region: Dalpe [702/148] / Dalpe (TI)
 ----------------------------------------
 
 Region: Foce Fiume Ticino / Locarno (TI)
+  - Cigni reali (Cygnus olor)
   - Germani reali (Anas platyrhynchos)
   - Morette (Aythya fuligula)
   - Smerghi maggiori (Mergus merganser)
+  - Tuffetti (Tachybaptus ruficollis)
   - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Garzette (Egretta garzetta)
+  - Aironi bianchi (Ardea alba)
   - Aironi cenerini (Ardea cinerea)
   - Falco di palude (Circus aeruginosus)
   - Falco pescatore (Pandion haliaetus)
-  - Gallinella d'acqua (Gallinula chloropus)
+  - Gallinelle d'acqua (Gallinula chloropus)
   - Folaghe (Fulica atra)
+  - Beccaccia di mare (Haematopus ostralegus)
   - Avocetta (Recurvirostra avosetta)
   - Piro-piro culbianco (Tringa ochropus)
+  - Piro-piro piccoli (Actitis hypoleucos)
+  - Gabbiano corallino (Ichthyaetus melanocephalus)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
   - Gabbiani reali (Larus michahellis)
+  - Mignattino indet. (Chlidonias sp.)
+  - Colombacci (Columba palumbus)
   - Martin pescatori (Alcedo atthis)
+  - Rondini (Hirundo rustica)
+  - Balestrucci (Delichon urbicum)
   - Ballerine gialle (Motacilla cinerea)
   - Ballerine bianche (Motacilla alba)
+  - Cornacchie grigie (Corvus cornix)
+  - Storni (Sturnus vulgaris)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Genestrerio [717/78] / Genestrerio (TI)
+  - Scricciolo (Troglodytes troglodytes)
+  - Merli (Turdus merula)
+  - Ghiandaia (Garrulus glandarius)
 ----------------------------------------
 
 Region: Laghetto di Gudo / Gudo (TI)
@@ -135,14 +460,21 @@ Region: Lago Retico / Blenio (TI)
 ----------------------------------------
 
 Region: Ligornetto [717/80] / Ligornetto (TI)
+  - Rapace indeterminato (Accipitriformes / Falconiformes sp.)
   - Piccioni domestici (Columba livia f. domestica)
   - Tortore dal collare (Streptopelia decaocto)
+  - Allocco (Strix aluco)
   - Picchio verde (Picus viridis)
   - Rondini (Hirundo rustica)
   - Balestrucci (Delichon urbicum)
-  - Codirosso spazzacamino (Phoenicurus ochruros)
+  - Codirossi spazzacamino (Phoenicurus ochruros)
   - Ghiandaia (Garrulus glandarius)
   - Gazza (Pica pica)
+  - Cornacchia grigia (Corvus cornix)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Ligornetto [718/80] / Ligornetto (TI)
   - Cornacchia grigia (Corvus cornix)
 ----------------------------------------
 
@@ -184,8 +516,17 @@ Region: Meride [717/83] / Meride (TI)
   - Fringuello (Fringilla coelebs)
 ----------------------------------------
 
+Region: Novazzano [720/77] / Novazzano (TI)
+  - Rondoni maggiori (Tachymarptis melba)
+  - Rondini (Hirundo rustica)
+  - Ghiandaia (Garrulus glandarius)
+----------------------------------------
+
 Region: Nucleo / Novazzano (TI)
+  - Rondoni maggiori (Tachymarptis melba)
   - Picchio rosso maggiore (Dendrocopos major)
+  - Rondini (Hirundo rustica)
+  - Codirosso spazzacamino (Phoenicurus ochruros)
 ----------------------------------------
 
 Region: Olivone [709/154] / Olivone (TI)
@@ -217,8 +558,43 @@ Region: Peccia [684/145] / Peccia (TI)
   - Balestrucci (Delichon urbicum)
 ----------------------------------------
 
+Region: Quinto [699/151] / Quinto (TI)
+  - Grifoni (Gyps fulvus)
+----------------------------------------
+
+Region: Quinto [699/150] / Quinto (TI)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
 Region: Quinto [694/154] / Quinto (TI)
   - Nocciolaia (Nucifraga caryocatactes)
+----------------------------------------
+
+Region: Stabio [716/78] / Stabio (TI)
+  - Piccioni domestici (Columba livia f. domestica)
+  - Tortore dal collare (Streptopelia decaocto)
+  - Picchi verdi (Picus viridis)
+----------------------------------------
+
+Region: Stabio [716/77] / Stabio (TI)
+  - Picchio verde (Picus viridis)
+  - Rondini (Hirundo rustica)
+----------------------------------------
+
+Region: Stabio [716/78] / Stabio (TI)
+  - Balestrucci (Delichon urbicum)
+  - Codirossi spazzacamino (Phoenicurus ochruros)
+  - Gazze (Pica pica)
+  - Cornacchie grigie (Corvus cornix)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Stagno WWF / Stabio (TI)
+  - Germani reali (Anas platyrhynchos)
+  - Airone cenerino (Ardea cinerea)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Ballerina gialla (Motacilla cinerea)
+  - Ballerina bianca (Motacilla alba)
 ----------------------------------------
 
 Region: Stallone/Magadino / Locarno (TI)
@@ -237,241 +613,3 @@ Region: vecchio braccio del Ticino / Magadino (TI)
   - Luì grossi (Phylloscopus trochilus)
   - Picchio muratore (Sitta europaea)
   - Rigogolo (Oriolus oriolus)
-----------------------------------------
-
-Region: Airolo [685/154] / Airolo (TI)
-  - Sparviere (Accipiter nisus)
-----------------------------------------
-
-Region: Airolo [688/155] / Airolo (TI)
-  - Gheppio (Falco tinnunculus)
-----------------------------------------
-
-Region: Airolo [689/158] / Airolo (TI)
-  - Gheppi (Falco tinnunculus)
-----------------------------------------
-
-Region: Airolo [688/156] / Airolo (TI)
-  - Corvi imperiali (Corvus corax)
-----------------------------------------
-
-Region: Alpe Bresciana / Aquila (TI)
-  - Merlo acquaiolo (Cinclus cinclus)
-----------------------------------------
-
-Region: Aquila [720/150] / Aquila (TI)
-  - Culbianco (Oenanthe oenanthe)
-----------------------------------------
-
-Region: Aquila [719/152] / Aquila (TI)
-  - Culbianco (Oenanthe oenanthe)
-----------------------------------------
-
-Region: Arogno [720/91] / Arogno (TI)
-  - Falchi pecchiaioli (Pernis apivorus)
-  - Poiane (Buteo buteo)
-  - Gheppi (Falco tinnunculus)
-  - Corvi imperiali (Corvus corax)
-----------------------------------------
-
-Region: Balerna [722/77] / Balerna (TI)
-  - Piccioni domestici (Columba livia f. domestica)
-----------------------------------------
-
-Region: Bedretto [682/154] / Bedretto (TI)
-  - Grifoni (Gyps fulvus)
-  - Sordone (Prunella collaris)
-----------------------------------------
-
-Region: Bedretto [681/153] / Bedretto (TI)
-  - Grifoni (Gyps fulvus)
-----------------------------------------
-
-Region: Bolla Rossa / Locarno (TI)
-  - Cigni reali (Cygnus olor)
-  - Germani reali (Anas platyrhynchos)
-  - Tuffetti (Tachybaptus ruficollis)
-  - Garzette (Egretta garzetta)
-  - Aironi cenerini (Ardea cinerea)
-  - Falco di palude (Circus aeruginosus)
-  - Falco pescatore (Pandion haliaetus)
-  - Gallinella d'acqua (Gallinula chloropus)
-  - Folaghe (Fulica atra)
-  - Beccaccini (Gallinago gallinago)
-  - Piro-piro culbianco (Tringa ochropus)
-  - Piro-piro boscherecci (Tringa glareola)
-  - Martin pescatore (Alcedo atthis)
-  - Ballerine bianche (Motacilla alba)
-----------------------------------------
-
-Region: Bolle di Magadino - Bolette / Locarno (TI)
-  - Cigni reali (Cygnus olor)
-  - Falco pescatore (Pandion haliaetus)
-  - Avocetta (Recurvirostra avosetta)
-  - Corrieri piccoli (Charadrius dubius)
-  - Piro-piro piccolo (Actitis hypoleucos)
-  - Gabbiani reali (Larus michahellis)
-  - Picchio verde (Picus viridis)
-  - Ballerine bianche (Motacilla alba)
-  - Usignolo (Luscinia megarhynchos)
-  - Codirosso (Phoenicurus phoenicurus)
-  - Pigliamosche (Muscicapa striata)
-  - Codibugnoli (Aegithalos caudatus)
-----------------------------------------
-
-Region: Bolle di Magadino - Castellaccio / Locarno (TI)
-  - Morette (Aythya fuligula)
-  - Smerghi maggiori (Mergus merganser)
-  - Aironi bianchi (Ardea alba)
-  - Piro-piro piccolo (Actitis hypoleucos)
-  - Balestrucci (Delichon urbicum)
-  - Picchio muratore (Sitta europaea)
-  - Ghiandaie (Garrulus glandarius)
-----------------------------------------
-
-Region: Campagna Adorna / Mendrisio (TI)
-  - Balestrucci (Delichon urbicum)
-----------------------------------------
-
-Region: Chiasso [721/76] / Chiasso (TI)
-  - Airone cenerino (Ardea cinerea)
-  - Gheppio (Falco tinnunculus)
-  - Tortora dal collare (Streptopelia decaocto)
-  - Gazze (Pica pica)
-----------------------------------------
-
-Region: Chiasso [720/76] / Chiasso (TI)
-  - Airone cenerino (Ardea cinerea)
-  - Gallinella d'acqua (Gallinula chloropus)
-  - Martin pescatore (Alcedo atthis)
-  - Luì piccoli (Phylloscopus collybita)
-----------------------------------------
-
-Region: Diga della Pèpa / Magadino (TI)
-  - Aironi cenerini (Ardea cinerea)
-----------------------------------------
-
-Region: Foce Fiume Ticino / Locarno (TI)
-  - Cigni reali (Cygnus olor)
-  - Germani reali (Anas platyrhynchos)
-  - Smerghi maggiori (Mergus merganser)
-  - Cormorani (Phalacrocorax carbo)
-  - Folaghe (Fulica atra)
-  - Avocetta (Recurvirostra avosetta)
-  - Corrieri piccoli (Charadrius dubius)
-  - Piro-piro culbianco (Tringa ochropus)
-  - Piro-piro piccoli (Actitis hypoleucos)
-  - Gabbiani reali (Larus michahellis)
-  - Colombaccio (Columba palumbus)
-  - Martin pescatore (Alcedo atthis)
-  - Ballerine gialle (Motacilla cinerea)
-  - Ballerine bianche (Motacilla alba)
-  - Cornacchie grigie (Corvus cornix)
-----------------------------------------
-
-Region: Ghirone [716/158] / Ghirone (TI)
-  - Rondini montane (Ptyonoprogne rupestris)
-----------------------------------------
-
-Region: Gresso [691/122] / Gresso (TI)
-  - Fagiani di monte (Lyrurus tetrix)
-----------------------------------------
-
-Region: Lido Conca d'Oro / Paradiso (TI)
-  - Moriglione (Aythya ferina)
-----------------------------------------
-
-Region: Ligornetto [717/80] / Ligornetto (TI)
-  - Piccioni domestici (Columba livia f. domestica)
-  - Tortore dal collare (Streptopelia decaocto)
-  - Allocco (Strix aluco)
-  - Rondini (Hirundo rustica)
-  - Balestrucci (Delichon urbicum)
-  - Codirossi spazzacamino (Phoenicurus ochruros)
-  - Gazza (Pica pica)
-  - Cornacchie grigie (Corvus cornix)
-  - Passere d'Italia (Passer italiae)
-----------------------------------------
-
-Region: Ligornetto [717/79] / Ligornetto (TI)
-  - Tortora dal collare (Streptopelia decaocto)
-----------------------------------------
-
-Region: Ligornetto [718/80] / Ligornetto (TI)
-  - Cornacchie grigie (Corvus cornix)
-----------------------------------------
-
-Region: Losone [701/114] / Losone (TI)
-  - Codirosso spazzacamino (Phoenicurus ochruros)
-----------------------------------------
-
-Region: Meride [717/83] / Meride (TI)
-  - Airone cenerino (Ardea cinerea)
-  - Poiana (Buteo buteo)
-  - Allocco (Strix aluco)
-  - Picchio verde (Picus viridis)
-  - Rondini (Hirundo rustica)
-  - Cince bigie (Poecile palustris)
-  - Cinciarelle (Cyanistes caeruleus)
-  - Cinciallegre (Parus major)
-  - Cornacchia grigia (Corvus cornix)
-----------------------------------------
-
-Region: Nante / Airolo (TI)
-  - Nocciolaia (Nucifraga caryocatactes)
-  - Cardellino (Carduelis carduelis)
-----------------------------------------
-
-Region: Onsernone [687/117] / Onsernone (TI)
-  - Gheppio (Falco tinnunculus)
-  - Rondini montane (Ptyonoprogne rupestris)
-  - Balestrucci (Delichon urbicum)
-  - Ballerina bianca (Motacilla alba)
-  - Averle piccole (Lanius collurio)
-  - Ghiandaia (Garrulus glandarius)
-  - Nocciolaia (Nucifraga caryocatactes)
-  - Corvo imperiale (Corvus corax)
-----------------------------------------
-
-Region: Passo del San Gottardo / Airolo (TI)
-  - Germani reali (Anas platyrhynchos)
-  - Cormorano (Phalacrocorax carbo)
-  - Nibbio bruno (Milvus migrans)
-  - Nibbio reale (Milvus milvus)
-  - Gipeto (Gypaetus barbatus)
-  - Grifoni (Gyps fulvus)
-  - Sparviere (Accipiter nisus)
-  - Gheppi (Falco tinnunculus)
-  - Spioncelli (Anthus spinoletta)
-  - Ballerina gialla (Motacilla cinerea)
-  - Ballerina bianca (Motacilla alba)
-  - Passere scopaiole (Prunella modularis)
-  - Codirosso spazzacamino (Phoenicurus ochruros)
-  - Culbianchi (Oenanthe oenanthe)
-  - Luì grosso (Phylloscopus trochilus)
-  - Gracchi alpini (Pyrrhocorax graculus)
-  - Corvi imperiali (Corvus corax)
-  - Cardellino (Carduelis carduelis)
-  - Fanelli (Linaria cannabina)
-  - Organetti minori (Acanthis flammea cabaret)
-----------------------------------------
-
-Region: Peccia [686/145] / Peccia (TI)
-  - Pernici bianche (Lagopus muta)
-----------------------------------------
-
-Region: Quinto [695/156] / Quinto (TI)
-  - Sparviere (Accipiter nisus)
-----------------------------------------
-
-Region: Quinto [695/155] / Quinto (TI)
-  - Codirossone (Monticola saxatilis)
-----------------------------------------
-
-Region: Stabio [716/78] / Stabio (TI)
-  - Gheppio (Falco tinnunculus)
-  - Tortore dal collare (Streptopelia decaocto)
-  - Codirossi spazzacamino (Phoenicurus ochruros)
-  - Capinera (Sylvia atricapilla)
-  - Cornacchie grigie (Corvus cornix)
-  - Passere d'Italia (Passer italiae)
