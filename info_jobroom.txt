@@ -2,43 +2,33 @@
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Linux and HPC System Administrator || Universität Bern
 RNA Biology Scientists || Roche
-Research Scientist || Coopers Group AG
 Internship - Building an LLM-Based Assistant for Target Safety Assessments for 12 months || Roche
 Research Software Engineer || ETH Zurich
 Biomedical Data Integration Specialist || Jobup
 Deputy Lead Health & Biomedical - Project & Product Owner || Jobup
 Technical Quality Assurance Manager & CSV Expert || Genedata AG
 Mass Spectrometry / Proteomics Expert || ETH Zürich
-Scientific Researcher Position (80%) || Jobup
 Bioinformatician for Computational Genomics and Omics Data Analysis || ETH Zurich
-BioinformaticsSoftware Engineer for microbiome research || ETH Zurich
-PhD position in Computational Genomics || ETH Zurich
 Lab Scientist in Functional Proteomics || Roche
 Jr Research Assistant Omics Data Analysis || Nestlé SA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Linux and HPC System Administrator || Universität Bern
 RNA Biology Scientists || Roche
-Research Scientist || Coopers Group AG
 Internship - Building an LLM-Based Assistant for Target Safety Assessments for 12 months || Roche
-Machine Learning Scientist for Drug Discovery || Roche
 Research Software Engineer || ETH Zurich
 Biomedical Data Integration Specialist || Jobup
 Deputy Lead Health & Biomedical - Project & Product Owner || Jobup
 Technical Quality Assurance Manager & CSV Expert || Genedata AG
 Mass Spectrometry / Proteomics Expert || ETH Zürich
-Scientific Researcher Position (80%) || Jobup
 Senior Biomarker Scientist, BioX Genetics and Genomics Chapter || Roche
 Bioinformaticianfor Computational Genomics and Omics Data Analysis || ETH Zurich
-BioinformaticsSoftware Engineer for microbiome research || ETH Zurich
-PhD position in Computational Genomics || ETH Zurich
 Lab Scientist in Functional Proteomics || Roche
 Data Scientist (m/w) - 60-80% || myitjob GmbH
 Jr Research Assistant Omics Data Analysis || Nestlé SA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Scientist QC Environmental Monitoring & SGIE 80%-100% || Lonza Group
-Research Scientist || Coopers Group AG
 Associate Principal ScientistMicrobiology, Quality Control 80-100% || Lonza Group
 QC Compliance Expert für non sterile materials testing in der QC Mikrobiologie (100 %) || Roche
 MicrobiologyExpert - Planning and Coordination Lead || Roche
@@ -52,7 +42,6 @@ Laboratory Technician || Nestlé SA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Scientist QC Environmental Monitoring & SGIE 80%-100% || Lonza Group
-Research Scientist || Coopers Group AG
 Associate Principal ScientistMicrobiology, Quality Control 80-100% || Lonza Group
 QC Compliance Expert für non sterile materials testing in der QC Mikrobiologie (100 %) || Roche
 Technicien QCMicrobiologie || Jobup
@@ -71,8 +60,10 @@ Field Service Engineer (m/f/d) || Bruker
 Laborantin(e) en Biologie, R&D Bioresearch - CDD de 6 mois || Debiopharm
 Laborantin(e) en Biologie, R&D Bioresearch CDD de 6 mois || Jobup
 Analytical Project Leader Senior / Principal Scientist || Roche
+Sales Manager (m/f/d) || Bruker
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laborant Qualitätskontrolle mit HPLC-Erfahrung (m/w/d) || Temmentec AG
 Research Scientist (m/w/d) || Syngenta
 Biologielaborantin / Biologielaborantbr/Lebens- und Futtermittel (w/m/d) || UFAG Laboratorien AG
 Biomedizinische/r Analytiker/in HF (80-100%) || Spitäler Schaffhausen
@@ -97,13 +88,11 @@ PhD - Development of new metrics for assessing the regenerative capacity of buil
 Postdoctoral Researcher in Forest Model Scalability || ETH Zurich
 Scientific Expert Plant Microbe Chemical Signal (m/f/d) || Syngenta Crop Protection AG Forschung & Entwicklung
 Statistician 80 - 100 % || Universität Zürich
-PhD Position in ForestEcologyand Silviculture || ETH Zurich
 PhD Assisted Migration || ETH Zurich
 PostDoc or Scientist on material dynamics in view of a carbon-binding society (80 - 100%) || Empa
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Coordinateur/trice du projet Marketing (H/F) Stage et/ou Parcours de reconversion ou d-insertion professionnelle || Jobup
-Chargé(e) de Projet Community Management Durable (H/F) || Jobup
 Responsable de projet climat/froid || CTA AG
 Stagiaire (h/f) dans le domaine des espèces exotiques envahissantes || Office fédéral de l'environnement OFEV
 Stagista universitario nel settore delle specie esotiche invasive || Ufficio federale dell'ambiente UFAM
@@ -122,9 +111,14 @@ Responsable de pôle environnement || Jobup
 Responsable de pôle environnement Détails du poste | Aéroport International de Genève || Genève Aéroport
 Site Reliability Engineer (SRE) - Hosting platforms || Jobup
 Inspecteur/trice Suisse Romande || Inspection fédérale des installations à courant fort ESTI
+Assistant·e Ressources Humaines - Pôle RH Administratif (Stage et/ou Parcours de reconversion ou d-insertion professionnelle) || Jobup
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+CI/CD & DevEx Engineer || Post CH AG
+CI/CD & DevEx Engineer || Post CH AG
+Wirtschaftsinformatiker / ICT-Applikationsentwickler (WebDeveloper) || Blackpoints AG
 Environmental Sustainability Assessment Engineer (m/f/d) || Syngenta Crop Protection AG
+Career Opportunities: Data DevOps Engineer (122516) || Pictet Asset Management SA
 Senior AIDeveloper || Jobup
 (Senior) Backend Engineer (Cloud-Native Banking Solutions) || Avaloq
 Graduate - Data Engineer (Financial Services) || KPMG AG
@@ -140,12 +134,13 @@ Jr DatabaseDeveloper || LHH
 Business Tester Instant Payment Transformation || UBS
 LC-MS Bioanalytical AssayDeveloperfor Oligonucleotide and Small Molecule Therapeutics (m/f/d) || Roche
 Code and WebDeveloper || Jobup
-ICT Solution Architect (w/m/d) || Work Selection
-Business Intelligence Architect/Developer || LHH
-Behavioral Lab Operator || ETH Zürich
-Scrum Master 70 % || Finanzverwaltung des Kantons Bern
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+CI/CD & DevEx Engineer || Post CH AG
+CI/CD & DevEx Engineer || Post CH AG
+Ingénieure/Ingénieur CI/CD et DevEx || Post CH AG
+R69581 Data Center Manager (f/m/d) || Lonza AG
+Wirtschaftsinformatiker / ICT-Applikationsentwickler (Web Developer) || Blackpoints AG
 IT System Administrator 50–80% (m/w/d) - Sie sind der Herzschrittmacher der IT und geben den Takt an… || PKS Personal AG
 Senior Consultant Virtualisierung (m/w/d) – mit Option Teamleitung || LAKE SOLUTIONS AG
 Linuxand HPC System Administrator || Universität Bern
@@ -161,13 +156,19 @@ System Engineer Cloud 80%-100% || Kanton Basel-Stadt, Finanzdepartement
 System Engineer - Senior 80-100% (m/w/d) || Galliker Service AG
 Junior Operations Engineer m/w || IT Recruitment GmbH
 Teamleiter Support und Systemtechnik (m/w) 100% || Yellowshark
-IT Supporter m/w (80-100%) || Yellowshark
-Ingénieur Systèmes et Réseaux 100% CDI (H/F/D) || Adecco
-Ingénieur orientation système 80-100% CDI (H/F/D) || Adecco
-Project Engineer / Systems Engineer von Anlagen für Detektion von Naturgefahren || Geopraevent AG
-Responsable en Informatique industrielle & Automation || Experis
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Hochschulpraktikant/in Personensicherheitsprüfungen Payerne || Generalsekretariat VBS - Staatssekretariat für Sicherheitspolitik SEPOS
+Automobilmechatroniker/-in || Schweizer Armee - Logistikbasis der Armee LBA
+Mécatronicien/ne d'automobiles || Armée suisse - Base logistique de l'armée BLA
+Logistiker/-in (Lager Schattdorf/Steinerberg) || Schweizer Armee - Logistikbasis der Armee LBA
+Logisticien/ne (magasin Schattdorf/Steinerberg) || Armée suisse - Base logistique de l'armée BLA
+Mitarbeiter/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
+Collaborateur/trice dans le domaine de l'exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
+Cyber Engineer (Threat Hunting & Intelligence Expert) || Schweizer Armee - Kommando Cyber Kdo Cy
+Ingénieur cyber (Threat Hunting & Intelligence Expert) || Armée suisse - Commandement Cyber Cdmt Cyber
+Bekleidungsgestalter/-in (Fachrichtung Damen-/Herrenbekleidung) || Schweizer Armee - Logistikbasis der Armee LBA
+Créateur/créatrice de vêtements (spécialisation vêtements pour femmes/hommes) || Armée suisse - Base logistique de l'armée BLA
 Logistiker/-in Vorortlager || Schweizer Armee - Logistikbasis der Armee LBA
 Logisticien/ne en entrepôt de stockage sur site || Armée suisse - Base logistique de l'armée BLA
 Projektmanager/-in Kompetenzzentrum Drohnen und Robotik || Schweizer Armee - Kommando Operationen Kdo Op
@@ -177,14 +178,3 @@ Systemplaner/-in E-Learning || Schweizer Armee - Kommando Ausbildung Kdo Ausb
 Fachexperte/-in Qualitätssicherung Fahrzeugprüfungen || Schweizer Armee - Logistikbasis der Armee LBA
 Expert/e technique en assurance qualité pour le contrôle de véhicules || Armée suisse - Base logistique de l'armée BLA
 Disponent/-in Betriebspersonal || Schweizer Armee - Kommando Ausbildung Kdo Ausb
-Gestionnaire du personnel d'exploitation || Armée suisse - Commandement de l'Instruction Cdmt Instr
-Systembetreuer ABC Schutz (w/m/d) || RUAG SA
-System/Netzwerk- ArchitektIn (w/m/d) || RUAG SA
-Systemtechniker Aufklärungs-Systeme (SIGINT) inkl. Wettersysteme (w/m/d) || RUAG SA
-Order Manager Heli Global Business (w/m/d) || RUAG SA
-Order Manager (w/m/d) || RUAG SA
-System Manager (w/m/d) || RUAG SA
-Leiter/-in Administration/Kanzlei || Schweizer Armee - Kommando Ausbildung Kdo Ausb
-Responsable administration/chancellerie || Armée suisse - Commandement de l'Instruction Cdmt Instr
-Sellier/ère || Armée suisse - Base logistique de l'armée BLA
-Sattler/-in || Schweizer Armee - Logistikbasis der Armee LBA
