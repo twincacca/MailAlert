@@ -1,3 +1,244 @@
+Region: Arogno [720/90] / Arogno (TI)
+  - Balestrucci (Delichon urbicum)
+----------------------------------------
+
+Region: Biasca [718/136] / Biasca (TI)
+  - Rondoni maggiori (Tachymarptis melba)
+  - Bigiarella (Curruca curruca)
+----------------------------------------
+
+Region: Bolla Rossa / Locarno (TI)
+  - Cigni reali (Cygnus olor)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Mestoloni (Spatula clypeata)
+  - Canapiglie (Mareca strepera)
+  - Marzaiole (Spatula querquedula)
+  - Moriglioni (Aythya ferina)
+  - Morette (Aythya fuligula)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Garzette (Egretta garzetta)
+  - Aironi bianchi (Ardea alba)
+  - Aironi cenerini (Ardea cinerea)
+  - Airone rosso (Ardea purpurea)
+  - Cicogna nera (Ciconia nigra)
+  - Falco di palude (Circus aeruginosus)
+  - Astore (Astur gentilis)
+  - Sparviere (Accipiter nisus)
+  - Poiana (Buteo buteo)
+  - Falchi pescatori (Pandion haliaetus)
+  - Lodolaio (Falco subbuteo)
+  - Porciglioni (Rallus aquaticus)
+  - Voltolino (Porzana porzana)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Folaghe (Fulica atra)
+  - Beccaccia di mare (Haematopus ostralegus)
+  - Corrieri grossi (Charadrius hiaticula)
+  - Gambecchi comuni (Calidris minuta)
+  - Beccaccini (Gallinago gallinago)
+  - Pantane (Tringa nebularia)
+  - Piro-piro culbianco (Tringa ochropus)
+  - Piro-piro boscherecci (Tringa glareola)
+  - Piro-piro piccoli (Actitis hypoleucos)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gabbiani reali (Larus michahellis)
+  - Mignattino comune (Chlidonias niger)
+  - Tortora selvatica (Streptopelia turtur)
+  - Martin pescatore (Alcedo atthis)
+  - Picchi verdi (Picus viridis)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Picchio rosso minore (Dryobates minor)
+  - Rondini (Hirundo rustica)
+  - Cutrettola (Motacilla flava)
+  - Ballerine bianche (Motacilla alba)
+  - Pettazzurro (Luscinia svecica)
+  - Stiaccino (Saxicola rubetra)
+  - Usignolo di fiume (Cettia cetti)
+  - Forapaglie comune (Acrocephalus schoenobaenus)
+  - Cannaiola comune (Acrocephalus scirpaceus)
+  - Cannareccione (Acrocephalus arundinaceus)
+  - Capinere (Sylvia atricapilla)
+  - Balia nera (Ficedula hypoleuca)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Picchi muratori (Sitta europaea)
+  - Rampichini comuni (Certhia brachydactyla)
+  - Averla piccola (Lanius collurio)
+  - Ghiandaie (Garrulus glandarius)
+  - Storni (Sturnus vulgaris)
+  - Fringuelli (Fringilla coelebs)
+  - Frosoni (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Bolle di Magadino / Tenero-Contra (TI)
+  - Falco di palude (Circus aeruginosus)
+  - Falco pescatore (Pandion haliaetus)
+  - Corrieri piccoli (Charadrius dubius)
+  - Corrieri grossi (Charadrius hiaticula)
+  - Gambecchi comuni (Calidris minuta)
+  - Beccaccini (Gallinago gallinago)
+  - Pantane (Tringa nebularia)
+  - Picchio verde (Picus viridis)
+  - Picchio rosso minore (Dryobates minor)
+  - Cinciarella (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Rampichino comune (Certhia brachydactyla)
+----------------------------------------
+
+Region: Bolle di Magadino - Castellaccio / Locarno (TI)
+  - Balia nera (Ficedula hypoleuca)
+  - Averle piccole (Lanius collurio)
+----------------------------------------
+
+Region: Camping Campofelice / Tenero-Contra (TI)
+  - Svassi maggiori (Podiceps cristatus)
+  - Lodolaio (Falco subbuteo)
+  - Picchio rosso minore (Dryobates minor)
+----------------------------------------
+
+Region: Chiggiogna [706/147] / Chiggiogna (TI)
+  - Airone cenerino (Ardea cinerea)
+----------------------------------------
+
+Region: Chironico [705/141] / Chironico (TI)
+  - Rondoni maggiori (Tachymarptis melba)
+----------------------------------------
+
+Region: Foce del Vedeggio / Agno (TI)
+  - Cigni reali (Cygnus olor)
+  - Germani reali (Anas platyrhynchos)
+  - Marzaiola (Spatula querquedula)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetto (Tachybaptus ruficollis)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Nitticora (Nycticorax nycticorax)
+  - Aironi cenerini (Ardea cinerea)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Folaghe (Fulica atra)
+----------------------------------------
+
+Region: Foce della Maggia / Ascona (TI)
+  - Garzette (Egretta garzetta)
+  - Voltolino (Porzana porzana)
+  - Gambecchio comune (Calidris minuta)
+  - Piovanello pancianera (Calidris alpina)
+  - Pantana (Tringa nebularia)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Martin pescatori (Alcedo atthis)
+----------------------------------------
+
+Region: Foce del Vedeggio / Agno (TI)
+  - Piro-piro boscherecci (Tringa glareola)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Gabbiano comune (Chroicocephalus ridibundus)
+  - Gabbiani reali (Larus michahellis)
+  - Piccioni domestici (Columba livia f. domestica)
+  - Tortora dal collare (Streptopelia decaocto)
+  - Martin pescatore (Alcedo atthis)
+  - Picchi verdi (Picus viridis)
+  - Rondini (Hirundo rustica)
+  - Balestrucci (Delichon urbicum)
+  - Ballerine bianche (Motacilla alba)
+  - Codirosso spazzacamino (Phoenicurus ochruros)
+  - Cannaiole comuni (Acrocephalus scirpaceus)
+  - Capinere (Sylvia atricapilla)
+  - Cornacchie grigie (Corvus cornix)
+  - Passere d'Italia (Passer italiae)
+  - Verzellino (Serinus serinus)
+----------------------------------------
+
+Region: Foce Fiume Ticino / Locarno (TI)
+  - Cigni reali (Cygnus olor)
+  - Germani reali (Anas platyrhynchos)
+  - Morette (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Airone cenerino (Ardea cinerea)
+  - Folaghe (Fulica atra)
+  - Beccaccia di mare (Haematopus ostralegus)
+  - Avocetta (Recurvirostra avosetta)
+  - Pantane (Tringa nebularia)
+  - Piro-piro piccoli (Actitis hypoleucos)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gabbiani reali (Larus michahellis)
+  - Mignattini comuni (Chlidonias niger)
+  - Colombacci (Columba palumbus)
+  - Martin pescatore (Alcedo atthis)
+  - Ballerine bianche (Motacilla alba)
+----------------------------------------
+
+Region: Ligornetto [717/80] / Ligornetto (TI)
+  - Rapace indeterminato (Accipitriformes / Falconiformes sp.)
+  - Tortore dal collare (Streptopelia decaocto)
+  - Rondoni maggiori (Tachymarptis melba)
+  - Picchio verde (Picus viridis)
+  - Rondini (Hirundo rustica)
+  - Balestrucci (Delichon urbicum)
+  - Codirossi spazzacamino (Phoenicurus ochruros)
+  - Ghiandaia (Garrulus glandarius)
+  - Gazza (Pica pica)
+  - Cornacchie grigie (Corvus cornix)
+  - Passere d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Losone [701/114] / Losone (TI)
+  - Codirosso spazzacamino (Phoenicurus ochruros)
+----------------------------------------
+
+Region: Mendrisio [719/81] / Mendrisio (TI)
+  - Balestrucci (Delichon urbicum)
+----------------------------------------
+
+Region: Nante / Airolo (TI)
+  - Nocciolaia (Nucifraga caryocatactes)
+----------------------------------------
+
+Region: Sala Capriasca [717/103] / Sala Capriasca (TI)
+  - Allocchi (Strix aluco)
+----------------------------------------
+
+Region: Stallone/Magadino / Locarno (TI)
+  - Germani reali (Anas platyrhynchos)
+  - Lodolaio (Falco subbuteo)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Piccioni domestici (Columba livia f. domestica)
+  - Colombacci (Columba palumbus)
+  - Codirossi (Phoenicurus phoenicurus)
+  - Balia nera (Ficedula hypoleuca)
+  - Averle piccole (Lanius collurio)
+  - Cornacchie grigie (Corvus cornix)
+  - Passere mattugie (Passer montanus)
+----------------------------------------
+
+Region: Tegna [701/115] / Tegna (TI)
+  - Codirosso indet (Phoenicurus sp.)
+----------------------------------------
+
+Region: Tenero-Contra / Centro Sportivo / Tenero-Contra (TI)
+  - Germani reali (Anas platyrhynchos)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Lodolaio (Falco subbuteo)
+  - Folaghe (Fulica atra)
+  - Martin pescatore (Alcedo atthis)
+  - Picchio rosso minore (Dryobates minor)
+  - Ballerine bianche (Motacilla alba)
+----------------------------------------
+
+Region: Tesserete [718/103] / Tesserete (TI)
+  - Pettirosso (Erithacus rubecula)
+  - Codirosso spazzacamino (Phoenicurus ochruros)
+  - Merlo (Turdus merula)
+  - Cinciallegre (Parus major)
+  - Ghiandaia (Garrulus glandarius)
+  - Passera d'Italia (Passer italiae)
+----------------------------------------
+
 Region: Bellinzona [721/117] / Bellinzona (TI)
   - Codirosso (Phoenicurus phoenicurus)
 ----------------------------------------
@@ -23,7 +264,7 @@ Region: Bolla Rossa / Locarno (TI)
   - Garzette (Egretta garzetta)
   - Aironi bianchi (Ardea alba)
   - Aironi cenerini (Ardea cinerea)
-  - Airone rosso (Ardea purpurea)
+  - Aironi rossi (Ardea purpurea)
   - Falco di palude (Circus aeruginosus)
   - Astori (Astur gentilis)
   - Falchi pescatori (Pandion haliaetus)
@@ -32,7 +273,9 @@ Region: Bolla Rossa / Locarno (TI)
   - Gallinelle d'acqua (Gallinula chloropus)
   - Folaghe (Fulica atra)
   - Avocetta (Recurvirostra avosetta)
+  - Corrieri piccoli (Charadrius dubius)
   - Corrieri grossi (Charadrius hiaticula)
+  - Combattente (Calidris pugnax)
   - Beccaccini (Gallinago gallinago)
   - Pantane (Tringa nebularia)
   - Piro-piro culbianco (Tringa ochropus)
@@ -47,16 +290,17 @@ Region: Bolla Rossa / Locarno (TI)
   - Picchi verdi (Picus viridis)
   - Picchio rosso maggiore (Dendrocopos major)
   - Picchi rossi minori (Dryobates minor)
-  - Rondine (Hirundo rustica)
+  - Rondini (Hirundo rustica)
   - Balestrucci (Delichon urbicum)
   - Cutrettole (Motacilla flava)
   - Cutrettola testagialla (Motacilla citreola)
   - Ballerina gialla (Motacilla cinerea)
-  - Ballerine bianche (Motacilla alba)
+  - Ballerina bianca (Motacilla alba)
   - Pettazzurro (Luscinia svecica)
   - Merlo (Turdus merula)
   - Cannaiola comune (Acrocephalus scirpaceus)
   - Capinere (Sylvia atricapilla)
+  - Luì grosso (Phylloscopus trochilus)
   - Pigliamosche (Muscicapa striata)
   - Codibugnoli (Aegithalos caudatus)
   - Cinciarella (Cyanistes caeruleus)
@@ -92,7 +336,13 @@ Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Gabbiani reali (Larus michahellis)
   - Colombaccio (Columba palumbus)
   - Tortora selvatica (Streptopelia turtur)
+----------------------------------------
+
+Region: Bolle di Magadino - Castellaccio / Locarno (TI)
   - Martin pescatori (Alcedo atthis)
+----------------------------------------
+
+Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Torcicollo (Jynx torquilla)
   - Picchi verdi (Picus viridis)
   - Picchi rossi maggiori (Dendrocopos major)
@@ -103,13 +353,6 @@ Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Usignolo (Luscinia megarhynchos)
   - Stiaccino (Saxicola rubetra)
   - Merlo (Turdus merula)
-----------------------------------------
-
-Region: Bolle di Magadino - Castellaccio / Locarno (TI)
-  - Martin pescatori (Alcedo atthis)
-----------------------------------------
-
-Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Cannaiole comuni (Acrocephalus scirpaceus)
   - Cannareccione (Acrocephalus arundinaceus)
   - Capinere (Sylvia atricapilla)
@@ -127,11 +370,16 @@ Region: Bolle di Magadino - Bolette / Locarno (TI)
   - Migliarino di palude (Emberiza schoeniclus)
 ----------------------------------------
 
+Region: Bolle di Magadino - Castellaccio / Locarno (TI)
+  - Martin pescatori (Alcedo atthis)
+----------------------------------------
+
 Region: Bosco/Gurin [681/130] / Bosco/Gurin (TI)
   - Gheppi (Falco tinnunculus)
 ----------------------------------------
 
 Region: Camping Campofelice / Tenero-Contra (TI)
+  - Cigni reali (Cygnus olor)
   - Averla piccola (Lanius collurio)
 ----------------------------------------
 
@@ -165,14 +413,6 @@ Region: Foce del Vedeggio / Agno (TI)
   - Lodolaio (Falco subbuteo)
   - Porciglione (Rallus aquaticus)
   - Gallinelle d'acqua (Gallinula chloropus)
-----------------------------------------
-
-Region: Foce della Verzasca / Tenero-Contra (TI)
-  - Sparviere (Accipiter nisus)
-----------------------------------------
-
-Region: Foce del Vedeggio / Agno (TI)
-  - Gallinelle d'acqua (Gallinula chloropus)
   - Folaghe (Fulica atra)
   - Cavaliere d'Italia (Himantopus himantopus)
   - Piro-piro boscherecci (Tringa glareola)
@@ -180,6 +420,14 @@ Region: Foce del Vedeggio / Agno (TI)
   - Gabbiano reale (Larus michahellis)
   - Martin pescatore (Alcedo atthis)
   - Rondini (Hirundo rustica)
+----------------------------------------
+
+Region: Foce della Verzasca / Tenero-Contra (TI)
+  - Cigni reali (Cygnus olor)
+  - Sparviere (Accipiter nisus)
+----------------------------------------
+
+Region: Foce del Vedeggio / Agno (TI)
   - Balestruccio (Delichon urbicum)
   - Ballerina bianca (Motacilla alba)
   - Pettazzurro (Luscinia svecica)
@@ -257,6 +505,10 @@ Region: Melide [717/90] / Melide (TI)
   - Cigno nero (Cygnus atratus)
 ----------------------------------------
 
+Region: Minusio [708/114] / Minusio (TI)
+  - Nitticore (Nycticorax nycticorax)
+----------------------------------------
+
 Region: Nante / Airolo (TI)
   - Luì piccolo (Phylloscopus collybita)
   - Fringuelli (Fringilla coelebs)
@@ -285,129 +537,9 @@ Region: vecchio braccio del Ticino / Magadino (TI)
   - Cannaiola comune (Acrocephalus scirpaceus)
   - Cinciarelle (Cyanistes caeruleus)
   - Cinciallegre (Parus major)
-----------------------------------------
-
-Region: Vecchio campo di calcio / Morbio Inferiore (TI)
-  - Ghiandaia (Garrulus glandarius)
-  - Gazze (Pica pica)
-----------------------------------------
-
-Region: vecchio braccio del Ticino / Magadino (TI)
   - Cornacchia grigia (Corvus cornix)
 ----------------------------------------
 
-Region: Alpe Nadigh / Muggio (TI)
-  - Corvi imperiali (Corvus corax)
-----------------------------------------
-
-Region: Bolla Rossa / Locarno (TI)
-  - Moriglione (Aythya ferina)
-  - Morette (Aythya fuligula)
-  - Tuffetti (Tachybaptus ruficollis)
-  - Garzette (Egretta garzetta)
-  - Aironi bianchi (Ardea alba)
-  - Airone rosso (Ardea purpurea)
-  - Falco di palude (Circus aeruginosus)
-  - Lodolai (Falco subbuteo)
-  - Beccaccini (Gallinago gallinago)
-  - Pantane (Tringa nebularia)
-  - Piro-piro boscherecci (Tringa glareola)
-  - Piro-piro piccoli (Actitis hypoleucos)
-  - Picchio rosso minore (Dryobates minor)
-  - Ballerine bianche (Motacilla alba)
-  - Cannaiola comune (Acrocephalus scirpaceus)
-----------------------------------------
-
-Region: Cugnasco [713/115] / Cugnasco (TI)
-  - Picchio verde (Picus viridis)
-  - Codirosso (Phoenicurus phoenicurus)
-  - Cinciallegra (Parus major)
-  - Gazze (Pica pica)
-  - Passere d'Italia (Passer italiae)
-----------------------------------------
-
-Region: Frasco [704/135] / Frasco (TI)
-  - Codirosso spazzacamino (Phoenicurus ochruros)
-----------------------------------------
-
-Region: Intragna [697/114] / Intragna (TI)
-  - Rapace indeterminato (Accipitriformes / Falconiformes sp.)
-  - Lodolaio (Falco subbuteo)
-  - Rondoni maggiori (Tachymarptis melba)
-----------------------------------------
-
-Region: Ligornetto [717/80] / Ligornetto (TI)
-  - Rapace indeterminato (Accipitriformes / Falconiformes sp.)
-  - Gheppio (Falco tinnunculus)
-  - Piccione domestico (Columba livia f. domestica)
-  - Tortore dal collare (Streptopelia decaocto)
-  - Allocco (Strix aluco)
-  - Rondini (Hirundo rustica)
-  - Codirossi spazzacamino (Phoenicurus ochruros)
-  - Merlo (Turdus merula)
-  - Ghiandaia (Garrulus glandarius)
-  - Gazza (Pica pica)
-  - Cornacchie grigie (Corvus cornix)
-  - Passere d'Italia (Passer italiae)
-----------------------------------------
-
-Region: Lugaggia [718/101] / Lugaggia (TI)
-  - Balia nera (Ficedula hypoleuca)
-----------------------------------------
-
-Region: Lugaggia [718/102] / Lugaggia (TI)
-  - Balie nere (Ficedula hypoleuca)
-----------------------------------------
-
-Region: Mercole / Coldrerio (TI)
-  - Rondoni maggiori (Tachymarptis melba)
-----------------------------------------
-
-Region: Muggio [724/86] / Muggio (TI)
-  - Airone cenerino (Ardea cinerea)
-----------------------------------------
-
-Region: Muggio [723/86] / Muggio (TI)
-  - Falco pecchiaiolo (Pernis apivorus)
-  - Poiane (Buteo buteo)
-----------------------------------------
-
-Region: Olivone [705/155] / Olivone (TI)
-  - Picchio rosso maggiore (Dendrocopos major)
-  - Codirosso (Phoenicurus phoenicurus)
-  - Luì piccolo (Phylloscopus collybita)
-  - Balia nera (Ficedula hypoleuca)
-  - Cince alpestri (ssp. montanus) (Poecile montanus montanus)
-  - Cincia dal ciuffo (Lophophanes cristatus)
-  - Cince more (Periparus ater)
-  - Nocciolaie (Nucifraga caryocatactes)
-  - Ciuffolotto (Pyrrhula pyrrhula)
-----------------------------------------
-
-Region: Semione [716/141] / Semione (TI)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-
-Region: Sonvico [720/102] / Sonvico (TI)
-  - Astore (Astur gentilis)
-----------------------------------------
-
-Region: Sonvico [722/102] / Sonvico (TI)
-  - Codirossi spazzacamino (Phoenicurus ochruros)
-  - Corvo imperiale (Corvus corax)
-----------------------------------------
-
-Region: Tegna [700/115] / Tegna (TI)
-  - Averle piccole (Lanius collurio)
-----------------------------------------
-
-Region: Tesserete [718/103] / Tesserete (TI)
-  - Picchio verde (Picus viridis)
-----------------------------------------
-
-Region: Vaglio [717/101] / Vaglio (TI)
-  - Balia nera (Ficedula hypoleuca)
-----------------------------------------
-
 Region: Vecchio campo di calcio / Morbio Inferiore (TI)
-  - Poiana (Buteo buteo)
+  - Ghiandaia (Garrulus glandarius)
+  - Gazze (Pica pica)
