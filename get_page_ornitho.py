@@ -3,7 +3,10 @@ from bs4 import BeautifulSoup
 import time
 
 # URL restricted to Ticino + Italian
-url = "https://www.ornitho.ch/index.php?m_id=4&p_c=duration&p_cc=-&sp_tg=1&sp_DateSynth=12.08.2025&sp_DChoice=offset&sp_DOffset=2&sp_SChoice=category&sp_Cat[never]=1&sp_Cat[veryrare]=1&sp_Cat[rare]=1&sp_Cat[unusual]=1&sp_Cat[escaped]=1&sp_Cat[common]=1&sp_Cat[verycommon]=1&sp_cC=-000800000&sp_FChoice=list&sp_FGraphFormat=auto&sp_FMapFormat=none&sp_FDisplay=DATE_PLACE_SPECIES&sp_FOrder=ALPHA&sp_FOrderListSpecies=ALPHA&sp_FListSpeciesChoice=DATA&sp_FOrderSynth=ALPHA&sp_FGraphChoice=DATA&sp_DFormat=DESC&sp_FAltScale=250&sp_FAltChoice=DATA&sp_FExportFormat=XLS&langu=it"
+#url = "https://www.ornitho.ch/index.php?m_id=4&p_c=duration&p_cc=-&sp_tg=1&sp_DateSynth=12.08.2025&sp_DChoice=offset&sp_DOffset=2&sp_SChoice=category&sp_Cat[never]=1&sp_Cat[veryrare]=1&sp_Cat[rare]=1&sp_Cat[unusual]=1&sp_Cat[escaped]=1&sp_Cat[common]=1&sp_Cat[verycommon]=1&sp_cC=-000800000&sp_FChoice=list&sp_FGraphFormat=auto&sp_FMapFormat=none&sp_FDisplay=DATE_PLACE_SPECIES&sp_FOrder=ALPHA&sp_FOrderListSpecies=ALPHA&sp_FListSpeciesChoice=DATA&sp_FOrderSynth=ALPHA&sp_FGraphChoice=DATA&sp_DFormat=DESC&sp_FAltScale=250&sp_FAltChoice=DATA&sp_FExportFormat=XLS&langu=it"
+# URL tutto CH per gru
+url = "https://www.ornitho.ch/index.php?m_id=4&sp_DOffset=2"
+
 
 output_file = "all_birds.txt"
 
