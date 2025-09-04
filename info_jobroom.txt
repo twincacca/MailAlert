@@ -102,6 +102,7 @@ Responsable SST - Sécurité et santé au travail || Jobup
 Android Developer || Jobup
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+ML Engineer - Generative Design applied to Mechanical Engineering || ETH Zürich
 Senior .NET Engineer, 80-100% (w/m/d) || Swiss Life AG
 EmbeddedDeveloperTF-M || Hays (Schweiz) AG
 Career Opportunities: Junior Data DevOps Engineer (122516) || Pictet Asset Management SA
@@ -121,9 +122,9 @@ SAP BW, BPC, SAC Consultant (Analytics) || AARK Tech Solutions GmbH
 Senior React FrontendDeveloper(full-time, onsite in St. Gallen) || LocalBini AG
 Career Opportunities: Data DevOps Engineer (122516) || Pictet Asset Management SA
 Application Manager /DeveloperIAM (w/m/d), 80-100 % || Concordia
-Program Manager || Microsoft
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Expert Python Excel || Experis
 Senior System Engineer (m/w/d) || Rent a Person Personalberatungs AG
 Implementation Manager || Swisscom AG
 Senior Storage Engineer (a) in the region of Basel [Ref: 2668] || Freestar-Informatik AG, Zweigniederlassung Zürich
@@ -143,9 +144,10 @@ System Engineer || Jobup
 Technische*r Applikationsberater*in 80-100% || Universitätsspital Basel
 Team Lead - Software Engineering [Lausanne / Geneva / Zurich / Sion] || Taurus SA
 Railway Diagnostic Software Engineer || Stadler Signalling AG
-Full Stack Webentwickler/-in (60-80%) || myitjob GmbH
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Projektleiter/-in Weltraum || Bundesamt für Rüstung armasuisse
+Chef/fe de projets dans le domaine spatial || Office fédéral de l'armement armasuisse
 Isoleur anti-feu (H/F) || New Work Human Resources
 Juristische/r Hochschulpraktikant/-in || Oberauditorat OA
 Stagiaire juriste || Office de l'auditeur en chef OAC
@@ -164,5 +166,3 @@ Kommissär/-in DPSA Einsatzunterstützung || Schweizer Armee - Kommando Operatio
 Chef/fe Exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
 Chef/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
 Psychiater/-in im Rekrutierungszentrum || Schweizer Armee - Logistikbasis der Armee LBA
-Psychiatre auprès du centre de recrutement || Armée suisse - Base logistique de l'armée BLA
-Revisor/-in Ausbildung und Revision || Schweizer Armee - Logistikbasis der Armee LBA
