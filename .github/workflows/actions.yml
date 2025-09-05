@@ -72,9 +72,11 @@ jobs:
           python get_page_jobroom.py > info_jobroom.txt
 
           # Make a email alert for birds spotted in ornitho
-          #python get_page_ornitho.py # generates all_birds.txt
-          #cat all_birds.txt  | xargs -d"\n" | sed 's/----------------------------------------  /\n/g' | egrep -i "Grus grus" > info_ornitho.txt
+          python get_page_ornitho.py # generates all_birds.txt
+          cat all_birds.txt  | xargs -d"\n" | sed 's/----------------------------------------  /\n/g' | egrep -i "Grus grus" > info_ornitho.txt  || true
+          #awk '/Region:/{block=$0; next} /Grus grus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho.txt
 
+          
           # Also wget lost pets
           wget https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
           egrep -i "muralto|minusio|tenero|locarno" info_pets_all.txt --color | sed 's/ /\n/g' | grep href | grep -v "><img" > info_pets.txt
