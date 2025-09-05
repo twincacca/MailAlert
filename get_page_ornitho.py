@@ -2,34 +2,26 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import time
 
-# URL restricted to Ticino + Italian
-#url = "https://www.ornitho.ch/index.php?m_id=4&p_c=duration&p_cc=-&sp_tg=1&sp_DateSynth=12.08.2025&sp_DChoice=offset&sp_DOffset=2&sp_SChoice=category&sp_Cat[never]=1&sp_Cat[veryrare]=1&sp_Cat[rare]=1&sp_Cat[unusual]=1&sp_Cat[escaped]=1&sp_Cat[common]=1&sp_Cat[verycommon]=1&sp_cC=-000800000&sp_FChoice=list&sp_FGraphFormat=auto&sp_FMapFormat=none&sp_FDisplay=DATE_PLACE_SPECIES&sp_FOrder=ALPHA&sp_FOrderListSpecies=ALPHA&sp_FListSpeciesChoice=DATA&sp_FOrderSynth=ALPHA&sp_FGraphChoice=DATA&sp_DFormat=DESC&sp_FAltScale=250&sp_FAltChoice=DATA&sp_FExportFormat=XLS&langu=it"
 # URL tutto CH per gru
-url = "https://www.ornitho.ch/index.php?m_id=4&sp_DOffset=2"
-
-
+url = "https://www.ornitho.ch/index.php?m_id=4&sp_DOffset=2&langu=it"
 output_file = "all_birds.txt"
 
 with sync_playwright() as p:
-    #browser = p.chromium.launch(headless=False)  # Change to True for silent run
-    browser = p.chromium.launch(headless=True) # for running in github actions
+    browser = p.chromium.launch(headless=True)  # headless for CI/GitHub Actions
     page = browser.new_page()
     page.goto(url)
 
-    # Scroll until no new content appears
+    # Scroll until all lazy-loaded results are visible
     last_height = None
     while True:
-        # Get current page height
         curr_height = page.evaluate("document.body.scrollHeight")
         if last_height == curr_height:
             break
         last_height = curr_height
-
-        # Scroll to bottom
         page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        time.sleep(1.5)  # small delay for new content to load
+        time.sleep(1.5)
 
-    # Now all content should be loaded
+    # Parse final HTML
     html = page.content()
     soup = BeautifulSoup(html, "html.parser")
 
@@ -37,9 +29,12 @@ with sync_playwright() as p:
         current_region = None
         first_region = True
 
+        regions_found = False
+
         for elem in soup.find_all(["a", "span"]):
-            # Detect region headings
+            # --- Case 1: Region headings exist ---
             if elem.name == "a" and "login" in elem.get("href", ""):
+                regions_found = True
                 if not first_region:
                     out.write("-" * 40 + "\n\n")
                 first_region = False
@@ -47,7 +42,7 @@ with sync_playwright() as p:
                 current_region = elem.get_text(strip=True)
                 out.write(f"Region: {current_region}\n")
 
-            # Detect bird species
+            # --- Case 2: Bird species ---
             elif elem.name == "span" and "sighting_detail" in elem.get("class", []):
                 common_name_tag = elem.find("b")
                 if not common_name_tag:
@@ -57,7 +52,21 @@ with sync_playwright() as p:
                 common_name = common_name_tag.get_text(strip=True)
                 sci_name = sci_name_tag.get_text(strip=True) if sci_name_tag else ""
 
-                out.write(f"  - {common_name} {sci_name}\n")
+                # If we have region headings: normal formatting
+                if regions_found:
+                    out.write(f"  - {common_name} {sci_name}\n")
+                else:
+                    # --- Case 2b: no headings, try to find location from parent row ---
+                    parent_row = elem.find_parent(["tr", "div"])
+                    location_text = None
+                    if parent_row:
+                        # Look for a <td> or <div> that is not the species itself
+                        candidates = parent_row.find_all(text=True)
+                        combined = " ".join(t.strip() for t in candidates if t.strip())
+                        # Heuristic: species name is already known, remove it
+                        location_text = combined.replace(common_name, "").strip()
+
+                    out.write(f"{common_name} {sci_name} || Location: {location_text or 'N/A'}\n")
 
     browser.close()
 
