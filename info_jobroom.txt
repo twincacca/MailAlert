@@ -2,6 +2,7 @@
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 PhD Position in Environmental Microbiology || ETH Zurich
 Project Manager Clinical Data Science (ID1828) || AO Foundation
+Reserach Technician: Molecular technology development || ETH Zürich
 RNA Biology Scientist || Roche
 Senior Expert Data Scientist (peptide design and protein/ligand co-folding) || Novartis Pharma AG
 Postdoctoral Researcher - Spatial Omics for Colorectal Cancer Risk Stratification || ETH Zurich
@@ -16,6 +17,7 @@ PhD Position in Environmental Microbiology || ETH Zurich
 Project Manager Clinical Data Science (ID1828) || AO Foundation
 Responsabile del team Preparazione dei campioni e analisi in biologia molecolare agraria e vegetale || Agroscope
 Leitung Team Stellenvorbereitung und Analytik in der Molekularen Agrar- und Pflanzenbiologie || Agroscope
+Reserach Technician: Molecular technology development || ETH Zürich
 RNA Biology Scientist || Roche
 Senior Expert Data Scientist (peptide design and protein/ligand co-folding) || Novartis Pharma AG
 Postdoctoral Researcher - Spatial Omics for Colorectal Cancer Risk Stratification || ETH Zurich
@@ -41,6 +43,7 @@ Sales Manager (m/f/d) || Bruker
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 SeniorMicrobiologySpecialist (m/w/d) (100%) || Talentzio AG
+(Senior) Associate Non-GMP Manufacturing within Pharmaceutical Development (temporary, 2 years) || Roche
 PhD Position in EnvironmentalMicrobiology || ETH Zurich
 (Senior) Associate Non-GMP Manufacturing within Pharmaceutical Development || Roche
 Chimiste analytique - responsable du contrôle qualité - 100% || HUG
@@ -59,7 +62,6 @@ Apprenti-e technologue du lait CFC 2026 || Jobup
 Emmi Schweiz AG  Apprenti-e technologue du lait CFC 2026 100% in Courgenay || Emmi Group
 Head ofMicrobiologyQuality Control Laboratory (m/f/d) - Manager 2 || Merck KGaA
 Field Service Engineer (m/f/d) || Bruker
-Analytical Project Leader Senior / Principal Scientist || Roche
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Senior Microbiology Specialist (m/w/d) (100%) || Talentzio AG
@@ -90,7 +92,6 @@ Responsabile Centro di frutta a nocciolo Breitenhof || Agroscope
 Architecte (H/F) - 80-100% - POSTE FIXE || ValJob
 Chargé·e de projets "Nature en milieu bâti" (60 %) || Jobup
 Site Reliability Engineer (SRE) - Network Engineer || Jobup
-HR Manager Lausanne (all genders) || Jobup
 Lab manager with expertise in wetlab techniques and proven track record in the management of a wetlab laboratory || ETH Zürich
 Stagiaire universitaire au sein de la division Eaux || Office fédéral de l'environnement OFEV
 Praticante universitario/a della divisione Acque || Ufficio federale dell'ambiente UFAM
@@ -105,30 +106,35 @@ Assistant(e) de Direction à 70 % || Jobup
 Site Reliability Engineer (SRE) - Mail || Jobup
 Android Developer || Jobup
 CHARGÉ·E DE PROJETS à 80-100% au Bureau de la durabilité || Jobup
+Chargé(e) de Projet Community Management Durable (H/F) Stage et/ou Parcours de reconversion ou d-insertion professionnelle || Jobup
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Software Engineer III, Content Publishing - Google Careers || Google
+ML Engineer - Generative Design applied to Mechanical Engineering || ETH Zurich
 Unica SoftwareDeveloper || iNet Technologies GmbH
+DeveloperPython - VBA Excel - Support - Finance/Trading || Jobup
+OT API Designer &Developer80-100% || COMET AG
+Team LeadDeveloperPlatform || Brack.Alltron AG
+Senior Java Softwareentwickler (m/w) 80-100% || myitjob GmbH
+Freelancer - MS Power PlatformDeveloper(Power BI) || KPMG AG
+IT-Projekt Manager || Comitas AG
+ASP.Net Softwareentwickler || Comitas AG
 Career Opportunities: Cloud Engineer (122568) || Pictet Asset Management SA
 Career Opportunities: Junior Data DevOps Engineer (122516) || Pictet Asset Management SA
 Career Opportunities: DevOps Engineer Junior - Identity Management Platforms (122520) || Pictet Asset Management SA
 Software Engineer III, Front End, Youtube - Google Careers || Google
 ML Engineer - Generative Design applied to Mechanical Engineering || ETH Zürich
 Senior .NET Engineer, 80-100% (w/m/d) || Swiss Life AG
+Junior BusinessDeveloper || HOTELIS - LAUSANNE
 Supply Chain Planner || Vatvalve
 EmbeddedDeveloperTF-M || Hays (Schweiz) AG
-Career Opportunities: Junior Data DevOps Engineer (122516) || Pictet Asset Management SA
 Environmental Sustainability Assessment Engineer (m/f/d) || Syngenta Crop Protection AG
-Senior Triple A CoreDeveloper || AARK Tech Solutions GmbH
-Software engineer III, Malware Protection, Core - Google Careers || Google
-Application and SharepointDeveloper- m/f || Michael Page
-Lead Front-EndDeveloperAngular (f/h/d) || Jobup
-Software Engineer III, Server Foundations - Google Careers || Google
-SeniorDeveloperMicrosoft Power Platform (m/w) 80-100% || myitjob GmbH
-Career Opportunities: Cloud Engineer (122568) || Pictet Asset Management SA
-Career Opportunities: DevOps Engineer Junior - Identity Management Platforms (122520) || Pictet Asset Management SA
-Java Technical Lead || Swiss Himmel GmbH
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Systemadministrator/IN Hybrid || IT Recruitment GmbH
+Oracle Datenbank Administrator:in || Coopers Group AG
+Applikation Supporter/-in || Emil Frey Schweiz
+Fire Control System Engineer (Engineering Tools) || Hays (Schweiz) AG
 ICT-System Engineer (DevSecOps Engineer Platform) || Schweizer Armee - Kommando Cyber Kdo Cy
 ICT-System Engineer (DevSecOps Engineer Observability) || Esercito svizzero - Comando Ciber Cdo Ciber
 Ingénieur/e en systèmes TIC (DevSecOps Engineer Observability) || Armée suisse - Commandement Cyber Cdmt Cyber
@@ -137,20 +143,18 @@ Ingegnere/a di sistemi senior misure di sorveglianza speciali || Centro servizi 
 Ingénieur/e systèmes senior mesures de surveillance spéciales || Centre de services informatiques CSI-DFJP
 Senior System-Ingenieur/-in spezielle Überwachungsmassnahmen || Informatik Service Center ISC-EJPD
 FPGA Engineer 100% PENSUM || Liquid-Markets GmbH
+Ingénieur Infrastructure || Jobup
+Developer Python - VBA Excel - Support - Finance/Trading || Jobup
+OT API Designer & Developer 80-100% || COMET AG
+IngénieurLinux- FR/ENG || Academic Work
+ICT Supporter/-Administrator (m/w) 80-100% || myitjob GmbH
 IT System Engineer - h/f || Michael Page
 IT Supporter*/-Techniker* || IT Recruitment GmbH
 Expert Python Excel || Experis
-SOC Manager || Swissquote Bank SA
-System Engineer in Zürich || Rent a Person Personalberatungs AG
-IT System Engineer (m/w) 80-100% || Yellowshark
-IT Supporter (m/w) 80-100% || Yellowshark
-Administrateur systèmes & réseaux || Jobup
-IT System Engineer - h/f || Jobup
-Senior IT System Engineer (m/w) || myitjob GmbH
-Senior System Engineer (m/w/d) || Rent a Person Personalberatungs AG
-Implementation Manager || Swisscom AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Senior Customer Success and Delivery Manager (w/m/d) || RUAG SA
+Junior Cyber Security SpecialistIn / Consultant (w/m/d) || RUAG SA
 Planificateur/trice d'opérations cyberdéfense || Armée suisse - Commandement Cyber Cdmt Cyber
 Operationsplaner/-in Cyber-Defence || Schweizer Armee - Kommando Cyber Kdo Cy
 ICT-System Engineer (DevSecOps Engineer Platform) || Schweizer Armee - Kommando Cyber Kdo Cy
@@ -169,5 +173,3 @@ Stagiaire juriste || Office de l'auditeur en chef OAC
 Facility Coordinator C5I (w/m/d) || RUAG SA
 Isoleur anti-feu (H/F) || Jobup
 Senior Agile Coach C5I (w/m/d) || RUAG SA
-30 agent(e)s de sécurité confirmé(e)s sur l'ensemble du canton de Vaud || Jobup
-Systemspezialist als Mitglied des Demoteams (m/w/d) || Rheinmetall Air Defence AG
