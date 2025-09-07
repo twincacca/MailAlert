@@ -3,8 +3,8 @@
 
               Accuracy  Precision    Recall        F1
 Model                                                
-TabPFN            0.66   0.622951  0.775510  0.690909
-RandomForest      0.57   0.544118  0.755102  0.632479
+TabPFN            0.64   0.606557  0.755102  0.672727
+RandomForest      0.58   0.553030  0.744898  0.634783
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
@@ -15,7 +15,7 @@ Ticker       Date TabPFN RandomForest Actual
   SOPH 2025-06-24     Up           Up     Up
   SOPH 2025-06-25     Up           Up     Up
   QGEN 2025-06-18   Down           Up     Up
-  QGEN 2025-06-20   Down           Up     Up
+  QGEN 2025-06-20     Up           Up     Up
   QGEN 2025-06-23   Down           Up     Up
   QGEN 2025-06-24     Up           Up     Up
   QGEN 2025-06-25     Up           Up     Up
@@ -45,7 +45,7 @@ Ticker       Date TabPFN RandomForest Actual
    TMO 2025-06-24     Up         Down     Up
    TMO 2025-06-25     Up           Up     Up
    TXG 2025-06-18     Up         Down     Up
-   TXG 2025-06-20   Down         Down     Up
+   TXG 2025-06-20     Up         Down     Up
    TXG 2025-06-23   Down         Down     Up
    TXG 2025-06-24     Up           Up     Up
    TXG 2025-06-25   Down         Down     Up
@@ -53,6 +53,6 @@ Ticker       Date TabPFN RandomForest Actual
 🏆 Contest Winner (Historical Backtest): TabPFN
 
 📊 Recent Head-to-Head Tally:
-TabPFN correct: 33 / 40
+TabPFN correct: 35 / 40
 RandomForest correct: 31 / 40
 🏆 Contest Winner (Recent Predictions): TabPFN
