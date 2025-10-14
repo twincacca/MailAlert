@@ -3,7 +3,6 @@ Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22
 PhD student in Life Science Engineering (100 %) || Jobup
 Postdoctoral Position/Data Scientist in Animal Nutrition || ETH Zurich
 Bioinformatician || Jobup
-Postdoctoral position in Development and application of computational methods for functional genomics || ETH Zurich
 PhD student - Development and application of site-specific phospho-encoding systems 80 % || Universität Zürich
 Project Manager Clinical Data Science (ID1828) || AO Foundation
 RNA Biology Scientist || Roche
@@ -11,13 +10,13 @@ Senior Expert Data Scientist (peptide design and protein/ligand co-folding) || N
 Postdoctoral researcher with a background in Computational biology or Data Science || Empa
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Technologie- und Lizenzmanager/in: Chemiker, Biochemiker,Bioinformatikermit Berufserfahrung (m/w/d) || ETH Zürich
 Technologie- und Lizenzmanager/in: Chemiker, Biochemiker,Bioinformatikermit Berufserfahrung (m/w/d) || ETH Zurich
 Biologiste avec titre de spécialité FAMH en génétique médicale - 80% à 100% || Hôpitaux universitaires de Genève (HUG)
 PhD student in Life Science Engineering (100 %) || Jobup
 Postdoctoral Position/Data Scientist in Animal Nutrition || ETH Zurich
 Biologiste avec titre de spécialité FAMH en génétique médicale - 80% à 100% || Jobup
 Bioinformatician || Jobup
-Postdoctoral position in Development and application of computational methods for functional genomics || ETH Zurich
 PhD student - Development and application of site-specific phospho-encoding systems 80 % || Universität Zürich
 Project Manager Clinical Data Science (ID1828) || AO Foundation
 RNA Biology Scientist || Roche
@@ -46,7 +45,6 @@ MicrobiologyExpert - Planning and Coordination Lead || Roche
 Un-e secrétaire médical-e (80%) || Jobup
 Postdoctoral Position/Data Scientist in Animal Nutrition || ETH Zurich
 Bioinformatician || Jobup
-Postdoctoral position in Development and application of computational methods for functional genomics || ETH Zurich
 Associate Specialist || Nestlé SA
 Postdoctoral position - biotechnology for safeguarding environment and health || ETH Zurich
 Un-e responsable développement commercial-e (80-100%) || Jobup
@@ -76,6 +74,8 @@ PhD student position in climate sciences, fully-funded for 4 years || Universit�
 Lab manager with expertise in wetlab techniques and proven track record in the management of a wetlab laboratory || ETH Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Specialista nel settore degli appalti || Segreteria generale SG-DDPS
+Cuisinier en diététique (H/F) à 100% - CDD 3 mois || ORP Pully
 Plasticien CFC ou Installateur sanitaire CFC (h/f) || OK Job
 Chef:fe d'équipe Nettoyage de nuit (a) || ISS Schweiz
 Chef d'équipe paysagiste à 100% (H/F) || Jobup
@@ -87,7 +87,6 @@ Chef:fe d'équipe Nettoyage de nuit (a) || Jobup
 Chef:fe d'équipe Nettoyage de nuit (a) || ISS Facility Services AG
 Receptionist and Administrator - Part-Time Position/Morning (Maternity Leave Cover) || International School Rheintal
 Receptionist and Administrator - Part-Time Position/Afternoon (Permanent) || International School Rheintal
-Réceptionniste 40% ou 50% || Jobup
 CDD-PEP Assistant·e Ingénieur·e Données en Géomatique || Jobup
 HR Manager Lausanne (all genders) || Jobup
 Postdoc position in Rewilding of Forest Ecosystems || ETH Zurich
@@ -95,9 +94,11 @@ Postdoc position in Forest Stand Dynamics under Pressure || ETH Zurich
 Responsable Locations Commerciales || Jobup
 Dessinateur en bâtiments || Synergie (Suisse)
 Vice-responsabile Support Central || Agroscope
-Commercial H/F || Jobup
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Senior Software Engineer (C++/Python) – Computational Life and Health Sciences || Forschungsstiftung für Informationstechnologie und Gesellschaft
+Career Opportunities: Data DevOps Engineer - Data Platforms (122316) || Pictet Asset Management SA
+Data Engineer (SRG SSR Usage/User Data Platform) 80-100%, Zürich || SRF
 Senior React NativeDeveloper, 80-100% (f/m/d) || Swiss Life AG
 Senior React NativeDeveloper, 80-100% (f/m/d) || Swiss Life AG
 Career Opportunities: Data DevOps Engineer - Data Platforms (122316) || Pictet Asset Management SA
@@ -112,15 +113,15 @@ Scrum Master/Consultant (m/w) || myitjob GmbH
 Senior DevSecOps Engineer (m/w) || myitjob GmbH
 Leiter Software Entwicklung 80%-100% || europa3000 AG
 BusinessDeveloperm/w || IT Recruitment GmbH
-Career Opportunities: Data DevOps Engineer - Data Platforms (122316) || Pictet Asset Management SA
 Software Engineer III, Video, Ads Quality, YouTube - Google Careers || Google
 StagiaireDeveloperFull Stack || Audemars Piguet SA
 Senior AvaloqDeveloperPayments || Bank J. Safra Sarasin AG
-Intern - Market Management || Sensirion AG
-Intern - Product Management || Sensirion AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Test Automation Engineering Director 100% || Toradex AG
+LinuxSystems Engineer & Administrator am Departement Physik (m/w/d) || ETH Zürich
 Senior Database Administrator (DevOps) || Experis AG
+LinuxSystem Engineer 100 % || Universität Zürich
 SeniorLinuxData Base Engineer || Hays (Schweiz) AG
 LinuxPlatform Engineer (80-100%) || TechSearch AG
 Container Platform Engineer (80-100%) || TechSearch AG
@@ -137,11 +138,18 @@ Cyber Security Specialist (m/w) 80-100% || Yellowshark
 SeniorLinuxData Base Engineer || Coopers Group AG
 Responsable d-équipe Systèmes || Jobup
 Senior Fullstack Engineer || Jobup
-Systems Software Engineer || myitjob GmbH
-Senior DevOps Engineer (m/w) || myitjob GmbH
-Infrastructure & System Engineer (m/w/d), Zürich || Rent a Person Personalberatungs AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Spécialiste en marchés publics || Secrétariat général SG-DDPS
+Spezialist/-in Beschaffungswesen || Generalsekretariat GS-VBS
+Mécatronicien/ne d'automobiles || Armée suisse - Base logistique de l'armée BLA
+Automobilmechatroniker/-in || Schweizer Armee - Logistikbasis der Armee LBA
+Mécanicien/-ne d'appareils de transmission || Armée suisse - Base logistique de l'armée BLA
+Mechaniker/-in Übermittlungsgeräte || Schweizer Armee - Logistikbasis der Armee LBA
+Spezialist/-in Elektrotechnik (Betriebselektriker/-in) || Schweizer Armee - Logistikbasis der Armee LBA
+Spécialiste en électrotechnique (électricien/-ne d'exploitation) || Armée suisse - Base logistique de l'armée BLA
+Kommissär/-in DPSA Einsatzunterstützung || Schweizer Armee - Kommando Operationen Kdo Op
+Commissaire SPPA appui à l'engagement || Armée suisse - Commandement des Opérations Cdmt Op
 Apprenti/e polymécanicien/ne CFC || Jobup
 Apprenti/e électronicien/ne CFC || Jobup
 Facility Manager Technics (w/m/d) || RUAG SA
@@ -152,13 +160,3 @@ Gestionnaire d'intégration SAP || Armée suisse - Base logistique de l'armée B
 InstandhaltungsmechanikerIn Flugzeugkomponenten (w/m/d) || RUAG SA
 Fachspezialist Bevölkerungsschutz (m/w), 100 % || Amt für Bevölkerungsschutz und Armee
 Flugsicherungstechniker/-in Support Flugsicherungssysteme SUFS || Schweizer Armee - Kommando Cyber Kdo Cy
-Technicien/ne sécurité aérienne au Support systèmes sécurité aérienne (SSSA) || Armée suisse - Commandement Cyber Cdmt Cyber
-Ingenieur/-in Forschung und Entwicklung || Schweizer Armee - Kommando Cyber Kdo Cy
-Ingénieur/e Recherche et développement || Armée suisse - Commandement Cyber Cdmt Cyber
-Ingénieur/e systèmes TIC (DevSecOps engineer) || Armée suisse - Commandement Cyber Cdmt Cyber
-ICT-System Ingenieur/-in (DevSecOps Engineer) || Schweizer Armee - Kommando Cyber Kdo Cy
-ILS Manager (w/m/d) || RUAG SA
-System Engineer dyn. Routing (w/m/d) || RUAG SA
-Chef/-in Gebäudebetrieb || Schweizer Armee - Logistikbasis der Armee LBA
-Chef/fe Exploitation des bâtiments || Armée suisse - Base logistique de l'armée BLA
-Dozent/-in Militärpsychologie & -Pädagogik Militärakademie ETH Zürich || Schweizer Armee - Kommando Ausbildung Kdo Ausb
