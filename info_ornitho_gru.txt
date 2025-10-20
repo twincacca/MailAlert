@@ -1,7 +1,25 @@
+Region: Aarau / Summergrien [646/250] / Aarau (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Mägenwil [660/251] / Mägenwil (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Zurlindeninsel / Aarau (AG)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Obermoos / Müntschemier (BE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Münchenstein [612/263] / Münchenstein (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Muttenz [615/264] / Muttenz (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Farvagny [570/175] / Farvagny (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Russin / Russin (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Saint-Jean / Genève (GE)
@@ -13,18 +31,21 @@ Region: Schaffhausen / Bachtelstrasse / Schaffhausen (SH)
 Region: Rodersdorf [601/259] / Rodersdorf (SO)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Kemmental / Bommer Weiher Ost / Kemmental (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Landschlacht / Hinterdorf / Münsterlingen (TG)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Matzingen [711/264] / Matzingen (TG)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Grafenried [605/214] / Grafenried (BE)
+Region: Münsterlingen / Spital - Weidhof / Münsterlingen (TG)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Schaffhausen / Bachtelstrasse / Schaffhausen (SH)
+Region: Winterthur / Toggenburger Weiher / Winterthur (ZH)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Neuendorf / Allmend [627/238] / Neuendorf (SO)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Kreuzlingen / Chesbach / Kreuzlingen (TG)
+Region: Zürich / Hueb / Zürich (ZH)
   - Gru (Grus grus)
 ----------------------------------------
