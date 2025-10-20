@@ -74,7 +74,8 @@ jobs:
           # Make a email alert for birds spotted in ornitho
           python get_page_ornitho.py # generates all_birds.txt
           #cat all_birds.txt  | xargs -d"\n" | sed 's/----------------------------------------  /\n/g' | egrep -i "Grus grus" > info_ornitho.txt  || true
-          awk '/Region:/{block=$0; next} /Grus grus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho.txt
+          awk '/Region:/{block=$0; next} /Grus grus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho_gru.txt
+          awk '/Region:/{block=$0; next} /Pernis apivorus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho_falco_pecchiaiolo.txt
 
           
           # Also wget lost pets
