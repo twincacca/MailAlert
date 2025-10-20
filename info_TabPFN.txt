@@ -1,43 +1,10 @@
-  [2m2025-10-20T08:37:27.812533Z[0m [33m WARN[0m  [33mStatus Code: 500. Retrying..., [1;33mrequest_id[0m[33m: "01K80C8B3Y8T9W46RBWK6BSCF6"[0m
-    [2;3mat[0m /home/runner/work/xet-core/xet-core/cas_client/src/http_client.rs:227
-
-  [2m2025-10-20T08:37:27.812572Z[0m [33m WARN[0m  [33mRetry attempt #0. Sleeping 511.095963ms before the next attempt[0m
-    [2;3mat[0m /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/reqwest-retry-0.7.0/src/middleware.rs:171
-
-  [2m2025-10-20T08:37:28.335594Z[0m [33m WARN[0m  [33mStatus Code: 500. Retrying..., [1;33mrequest_id[0m[33m: "01K80C8BM8PJD4QGRG52SP5G75"[0m
-    [2;3mat[0m /home/runner/work/xet-core/xet-core/cas_client/src/http_client.rs:227
-
-  [2m2025-10-20T08:37:28.335612Z[0m [33m WARN[0m  [33mRetry attempt #1. Sleeping 5.022664672s before the next attempt[0m
-    [2;3mat[0m /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/reqwest-retry-0.7.0/src/middleware.rs:171
-
-  [2m2025-10-20T08:37:33.368185Z[0m [33m WARN[0m  [33mStatus Code: 500. Retrying..., [1;33mrequest_id[0m[33m: "01K80C8GHHBQZZPZMJCK05FJKY"[0m
-    [2;3mat[0m /home/runner/work/xet-core/xet-core/cas_client/src/http_client.rs:227
-
-  [2m2025-10-20T08:37:33.368213Z[0m [33m WARN[0m  [33mRetry attempt #2. Sleeping 7.307049976s before the next attempt[0m
-    [2;3mat[0m /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/reqwest-retry-0.7.0/src/middleware.rs:171
-
-  [2m2025-10-20T08:37:40.685073Z[0m [33m WARN[0m  [33mStatus Code: 500. Retrying..., [1;33mrequest_id[0m[33m: "01K80C8QP74G5PSK4DV7EKPZN3"[0m
-    [2;3mat[0m /home/runner/work/xet-core/xet-core/cas_client/src/http_client.rs:227
-
-  [2m2025-10-20T08:37:40.685103Z[0m [33m WARN[0m  [33mRetry attempt #3. Sleeping 7.63317675s before the next attempt[0m
-    [2;3mat[0m /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/reqwest-retry-0.7.0/src/middleware.rs:171
-
-  [2m2025-10-20T08:37:48.328526Z[0m [33m WARN[0m  [33mStatus Code: 500. Retrying..., [1;33mrequest_id[0m[33m: "01K80C8Z52FSZWCQRQ2ZJD4KMM"[0m
-    [2;3mat[0m /home/runner/work/xet-core/xet-core/cas_client/src/http_client.rs:227
-
-  [2m2025-10-20T08:37:48.328554Z[0m [33m WARN[0m  [33mRetry attempt #4. Sleeping 28.401952352s before the next attempt[0m
-    [2;3mat[0m /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/reqwest-retry-0.7.0/src/middleware.rs:171
-
-  [2m2025-10-20T08:38:16.740418Z[0m [33m WARN[0m  [33mStatus Code: 500. Retrying..., [1;33mrequest_id[0m[33m: "01K80C9TWY5KX04XTMR533JS6E"[0m
-    [2;3mat[0m /home/runner/work/xet-core/xet-core/cas_client/src/http_client.rs:227
-
 
 📊 Performance Contest Results (Historical Backtest)
 
               Accuracy  Precision    Recall        F1
 Model                                                
-TabPFN            0.62   0.612069  0.696078  0.651376
-RandomForest      0.60   0.588710  0.715686  0.646018
+TabPFN           0.615   0.610619  0.676471  0.641860
+RandomForest     0.600   0.588710  0.715686  0.646018
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
@@ -46,7 +13,7 @@ Ticker       Date TabPFN RandomForest Actual
   SOPH 2025-08-04     Up           Up     Up
   SOPH 2025-08-05     Up           Up     Up
   SOPH 2025-08-06     Up           Up     Up
-  SOPH 2025-08-07     Up           Up     Up
+  SOPH 2025-08-07   Down           Up     Up
   QGEN 2025-08-01   Down           Up   Down
   QGEN 2025-08-04   Down           Up   Down
   QGEN 2025-08-05   Down           Up   Down
@@ -59,9 +26,9 @@ Ticker       Date TabPFN RandomForest Actual
   ILMN 2025-08-07     Up           Up   Down
  ONT.L 2025-08-04   Down         Down   Down
  ONT.L 2025-08-05   Down         Down   Down
- ONT.L 2025-08-06   Down         Down   Down
+ ONT.L 2025-08-06     Up         Down   Down
  ONT.L 2025-08-07   Down         Down   Down
- ONT.L 2025-08-08   Down         Down   Down
+ ONT.L 2025-08-08     Up         Down   Down
   PACB 2025-08-01   Down         Down     Up
   PACB 2025-08-04   Down         Down     Up
   PACB 2025-08-05     Up         Down     Up
@@ -83,9 +50,9 @@ Ticker       Date TabPFN RandomForest Actual
    TXG 2025-08-06   Down         Down   Down
    TXG 2025-08-07   Down         Down   Down
 
-🏆 Contest Winner (Historical Backtest): TabPFN
+🏆 Contest Winner (Historical Backtest): RandomForest
 
 📊 Recent Head-to-Head Tally:
-TabPFN correct: 30 / 40
+TabPFN correct: 27 / 40
 RandomForest correct: 24 / 40
 🏆 Contest Winner (Recent Predictions): TabPFN
