@@ -4,9 +4,11 @@ PhD student in Life Science Engineering (100 %) || Jobup
 Postdoctoral Position/Data Scientist in Animal Nutrition || ETH Zurich
 Bioinformatician || Jobup
 Project Manager Clinical Data Science (ID1828) || AO Foundation
-Senior Expert Data Scientist (peptide design and protein/ligand co-folding) || Novartis Pharma AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Expert/e en science des données senior Systèmes nationaux de surveillance || Office fédéral de la santé publique OFSP
+Senior data scientist nell'ambito dei sistemi nazionali di sorveglianza || Ufficio federale della sanità pubblica UFSP
+Senior Data Scientist Nationale Überwachungssysteme || Bundesamt für Gesundheit BAG
 Technologie- und Lizenzmanager/in: Chemiker, Biochemiker,Bioinformatikermit Berufserfahrung (m/w/d) || ETH Zürich
 Technologie- und Lizenzmanager/in: Chemiker, Biochemiker,Bioinformatikermit Berufserfahrung (m/w/d) || ETH Zurich
 Biologiste avec titre de spécialité FAMH en génétique médicale - 80% à 100% || Hôpitaux universitaires de Genève (HUG)
@@ -14,7 +16,6 @@ PhD student in Life Science Engineering (100 %) || Jobup
 Postdoctoral Position/Data Scientist in Animal Nutrition || ETH Zurich
 Bioinformatician || Jobup
 Project Manager Clinical Data Science (ID1828) || AO Foundation
-Senior Expert Data Scientist (peptide design and protein/ligand co-folding) || Novartis Pharma AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Laboratory Technician QCMicrobiology(all genders) || Lonza Group
@@ -51,7 +52,6 @@ Chemielaborant:in USZ Radiopharmazie 60% || Universitätsspital Zürich
 Hoch-/Fachhochschulpraktikant/-in: Nacherntequalität pflanzlicher Produkte || Agroscope
 Biomedizinische*r Analytiker*in HF (Mikrobiologie) 80-100% || Universitätsspital Basel
 GMP Reinigungsmitarbeiter:in (a) || ISS Facility Services AG
-Fachspezialist*inMikrobiologie(8 Monate befristet) || Lindt + Sprüngli (Schweiz) AG
 Quality Manager Food (m/w/d) 60-80% || Manor AG
 Experte Manufacturing Compounding - BS || Manpower
 Ausbildung dipl. biomedizinische/r Analytiker/in HF || Jobup
@@ -66,6 +66,7 @@ Postdoc position in Forest Stand Dynamics under Pressure || ETH Zurich
 PhD student position in climate sciences, fully-funded for 4 years || Universität Bern
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Addetto/a al settore di ricerca strategico Selezione vegetale || Agroscope
 Boulanger (ère) pâtissier (ère) avec CFC à 80% || AUX 1000 FEUILLES SA
 Chef:fe d'équipe Nettoyage de nuit (a) || ISS Schweiz
 Chef:fe d'équipe Nettoyage de nuit (a) || Jobup
@@ -82,12 +83,13 @@ CDD Agent·e de conduite et d'exploitation EU horaire 3x8 || Jobup
 Specialista nel settore degli appalti || Segreteria generale SG-DDPS
 Cuisinier en diététique (H/F) à 100% - CDD 3 mois || ORP Pully
 Plasticien CFC ou Installateur sanitaire CFC (h/f) || OK Job
-Chef:fe d'équipe Nettoyage de nuit (a) || ISS Schweiz
 Chef d'équipe paysagiste à 100% (H/F) || Jobup
 CDD Premier Emploi - Développeur·se en informatique || Jobup
 CDD Premier Emploi - Ingénieur·e Projeteur MT-BT || Jobup
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+AWS DevOps Engineer || AARK Tech Solutions GmbH
+Career Opportunities: Data DevOps Engineer - Data Platforms (122316) || Pictet Asset Management SA
 DevOps Engineer || SonarSource SA
 Career Opportunities: Data DevOps Engineer - Data Platforms (122316) || Pictet Asset Management SA
 Production Manager - (M/F/N) || Syngenta
@@ -106,11 +108,17 @@ Senior BlockchainDeveloper- DeFi || Jobup
 Software Test Engineer 80-100% || Stadler Rail AG
 Microsoft 365 SharePointDeveloper || Post CH AG
 Software Test Engineer || Stadler Signalling AG
-Senior BlockchainDeveloperH/F || ALBEDIS - GENEVE
-Senior FrontendDeveloper(m/f) || myitjob GmbH
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+System EngineerLinux& Windows || OKOIOS SA
+Security Engineering Manager, Detection & Response || Snap Switzerland GmbH, Zweigniederlassung Zürich
+Senior ICT System Spezialist:in (a) 60% [Ref:2707] || Freestar-Informatik AG, Zweigniederlassung Zürich
 Software Engineer – PHP Backend Development (60% - 100%) || VeruA AG
+(Professional/Senior) IT System Engineer (m/w) 80-100% || Yellowshark
+Ingénieur Système Windows/Linuxen banque privée ! 100% || Academic Work
+(Professional/Senior) IT System Engineer (m/w) 80-100% || Yellowshark
+Ingénieur Système Windows/Linuxen banque privée ! 100% || Jobup
+IT System Engineer (m/w) 80-100% || Yellowshark
 Systemadministrator Cybersecurity & Identity Management m/w || IT Recruitment GmbH
 un.e Ingénieur Data Backend || Jobup
 Entwicklungsingenieur Elektronik FH/ETH || Addexpert GmbH
@@ -122,14 +130,6 @@ Senior System Engineer (m/w/d) 100% || Persigo Stans AG
 Junior DevOps Engineer C5I (w/m/d) || RUAG SA
 Database Engineer Détails du poste | Schweizerische Nationalbank || Swiss National Bank
 Railway Diagnostic Software Engineer 80-100% || Stadler Rail AG
-Ingénieur SystèmesLinux& Windows || LHH
-Railway Diagnostic Software Engineer || Stadler Signalling AG
-ICT-Supporter/in 100% online Bewerbung || SPT Roth AG
-(Senior) System Engineer 80 - 100% (m/w) || Yellowshark
-IT Operations & Security Engineer || LHH
-Senior System Engineer || Experis
-IT System Engineer 80 - 100% (m/w) || Yellowshark
-Senior IT Security Engineer (m/w) 100% || myitjob GmbH
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 ICT-Systemspezialist/-in Containersysteme || Schweizer Armee - Kommando Operationen Kdo Op

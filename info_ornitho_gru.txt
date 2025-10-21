@@ -1,3 +1,30 @@
+Region: Klingnauer Stausee / Leuggern (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Klingnauer Stausee Nord / Klingnau (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Bühler [748/249] / Bühler (AR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Waldstatt [739/246] / Waldstatt (AR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Allschwil [608/267] / Allschwil (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Münchenstein [612/263] / Münchenstein (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Seltisberg [620/256] / Seltisberg (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Oberhelfenschwil [726/247] / Oberhelfenschwil (SG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Feldi bei Altikon / Altikon (ZH)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Aarau / Summergrien [646/250] / Aarau (AG)
   - Gru (Grus grus)
 ----------------------------------------
@@ -17,6 +44,9 @@ Region: Muttenz [615/264] / Muttenz (BL)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Farvagny [570/175] / Farvagny (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Cathédrale St-Pierre / Genève (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Russin / Russin (GE)
@@ -41,11 +71,5 @@ Region: Matzingen [711/264] / Matzingen (TG)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Münsterlingen / Spital - Weidhof / Münsterlingen (TG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Winterthur / Toggenburger Weiher / Winterthur (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Zürich / Hueb / Zürich (ZH)
   - Gru (Grus grus)
 ----------------------------------------
