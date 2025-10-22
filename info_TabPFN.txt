@@ -3,56 +3,56 @@
 
               Accuracy  Precision    Recall        F1
 Model                                                
-TabPFN           0.650   0.663866  0.724771  0.692982
-RandomForest     0.615   0.617647  0.770642  0.685714
+TabPFN           0.630   0.661157  0.707965  0.683761
+RandomForest     0.605   0.623188  0.761062  0.685259
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
 Ticker       Date TabPFN RandomForest Actual
-  SOPH 2025-08-05     Up           Up     Up
   SOPH 2025-08-06     Up           Up     Up
   SOPH 2025-08-07     Up           Up     Up
   SOPH 2025-08-08     Up           Up     Up
   SOPH 2025-08-11     Up           Up     Up
-  QGEN 2025-08-05   Down           Up   Down
+  SOPH 2025-08-12     Up           Up     Up
   QGEN 2025-08-06     Up           Up     Up
-  QGEN 2025-08-07     Up           Up   Down
-  QGEN 2025-08-08     Up           Up     Up
-  QGEN 2025-08-11     Up           Up     Up
-  ILMN 2025-08-05     Up           Up   Down
+  QGEN 2025-08-07   Down           Up   Down
+  QGEN 2025-08-08   Down           Up     Up
+  QGEN 2025-08-11   Down           Up     Up
+  QGEN 2025-08-12   Down           Up   Down
   ILMN 2025-08-06     Up         Down     Up
-  ILMN 2025-08-07     Up         Down   Down
-  ILMN 2025-08-08     Up         Down     Up
-  ILMN 2025-08-11     Up         Down     Up
- ONT.L 2025-08-05   Down           Up   Down
- ONT.L 2025-08-06     Up           Up   Down
- ONT.L 2025-08-07     Up           Up   Down
- ONT.L 2025-08-08     Up           Up   Down
- ONT.L 2025-08-11     Up           Up   Down
-  PACB 2025-08-05     Up           Up     Up
+  ILMN 2025-08-07     Up           Up   Down
+  ILMN 2025-08-08     Up           Up     Up
+  ILMN 2025-08-11     Up           Up     Up
+  ILMN 2025-08-12     Up           Up   Down
+ ONT.L 2025-08-06   Down           Up   Down
+ ONT.L 2025-08-07   Down           Up   Down
+ ONT.L 2025-08-08   Down         Down   Down
+ ONT.L 2025-08-11   Down           Up   Down
+ ONT.L 2025-08-12   Down           Up   Down
   PACB 2025-08-06     Up           Up     Up
   PACB 2025-08-07     Up           Up     Up
   PACB 2025-08-08     Up           Up     Up
   PACB 2025-08-11     Up           Up     Up
-     A 2025-08-05     Up           Up     Up
+  PACB 2025-08-12     Up           Up     Up
      A 2025-08-06     Up           Up     Up
      A 2025-08-07     Up           Up     Up
      A 2025-08-08     Up           Up     Up
      A 2025-08-11     Up           Up     Up
-   TMO 2025-08-05   Down           Up     Up
-   TMO 2025-08-06   Down         Down     Up
-   TMO 2025-08-07   Down         Down     Up
-   TMO 2025-08-08   Down         Down     Up
+     A 2025-08-12     Up           Up     Up
+   TMO 2025-08-06     Up           Up     Up
+   TMO 2025-08-07     Up         Down     Up
+   TMO 2025-08-08     Up           Up     Up
    TMO 2025-08-11     Up           Up     Up
-   TXG 2025-08-05   Down         Down   Down
+   TMO 2025-08-12     Up           Up     Up
    TXG 2025-08-06   Down         Down   Down
    TXG 2025-08-07   Down         Down   Down
    TXG 2025-08-08   Down         Down     Up
    TXG 2025-08-11   Down         Down     Up
+   TXG 2025-08-12   Down         Down   Down
 
-🏆 Contest Winner (Historical Backtest): TabPFN
+🏆 Contest Winner (Historical Backtest): RandomForest
 
 📊 Recent Head-to-Head Tally:
-TabPFN correct: 27 / 40
-RandomForest correct: 24 / 40
+TabPFN correct: 34 / 40
+RandomForest correct: 28 / 40
 🏆 Contest Winner (Recent Predictions): TabPFN

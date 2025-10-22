@@ -1,6 +1,108 @@
 Region: Klingnauer Stausee / Leuggern (AG)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Klingnauer Stausee - Kleindöttingen / Böttstein (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Möhlin [630/267] / Möhlin (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Umiker Schachen / Villnachern (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Wettingen [666/258] / Wettingen (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Brüttelen [578/207] / Brüttelen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Fanel / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Fanel / Gampelen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Niederriedstausee / Radelfingen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: NSG Schinteregge / Merzligen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Treiten [578/206] / Treiten (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Münchenstein [613/264] / Münchenstein (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Muttenz [614/264] / Muttenz (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Muttenz [614/265] / Muttenz (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Basel [612/265] / Basel (BS)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Riehen [614/269] / Riehen (BS)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Montbrelloz [557/189] / Montbrelloz (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Luzern / Bramberg / Luzern (LU)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Le Mail / Neuchâtel (NE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Les Fourches / Saint-Blaise (NE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Derendingen [611/227] / Derendingen (SO)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Rodersdorf [601/259] / Rodersdorf (SO)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Canal de la Broye / Cudrefin (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Embouchure du Mujon / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Embouchure de la Thièle / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Grandson [540/185] / Grandson (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: La Prise / Champagne (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Observatoire de Champ-Pittet / Cheseaux-Noréaz (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Promenade Robert Hainard / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Rances [529/179] / Rances (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Sainte-Croix [530/184] / Sainte-Croix (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Yverdon-les-Bains [538/182] / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Unterstammheim / Deponie / Unterstammheim (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Petite Camargue alsacienne / Rosenau (68)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Klingnauer Stausee / Leuggern (AG)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Klingnauer Stausee Nord / Klingnau (AG)
   - Gru (Grus grus)
 ----------------------------------------
@@ -22,54 +124,9 @@ Region: Seltisberg [620/256] / Seltisberg (BL)
 Region: Oberhelfenschwil [726/247] / Oberhelfenschwil (SG)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Eschlikon / Horben / Eschlikon (TG)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Feldi bei Altikon / Altikon (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Aarau / Summergrien [646/250] / Aarau (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Mägenwil [660/251] / Mägenwil (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Zurlindeninsel / Aarau (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Obermoos / Müntschemier (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Münchenstein [612/263] / Münchenstein (BL)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Muttenz [615/264] / Muttenz (BL)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Farvagny [570/175] / Farvagny (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Cathédrale St-Pierre / Genève (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Russin / Russin (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Saint-Jean / Genève (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Schaffhausen / Bachtelstrasse / Schaffhausen (SH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Rodersdorf [601/259] / Rodersdorf (SO)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Kemmental / Bommer Weiher Ost / Kemmental (TG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Landschlacht / Hinterdorf / Münsterlingen (TG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Matzingen [711/264] / Matzingen (TG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Münsterlingen / Spital - Weidhof / Münsterlingen (TG)
   - Gru (Grus grus)
 ----------------------------------------
