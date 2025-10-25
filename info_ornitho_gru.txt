@@ -4,18 +4,15 @@ Region: Umiker Schachen / Villnachern (AG)
 Region: Fanel / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Fanel: îles / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Le Crève Coeur / Genthod (GE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: stade de Choulex / Choulex (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Vallon des Vaux / Plan-les-Ouates (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Horn / Hafengebiet / Horn (TG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Embouchure de la Thièle / Yverdon-les-Bains (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: L'Etournel - Les Îsles / Collonges (01)
   - Gru (Grus grus)
 ----------------------------------------

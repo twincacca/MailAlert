@@ -3,8 +3,8 @@
 
               Accuracy  Precision    Recall        F1
 Model                                                
-TabPFN            0.66   0.735294  0.646552  0.688073
-RandomForest      0.64   0.696429  0.672414  0.684211
+TabPFN           0.665   0.737864  0.655172  0.694064
+RandomForest     0.640   0.696429  0.672414  0.684211
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
