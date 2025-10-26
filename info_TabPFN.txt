@@ -43,7 +43,7 @@ Ticker       Date TabPFN RandomForest Actual
    TMO 2025-08-11     Up           Up     Up
    TMO 2025-08-12     Up         Down     Up
    TMO 2025-08-13     Up           Up     Up
-   TMO 2025-08-14   Down         Down     Up
+   TMO 2025-08-14     Up         Down     Up
    TXG 2025-08-08   Down         Down     Up
    TXG 2025-08-11   Down         Down     Up
    TXG 2025-08-12   Down         Down   Down
@@ -53,6 +53,6 @@ Ticker       Date TabPFN RandomForest Actual
 🏆 Contest Winner (Historical Backtest): TabPFN
 
 📊 Recent Head-to-Head Tally:
-TabPFN correct: 33 / 40
+TabPFN correct: 34 / 40
 RandomForest correct: 31 / 40
 🏆 Contest Winner (Recent Predictions): TabPFN
