@@ -1,6 +1,7 @@
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Data & Digital Workflow Specialist || Manpower
+Data Scientist (m/w) || myitjob GmbH
 Principal Scientist - Resistance Research || Syngenta
 Senior Scientist, Comparative Digital Pathology, Computational Biology and Medicine || Roche
 Director, Center for PathogenBioinformatics || SIB Institut Suisse de Bioinformatique
@@ -11,6 +12,7 @@ Project Manager Clinical Data Science (ID1828) || AO Foundation
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Data & Digital Workflow Specialist || Manpower
+Data Scientist (m/w) || myitjob GmbH
 Principal Scientist - Resistance Research || Syngenta
 Senior Scientist, Comparative Digital Pathology, Computational Biology and Medicine || Roche
 Senior Expert inbioinformaticae scienze dei dati (lead DataOps) (m/f) || Ufficio federale della sanità pubblica UFSP
@@ -43,7 +45,6 @@ Senior Validation Specialist || Hays (Schweiz) AG
 Postdoctoral Position in Novel Models for Infection Biology || ETH Zurich
 Scientist (all genders) Quality Control,Microbiology(80-100%) || Lonza Group
 Bioinformatician || Jobup
-Postdoctoral position - biotechnology for safeguarding environment and health || ETH Zurich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Laborant/in (m/w/d) Mikrobiologische Qualitaetskontrolle || Manpower
@@ -94,9 +95,11 @@ PhD-student position in Palaeoecology at University of Bern || Universität Bern
 PhD position in Grassland Management and Grassland-based Production Systems || Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL
 Postdoc position in Rewilding of Forest Ecosystems || ETH Zurich
 Postdoc position in Forest Stand Dynamics under Pressure || ETH Zurich
-PhD student position in climate sciences, fully-funded for 4 years || Universität Bern
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Chef:fe d'équipe Nettoyage de nuit (a) || ISS Facility Services AG
+Collaboratore/-trice agricolo/-a specializzato/-a team Campicoltura || Agroscope
+STAGIAIRE ASSISTANT·E DANS LE DOMAINE DE LA DURABILITE À 100 % || Jobup
 Collaborateur du service externe OTC f/h || Jobup
 Professor in Plant PopulationEcology, Tenure-Track Assistant Professor or Open Rank || Universität Bern
 Responsabile Centro di frutta a nocciolo Breitenhof || Agroscope
@@ -112,15 +115,21 @@ Aspirant e chef fe circulation des trains 05/2026 || Schweizerische Bundesbahnen
 Chef:fe d'équipe Nettoyage de nuit (a) || Jobup
 Plasticien 100% H/F || Calani Emplois SA
 Plasticien CFC ou Installateur sanitaire CFC (h/f) || Jobup
-Chef:fe d'équipe Nettoyage de nuit (a) || ISS Facility Services AG
 Inspecteur/trice Suisse Romande || Inspection fédérale des installations à courant fort ESTI
 Deux juristes en environnement CDD 80% || Direction générale de l'environnement
-Addetto/a al settore di ricerca strategico Selezione vegetale || Agroscope
-Boulanger (ère) pâtissier (ère) avec CFC à 80% || AUX 1000 FEUILLES SA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Senior .NET Engineer, 80-100% (w/m/d) || Swiss Life AG
+Senior IT Project Lead - Banking & Financial Services || Swiss Himmel GmbH
+Working Student in Human Resources || Siemens
+Cloud Native JavaDeveloper || UBS
+BusinessDeveloperfür unsere Alarmzentrale || Protectas SA
 Technical Account Manager (French speaking) || Amazon Web Services Switzerland GmbH
 Senior CloudDeveloper& Architect 100% || Star Job AG
+QuantitativeDeveloper(C++, Crypto, DeFi) || Jobup
+ApplicationDeveloper/ Application Manager 60 - 100 % || myitjob GmbH
+Career Opportunities: Data DevOps Engineer - Data Platforms (122316) || Pictet Asset Management SA
+Senior Android MobileDeveloper80-100% || Post CH AG
 Senior Platform Engineer || Avaloq
 Senior Android MobileDeveloper- 80-100%, Bern und Homeoffice || Post CH AG
 Senior Android MobileDeveloper- 80-100%, Bern und home office || Post CH AG
@@ -130,17 +139,13 @@ Student Researcher, 2026 - Google Careers || Google
 Senior Business Intelligence Report Modeler/Developer80 - 100 % (f/m/d) || Hamilton
 Student CDeveloper(m/f/d) Job Details | Endress+Hauser || Endress+Hauser
 Career Opportunities: Data DevOps Engineer - Data Platforms (122316) || Pictet Asset Management SA
-Software Delivery Manager (Mobile) || Avaloq
-Java BackendDeveloper& Systems Engineer || Jobup
-Commercial·e B2B - Design & Architecture d-intérieur (Retail & Bureaux) || Jobup
-Platform Engineer, Middleware & Messaging Operations || Swissquote Bank SA
-Partner Cloud Solution Architect - Security || Microsoft
-Senior AvaloqDeveloperPayments 100% || Bank J. Safra Sarasin AG
-Senior Android Mobile Develope || Post CH AG
-Software Engineer Détails du poste | Richemont || Richemont Suisse SA
-Senior Software Development Engineer || Sonova AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+LinuxSystem Engineer, 80-100% || Coop Genossenschaft
+Ingénieur DevOps (f/m/d) || Jobup
+IT Infrastructure Manager - h/f || Michael Page
+LinuxSystem Engineer (m/w) - 80-100% || myitjob GmbH
+Ingénieur.e DevOps || Jobup
 Software Engineer mit AI & Cloud Knowhow 80 - 100 % || Universität Zürich
 IT Infrastructure Manager - h/f || Jobup
 Ingénieur(e) senior en systèmes d'informations || Jobup
@@ -155,14 +160,15 @@ System & Network Engineer || Jobup
 System Engineer C5I (w/m/d) || RUAG SA
 Senior Software Development Engineer || Sonova AG
 System TechnikerLinux(m/w) || myitjob GmbH
-Ingénieur DevOps (H/F) || Jobup
 Ingegnere sistemista per le TIC, livello professional (994) || Ufficio federale dell'informatica e della telecom. UFIT
-Ingénieur/e en systèmes informatiques de niveau professionnel (994) || Office fédéral de l'informatique et de la télécom. OFIT
-ICT-System-Ingenieur/-in Professional (994) || Bundesamt für Informatik und Telekommunikation BIT
-IT-Systemtechniker (m/w/d) || Herr Informatik GmbH
-System & Network Engineer || Schweizerisches Bundesgericht BGer
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Expert/e technique en assurance qualité pour le contrôle de véhicules || Armée suisse - Base logistique de l'armée BLA
+Fachexperte/-in Qualitätssicherung Fahrzeugprüfungen || Schweizer Armee - Logistikbasis der Armee LBA
+Expert/e automobile || Armée suisse - Base logistique de l'armée BLA
+Fahrzeugexperte/-in || Schweizer Armee - Logistikbasis der Armee LBA
+Logistiker/in EFZ (w/m/d) || RUAG SA
+Avionics Engineer (w/m/d) || RUAG SA
 Logisticien/ne || Armée suisse - Base logistique de l'armée BLA
 Logistiker/-in || Schweizer Armee - Logistikbasis der Armee LBA
 Pharma-Assistent/-in und Stv Chef/-in Fachzentrum Pharma || Schweizer Armee - Logistikbasis der Armee LBA
@@ -177,9 +183,3 @@ Test Manager C5I (w/m/d) || RUAG SA
 Sachbearbeiter/-in Finanzen / Kommissariatsdienst || Schweizer Armee - Kommando Ausbildung Kdo Ausb
 Spécialiste Finances et service du commissariat || Armée suisse - Commandement de l'Instruction Cdmt Instr
 Gestionnaire en intendance 70% || EMS le Phare-Elim (Isv)
-Platform Engineer C5I (w/m/d) || RUAG SA
-Project Manager C5I (w/m/d) || RUAG SA
-Senior System Engineer C5I (w/m/d) || RUAG SA
-ICT Application Manager (w/m/d) || RUAG SA
-Operations Consultant C5I (w/m/d) || RUAG SA
-System Engineer C5I (w/m/d) || RUAG SA

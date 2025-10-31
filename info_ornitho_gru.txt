@@ -10,16 +10,25 @@ Region: Oberkulm / Schürmatt [653/238] / Oberkulm (AG)
 Region: Reinach / Holenweg [656/235] / Reinach (AG)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Staufen / Dorf [654/248] / Staufen (AG)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Unterbözberg [654/260] / Unterbözberg (AG)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Fanel / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Fanel : Lagunes / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Hindelbank [608/210] / Hindelbank (BE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Ins [574/206] / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Rapperswil [598/211] / Rapperswil (BE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Walperswil [583/211] / Walperswil (BE)
@@ -29,6 +38,9 @@ Region: Marais des Crêts / Meyrin (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Rade rive droite / Genève (GE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Russin [489/117] / Russin (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Ettiswil / Usserdorf / Ettiswil (LU)
@@ -50,5 +62,53 @@ Region: Messen [600/216] / Messen (SO)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Messen [600/214] / Messen (SO)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Selzach [602/227] / Selzach (SO)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Güttingen / Mosburg / Güttingen (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Agiez [529/173] / Agiez (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Arzier [505/146] / Arzier (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Chavornay [531/172] / Chavornay (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Embouchure du Mujon / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Grands Prés / Yvonand (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Port d'Yvonand / Yvonand (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Rideau de Serme (pompage) / Grandcour (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Yverdon-les-Bains [537/180] / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Yverdon-les-Bains [540/182] / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Andelfingen / Pünten / Andelfingen (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Dübendorf / Wil / Dübendorf (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Horgen / Widenbach / Horgen (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Neeracherried Zentrum / Neerach (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Neeracherried Südreservat / Neerach (ZH)
   - Gru (Grus grus)
 ----------------------------------------
