@@ -1,10 +1,10 @@
 
 📊 Performance Contest Results (Historical Backtest)
 
-              Accuracy  Precision    Recall        F1
-Model                                                
-TabPFN           0.685   0.724138  0.730435  0.727273
-RandomForest     0.645   0.657143  0.800000  0.721569
+              Accuracy  Precision   Recall        F1
+Model                                               
+TabPFN           0.660   0.691057  0.73913  0.714286
+RandomForest     0.645   0.657143  0.80000  0.721569
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
@@ -50,7 +50,7 @@ Ticker       Date TabPFN RandomForest Actual
    TXG 2025-08-20   Down         Down   Down
    TXG 2025-08-21   Down         Down     Up
 
-🏆 Contest Winner (Historical Backtest): TabPFN
+🏆 Contest Winner (Historical Backtest): RandomForest
 
 📊 Recent Head-to-Head Tally:
 TabPFN correct: 27 / 40
