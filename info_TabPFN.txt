@@ -1,10 +1,10 @@
 
 📊 Performance Contest Results (Historical Backtest)
 
-              Accuracy  Precision   Recall        F1
-Model                                               
-TabPFN           0.660   0.691057  0.73913  0.714286
-RandomForest     0.645   0.657143  0.80000  0.721569
+              Accuracy  Precision    Recall        F1
+Model                                                
+TabPFN           0.665   0.693548  0.747826  0.719665
+RandomForest     0.645   0.657143  0.800000  0.721569
 
 📈 Recent 5-Day Trend Predictions vs. Actuals:
 
