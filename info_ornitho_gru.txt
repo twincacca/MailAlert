@@ -1,3 +1,12 @@
+Region: Füllinsdorf [621/261] / Füllinsdorf (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Rodersdorf [601/259] / Rodersdorf (SO)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Regensdorf / Dorf Süd / Regensdorf (ZH)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Thalheim / Homberg [649/256] / Thalheim (AG)
   - Gru (Grus grus)
 ----------------------------------------
@@ -31,6 +40,9 @@ Region: Meyrin [494/121] / Meyrin (GE)
 Region: Pont des Délices / Genève (GE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Promenade Saint-Antoine / Genève (GE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Ruisseau du Crêt / Dardagny (GE)
   - Gru (Grus grus)
 ----------------------------------------
@@ -62,110 +74,5 @@ Region: Zürich / Hardbrücke / Zürich (ZH)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Zürich / Milchbuck / Zürich (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Dürrenäsch / Dorf [654/241] / Dürrenäsch (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Seenger Moos / Seengen (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Unterkulm / Dorf [651/240] / Unterkulm (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bern [599/199] / Bern (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bern [598/198] / Bern (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bern [596/198] / Bern (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bern [601/200] / Bern (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bolligen [604/202] / Bolligen (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Grosshöchstetten [614/195] / Grosshöchstetten (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Ostermundigen [605/200] / Ostermundigen (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Aesch [611/257] / Aesch (BL)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bubendorf [621/255] / Bubendorf (BL)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Lupsingen [619/255] / Lupsingen (BL)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Ulmethöchi / Lauwil (BL)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Riehen [618/269] / Riehen (BS)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Avry-devant-Pont W / Avry-devant-Pont (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bas-Vully [575/201] / Bas-Vully (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Genève [501/117] / Genève (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Meinier / Meinier (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Meyrin [493/120] / Meyrin (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Pont des Délices / Genève (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Entlebuch [647/204] / Entlebuch (LU)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Gunzwil [656/229] / Gunzwil (LU)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Oberkirch / Golfplatz Süd / Oberkirch (LU)
-  - Gru (Grus grus)
-----------------------------------------
-Region: La Coudre / Neuchâtel (NE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Les Prises / Couvet (NE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Rapperswil / Kempraten / Rapperswil-Jona (SG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Sennwald / Hinterdorf / Sennwald (SG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Schaffhausen / Emmersberg / Schaffhausen (SH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Boningen / Dorf [631/239] / Boningen (SO)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Langendorf [605/230] / Langendorf (SO)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Baulmes  W / Baulmes (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Grande Râpe / Payerne (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Pfäffikon / Irgenhausen / Pfäffikon (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Schwerzenbach / Dorf / Schwerzenbach (ZH)
   - Gru (Grus grus)
 ----------------------------------------
