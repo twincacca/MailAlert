@@ -19,6 +19,9 @@ Region: Bern [597/199] / Bern (BE)
 Region: Bolligen [604/202] / Bolligen (BE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Ittigen [603/203] / Ittigen (BE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Noréaz / Noréaz (FR)
   - Gru (Grus grus)
 ----------------------------------------
@@ -50,6 +53,9 @@ Region: Vernier [497/119] / Vernier (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Vers Vaux / Chancy (GE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Vogelwarte Seerose / Sempach (LU)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Stein [736/230] / Stein (SG)
