@@ -1,4 +1,31 @@
+Region: Krümmi (Ausgleichsfläche) / Ried bei Kerzers (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ch. des Chênes - Genthod / Genthod (GE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Gams [751/230] / Gams (SG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Arbon / Hafen-Quai / Arbon (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ermatinger Becken TG / S-E / Ermatingen (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Güttingen / Mosburg / Güttingen (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Kreuzlingen / Seepark / Kreuzlingen (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Münsterlingen / Klinik / Münsterlingen (TG)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Leuggern / Klingnauer Stausee - Steinächer / Leuggern (AG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Oberwil-Lieli [672/242] / Oberwil-Lieli (AG)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Estavayer-le-Lac / Estavayer-le-Lac (FR)
@@ -55,21 +82,12 @@ Region: Rideau de Serme (pompage) / Grandcour (VD)
 Region: Eglisau [682/269] / Eglisau (ZH)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Ellikon am Rhein [687/273] / Marthalen (ZH)
-  - Gru (Grus grus)
-----------------------------------------
 Region: Feldi bei Altikon / Altikon (ZH)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Oberstammheim / Raffolter / Oberstammheim (ZH)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Füllinsdorf [621/261] / Füllinsdorf (BL)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Rodersdorf [601/259] / Rodersdorf (SO)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Regensdorf / Dorf Süd / Regensdorf (ZH)
+Region: Vuache / Arcine (74)
   - Gru (Grus grus)
 ----------------------------------------
