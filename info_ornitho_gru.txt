@@ -1,3 +1,21 @@
+Region: Schaffhausen / Zentrum / Schaffhausen (SH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Altnau / Geuse / Altnau (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Wasterkingen [677/271] / Wasterkingen (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Weil am Rhein / Weil am Rhein (BW)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Münchenstein [612/263] / Münchenstein (BL)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Muttenz [615/264] / Muttenz (BL)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Krümmi (Ausgleichsfläche) / Ried bei Kerzers (FR)
   - Gru (Grus grus)
 ----------------------------------------
@@ -5,6 +23,9 @@ Region: Ch. des Chênes - Genthod / Genthod (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Gams [751/230] / Gams (SG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Altnau / Geuse / Altnau (TG)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Arbon / Hafen-Quai / Arbon (TG)
@@ -20,74 +41,5 @@ Region: Kreuzlingen / Seepark / Kreuzlingen (TG)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Münsterlingen / Klinik / Münsterlingen (TG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Leuggern / Klingnauer Stausee - Steinächer / Leuggern (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Oberwil-Lieli [672/242] / Oberwil-Lieli (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Estavayer-le-Lac / Estavayer-le-Lac (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bois de la Chapelle / Onex (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Grenand / Avusy (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Marais du Château / Choulex (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Perle du lac / Genève (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Port Noir / Genève (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Sur la Ville / Choulex (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Teppes : Etang Jacques Burnier / Russin (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Vandœuvres / Vandoeuvres (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bressaucourt [569/249] / Bressaucourt (JU)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Jonschwil / Schwarzenbach Süd / Jonschwil (SG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Oberuzwil / Platanenhof / Oberuzwil (SG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Dörflingen [696/283] / Dörflingen (SH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Neunkirch / Widen West / Neunkirch (SH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Canal de la Broye / Cudrefin (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Etang de Pré Bovet / Grandcour (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Rideau de Serme (pompage) / Grandcour (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Eglisau [682/269] / Eglisau (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Feldi bei Altikon / Altikon (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Oberstammheim / Raffolter / Oberstammheim (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Vuache / Arcine (74)
   - Gru (Grus grus)
 ----------------------------------------
