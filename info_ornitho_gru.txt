@@ -1,4 +1,13 @@
+Region: Bussigny-près-Lausanne [532/156] / Bussigny-près-Lausanne (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Yverdon-les-Bains [539/182] / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Bern [597/199] / Bern (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ittigen [603/203] / Ittigen (BE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: La Neuveville [575/212] / La Neuveville (BE)
@@ -26,23 +35,5 @@ Region: Côte d'Hauterive / Hauterive (NE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Grenchen [598/225] / Grenchen (SO)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Eiken [640/265] / Eiken (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Stein [638/265] / Stein (AG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Lac des Vernes / Meyrin (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Untereggen / Schlossweiher / Untereggen (SG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Dinhard [698/268] / Dinhard (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Winterthur / Oberfeld / Winterthur (ZH)
   - Gru (Grus grus)
 ----------------------------------------
