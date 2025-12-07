@@ -1,12 +1,27 @@
+Region: Chrützstrass / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Erlenhof / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Fanel : Seewald S / Gampelen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Schwarzgrabe / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Stockweg / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ziegelhof-Erlenhof / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Birkenhofweiher / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Fanel / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Ulmehüsli / Ins (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Birkenhofweiher / Ins (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Fanel / Gampelen (BE)
   - Gru (Grus grus)
 ----------------------------------------
