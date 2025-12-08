@@ -43,6 +43,7 @@ Scientist || Hays (Schweiz) AG
 Sales Manager (m/f/d) || Bruker
 Senior QA Specialist, QA Project Management 80-100% (f/m/d) || Lonza Group
 Senior Scientist PMQ || Roche
+Investigator 100 % || IGI Therapeutics SA, succursale d'Epalinges
 Postdoc Position in Bacteria and Materials Interactions || Empa
 PhD Position in Bacteria and Materials Interactions || Empa
 Two PhD positions in Biophysics and rheology of bacterial biofilms || ETH Zurich
@@ -82,7 +83,6 @@ Laborant:innen QCMikrobiologie(m/w/d) || Tech'Firm Industrie AG
 Mitarbeiter/in Qualitätssicherung 80-100% (m/w) || Deliciel AG
 Emmi Schweiz AG  Mitarbeiter in Labor 100% in Suhr || Emmi Group
 Wissenschaftliche/-r Mitarbeiter/-in im Bereich Epidemiologie von Infektionskrankheiten || Bundesamt für Gesundheit BAG
-Quality Assurance Manager || Siegfried AG
 Chemielaborant:in, Pharma- bzw. Chemietechnolog:in (Produktion & Qualitätskontrolle Radiopharmaka) (m/w/d) || ETH Zurich
 Laborant:inMikrobiologie || Nestlé SA
 Laborant || Hays (Schweiz) AG
@@ -121,6 +121,7 @@ Responsabile Centro di frutta a nocciolo Breitenhof || Agroscope
 Praticante universitario/a applicati pubbliciecologici || Ufficio federale dell'ambiente UFAM
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22developer%22,%22label%22:%22developer%22,%22order%22:0,%22_id%22:%22free-text_developer%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Junior Full StackDeveloper(Angular & FastAPI), 100% - Medienjobs || Vantage Education AG
 .NETDeveloper || Michael Page
 Career Opportunities: Data Engineer (123259) || Pictet Asset Management SA
 Software Engineer II, Change Tracked Metadata - Google Careers || Google
@@ -133,7 +134,6 @@ Web Applications JavaDeveloper || Jobup
 Golang BackendDeveloper || Hays (Schweiz) AG
 Business Analyst - Taxes || Avaloq
 PL/SQL Software Engineer || Coopers Group AG
-Career Opportunities: Data Engineer (123259) || Pictet Asset Management SA
 SoftwareDeveloperPHP 80–100% (w/m/d) || p3b ag
 Senior Specialist - Footwear Tooling Engineer || On AG
 Senior React FrontendDeveloper(full-time, onsite in St. Gallen) || LocalBini AG
@@ -143,6 +143,12 @@ SoftwareDeveloperm/w || IT Recruitment GmbH
 SoftwareDeveloperFull Stack (m/w/d) || Carrosserie HESS AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22linux%22,%22label%22:%22linux%22,%22order%22:0,%22_id%22:%22free-text_linux%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Reliability & Parametric Test Engineer || EM Microelectronic Marin SA
+ICT-System-Ingenieur/-in Junior (1032) || Bundesamt für Informatik und Telekommunikation BIT
+Ingénieur/e junior système informatique (1032) || Office fédéral de l'informatique et de la télécom. OFIT
+Ingegnere/a junior di sistemi TIC (1032) || Ufficio federale dell'informatica e della telecom. UFIT
+Data Center Engineer / System Engineer 80-100% || Jobup
+Applikationsmanager* (Finnova) || IT Recruitment GmbH
 GenAI Engineer Underwriting Engine (all genders) || AXA
 (Senior) Embedded Software Engineer (m/w/d) || IT Recruitment GmbH
 Ingénieur développement de logiciels (F/H) || Ensemble Hospitalier de la Côte (EHC)
@@ -157,14 +163,10 @@ Elektroniker (m/w/d) || Work Selection
 Web Applications Java Developer || Jobup
 Ingénieur·e en contrôle commande || Jobup
 Systemadministrator (m/w) || Yellowshark
-Embedded Software Engineer (w/m/d) 80 - 100 % || Kistler AG
-Berufsschullehrperson Informatikunterricht Bereich Plattformentwicklung 40 - 60% || Kanton Zürich
-Simulator Maintenance Engineer, 100% (m/f/d) || Lufthansa Aviation Training Switzerland AG
-Senior Researcher - Computing Systems (Operating Systems, Storage, and Memory) || Huawei Technologies Switzerland AG
-Senior Researcher - Computing Systems (Operating Systems, Storage, and Memory) || Huawei Technologies Switzerland AG
-Spécialiste Sécurité || DGNSI Direction générale du numérique et des systèmes d'information
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22armee%22,%22label%22:%22armee%22,%22order%22:0,%22_id%22:%22free-text_armee%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Spezialist/in Datenerhebung || Generalsekretariat VBS - Staatssekretariat für Sicherheitspolitik SEPOS
+Fachspezialistin/ Fachspezialist Katastrophenvorsorge ABC 80 – 100 % || Kanton Aargau
 DevOps Engineer C5I (w/m/d) || RUAG SA
 Diagnosticien/-ne || Armée suisse - Base logistique de l'armée BLA
 Diagnostiker/-in || Schweizer Armee - Logistikbasis der Armee LBA
@@ -183,5 +185,3 @@ Responsable de la santé animale || Armée suisse - Base logistique de l'armée 
 Leiter/-in Tiergesundheit || Schweizer Armee - Logistikbasis der Armee LBA
 Collaborateur/-trice specialisé/-e Centrale d'évaluation || Armée suisse - Commandement de l'Instruction Cdmt Instr
 Sachbearbeiter/-in Auswertezentrale || Schweizer Armee - Kommando Ausbildung Kdo Ausb
-Chef/-in Gebäudebetrieb militärische Anlagen / Stv Chef/-in || Schweizer Armee - Logistikbasis der Armee LBA
-Chef/fe de l'exploitation des bâtiments des installations militaires / suppl. chef/fe || Armée suisse - Base logistique de l'armée BLA
