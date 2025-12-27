@@ -1,6 +1,27 @@
 Region: Fanel / Gampelen (BE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Canal et port de Gletterens / Gletterens (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Gletterens [560/195] / Gletterens (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Chablais de Cudrefin / Cudrefin (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Chevroux [560/194] / Chevroux (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: La Sauge petit étang / Cudrefin (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: La Sauge ferme / Cudrefin (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Fanel / Gampelen (BE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Riehen [614/269] / Riehen (BS)
   - Gru (Grus grus)
 ----------------------------------------
@@ -8,5 +29,8 @@ Region: Bannriet West / Altstätten (SG)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Cudrefin [568/201] / Cudrefin (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Maschwander Allmend / Hünenberg (ZG)
   - Gru (Grus grus)
 ----------------------------------------
