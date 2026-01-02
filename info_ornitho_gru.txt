@@ -1,3 +1,21 @@
+Region: Fanel / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ulmehüsli / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Wohlensee/Wohlei [593/201] / Frauenkappelen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Wohlensee bei Hinterkappelen [595/201] / Wohlen bei Bern (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Wohlensee beim Kappelenring [594/201] / Frauenkappelen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ziegelhof-Erlenhof / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Erlenhof / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
@@ -19,18 +37,9 @@ Region: Le Rondet / Haut-Vully (FR)
 Region: Portalban [563/194] / Delley-Portalban (FR)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Sur le Mont / Saint-Aubin (FR)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Vallon / Vallon (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Canal de la Broye / Cudrefin (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Crusille / Valeyres-sous-Montagny (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Etang de Pré Bovet / Grandcour (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Les Mangettes / Monthey (VS)
   - Gru (Grus grus)
 ----------------------------------------
