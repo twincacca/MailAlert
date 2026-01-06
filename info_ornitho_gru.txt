@@ -1,15 +1,9 @@
-Region: Canal de la Broye / Cudrefin (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Embouchure du Mujon / Yverdon-les-Bains (VD)
-  - Gru (Grus grus)
-----------------------------------------
 Region: Ins [572/203] / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Ziegelhof-Erlenhof / Ins (BE)
+Region: Embouchure du Mujon / Yverdon-les-Bains (VD)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Embouchure du Mujon / Yverdon-les-Bains (VD)
+Region: Felder Witzwil-Ins / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
