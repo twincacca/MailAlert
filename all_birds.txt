@@ -13,6 +13,18 @@ Region: Aarau / Summergrien [646/250] / Aarau (AG)
   - Merlo acquaiolo (Cinclus cinclus)
 ----------------------------------------
 
+Region: Auw [670/231] / Auw (AG)
+  - Nibbio reale (Milvus milvus)
+----------------------------------------
+
+Region: Beinwil (Freiamt) [667/231] / Beinwil (Freiamt) (AG)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Beinwil (Freiamt) [669/231] / Beinwil (Freiamt) (AG)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
 Region: Brunegg [658/252] / Brunegg (AG)
   - Nibbio reale (Milvus milvus)
 ----------------------------------------
@@ -59,6 +71,16 @@ Region: Meisterschwanden / Seerose [659/237] / Meisterschwanden (AG)
   - Passere oltremontane (Passer domesticus)
 ----------------------------------------
 
+Region: Merenschwand [672/234] / Merenschwand (AG)
+  - Nibbio reale (Milvus milvus)
+  - Cornacchie nere (Corvus corone)
+----------------------------------------
+
+Region: Merenschwand / Hagnau / Merenschwand (AG)
+  - Poiana (Buteo buteo)
+  - Cornacchie nere (Corvus corone)
+----------------------------------------
+
 Region: Muhen / Untermuhen [646/243] / Muhen (AG)
   - Cormorano (Phalacrocorax carbo)
 ----------------------------------------
@@ -67,11 +89,38 @@ Region: Muhen / Mittelmuhen [646/242] / Muhen (AG)
   - Nibbi reali (Milvus milvus)
   - Poiana (Buteo buteo)
   - Merli (Turdus merula)
-  - Cornacchie nere (Corvus corone)
 ----------------------------------------
 
 Region: Muhen / Tannacker [647/242] / Muhen (AG)
   - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Muhen / Mittelmuhen [646/242] / Muhen (AG)
+  - Gazza (Pica pica)
+  - Cornacchie nere (Corvus corone)
+----------------------------------------
+
+Region: Muhen / Untermuhen [646/243] / Muhen (AG)
+  - Storni (Sturnus vulgaris)
+----------------------------------------
+
+Region: Mühlau [672/230] / Mühlau (AG)
+  - Germano reale (Anas platyrhynchos)
+  - Gazza (Pica pica)
+----------------------------------------
+
+Region: Mühlau [671/231] / Mühlau (AG)
+  - Airone cenerino (Ardea cinerea)
+  - Poiana (Buteo buteo)
+  - Merlo (Turdus merula)
+----------------------------------------
+
+Region: Mühlau [672/231] / Mühlau (AG)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Mühlau / Schoren / Mühlau (AG)
+  - Nibbio reale (Milvus milvus)
 ----------------------------------------
 
 Region: Oberentfelden / Oberfeld [646/244] / Oberentfelden (AG)
@@ -80,6 +129,7 @@ Region: Oberentfelden / Oberfeld [646/244] / Oberentfelden (AG)
   - Tortore dal collare (Streptopelia decaocto)
   - Gazza (Pica pica)
   - Cornacchie nere (Corvus corone)
+  - Fringuelli (Fringilla coelebs)
 ----------------------------------------
 
 Region: Oberentfelden / Schürlifeld [645/244] / Oberentfelden (AG)
@@ -88,6 +138,21 @@ Region: Oberentfelden / Schürlifeld [645/244] / Oberentfelden (AG)
 
 Region: Reinach / Weiermatt [657/233] / Reinach (AG)
   - Astore (Astur gentilis)
+----------------------------------------
+
+Region: Reussegg Aue / Sins (AG)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Codone (Anas acuta)
+  - Canapiglie (Mareca strepera)
+  - Airone cenerino (Ardea cinerea)
+  - Poiana (Buteo buteo)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gabbiani reali (Larus michahellis)
+  - Ballerina bianca (Motacilla alba)
+  - Merlo (Turdus merula)
+  - Cornacchie nere (Corvus corone)
+  - Fringuello (Fringilla coelebs)
 ----------------------------------------
 
 Region: Rothrist / Bonigen [632/239] / Rothrist (AG)
@@ -163,6 +228,10 @@ Region: Unterbözberg / Ursprung [654/259] / Unterbözberg (AG)
   - Zigoli gialli (Emberiza citrinella)
 ----------------------------------------
 
+Region: Wallbach [635/269] / Wallbach (AG)
+  - Strolaga minore (Gavia stellata)
+----------------------------------------
+
 Region: Zurzach [664/272] / Zurzach (AG)
   - Airone bianco (Ardea alba)
 ----------------------------------------
@@ -202,7 +271,27 @@ Region: Bern [599/199] / Bern (BE)
 ----------------------------------------
 
 Region: Bern [602/200] / Bern (BE)
+  - Codibugnoli (Aegithalos caudatus)
   - Codibugnoli testabianca (Aegithalos caudatus caudatus)
+----------------------------------------
+
+Region: Bolligen [606/201] / Bolligen (BE)
+  - Nibbi reali (Milvus milvus)
+  - Merli (Turdus merula)
+----------------------------------------
+
+Region: Bolligen [607/202] / Bolligen (BE)
+  - Piccioni domestici (Columba livia f. domestica)
+  - Picchio rosso maggiore (Dendrocopos major)
+----------------------------------------
+
+Region: Bolligen [605/202] / Bolligen (BE)
+  - Picchio verde (Picus viridis)
+  - Corvo imperiale (Corvus corax)
+----------------------------------------
+
+Region: Bolligen [606/202] / Bolligen (BE)
+  - Picchio nero (Dryocopus martius)
 ----------------------------------------
 
 Region: Bolligen [604/202] / Bolligen (BE)
@@ -217,11 +306,27 @@ Region: Courtelary [571/225] / Courtelary (BE)
   - Nibbio reale (Milvus milvus)
 ----------------------------------------
 
+Region: Epsach [583/212] / Epsach (BE)
+  - Nibbio reale (Milvus milvus)
+  - Poiana (Buteo buteo)
+  - Gabbiani reali (Larus michahellis)
+----------------------------------------
+
 Region: Ethologische Station Hasli / Bern (BE)
   - Mestoloni (Spatula clypeata)
   - Morette (Aythya fuligula)
   - Airone bianco (Ardea alba)
   - Picchio muratore (Sitta europaea)
+----------------------------------------
+
+Region: Gürbe-Belpmoos / Belp (BE)
+  - Airone bianco (Ardea alba)
+  - Nibbi reali (Milvus milvus)
+  - Poiane (Buteo buteo)
+  - Gheppi (Falco tinnunculus)
+  - Scricciolo (Troglodytes troglodytes)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Corvi comuni (Corvus frugilegus)
 ----------------------------------------
 
 Region: Hauptkanal (Brüttelenmoos) / Müntschemier (BE)
@@ -241,6 +346,18 @@ Region: Hechtenloch / Rubigen (BE)
   - Lucherini (Spinus spinus)
 ----------------------------------------
 
+Region: Hermrigen [585/214] / Hermrigen (BE)
+  - Nibbio reale (Milvus milvus)
+----------------------------------------
+
+Region: Hindelbank [609/209] / Hindelbank (BE)
+  - Picchio nero (Dryocopus martius)
+----------------------------------------
+
+Region: Holzhäusern [620/234] / Niederbipp (BE)
+  - Taccole (Coloeus monedula)
+----------------------------------------
+
 Region: Jens [587/215] / Jens (BE)
   - Airone bianco (Ardea alba)
   - Aironi cenerini (Ardea cinerea)
@@ -256,26 +373,25 @@ Region: Kappelen [586/213] / Kappelen (BE)
   - Poiane (Buteo buteo)
   - Gabbiano comune (Chroicocephalus ridibundus)
   - Gabbiani reali (Larus michahellis)
-----------------------------------------
-
-Region: Kappelen [586/212] / Kappelen (BE)
-  - Airone bianco (Ardea alba)
-  - Gheppio (Falco tinnunculus)
-----------------------------------------
-
-Region: Kappelen [587/214] / Kappelen (BE)
-  - Poiana (Buteo buteo)
-  - Allodole (Alauda arvensis)
-  - Fringuelli (Fringilla coelebs)
-  - Zigoli gialli (Emberiza citrinella)
-----------------------------------------
-
-Region: Kappelen [586/213] / Kappelen (BE)
   - Allodole (Alauda arvensis)
   - Pettirosso (Erithacus rubecula)
   - Merlo (Turdus merula)
   - Cinciarelle (Cyanistes caeruleus)
   - Corvi comuni (Corvus frugilegus)
+----------------------------------------
+
+Region: Kappelen [586/212] / Kappelen (BE)
+  - Airone bianco (Ardea alba)
+  - Gheppio (Falco tinnunculus)
+  - Corvi comuni (Corvus frugilegus)
+----------------------------------------
+
+Region: Kappelen [587/214] / Kappelen (BE)
+  - Poiana (Buteo buteo)
+  - Allodole (Alauda arvensis)
+----------------------------------------
+
+Region: Kappelen [586/213] / Kappelen (BE)
   - Cornacchie nere (Corvus corone)
   - Passere mattugie (Passer montanus)
   - Fringuelli (Fringilla coelebs)
@@ -283,12 +399,29 @@ Region: Kappelen [586/213] / Kappelen (BE)
   - Zigoli gialli (Emberiza citrinella)
 ----------------------------------------
 
-Region: Kappelen [586/212] / Kappelen (BE)
-  - Corvi comuni (Corvus frugilegus)
+Region: Kappelen [587/214] / Kappelen (BE)
+  - Fringuelli (Fringilla coelebs)
+  - Zigoli gialli (Emberiza citrinella)
 ----------------------------------------
 
 Region: Kernenried [608/212] / Kernenried (BE)
   - Airone bianco (Ardea alba)
+----------------------------------------
+
+Region: Lauterbrunnen [638/159] / Lauterbrunnen (BE)
+  - Sordone (Prunella collaris)
+----------------------------------------
+
+Region: Lauterbrunnen [637/159] / Lauterbrunnen (BE)
+  - Venturone alpino (Carduelis citrinella)
+----------------------------------------
+
+Region: Lengnau [595/223] / Lengnau (BE)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Leuzigen [600/225] / Leuzigen (BE)
+  - Poiane (Buteo buteo)
 ----------------------------------------
 
 Region: Merligen / Sigriswil (BE)
@@ -301,10 +434,18 @@ Region: Merzligen [586/214] / Merzligen (BE)
   - Gabbiano comune (Chroicocephalus ridibundus)
 ----------------------------------------
 
+Region: Muri bei Bern [604/197] / Muri bei Bern (BE)
+  - Frosone (Coccothraustes coccothraustes)
+----------------------------------------
+
 Region: NSG Schinteregge / Merzligen (BE)
   - Nibbio reale (Milvus milvus)
   - Gazza (Pica pica)
   - Corvi comuni (Corvus frugilegus)
+----------------------------------------
+
+Region: Oberbipp [617/233] / Oberbipp (BE)
+  - Gheppio (Falco tinnunculus)
 ----------------------------------------
 
 Region: Oppligen [612/184] / Oppligen (BE)
@@ -323,6 +464,10 @@ Region: Port [585/218] / Port (BE)
   - Cinciallegra (Parus major)
   - Gazza (Pica pica)
   - Passere oltremontane (Passer domesticus)
+----------------------------------------
+
+Region: Rüeggisberg [599/184] / Rüeggisberg (BE)
+  - Nibbio reale (Milvus milvus)
 ----------------------------------------
 
 Region: Schadau / Thunersee (BE)
@@ -354,6 +499,12 @@ Region: Schadau / Thunersee (BE)
   - Verdone (Chloris chloris)
 ----------------------------------------
 
+Region: Studen [589/218] / Studen (BE)
+  - Nibbio reale (Milvus milvus)
+  - Gabbiano reale (Larus michahellis)
+  - Passere oltremontane (Passer domesticus)
+----------------------------------------
+
 Region: Tägertschi [611/191] / Tägertschi (BE)
   - Tortora dal collare (Streptopelia decaocto)
   - Merlo (Turdus merula)
@@ -362,6 +513,36 @@ Region: Tägertschi [611/191] / Tägertschi (BE)
 
 Region: Thun [614/173] / Thun (BE)
   - Airone bianco (Ardea alba)
+----------------------------------------
+
+Region: Utzenstorf [608/219] / Utzenstorf (BE)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi cenerini (Ardea cinerea)
+  - Nibbi reali (Milvus milvus)
+  - Poiane (Buteo buteo)
+  - Gabbiani indet. (Larus sp.)
+  - Colombacci (Columba palumbus)
+  - Tortore dal collare (Streptopelia decaocto)
+  - Picchio verde (Picus viridis)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Merlo acquaiolo (Cinclus cinclus)
+  - Pettirossi (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Tordela (Turdus viscivorus)
+  - Regolo (Regulus regulus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Ghiandaia (Garrulus glandarius)
+  - Gazze (Pica pica)
+  - Taccole (Coloeus monedula)
+  - Corvi comuni (Corvus frugilegus)
+  - Cornacchie nere (Corvus corone)
+  - Passere oltremontane (Passer domesticus)
+  - Passere mattugie (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+  - Verdoni (Chloris chloris)
+  - Frosoni (Coccothraustes coccothraustes)
+  - Zigolo giallo (Emberiza citrinella)
 ----------------------------------------
 
 Region: Walperswil [584/211] / Walperswil (BE)
@@ -389,6 +570,39 @@ Region: Zollikofen [600/204] / Zollikofen (BE)
   - Codirosso spazzacamino (Phoenicurus ochruros)
 ----------------------------------------
 
+Region: Ergolzmündung Augst-Kaiseraugst / Augst (BL)
+  - Cigni reali (Cygnus olor)
+  - Germani reali (Anas platyrhynchos)
+  - Moriglioni (Aythya ferina)
+  - Morette (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Airone cenerino (Ardea cinerea)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Folaghe (Fulica atra)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Colombacci (Columba palumbus)
+  - Martin pescatore (Alcedo atthis)
+  - Ballerina gialla (Motacilla cinerea)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Tordela (Turdus viscivorus)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Passere oltremontane (Passer domesticus)
+  - Fringuelli (Fringilla coelebs)
+  - Verdoni (Chloris chloris)
+  - Cardellini (Carduelis carduelis)
+  - Ciuffolotto (Pyrrhula pyrrhula)
+  - Frosoni (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Laufen [605/252] / Laufen (BL)
+  - Passere oltremontane (Passer domesticus)
+----------------------------------------
+
 Region: Münchenstein [612/263] / Münchenstein (BL)
   - Nibbio reale (Milvus milvus)
   - Colombacci (Columba palumbus)
@@ -400,21 +614,33 @@ Region: Münchenstein [612/263] / Münchenstein (BL)
   - Cardellino (Carduelis carduelis)
 ----------------------------------------
 
+Region: Nenzlingen [609/254] / Nenzlingen (BL)
+  - Cormorani (Phalacrocorax carbo)
+----------------------------------------
+
 Region: Seltisberg [621/257] / Seltisberg (BL)
   - Verdoni (Chloris chloris)
 ----------------------------------------
 
 Region: Therwil [608/261] / Therwil (BL)
+  - Nibbio reale (Milvus milvus)
+  - Poiana (Buteo buteo)
   - Colombacci (Columba palumbus)
   - Tortore dal collare (Streptopelia decaocto)
-  - Scricciolo (Troglodytes troglodytes)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Scriccioli (Troglodytes troglodytes)
+  - Pettirossi (Erithacus rubecula)
   - Merli (Turdus merula)
-  - Cinciarella (Cyanistes caeruleus)
+  - Tordela (Turdus viscivorus)
+  - Regoli (Regulus regulus)
+  - Cinciarelle (Cyanistes caeruleus)
   - Cinciallegre (Parus major)
+  - Rampichini comuni (Certhia brachydactyla)
   - Gazze (Pica pica)
   - Cornacchie nere (Corvus corone)
+  - Storno (Sturnus vulgaris)
   - Passere oltremontane (Passer domesticus)
-  - Fringuello (Fringilla coelebs)
+  - Fringuelli (Fringilla coelebs)
   - Peppola (Fringilla montifringilla)
   - Verdone (Chloris chloris)
   - Cardellini (Carduelis carduelis)
@@ -423,6 +649,11 @@ Region: Therwil [608/261] / Therwil (BL)
 Region: Therwil [608/260] / Therwil (BL)
   - Codibugnoli (Aegithalos caudatus)
   - Codibugnolo testabianca (Aegithalos caudatus caudatus)
+----------------------------------------
+
+Region: Basel [612/267] / Basel (BS)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Martin pescatori (Alcedo atthis)
 ----------------------------------------
 
 Region: Riehen [615/269] / Riehen (BS)
@@ -437,6 +668,10 @@ Region: Agriswilmoos / Ried bei Kerzers (FR)
 
 Region: Belluard / Fribourg (FR)
   - Tortore dal collare (Streptopelia decaocto)
+----------------------------------------
+
+Region: Chriegsmatt / Agriswil (FR)
+  - Picchio verde (Picus viridis)
 ----------------------------------------
 
 Region: Corpataux [574/177] / Corpataux-Magnedens (FR)
@@ -489,13 +724,17 @@ Region: Kerzersmoos / Kerzers (FR)
   - Poiane (Buteo buteo)
 ----------------------------------------
 
+Region: Murist [551/182] / Murist (FR)
+  - Sparviere (Accipiter nisus)
+  - Gheppio (Falco tinnunculus)
+  - Tortora dal collare (Streptopelia decaocto)
+  - Gazze (Pica pica)
+  - Cardellini (Carduelis carduelis)
+----------------------------------------
+
 Region: Murist [552/182] / Murist (FR)
   - Poiana (Buteo buteo)
   - Corvi imperiali (Corvus corax)
-----------------------------------------
-
-Region: Murist [551/182] / Murist (FR)
-  - Cardellini (Carduelis carduelis)
 ----------------------------------------
 
 Region: Pré au Boeuf / Galmiz (FR)
@@ -503,6 +742,10 @@ Region: Pré au Boeuf / Galmiz (FR)
   - Aironi cenerini (Ardea cinerea)
   - Picchio rosso maggiore (Dendrocopos major)
   - Corvi imperiali (Corvus corax)
+----------------------------------------
+
+Region: Bois de Châtillon / Bernex (GE)
+  - Cicogne bianche (Ciconia ciconia)
 ----------------------------------------
 
 Region: Bossonnette / Bernex (GE)
@@ -531,8 +774,18 @@ Region: promenade du promeneur solitaire / Genève (GE)
   - Colombelle (Columba oenas)
 ----------------------------------------
 
+Region: Retenue du barrage de Verbois / Aire-la-Ville (GE)
+  - Tarabuso (Botaurus stellaris)
+----------------------------------------
+
 Region: Satigny / Satigny (GE)
   - Airone bianco (Ardea alba)
+----------------------------------------
+
+Region: Mollis / Kundertriet / Mollis (GL)
+  - Merlo (Turdus merula)
+  - Cinciallegra (Parus major)
+  - Picchi muratori (Sitta europaea)
 ----------------------------------------
 
 Region: Celerina/Schlarigna [787/153] / Celerina/Schlarigna (GR)
@@ -583,7 +836,24 @@ Region: Filisur / Bahnhof / Filisur (GR)
   - Ciuffolotti (Pyrrhula pyrrhula)
 ----------------------------------------
 
+Region: Fläsch [757/210] / Fläsch (GR)
+  - Poiane (Buteo buteo)
+  - Gheppio (Falco tinnunculus)
+  - Picchio verde (Picus viridis)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Fringuelli (Fringilla coelebs)
+  - Zigolo giallo (Emberiza citrinella)
+  - Zigoli neri (Emberiza cirlus)
+  - Zigoli muciatti (Emberiza cia)
+----------------------------------------
+
 Region: Splügen [744/157] / Splügen (GR)
+  - Germani reali (Anas platyrhynchos)
+  - Cormorano (Phalacrocorax carbo)
+  - Merli acquaioli (Cinclus cinclus)
   - Passera scopaiola (Prunella modularis)
   - Merli (Turdus merula)
   - Cesene (Turdus pilaris)
@@ -605,18 +875,14 @@ Region: Untervaz [759/200] / Untervaz (GR)
   - Nibbio reale (Milvus milvus)
   - Picchio nero (Dryocopus martius)
   - Sordoni (Prunella collaris)
+  - Picchio muratore (Sitta europaea)
+  - Ghiandaie (Garrulus glandarius)
+  - Cornacchie nere (Corvus corone)
 ----------------------------------------
 
 Region: Untervaz [759/201] / Untervaz (GR)
   - Picchio verde (Picus viridis)
   - Picchio rosso maggiore (Dendrocopos major)
-----------------------------------------
-
-Region: Untervaz [759/200] / Untervaz (GR)
-  - Sordoni (Prunella collaris)
-  - Picchio muratore (Sitta europaea)
-  - Ghiandaie (Garrulus glandarius)
-  - Cornacchie nere (Corvus corone)
 ----------------------------------------
 
 Region: Untervaz [759/199] / Untervaz (GR)
@@ -636,6 +902,29 @@ Region: Boécourt W / Boécourt (JU)
   - Merli (Turdus merula)
   - Cinciarelle (Cyanistes caeruleus)
   - Cinciallegre (Parus major)
+----------------------------------------
+
+Region: Carré Le Noirmont / Le Noirmont (JU)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Cinciarella (Cyanistes caeruleus)
+  - Cinciallegra (Parus major)
+----------------------------------------
+
+Region: Le Noirmont / Le Noirmont (JU)
+  - Nibbio reale (Milvus milvus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegra (Parus major)
+  - Ciuffolotto (Pyrrhula pyrrhula)
+----------------------------------------
+
+Region: Lorette et Doubs / Saint-Ursanne (JU)
+  - Tuffetto (Tachybaptus ruficollis)
+  - Martin pescatore (Alcedo atthis)
+  - Cince dei salici (Poecile montanus rhenanus / salicarius)
+----------------------------------------
+
+Region: Pré Monsieur E / Alle (JU)
+  - Aironi bianchi (Ardea alba)
 ----------------------------------------
 
 Region: Aesch [660/235] / Aesch (LU)
@@ -714,3 +1003,1407 @@ Region: Gettnau / Dorf [640/221] / Gettnau (LU)
 
 Region: Gettnau / Löö [639/221] / Gettnau (LU)
   - Gazze (Pica pica)
+----------------------------------------
+
+Region: Hochdorf [663/225] / Hochdorf (LU)
+  - Germani reali (Anas platyrhynchos)
+  - Canapiglie (Mareca strepera)
+  - Moriglioni (Aythya ferina)
+  - Morette (Aythya fuligula)
+  - Svasso maggiore (Podiceps cristatus)
+  - Cicogna bianca (Ciconia ciconia)
+  - Nibbi reali (Milvus milvus)
+  - Poiana (Buteo buteo)
+  - Gazza (Pica pica)
+----------------------------------------
+
+Region: Hochdorf [663/226] / Hochdorf (LU)
+  - Germani reali (Anas platyrhynchos)
+  - Morette (Aythya fuligula)
+  - Svassi maggiori (Podiceps cristatus)
+  - Folaghe (Fulica atra)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gabbiano reale (Larus michahellis)
+  - Merlo (Turdus merula)
+  - Cinciarella (Cyanistes caeruleus)
+  - Gazza (Pica pica)
+  - Passere oltremontane (Passer domesticus)
+  - Fringuello (Fringilla coelebs)
+----------------------------------------
+
+Region: Kriens / Amlehn / Kriens (LU)
+  - Picchio nero (Dryocopus martius)
+  - Frosone (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Luzern / Seebrücke / Luzern (LU)
+  - Canapiglie (Mareca strepera)
+  - Ballerina gialla (Motacilla cinerea)
+----------------------------------------
+
+Region: Luzern / Seebecken Nord / Luzern (LU)
+  - Canapiglie (Mareca strepera)
+  - Fistioni turchi (Netta rufina)
+  - Smergo minore (Mergus serrator)
+  - Smerghi maggiori (Mergus merganser)
+  - Nibbio reale (Milvus milvus)
+  - Gallinella d'acqua (Gallinula chloropus)
+----------------------------------------
+
+Region: Luzern / Reuss / Luzern (LU)
+  - Beccaccino (Gallinago gallinago)
+  - Picchio verde (Picus viridis)
+----------------------------------------
+
+Region: Mosen [660/232] / Mosen (LU)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Müswangen [664/232] / Müswangen (LU)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Neuenkirch / Paradis / Neuenkirch (LU)
+  - Gavine (Larus canus)
+----------------------------------------
+
+Region: Rebberg / Kriens (LU)
+  - Poiana (Buteo buteo)
+  - Gabbiano reale (Larus michahellis)
+  - Piccioni domestici (Columba livia f. domestica)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Rampichino comune (Certhia brachydactyla)
+  - Gazze (Pica pica)
+  - Corvi comuni (Corvus frugilegus)
+  - Cornacchie nere (Corvus corone)
+  - Passere oltremontane (Passer domesticus)
+  - Passere mattugie (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Retschwil [661/227] / Retschwil (LU)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Römerswil [662/226] / Römerswil (LU)
+  - Germani reali (Anas platyrhynchos)
+  - Svasso maggiore (Podiceps cristatus)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Römerswil [663/224] / Römerswil (LU)
+  - Airone cenerino (Ardea cinerea)
+  - Cicogne bianche (Ciconia ciconia)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Sempach / Seeland / Sempach (LU)
+  - Cigni reali (Cygnus olor)
+  - Oche selvatiche occidentali /orientali (Anser anser)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Canapiglie (Mareca strepera)
+  - Fistioni turchi (Netta rufina)
+  - Morette (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi cenerini (Ardea cinerea)
+  - Cicogne bianche (Ciconia ciconia)
+  - Astore (Astur gentilis)
+  - Poiana (Buteo buteo)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Folaghe (Fulica atra)
+  - Beccaccino (Gallinago gallinago)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gavine (Larus canus)
+  - Gabbiani reali (Larus michahellis)
+  - Colombacci (Columba palumbus)
+  - Martin pescatore (Alcedo atthis)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Scricciolo (Troglodytes troglodytes)
+  - Pettirossi (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Rampichini comuni (Certhia brachydactyla)
+  - Gazze (Pica pica)
+  - Corvi comuni (Corvus frugilegus)
+  - Cornacchie nere (Corvus corone)
+  - Passere oltremontane (Passer domesticus)
+  - Fringuelli (Fringilla coelebs)
+  - Verdoni (Chloris chloris)
+  - Lucherini (Spinus spinus)
+  - Organetti minori (Acanthis flammea cabaret)
+  - Frosone (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Weggis / Höchi / Weggis (LU)
+  - Codirosso spazzacamino (Phoenicurus ochruros)
+----------------------------------------
+
+Region: Champréveyres / Hauterive (NE)
+  - Poiana (Buteo buteo)
+  - Gheppio (Falco tinnunculus)
+  - Merli (Turdus merula)
+  - Regolo (Regulus regulus)
+  - Cornacchie nere (Corvus corone)
+----------------------------------------
+
+Region: Chézard / Chézard-Saint-Martin (NE)
+  - Sparviere (Accipiter nisus)
+  - Poiana (Buteo buteo)
+  - Tordele (Turdus viscivorus)
+  - Cince bigie (Poecile palustris)
+  - Cince dal ciuffo (Lophophanes cristatus)
+  - Cince more (Periparus ater)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Ghiandaie (Garrulus glandarius)
+  - Gazza (Pica pica)
+  - Cornacchie nere (Corvus corone)
+  - Passere oltremontane (Passer domesticus)
+  - Fringuelli (Fringilla coelebs)
+  - Peppole (Fringilla montifringilla)
+  - Cardellini (Carduelis carduelis)
+----------------------------------------
+
+Region: Gibraltar / Neuchâtel (NE)
+  - Codirossi spazzacamino (Phoenicurus ochruros)
+----------------------------------------
+
+Region: La Chaux-de-Fonds [550/214] / La Chaux-de-Fonds (NE)
+  - Gabbiani reali (Larus michahellis)
+  - Merli (Turdus merula)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Latenium / Hauterive (NE)
+  - Gabbiano reale (Larus michahellis)
+----------------------------------------
+
+Region: Les Saars / Neuchâtel (NE)
+  - Cinciarelle (Cyanistes caeruleus)
+----------------------------------------
+
+Region: Monruz / Neuchâtel (NE)
+  - Airone cenerino (Ardea cinerea)
+----------------------------------------
+
+Region: Nouvelles Rives / Saint-Blaise (NE)
+  - Aironi bianchi (Ardea alba)
+----------------------------------------
+
+Region: Port du Nid-du-Crô / Neuchâtel (NE)
+  - Cigno reale (Cygnus olor)
+  - Germani reali (Anas platyrhynchos)
+  - Canapiglie (Mareca strepera)
+  - Fistioni turchi (Netta rufina)
+  - Morette (Aythya fuligula)
+  - Moretta grigia minore (Aythya affinis)
+  - Smerghi maggiori (Mergus merganser)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorano (Phalacrocorax carbo)
+  - Airone cenerino (Ardea cinerea)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Gabbiano comune (Chroicocephalus ridibundus)
+  - Martin pescatore (Alcedo atthis)
+  - Ballerina gialla (Motacilla cinerea)
+----------------------------------------
+
+Region: STEP de Neuchâtel / Neuchâtel (NE)
+  - Gavina (Larus canus)
+----------------------------------------
+
+Region: Hanenriet / Sachseln (OW)
+  - Beccaccini (Gallinago gallinago)
+  - Merli acquaioli (Cinclus cinclus)
+----------------------------------------
+
+Region: Amden / Bächli / Amden (SG)
+  - Nibbi reali (Milvus milvus)
+  - Tordela (Turdus viscivorus)
+  - Corvi imperiali (Corvus corax)
+----------------------------------------
+
+Region: Au / Oberfahr / Au (SG)
+  - Smerghi maggiori (Mergus merganser)
+  - Ballerina gialla (Motacilla cinerea)
+  - Ballerina bianca (Motacilla alba)
+  - Merlo acquaiolo (Cinclus cinclus)
+----------------------------------------
+
+Region: Au / Zoll / Au (SG)
+  - Alzavole (Anas crecca)
+  - Cormorano (Phalacrocorax carbo)
+  - Gheppio (Falco tinnunculus)
+  - Gallinella d'acqua (Gallinula chloropus)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Spioncello (Anthus spinoletta)
+  - Ballerina gialla (Motacilla cinerea)
+  - Merlo acquaiolo (Cinclus cinclus)
+----------------------------------------
+
+Region: Flawil / Giren / Flawil (SG)
+  - Nibbi reali (Milvus milvus)
+  - Picchio nero (Dryocopus martius)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cince bigie (Poecile palustris)
+  - Cinciarella (Cyanistes caeruleus)
+  - Cinciallegra (Parus major)
+  - Gazza (Pica pica)
+  - Cornacchie nere (Corvus corone)
+  - Passere mattugie (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+  - Peppole (Fringilla montifringilla)
+  - Verdone (Chloris chloris)
+----------------------------------------
+
+Region: Flawil / Büelwis / Flawil (SG)
+  - Nibbio reale (Milvus milvus)
+  - Merlo (Turdus merula)
+  - Gazza (Pica pica)
+  - Cornacchia nera (Corvus corone)
+----------------------------------------
+
+Region: Flawil / Raaschberg / Flawil (SG)
+  - Nibbi reali (Milvus milvus)
+  - Gazze (Pica pica)
+----------------------------------------
+
+Region: Flugplatz Altenrhein Ost / Thal (SG)
+  - Cicogne bianche (Ciconia ciconia)
+----------------------------------------
+
+Region: Grynau-Linthmündung / Schmerikon (SG)
+  - Cigni reali (Cygnus olor)
+  - Oche selvatiche occidentali /orientali (Anser anser)
+  - Germani reali (Anas platyrhynchos)
+  - Codoni (Anas acuta)
+  - Mestoloni (Spatula clypeata)
+  - Canapiglie (Mareca strepera)
+  - Morette (Aythya fuligula)
+  - Pesciaiole (Mergellus albellus)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi bianchi (Ardea alba)
+  - Aironi cenerini (Ardea cinerea)
+  - Nibbi reali (Milvus milvus)
+  - Sparviere (Accipiter nisus)
+  - Poiane (Buteo buteo)
+  - Gheppi (Falco tinnunculus)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Folaghe (Fulica atra)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gabbiani reali (Larus michahellis)
+  - Picchi neri (Dryocopus martius)
+  - Spioncelli (Anthus spinoletta)
+  - Ballerine gialle (Motacilla cinerea)
+  - Ballerine bianche (Motacilla alba)
+  - Scriccioli (Troglodytes troglodytes)
+  - Pettirossi (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cesene (Turdus pilaris)
+  - Cincia bigia (Poecile palustris)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Gazze (Pica pica)
+  - Cornacchie nere (Corvus corone)
+  - Corvo imperiale (Corvus corax)
+  - Migliarino di palude (Emberiza schoeniclus)
+----------------------------------------
+
+Region: Jona [707/233] / Jona (SG)
+  - Airone cenerino (Ardea cinerea)
+  - Corvo imperiale (Corvus corax)
+----------------------------------------
+
+Region: Jona [706/233] / Jona (SG)
+  - Martin pescatore (Alcedo atthis)
+----------------------------------------
+
+Region: Krummenau [734/233] / Krummenau (SG)
+  - Nibbi reali (Milvus milvus)
+----------------------------------------
+
+Region: Oberbüren [729/257] / Oberbüren (SG)
+  - Germani reali (Anas platyrhynchos)
+  - Nibbio reale (Milvus milvus)
+  - Poiane (Buteo buteo)
+  - Gabbiani indet. (Larus sp.)
+  - Tortora dal collare (Streptopelia decaocto)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Ballerina bianca (Motacilla alba)
+  - Merli (Turdus merula)
+  - Cince bigie (Poecile palustris)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Cornacchie nere (Corvus corone)
+  - Passere oltremontane (Passer domesticus)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Oberbüren [729/256] / Oberbüren (SG)
+  - Germani reali (Anas platyrhynchos)
+  - Poiana (Buteo buteo)
+  - Cinciallegra (Parus major)
+  - Cornacchie nere (Corvus corone)
+  - Fringuello (Fringilla coelebs)
+----------------------------------------
+
+Region: Oberuzwil / Hüslen / Oberuzwil (SG)
+  - Poiana (Buteo buteo)
+----------------------------------------
+
+Region: Oberuzwil / Bettenau / Oberuzwil (SG)
+  - Porciglioni (Rallus aquaticus)
+----------------------------------------
+
+Region: Quarten / Mols / Quarten (SG)
+  - Cigno reale (Cygnus olor)
+  - Moriglioni (Aythya ferina)
+----------------------------------------
+
+Region: Quarten / Rotsand / Quarten (SG)
+  - Germani reali (Anas platyrhynchos)
+----------------------------------------
+
+Region: Quarten / Massraga / Quarten (SG)
+  - Folaghe (Fulica atra)
+----------------------------------------
+
+Region: Staad-Altenrhein / Thal (SG)
+  - Cigni reali (Cygnus olor)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Mestoloni (Spatula clypeata)
+  - Canapiglie (Mareca strepera)
+  - Moriglioni (Aythya ferina)
+  - Morette (Aythya fuligula)
+  - Quattrocchi (Bucephala clangula)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi cenerini (Ardea cinerea)
+  - Folaghe (Fulica atra)
+  - Piro-piro piccoli (Actitis hypoleucos)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gavina (Larus canus)
+  - Gabbiano reale (Larus michahellis)
+  - Martin pescatore (Alcedo atthis)
+  - Ballerina gialla (Motacilla cinerea)
+  - Cornacchie nere (Corvus corone)
+----------------------------------------
+
+Region: Steinacher Bucht / Steinach (SG)
+  - Beccaccini (Gallinago gallinago)
+----------------------------------------
+
+Region: Uznach / Oberer Buchwald / Uznach (SG)
+  - Cince dal ciuffo (Lophophanes cristatus)
+----------------------------------------
+
+Region: Vilters-Wangs [755/211] / Vilters-Wangs (SG)
+  - Sparviere (Accipiter nisus)
+----------------------------------------
+
+Region: Walenstadt [738/220] / Walenstadt (SG)
+  - Cigni reali (Cygnus olor)
+----------------------------------------
+
+Region: Walenstadt / Schnittlauchinsel / Walenstadt (SG)
+  - Smergo maggiore (Mergus merganser)
+----------------------------------------
+
+Region: Walenstadt [743/219] / Walenstadt (SG)
+  - Airone bianco (Ardea alba)
+  - Cornacchie nere (Corvus corone)
+----------------------------------------
+
+Region: Wartau [756/219] / Wartau (SG)
+  - Cormorani (Phalacrocorax carbo)
+  - Aquile reali (Aquila chrysaetos)
+----------------------------------------
+
+Region: Wartau [755/219] / Wartau (SG)
+  - Cornacchia grigia (Corvus cornix)
+----------------------------------------
+
+Region: Wattwil [723/241] / Wattwil (SG)
+  - Nibbio reale (Milvus milvus)
+  - Poiana (Buteo buteo)
+  - Corvo imperiale (Corvus corax)
+----------------------------------------
+
+Region: Neunkirch / Kerngebiet Widen gesamt / Neunkirch (SH)
+  - Albanella reale (Circus cyaneus)
+----------------------------------------
+
+Region: Neunkirch / Widen West / Neunkirch (SH)
+  - Averla maggiore (Lanius excubitor)
+----------------------------------------
+
+Region: Schaffhausen / Buchthalen Ost / Schaffhausen (SH)
+  - Airone cenerino (Ardea cinerea)
+  - Nibbi reali (Milvus milvus)
+  - Gheppio (Falco tinnunculus)
+----------------------------------------
+
+Region: Schaffhausen / Buchthalen-Hofackerzentrum / Schaffhausen (SH)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Scricciolo (Troglodytes troglodytes)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cinciallegre (Parus major)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Deitingen [612/228] / Deitingen (SO)
+  - Nibbio reale (Milvus milvus)
+----------------------------------------
+
+Region: Egerkingen [628/241] / Egerkingen (SO)
+  - Aironi cenerini (Ardea cinerea)
+----------------------------------------
+
+Region: Luterbach [611/228] / Luterbach (SO)
+  - Corvo comune (Corvus frugilegus)
+----------------------------------------
+
+Region: Olten / Ruppoldingen [633/240] / Olten (SO)
+  - Germani reali (Anas platyrhynchos)
+  - Smerghi maggiori (Mergus merganser)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi cenerini (Ardea cinerea)
+  - Poiana (Buteo buteo)
+  - Gallinella d'acqua (Gallinula chloropus)
+  - Folaga (Fulica atra)
+  - Gabbiano comune (Chroicocephalus ridibundus)
+  - Gabbiano reale (Larus michahellis)
+  - Martin pescatore (Alcedo atthis)
+  - Spioncelli (Anthus spinoletta)
+  - Ballerina gialla (Motacilla cinerea)
+  - Ballerine bianche (Motacilla alba)
+  - Merlo acquaiolo (Cinclus cinclus)
+  - Scricciolo (Troglodytes troglodytes)
+  - Pettirosso (Erithacus rubecula)
+  - Merlo (Turdus merula)
+  - Fiorrancino (Regulus ignicapilla)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cince bigie (Poecile palustris)
+  - Cinciarella (Cyanistes caeruleus)
+  - Cinciallegra (Parus major)
+  - Rampichino comune (Certhia brachydactyla)
+  - Fringuello (Fringilla coelebs)
+  - Lucherini (Spinus spinus)
+----------------------------------------
+
+Region: Altendorf / Lidwil / Altendorf (SZ)
+  - Morette (Aythya fuligula)
+  - Svassi maggiori (Podiceps cristatus)
+----------------------------------------
+
+Region: Freienbach / Unterdorf / Freienbach (SZ)
+  - Oche selvatiche occidentali /orientali (Anser anser)
+  - Cicogne bianche (Ciconia ciconia)
+  - Chiurli maggiori (Numenius arquata)
+----------------------------------------
+
+Region: Freienbach / Pfäffikon / Freienbach (SZ)
+  - Chiurli maggiori (Numenius arquata)
+----------------------------------------
+
+Region: Reichenburg / Unter Allmeind West / Reichenburg (SZ)
+  - Nibbi reali (Milvus milvus)
+----------------------------------------
+
+Region: Wangen / Allmeind / Wangen (SZ)
+  - Oche selvatiche occidentali /orientali (Anser anser)
+  - Gheppi (Falco tinnunculus)
+----------------------------------------
+
+Region: Wangen / Pfaffenberg / Wangen (SZ)
+  - Chiurli maggiori (Numenius arquata)
+----------------------------------------
+
+Region: Arbon / Hafen-Quai / Arbon (TG)
+  - Svassi piccoli (Podiceps nigricollis)
+  - Combattente (Calidris pugnax)
+  - Piro-piro piccolo (Actitis hypoleucos)
+----------------------------------------
+
+Region: Arbon / Metropol / Arbon (TG)
+  - Chiurli maggiori (Numenius arquata)
+----------------------------------------
+
+Region: Bodensee NE Kreuzlingen [732/279] / Kreuzlingen (TG)
+  - Svassi piccoli (Podiceps nigricollis)
+----------------------------------------
+
+Region: Bommer Weiher / Kemmental (TG)
+  - Porciglione (Rallus aquaticus)
+----------------------------------------
+
+Region: Eschenz / Nilibucht / Eschenz (TG)
+  - Volpoche (Tadorna tadorna)
+  - Cicogne bianche (Ciconia ciconia)
+----------------------------------------
+
+Region: Eschenz / Bootshafen - Strandbad / Eschenz (TG)
+  - Moretta dal collare (Aythya collaris)
+----------------------------------------
+
+Region: Flutfläche Nachtweid / Schlatt (TG)
+  - Gallinella d'acqua (Gallinula chloropus)
+----------------------------------------
+
+Region: Kemmental / Bommer Weiher Ost / Kemmental (TG)
+  - Airone bianco (Ardea alba)
+  - Porciglione (Rallus aquaticus)
+----------------------------------------
+
+Region: Kreuzlingen / Wollschweine Insel / Kreuzlingen (TG)
+  - Cigno reale (Cygnus olor)
+  - Fischioni (Mareca penelope)
+  - Germani reali (Anas platyrhynchos)
+  - Canapiglie (Mareca strepera)
+  - Quattrocchi (Bucephala clangula)
+  - Ibrido Quattrocchi x Pesciaiola (Bucephala clangula x Mergellus albellus)
+  - Smerghi maggiori (Mergus merganser)
+  - Svassi maggiori (Podiceps cristatus)
+  - Svasso collorosso (Podiceps grisegena)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi cenerini (Ardea cinerea)
+----------------------------------------
+
+Region: Kreuzlingen / Fischerhaus / Kreuzlingen (TG)
+  - Fischioni (Mareca penelope)
+  - Svasso collorosso (Podiceps grisegena)
+----------------------------------------
+
+Region: Kreuzlingen / Seepark / Kreuzlingen (TG)
+  - Fischioni (Mareca penelope)
+----------------------------------------
+
+Region: Kreuzlingen / Wollschweine Insel / Kreuzlingen (TG)
+  - Poiana (Buteo buteo)
+  - Porciglioni (Rallus aquaticus)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Gabbiano corallino (Ichthyaetus melanocephalus)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gavine (Larus canus)
+  - Gabbiani reali (Larus michahellis)
+  - Martin pescatore (Alcedo atthis)
+  - Ballerine gialle (Motacilla cinerea)
+  - Ballerina bianca (Motacilla alba)
+  - Scricciolo (Troglodytes troglodytes)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Taccola (Coloeus monedula)
+  - Cornacchie nere (Corvus corone)
+  - Passere oltremontane (Passer domesticus)
+  - Cardellini (Carduelis carduelis)
+----------------------------------------
+
+Region: Kreuzlingen / Seepark / Kreuzlingen (TG)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Gabbiani reali (Larus michahellis)
+----------------------------------------
+
+Region: Kreuzlingen / Fischerhaus / Kreuzlingen (TG)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Martin pescatore (Alcedo atthis)
+----------------------------------------
+
+Region: Kreuzlingen / Hafen / Kreuzlingen (TG)
+  - Gavine (Larus canus)
+----------------------------------------
+
+Region: Kreuzlingen / Breite - Seegarten / Kreuzlingen (TG)
+  - Rampichino comune (Certhia brachydactyla)
+  - Verdoni (Chloris chloris)
+  - Cardellini (Carduelis carduelis)
+----------------------------------------
+
+Region: Matzingen [711/264] / Matzingen (TG)
+  - Cormorano (Phalacrocorax carbo)
+  - Picchio nero (Dryocopus martius)
+  - Merli acquaioli (Cinclus cinclus)
+----------------------------------------
+
+Region: Unterschlatt [694/280] / Schlatt (TG)
+  - Casarche (Tadorna ferruginea)
+----------------------------------------
+
+Region: Weinfelden [726/268] / Weinfelden (TG)
+  - Peppole (Fringilla montifringilla)
+----------------------------------------
+
+Region: Biasca [717/136] / Biasca (TI)
+  - Scricciolo (Troglodytes troglodytes)
+----------------------------------------
+
+Region: Castel San Pietro [721/79] / Castel San Pietro (TI)
+  - Aironi guardabuoi (Ardea ibis)
+----------------------------------------
+
+Region: Castel San Pietro [721/80] / Castel San Pietro (TI)
+  - Colombaccio (Columba palumbus)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Merlo (Turdus merula)
+  - Capinera (Sylvia atricapilla)
+----------------------------------------
+
+Region: Castel San Pietro [721/81] / Castel San Pietro (TI)
+  - Colombaccio (Columba palumbus)
+  - Rondini montane (Ptyonoprogne rupestris)
+  - Fringuelli (Fringilla coelebs)
+  - Lucherini (Spinus spinus)
+----------------------------------------
+
+Region: Castel San Pietro [720/80] / Castel San Pietro (TI)
+  - Pettirosso (Erithacus rubecula)
+  - Cincia mora (Periparus ater)
+  - Cinciallegre (Parus major)
+  - Picchio muratore (Sitta europaea)
+----------------------------------------
+
+Region: Corteglia / Castel San Pietro (TI)
+  - Airone guardabuoi (Ardea ibis)
+  - Scricciolo (Troglodytes troglodytes)
+----------------------------------------
+
+Region: Cresciano [720/126] / Cresciano (TI)
+  - Germani reali (Anas platyrhynchos)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Pettirossi (Erithacus rubecula)
+  - Merlo (Turdus merula)
+----------------------------------------
+
+Region: Locarno [712/114] / Locarno (TI)
+  - Airone guardabuoi (Ardea ibis)
+  - Airone bianco (Ardea alba)
+  - Aironi cenerini (Ardea cinerea)
+----------------------------------------
+
+Region: Mergoscia [708/118] / Mergoscia (TI)
+  - Poiana (Buteo buteo)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Ballerina gialla (Motacilla cinerea)
+  - Scriccioli (Troglodytes troglodytes)
+  - Pettirossi (Erithacus rubecula)
+  - Codirosso spazzacamino (Phoenicurus ochruros)
+  - Merli (Turdus merula)
+  - Regoli (Regulus regulus)
+  - Fiorrancini (Regulus ignicapilla)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cince bigie (Poecile palustris)
+  - Cincia mora (Periparus ater)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Picchi muratori (Sitta europaea)
+  - Rampichino comune (Certhia brachydactyla)
+  - Ghiandaie (Garrulus glandarius)
+  - Cornacchia nera (Corvus corone)
+  - Corvi imperiali (Corvus corax)
+  - Fringuelli (Fringilla coelebs)
+  - Peppola (Fringilla montifringilla)
+  - Verdone (Chloris chloris)
+  - Cardellini (Carduelis carduelis)
+  - Lucherini (Spinus spinus)
+  - Ciuffolotto (Pyrrhula pyrrhula)
+  - Frosoni (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Minusio [707/113] / Minusio (TI)
+  - Strolaga mezzana (Gavia arctica)
+----------------------------------------
+
+Region: Minusio [708/114] / Minusio (TI)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Ballerine bianche (Motacilla alba)
+  - Scricciolo (Troglodytes troglodytes)
+  - Pettirossi (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Fiorrancino (Regulus ignicapilla)
+  - Cinciallegra (Parus major)
+  - Picchio muratore (Sitta europaea)
+  - Ghiandaie (Garrulus glandarius)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Savosa [716/97] / Savosa (TI)
+  - Passera d'Italia (Passer italiae)
+----------------------------------------
+
+Region: Tenero-Contra / Centro Sportivo / Tenero-Contra (TI)
+  - Saltimpali comuni (Saxicola rubicola)
+----------------------------------------
+
+Region: Vezia [715/97] / Vezia (TI)
+  - Ballerina bianca (Motacilla alba)
+  - Pettirosso (Erithacus rubecula)
+  - Regolo (Regulus regulus)
+  - Cornacchia grigia (Corvus cornix)
+  - Fringuello (Fringilla coelebs)
+  - Lucherino (Spinus spinus)
+----------------------------------------
+
+Region: Göschenen / Schöllenen / Göschenen (UR)
+  - Picchio muraiolo (Tichodroma muraria)
+----------------------------------------
+
+Region: Bussigny-près-Lausanne [532/156] / Bussigny-près-Lausanne (VD)
+  - Nibbi reali (Milvus milvus)
+  - Sparviere (Accipiter nisus)
+----------------------------------------
+
+Region: Bussigny-près-Lausanne [532/155] / Bussigny-près-Lausanne (VD)
+  - Passera oltremontana (Passer domesticus)
+----------------------------------------
+
+Region: Chavornay [534/171] / Chavornay (VD)
+  - Smerghi maggiori (Mergus merganser)
+  - Merlo acquaiolo (Cinclus cinclus)
+----------------------------------------
+
+Region: Embouchure du Mujon / Yverdon-les-Bains (VD)
+  - Cigni reali (Cygnus olor)
+  - Oca lombardella (Anser albifrons)
+  - Oche selvatiche occidentali /orientali (Anser anser)
+  - Oche egiziane (Alopochen aegyptiaca)
+  - Fischioni (Mareca penelope)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Codoni (Anas acuta)
+  - Mestoloni (Spatula clypeata)
+  - Canapiglie (Mareca strepera)
+  - Smerghi maggiori (Mergus merganser)
+  - Svassi maggiori (Podiceps cristatus)
+  - Aironi bianchi (Ardea alba)
+  - Aironi cenerini (Ardea cinerea)
+  - Porciglione (Rallus aquaticus)
+  - Folaghe (Fulica atra)
+  - Gru (Grus grus)
+  - Piro-piro piccolo (Actitis hypoleucos)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gavine (Larus canus)
+  - Gabbiani reali (Larus michahellis)
+  - Piccione domestico (Columba livia f. domestica)
+  - Ballerine bianche (Motacilla alba)
+  - Scricciolo (Troglodytes troglodytes)
+  - Cornacchie nere (Corvus corone)
+  - Fringuelli (Fringilla coelebs)
+  - Peppole (Fringilla montifringilla)
+----------------------------------------
+
+Region: Gland [509/141] / Gland (VD)
+  - Cicogne bianche (Ciconia ciconia)
+----------------------------------------
+
+Region: Ile de Préverenges / Préverenges (VD)
+  - Oche egiziane (Alopochen aegyptiaca)
+  - Nibbi reali (Milvus milvus)
+  - Porciglioni (Rallus aquaticus)
+----------------------------------------
+
+Region: Lausanne [538/152] / Lausanne (VD)
+  - Astore (Astur gentilis)
+----------------------------------------
+
+Region: Les Alliex / Féchy (VD)
+  - Airone bianco (Ardea alba)
+  - Allodole (Alauda arvensis)
+  - Taccole (Coloeus monedula)
+----------------------------------------
+
+Region: Montreux [560/142] / Montreux (VD)
+  - Picchio muratore (Sitta europaea)
+  - Peppole (Fringilla montifringilla)
+  - Verdoni (Chloris chloris)
+  - Cardellini (Carduelis carduelis)
+  - Frosone (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Observatoire îles de Cheseaux / Cheseaux-Noréaz (VD)
+  - Cigni reali (Cygnus olor)
+  - Oche selvatiche occidentali /orientali (Anser anser)
+  - Oca facciabianca (Branta leucopsis)
+  - Oche egiziane (Alopochen aegyptiaca)
+  - Volpoche (Tadorna tadorna)
+  - Fischioni (Mareca penelope)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Canapiglie (Mareca strepera)
+  - Fistioni turchi (Netta rufina)
+  - Moriglioni (Aythya ferina)
+  - Morette tabaccate (Aythya nyroca)
+  - Morette (Aythya fuligula)
+  - Morette grigie (Aythya marila)
+  - Orchi marini (Melanitta fusca)
+  - Quattrocchi (Bucephala clangula)
+  - Pesciaiole (Mergellus albellus)
+  - Smerghi minori (Mergus serrator)
+  - Smerghi maggiori (Mergus merganser)
+  - Strolaghe mezzane (Gavia arctica)
+  - Svassi maggiori (Podiceps cristatus)
+  - Svassi collorosso (Podiceps grisegena)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi cenerini (Ardea cinerea)
+  - Nibbio reale (Milvus milvus)
+  - Astori (Astur gentilis)
+  - Sparviere (Accipiter nisus)
+  - Poiana (Buteo buteo)
+  - Porciglione (Rallus aquaticus)
+  - Folaghe (Fulica atra)
+  - Gabbianelli (Hydrocoloeus minutus)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Gabbiani reali (Larus michahellis)
+  - Martin pescatore (Alcedo atthis)
+  - Picchio verde (Picus viridis)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Spioncello (Anthus spinoletta)
+  - Ballerina gialla (Motacilla cinerea)
+  - Ballerine bianche (Motacilla alba)
+  - Scriccioli (Troglodytes troglodytes)
+  - Passera scopaiola (Prunella modularis)
+  - Pettirosso (Erithacus rubecula)
+  - Tordela (Turdus viscivorus)
+  - Luì piccolo (Phylloscopus collybita)
+  - Regoli (Regulus regulus)
+  - Cincia bigia (Poecile palustris)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegra (Parus major)
+  - Picchio muratore (Sitta europaea)
+  - Ghiandaia (Garrulus glandarius)
+  - Cornacchie nere (Corvus corone)
+  - Fringuelli (Fringilla coelebs)
+  - Cardellino (Carduelis carduelis)
+  - Lucherini (Spinus spinus)
+  - Migliarini di palude (Emberiza schoeniclus)
+----------------------------------------
+
+Region: Plage / Allaman (VD)
+  - Canapiglie (Mareca strepera)
+  - Cormorani (Phalacrocorax carbo)
+  - Astore (Astur gentilis)
+  - Gabbiani reali (Larus michahellis)
+----------------------------------------
+
+Region: Préverenges [529/152] / Préverenges (VD)
+  - Gheppio (Falco tinnunculus)
+----------------------------------------
+
+Region: Terrain de sport / Morges (VD)
+  - Picchio muratore (Sitta europaea)
+----------------------------------------
+
+Region: Villars-Sainte-Croix [532/157] / Villars-Sainte-Croix (VD)
+  - Cormorano (Phalacrocorax carbo)
+  - Aironi cenerini (Ardea cinerea)
+  - Nibbi reali (Milvus milvus)
+  - Poiane (Buteo buteo)
+  - Gheppi (Falco tinnunculus)
+  - Allodole (Alauda arvensis)
+  - Pispola (Anthus pratensis)
+  - Passere scopaiole (Prunella modularis)
+  - Passere mattugie (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+  - Peppole (Fringilla montifringilla)
+  - Migliarini di palude (Emberiza schoeniclus)
+----------------------------------------
+
+Region: Yverdon-plage / Yverdon-les-Bains (VD)
+  - Orchi marini (Melanitta fusca)
+  - Strolaghe minori (Gavia stellata)
+----------------------------------------
+
+Region: Chalais [607/123] / Chalais (VS)
+  - Sordone (Prunella collaris)
+----------------------------------------
+
+Region: Les Mangettes / Monthey (VS)
+  - Moretta tabaccata (Aythya nyroca)
+  - Moretta (Aythya fuligula)
+  - Martin pescatori (Alcedo atthis)
+----------------------------------------
+
+Region: Münster Dorf / Münster (VS)
+  - Sordone (Prunella collaris)
+  - Cinciallegre (Parus major)
+  - Gazza (Pica pica)
+  - Gracchi alpini (Pyrrhocorax graculus)
+----------------------------------------
+
+Region: Cham / Alpenblick / Cham (ZG)
+  - Alzavole (Anas crecca)
+  - Mestoloni (Spatula clypeata)
+  - Fistioni turchi (Netta rufina)
+  - Moriglioni (Aythya ferina)
+  - Morette (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+----------------------------------------
+
+Region: Chollermüli / Zug (ZG)
+  - Alzavole (Anas crecca)
+  - Gallinelle d'acqua (Gallinula chloropus)
+----------------------------------------
+
+Region: Hafen Zug / Zugersee (ZG)
+  - Gavine (Larus canus)
+----------------------------------------
+
+Region: Hünenberg / Hinter Stadelmatt / Hünenberg (ZG)
+  - Nibbi reali (Milvus milvus)
+----------------------------------------
+
+Region: Maschwander Allmend / Hünenberg (ZG)
+  - Airone cenerino (Ardea cinerea)
+  - Poiana (Buteo buteo)
+  - Gheppio (Falco tinnunculus)
+----------------------------------------
+
+Region: Rüssspitz / Hünenberg (ZG)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Smerghi maggiori (Mergus merganser)
+  - Cormorani (Phalacrocorax carbo)
+  - Aironi bianchi (Ardea alba)
+  - Aironi cenerini (Ardea cinerea)
+  - Nibbi reali (Milvus milvus)
+  - Sparvieri (Accipiter nisus)
+  - Poiane (Buteo buteo)
+  - Porciglioni (Rallus aquaticus)
+  - Gallinelle d'acqua (Gallinula chloropus)
+  - Gabbiano comune (Chroicocephalus ridibundus)
+  - Gabbiani reali (Larus michahellis)
+  - Martin pescatori (Alcedo atthis)
+  - Picchi verdi (Picus viridis)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Pispola (Anthus pratensis)
+  - Spioncelli (Anthus spinoletta)
+  - Ballerine gialle (Motacilla cinerea)
+  - Ballerine bianche (Motacilla alba)
+  - Scriccioli (Troglodytes troglodytes)
+  - Pettirossi (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cesene (Turdus pilaris)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Rampichino comune (Certhia brachydactyla)
+  - Gazze (Pica pica)
+  - Corvo comune (Corvus frugilegus)
+  - Cornacchie nere (Corvus corone)
+  - Passere mattugie (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+  - Frosoni (Coccothraustes coccothraustes)
+  - Migliarino di palude (Emberiza schoeniclus)
+----------------------------------------
+
+Region: Vogelinsel alte Lorzemündung / Zugersee (ZG)
+  - Lucherini (Spinus spinus)
+----------------------------------------
+
+Region: Zug / Altstadt / Zug (ZG)
+  - Mestoloni (Spatula clypeata)
+  - Canapiglie (Mareca strepera)
+  - Ballerina gialla (Motacilla cinerea)
+----------------------------------------
+
+Region: Flurlingen [689/281] / Flurlingen (ZH)
+  - Canapiglie (Mareca strepera)
+----------------------------------------
+
+Region: Greifensee / Schloss / Greifensee (ZH)
+  - Gavine (Larus canus)
+----------------------------------------
+
+Region: Hettlingen [695/267] / Hettlingen (ZH)
+  - Ballerina gialla (Motacilla cinerea)
+----------------------------------------
+
+Region: Hombrechtikon / Schirmensee / Hombrechtikon (ZH)
+  - Chiurlo maggiore (Numenius arquata)
+----------------------------------------
+
+Region: Oerlinger Ried / Ossingen (ZH)
+  - Aironi bianchi (Ardea alba)
+  - Migliarini di palude (Emberiza schoeniclus)
+----------------------------------------
+
+Region: Oerlinger Ried / Oerlingen / Trüllikon (ZH)
+  - Pispola (Anthus pratensis)
+  - Spioncelli (Anthus spinoletta)
+----------------------------------------
+
+Region: Richterswil / Mülenen / Richterswil (ZH)
+  - Mestoloni (Spatula clypeata)
+----------------------------------------
+
+Region: Riediker/Rälliker Ried / Uster (ZH)
+  - Svassi cornuti (Podiceps auritus)
+----------------------------------------
+
+Region: Rözi / Maschwanden (ZH)
+  - Cormorani (Phalacrocorax carbo)
+----------------------------------------
+
+Region: Rüti [707/234] / Rüti (ZH)
+  - Nibbio reale (Milvus milvus)
+  - Corvi imperiali (Corvus corax)
+----------------------------------------
+
+Region: Trüllikon [693/276] / Trüllikon (ZH)
+  - Zigoli gialli (Emberiza citrinella)
+----------------------------------------
+
+Region: Unterstammheim / ARA - Haslen / Unterstammheim (ZH)
+  - Airone bianco (Ardea alba)
+  - Airone cenerino (Ardea cinerea)
+  - Nibbi reali (Milvus milvus)
+  - Poiana (Buteo buteo)
+  - Gavine (Larus canus)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Fringuelli (Fringilla coelebs)
+  - Migliarini di palude (Emberiza schoeniclus)
+----------------------------------------
+
+Region: Uster / Niederuster / Uster (ZH)
+  - Strolaga mezzana (Gavia arctica)
+----------------------------------------
+
+Region: Wädenswil / östlich Au / Wädenswil (ZH)
+  - Nibbio reale (Milvus milvus)
+  - Poiana (Buteo buteo)
+  - Merli (Turdus merula)
+  - Gazza (Pica pica)
+  - Cornacchie nere (Corvus corone)
+----------------------------------------
+
+Region: Wanghüseren Hasplen / Maschwanden (ZH)
+  - Nibbio reale (Milvus milvus)
+  - Gallinella d'acqua (Gallinula chloropus)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Merlo (Turdus merula)
+  - Cesene (Turdus pilaris)
+  - Cinciarella (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Storni (Sturnus vulgaris)
+  - Passera mattugia (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Zürich / Milchbuck / Zürich (ZH)
+  - Astore (Astur gentilis)
+----------------------------------------
+
+Region: Zürich / Bahnhof Seebach / Zürich (ZH)
+  - Pettirosso (Erithacus rubecula)
+----------------------------------------
+
+Region: Aarau / Bahnhof [646/249] / Aarau (AG)
+  - Germani reali (Anas platyrhynchos)
+  - Morette (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+  - Cormorano (Phalacrocorax carbo)
+  - Airone cenerino (Ardea cinerea)
+  - Beccaccini (Gallinago gallinago)
+  - Gabbiani reali (Larus michahellis)
+  - Colombacci (Columba palumbus)
+  - Martin pescatore (Alcedo atthis)
+  - Picchi neri (Dryocopus martius)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Ballerine gialle (Motacilla cinerea)
+  - Ballerine bianche (Motacilla alba)
+  - Pettirossi (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Fiorrancino (Regulus ignicapilla)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegra (Parus major)
+  - Picchi muratori (Sitta europaea)
+  - Rampichini comuni (Certhia brachydactyla)
+  - Ghiandaie (Garrulus glandarius)
+  - Gazze (Pica pica)
+  - Cornacchie nere (Corvus corone)
+  - Passere oltremontane (Passer domesticus)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Aarau / Altstadt [645/249] / Aarau (AG)
+  - Morette (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+  - Aironi cenerini (Ardea cinerea)
+----------------------------------------
+
+Region: Aarau / Schachen - Hungerberg [644/249] / Aarau (AG)
+  - Smerghi maggiori (Mergus merganser)
+  - Beccaccino (Gallinago gallinago)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+  - Spioncello (Anthus spinoletta)
+  - Ballerine gialle (Motacilla cinerea)
+  - Pettirossi (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Cesena (Turdus pilaris)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Cornacchie nere (Corvus corone)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Aarau / Summergrien [646/250] / Aarau (AG)
+  - Merlo acquaiolo (Cinclus cinclus)
+  - Frosoni (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Aarburg / Städtli [634/241] / Aarburg (AG)
+  - Gabbiani reali (Larus michahellis)
+----------------------------------------
+
+Region: Aristau / Nidermoos / Aristau (AG)
+  - Nibbi reali (Milvus milvus)
+----------------------------------------
+
+Region: Auenstein / Langere [650/251] / Auenstein (AG)
+  - Airone bianco (Ardea alba)
+  - Martin pescatore (Alcedo atthis)
+----------------------------------------
+
+Region: Baden [665/258] / Baden (AG)
+  - Smergo maggiore (Mergus merganser)
+----------------------------------------
+
+Region: Baden [665/257] / Baden (AG)
+  - Gallinella d'acqua (Gallinula chloropus)
+----------------------------------------
+
+Region: Beinwil am See / Unterdorf [658/235] / Beinwil am See (AG)
+  - Cigni reali (Cygnus olor)
+  - Cinciarella (Cyanistes caeruleus)
+----------------------------------------
+
+Region: Beinwil am See / Zil [657/236] / Beinwil am See (AG)
+  - Poiana (Buteo buteo)
+  - Picchio verde (Picus viridis)
+----------------------------------------
+
+Region: Beinwilerwald [658/233] / Beinwil am See (AG)
+  - Nibbio reale (Milvus milvus)
+  - Poiana (Buteo buteo)
+  - Colombacci (Columba palumbus)
+  - Picchio verde (Picus viridis)
+  - Picchio nero (Dryocopus martius)
+  - Picchi rossi maggiori (Dendrocopos major)
+  - Merlo (Turdus merula)
+  - Tordele (Turdus viscivorus)
+  - Regoli (Regulus regulus)
+  - Cince more (Periparus ater)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Picchio muratore (Sitta europaea)
+  - Cornacchie nere (Corvus corone)
+  - Corvo imperiale (Corvus corax)
+  - Fringuelli (Fringilla coelebs)
+  - Lucherini (Spinus spinus)
+----------------------------------------
+
+Region: Bellikon [668/250] / Bellikon (AG)
+  - Gheppio (Falco tinnunculus)
+----------------------------------------
+
+Region: Biberstein / Ihegi [649/251] / Biberstein (AG)
+  - Alzavole (Anas crecca)
+  - Mestoloni (Spatula clypeata)
+  - Canapiglie (Mareca strepera)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetto (Tachybaptus ruficollis)
+  - Aironi cenerini (Ardea cinerea)
+  - Folaghe (Fulica atra)
+  - Picchio verde (Picus viridis)
+  - Picchio nero (Dryocopus martius)
+  - Taccole (Coloeus monedula)
+----------------------------------------
+
+Region: Birrwil / Wilhof [657/237] / Birrwil (AG)
+  - Anatre mandarine (Aix galericulata)
+  - Germani reali (Anas platyrhynchos)
+----------------------------------------
+
+Region: Birrwil / Ägelmoos [658/236] / Birrwil (AG)
+  - Germani reali (Anas platyrhynchos)
+  - Morette (Aythya fuligula)
+  - Svasso maggiore (Podiceps cristatus)
+  - Folaghe (Fulica atra)
+  - Gabbiani comuni (Chroicocephalus ridibundus)
+----------------------------------------
+
+Region: Birrwil / Hallwilersee [658/237] / Birrwil (AG)
+  - Morette (Aythya fuligula)
+  - Cormorano (Phalacrocorax carbo)
+----------------------------------------
+
+Region: Birrwil / Ägelmoos [658/236] / Birrwil (AG)
+  - Merlo (Turdus merula)
+  - Cinciallegra (Parus major)
+  - Picchio muratore (Sitta europaea)
+  - Rampichino comune (Certhia brachydactyla)
+  - Cornacchie nere (Corvus corone)
+  - Fringuelli (Fringilla coelebs)
+----------------------------------------
+
+Region: Birrwil / Wilhof [657/237] / Birrwil (AG)
+  - Codibugnoli (Aegithalos caudatus)
+----------------------------------------
+
+Region: Bünzen / Schachen / Bünzen (AG)
+  - Nibbi reali (Milvus milvus)
+----------------------------------------
+
+Region: Chräbis, Rhein / Möhlin (AG)
+  - Volpoca (Tadorna tadorna)
+  - Canapiglie (Mareca strepera)
+  - Moriglioni (Aythya ferina)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Spioncello (Anthus spinoletta)
+----------------------------------------
+
+Region: Döttingen / Bahnhof / Döttingen (AG)
+  - Germani reali (Anas platyrhynchos)
+  - Morette (Aythya fuligula)
+  - Quattrocchi (Bucephala clangula)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Svassi maggiori (Podiceps cristatus)
+  - Cormorano (Phalacrocorax carbo)
+  - Aironi bianchi (Ardea alba)
+  - Aironi cenerini (Ardea cinerea)
+  - Folaghe (Fulica atra)
+  - Martin pescatore (Alcedo atthis)
+  - Merlo (Turdus merula)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Gazza (Pica pica)
+  - Fringuello (Fringilla coelebs)
+----------------------------------------
+
+Region: Fischbach-Göslikon [666/246] / Fischbach-Göslikon (AG)
+  - Nibbio reale (Milvus milvus)
+----------------------------------------
+
+Region: Gippinger Grien / Leuggern (AG)
+  - Ghiandaia (Garrulus glandarius)
+----------------------------------------
+
+Region: Giriz / Koblenz (AG)
+  - Tuffetti (Tachybaptus ruficollis)
+  - Piro-piro piccolo (Actitis hypoleucos)
+----------------------------------------
+
+Region: Gränichen / Unterdorf [649/245] / Gränichen (AG)
+  - Nibbi reali (Milvus milvus)
+  - Picchio rosso maggiore (Dendrocopos major)
+  - Pettirosso (Erithacus rubecula)
+  - Merli (Turdus merula)
+  - Codibugnoli (Aegithalos caudatus)
+  - Cinciarelle (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Gazze (Pica pica)
+  - Cornacchie nere (Corvus corone)
+  - Storno (Sturnus vulgaris)
+  - Passere oltremontane (Passer domesticus)
+  - Passere mattugie (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+  - Verdone (Chloris chloris)
+----------------------------------------
+
+Region: Graströchni / Holziken (AG)
+  - Nibbi reali (Milvus milvus)
+  - Poiane (Buteo buteo)
+  - Gheppi (Falco tinnunculus)
+  - Gabbiano reale (Larus michahellis)
+  - Piccioni domestici (Columba livia f. domestica)
+  - Colombacci (Columba palumbus)
+  - Tortora dal collare (Streptopelia decaocto)
+  - Spioncello (Anthus spinoletta)
+  - Ballerina gialla (Motacilla cinerea)
+  - Pettirosso (Erithacus rubecula)
+  - Merlo (Turdus merula)
+  - Cesene (Turdus pilaris)
+  - Cinciarella (Cyanistes caeruleus)
+  - Cinciallegre (Parus major)
+  - Gazze (Pica pica)
+  - Taccole (Coloeus monedula)
+  - Corvi comuni (Corvus frugilegus)
+  - Cornacchie nere (Corvus corone)
+  - Corvo imperiale (Corvus corax)
+  - Storni (Sturnus vulgaris)
+  - Passere oltremontane (Passer domesticus)
+  - Passere mattugie (Passer montanus)
+  - Fringuelli (Fringilla coelebs)
+  - Verdoni (Chloris chloris)
+  - Lucherini (Spinus spinus)
+  - Frosone (Coccothraustes coccothraustes)
+----------------------------------------
+
+Region: Gwild/Unterwasser KW Rheinfelden / Rheinfelden (AG)
+  - Volpoche (Tadorna tadorna)
+  - Canapiglie (Mareca strepera)
+  - Ballerina bianca (Motacilla alba)
+----------------------------------------
+
+Region: Hintererlen / Aristau (AG)
+  - Nibbi reali (Milvus milvus)
+----------------------------------------
+
+Region: Höllhaken, Rhein / Rheinfelden (AG)
+  - Ballerina bianca (Motacilla alba)
+  - Fiorrancino (Regulus ignicapilla)
+----------------------------------------
+
+Region: Killwangen [668/253] / Killwangen (AG)
+  - Nibbio reale (Milvus milvus)
+----------------------------------------
+
+Region: Klingnauer Stausee - Kleindöttingen / Böttstein (AG)
+  - Cigni reali (Cygnus olor)
+  - Casarche (Tadorna ferruginea)
+  - Volpoche (Tadorna tadorna)
+  - Alzavole (Anas crecca)
+  - Germani reali (Anas platyrhynchos)
+  - Codoni (Anas acuta)
+  - Mestoloni (Spatula clypeata)
+  - Canapiglie (Mareca strepera)
+  - Moriglioni (Aythya ferina)
+  - Moretta tabaccata (Aythya nyroca)
+  - Morette (Aythya fuligula)
+  - Smerghi maggiori (Mergus merganser)
+  - Tuffetti (Tachybaptus ruficollis)
+----------------------------------------
+
+Region: Klingnauer Stausee Nord / Klingnau (AG)
+  - Cigno reale (Cygnus olor)
+  - Codoni (Anas acuta)
+  - Mestoloni (Spatula clypeata)
+  - Smergo maggiore (Mergus merganser)
+----------------------------------------
+
+Region: Klingnauer Stausee / Leuggern (AG)
+  - Volpoche (Tadorna tadorna)
+  - Codoni (Anas acuta)
+  - Mestoloni (Spatula clypeata)
