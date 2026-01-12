@@ -111,6 +111,15 @@ jobs:
           cd ..
           rm -r monRNA
 
+          # Check Muralto website
+          wget https://www.muralto.ch/ -O muralto_homepage_all.txt
+          wget https://www.muralto.ch/Eventi-e-Manifestazioni/IT-cf274700 -O muralto_events_all.txt
+          
+
+          # Cleanup
+          rm info_pets_all.txt
+
+          
 
 
           git config --global user.name "twincacca"
