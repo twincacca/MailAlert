@@ -111,10 +111,21 @@ jobs:
           cd ..
           rm -r monRNA
 
+
           # Check Muralto website
           wget https://www.muralto.ch/ -O muralto_homepage_all.txt
           wget https://www.muralto.ch/Eventi-e-Manifestazioni/IT-cf274700 -O muralto_events_all.txt
           
+          # Cleanup
+          rm muralto_homepage_all.txt muralto_events_all.txt
+
+          # Check Minusio website
+          wget https://www.minusio.ch/ -O minusio_homepage_all.txt
+          wget https://www.minusio.ch/Agenda-eventi-cf274700 -O minusio_events_all.txt
+
+          # Cleanup
+          rm minusio_homepage_all.txt minusio_events_all.txt
+       
 
           # Cleanup
           rm info_pets_all.txt
