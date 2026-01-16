@@ -1950,10 +1950,6 @@ if (window.addEventListener) {
 <tr><td class="ObjListDocTitle"><div class="titoletto">Al Cinema con i nonni, sabato 17 gennaio 2026</div></td></tr>
 <tr><td>Pubblicazioni diverse</td></tr>
 <tr><td colspan="2" class="ListDocLink"><a href="Al-Cinema-con-i-nonni-sabato-17-gennaio-2026-602db000?i=1" target="_blank"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></a></td></tr></table>
-</div><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>15.01.26</td></tr>
-<tr><td class="ObjListDocTitle"><div class="titoletto">Conferenza di Giuseppe Clericetti  giovedì 15.01.2026 ore 18.00</div></td></tr>
-<tr><td>Pubblicazioni diverse</td></tr>
-<tr><td colspan="2" class="ListDocLink"><a href="Conferenza-di-Giuseppe-Clericetti-giovedi-15012026-ore-1800-f96d4300?i=1" target="_blank"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></a></td></tr></table>
 </div><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>14.01.26</td></tr>
 <tr><td class="ObjListDocTitle"><div class="titoletto">Avviso deposito atti per informazione e partecipazione, Inserimento paesaggistico degli interventi edilizi - regolamento edilizio artt. 13 e 14 (11 e 25 NAPR)</div></td></tr>
 <tr><td>Pubblicazioni diverse</td></tr>
@@ -1968,6 +1964,10 @@ if (window.addEventListener) {
 <tr><td colspan="2" class="ListDocLink"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></td></tr></table>
 </div><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>13.01.26</td></tr>
 <tr><td class="ObjListDocTitle"><div class="titoletto">MM2026/02 Domanda di naturalizzazione</div></td></tr>
+<tr><td>Messaggi al Consiglio Comunale</td></tr>
+<tr><td colspan="2" class="ListDocLink"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></td></tr></table>
+</div><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>13.01.26</td></tr>
+<tr><td class="ObjListDocTitle"><div class="titoletto">MM2026/03 Domanda di naturalizzazione</div></td></tr>
 <tr><td>Messaggi al Consiglio Comunale</td></tr>
 <tr><td colspan="2" class="ListDocLink"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></td></tr></table>
 </div></div></td>

@@ -2214,6 +2214,12 @@ else if (window.addEventListener) window.addEventListener('load', initMostraDett
 <tr>  <!-- ds_paragrafi.15372.* --><td class="PadBot40"><p><span class="titolo">Albo comunale</span></p></td>
   </tr>
 <tr>  <!-- ds_paragrafi.17417.* --><td><div class="ListCont"><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
+<tr><td class="PadBot10"><div class="OggListAlboData">15.01.2026</div></td></tr>
+<tr><td><div class="sottotitolo"><a href="1336-Associazione-Infanzia-e-Vita-D2026-006-db255b00?i=1" class="AlboTitolo-Link" target="_blank">1336 Associazione Infanzia e Vita D2026-006</a></div></td></tr></table>
+</div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
+<tr><td class="PadBot10"><div class="OggListAlboData">15.01.2026</div></td></tr>
+<tr><td><div class="sottotitolo"><a href="449-Alice-Tognetti-D2025-477-a725f200?i=1" class="AlboTitolo-Link" target="_blank">449 Alice Tognetti D2025-477</a></div></td></tr></table>
+</div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
 <tr><td class="PadBot10"><div class="OggListAlboData">13.01.2026</div></td></tr>
 <tr><td><div class="sottotitolo"><a href="507-Giuseppina-Matozzo-D2025-505-d9578200?i=1" class="AlboTitolo-Link" target="_blank">2927 Daniele Chiappini D2025-503</a></div></td></tr></table>
 </div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
@@ -2231,12 +2237,6 @@ else if (window.addEventListener) window.addEventListener('load', initMostraDett
 </div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
 <tr><td class="PadBot10"><div class="OggListAlboData">12.01.2026</div></td></tr>
 <tr><td><div class="sottotitolo"><a href="507-Giuseppina-Matozzo-D2025-505-98e80500?i=1" class="AlboTitolo-Link" target="_blank">507 Giuseppina Matozzo D2025-505</a></div></td></tr></table>
-</div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
-<tr><td class="PadBot10"><div class="OggListAlboData">08.01.2026</div></td></tr>
-<tr><td><div class="sottotitolo"><a href="3462-Michaela-Schell-N2025-481-507ce400?i=1" class="AlboTitolo-Link" target="_blank">3462 Michaela Schell N2025-481</a></div></td></tr></table>
-</div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
-<tr><td class="PadBot10"><div class="OggListAlboData">07.01.2026</div></td></tr>
-<tr><td><div class="sottotitolo"><a href="1385-Elisa-Torre-e-Vietti-Davide-D2025-499-9e3a3500?i=1" class="AlboTitolo-Link" target="_blank">1385 Elisa Torre e Vietti Davide D2025-499</a></div></td></tr></table>
 </div></div></td>
   </tr>
 <tr>  <!-- ds_paragrafi.17418.* --><td><p><a class="MostraTutto" href="Albo-comunale-c3dfab00" target="_self">Mostra tutto</a></p></td>
