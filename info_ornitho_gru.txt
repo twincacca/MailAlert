@@ -1,9 +1,18 @@
+Region: Fanel / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ins [573/203] / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ziegelhof-Erlenhof / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: La Rochette / Cheyres (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Chablais de Cudrefin : Les Grèves / Cudrefin (VD)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Paturage inondé du Pégran / Cudrefin (VD)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Fanel / Gampelen (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Fanel : Lagunes / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
