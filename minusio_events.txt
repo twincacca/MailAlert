@@ -2559,61 +2559,87 @@ else if (window.addEventListener) window.addEventListener('load', initMostraDett
 </div>
 
 <script type="application/javascript">
-        var PROJECT_ID = "67a7296b7b909d00137727c9"
-       
-        window.tiledeskSettings=
-        {
-            projectid: PROJECT_ID,
-            align: 'right',
-            marginX: '40px',
-            marginY: '40px',
-            restartConversation: true,
-            launcherWidth: '85px',
-            launcherHeight: '85px',
-            mobileMarginX: '20px'
+  var PROJECT_ID = "67a7296b7b909d00137727c9";
 
+  window.tiledeskSettings = {
+    projectid: PROJECT_ID,
+    align: 'right',
+    marginX: '10px',
+    marginY: '10px',
+    restartConversation: true,
+    launcherWidth: '150px',
+    launcherHeight: '150px',
+    mobileMarginX: '10px'
   };
+
   (function(d, s, id) {
-       var w=window; var d=document; var i=function(){i.c(arguments);};
-       i.q=[]; i.c=function(args){i.q.push(args);}; w.Tiledesk=i;
-       var js, fjs=d.getElementsByTagName(s)[0];
-       if (d.getElementById(id)) return;
-       js=d.createElement(s);
-       js.id=id; js.async=true; js.src="https://widget.tiledesk.com/v6/launch.js";
-       fjs.parentNode.insertBefore(js, fjs);
+    var w=window; var d=document; var i=function(){i.c(arguments);};
+    i.q=[]; i.c=function(args){i.q.push(args);}; w.Tiledesk=i;
+    var js, fjs=d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js=d.createElement(s);
+    js.id=id; js.async=true; js.src="https://widget.tiledesk.com/v6/launch.js";
+    fjs.parentNode.insertBefore(js, fjs);
   }(document,'script','tiledesk-jssdk'));
 
-            window.Tiledesk('onLoadParams', function (event_data) {
-                //var tiledeskDiv = document.getElementById("tiledeskdiv")
+  window.Tiledesk('onLoadParams', function () {
 
-                var head = document.getElementsByTagName('head')[0];
-                var style = document.createElement('style');
-                style.id = 'customStyle';
-                style.type = 'text/css';
+    /* ===== PATCH HOST ===== */
+    if (!document.getElementById('customStyleHost')) {
+      const styleHost = document.createElement('style');
+      styleHost.id = 'customStyleHost';
+      styleHost.innerHTML = `
+        #tiledesk-container.closed #tiledeskdiv{
+          min-width:150px;
+          height:150px;
+          display:flex;
+          justify-content:flex-end;
+        }
+        #tiledesk-container.closed #tiledeskdiv:not(.callout) #tiledeskiframe{
+          width: fit-content;
+        }`;
+      document.head.appendChild(styleHost);
+    }
 
-                style.innerHTML += '#tiledeskdiv { height: 100%; width: 550px; }\n';
-               
+    /* ===== CSS HOST ===== */
+    if (!document.getElementById('customStyle')) {
+      var style = document.createElement('style');
+      style.id = 'customStyle';
+      style.type = 'text/css';
+      style.innerHTML = '#tiledeskdiv { height:100%; width:550px; }\n';
+      document.head.appendChild(style);
+    }
 
-                head.appendChild(style);
+    /* ===== CSS IFRAME ===== */
+    var iframeTiledesk = document.getElementById("tiledeskiframe");
+    if (!iframeTiledesk) return;
 
-                var iframeTiledesk = document.getElementById("tiledeskiframe");
+    try {
+      var doc = iframeTiledesk.contentWindow.document;
+      if (!doc || doc.getElementById('customStyleIframe')) return;
 
-                var style2 = iframeTiledesk.contentWindow.document.createElement('style');
-                style2.type = 'text/css';
-                style2.innerHTML += '.message_sender_fullname.ng-star-inserted{ color:rgb(0,0,0)!important; }\n';
-                style2.innerHTML += '.message_innerhtml p{ font-weight:400;}\n';
-                style2.innerHTML += '#chat21-sheet-content chat-text a{ color:#2d6b97!important;}\n';
-                style2.innerHTML += '#tiledesk-container .titleText{ font-size:1.1em!important;}\n';
-                style2.innerHTML += '.eye-catcher-card .eye-catcher_row{background-color:#ffffff!important;border-radius:30px;}\n';
-                style2.innerHTML += '.eye-catcher-card .eye-catcher-card-msg{width:90%!important;}\n';
-                style2.innerHTML += '#c21-launcher-button{ margin-bottom:5px!important;margin-right:0px!important;box-shadow:none!important;}\n';
-style2.innerHTML += '.eye-catcher-card{width:250px!important;}\n';
+      var style2 = doc.createElement('style');
+      style2.id = 'customStyleIframe';
+      style2.type = 'text/css';
+
+      style2.innerHTML += '.message_sender_fullname.ng-star-inserted{ color:#000!important; }\n';
+      style2.innerHTML += '.message_innerhtml p{ font-weight:400; }\n';
+      style2.innerHTML += '#chat21-sheet-content chat-text a{ color:#2d6b97!important; }\n';
+      style2.innerHTML += '#tiledesk-container .titleText{ font-size:1.2em!important; }\n';
+      style2.innerHTML += '.eye-catcher-card .eye-catcher_row{ background:#fff!important; border-radius:25px; }\n';
+      style2.innerHTML += '.eye-catcher-card .eye-catcher-card-msg{ width:90%!important; }\n';
+      style2.innerHTML += '#c21-launcher-button{ margin:0!important; box-shadow:none!important; }\n';
+      style2.innerHTML += '.eye-catcher-card{ width:310px!important; min-height:90px!important; }\n';
 
 
-                iframeTiledesk.contentWindow.document.getElementsByTagName('head')[0].appendChild(style2);
-            })
+      /* --- AVATAR 150px --- */
+      style2.innerHTML += '#c21-launcher-button{ width:150px!important; height:150px!important; }\n';
+      style2.innerHTML += '#c21-launcher-button img{ width:150px!important; height:150px!important; object-fit:contain!important; }\n';
 
-        </script>
+      doc.head.appendChild(style2);
+    } catch(e) {}
+  });
+</script>
 
 	
 

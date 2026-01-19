@@ -2168,12 +2168,12 @@ else if (window.addEventListener) window.addEventListener('load', initMostraDett
 <form name="fric_6166" id="fric_6166" action="index.php#p6166" method="post"><!-- ts2_contents.6166.tab_* --><table width="100%" class="ListHomeTab" cellspacing="0" cellpadding="0" border="0">
 <tr>  <!-- ds_paragrafi.16029.* --><td class="PadBot40"><p><span class="titolo">News e comunicati</span></p></td>
   </tr>
-<tr>  <!-- ds_paragrafi.17412.* --><td><div class="ListNews"><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"><img id="g1_3844_1_img_1" src="./imgcache/352_7507ea78730/4267_800_0_744cf76c4c.png" width="800" height="497" alt="" title="passeggiata" border="0" /></td><td class="ObjListNewsData">14.01.26</td><td class="ObjListNewsCat">Comunicati</td><td class="ObjListNewsTitolo"><h3>Iscrizione alla passeggiata partecipativa a Minusio</h3></td><td class="ObjListNewsTxt"><div class="testo"><p>Passeggiata partecipativa attraverso Minusio nell&rsquo;ambito del progetto di ricerca &ldquo;Qualiscapes&rdquo;.</p></div></td><td class="ObjListNewsLink"><a href="Iscrizione-alla-passeggiata-partecipativa-a-Minusio-9ae1fc00">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
+<tr>  <!-- ds_paragrafi.17412.* --><td><div class="ListNews"><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"><img id="g1_3867_1_img_1" src="./imgcache/352_91e5adb74e3/4269_697_0_9859eeb02e.png" width="697" height="701" alt="" title="Min&ugrave;" border="0" /></td><td class="ObjListNewsData">19.01.26</td><td class="ObjListNewsCat">Comunicati</td><td class="ObjListNewsTitolo"><h3>È arrivato Minù: l'asinello digitale del Comune di Minusio</h3></td><td class="ObjListNewsTxt"><div class="testo"><p><em>Il nuovo avatar del chatbot comunale porta un nome scelto dalle alunne e dagli alunni delle scuole elementari</em>.</p></div></td><td class="ObjListNewsLink"><a href="arrivato-Min-l-asinello-digitale-del-Comune-di-Minusio-69437c00">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
+</div><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"><img id="g1_3844_1_img_1" src="./imgcache/352_7507ea78730/4267_800_0_744cf76c4c.png" width="800" height="497" alt="" title="passeggiata" border="0" /></td><td class="ObjListNewsData">14.01.26</td><td class="ObjListNewsCat">Comunicati</td><td class="ObjListNewsTitolo"><h3>Iscrizione alla passeggiata partecipativa a Minusio</h3></td><td class="ObjListNewsTxt"><div class="testo"><p>Passeggiata partecipativa attraverso Minusio nell&rsquo;ambito del progetto di ricerca &ldquo;Qualiscapes&rdquo;.</p></div></td><td class="ObjListNewsLink"><a href="Iscrizione-alla-passeggiata-partecipativa-a-Minusio-9ae1fc00">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
 </div><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"></td><td class="ObjListNewsData">14.01.26</td><td class="ObjListNewsCat">Comunicati</td><td class="ObjListNewsTitolo"><h3>Consiglio comunale >> Pianificazione delle sedute, anno 2026</h3></td><td class="ObjListNewsTxt"><div class="testo"></div></td><td class="ObjListNewsLink"><a href="Consiglio-comunale-Pianificazione-delle-sedute-anno-2026-bd69a900">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
 </div><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"></td><td class="ObjListNewsData">14.01.26</td><td class="ObjListNewsCat">Comunicati</td><td class="ObjListNewsTitolo"><h3>Consiglio comunale, seduta del 10 febbraio 2026</h3></td><td class="ObjListNewsTxt"><div class="testo"></div></td><td class="ObjListNewsLink"><a href="Consiglio-comunale-seduta-del-10-febbraio-2026-d4f9a300">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
 </div><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"><img id="g1_3590_1_img_1" src="./imgcache/352_5c33ec2b7a8/4165_800_0_4534531840.jpeg" width="800" height="450" alt=""  border="0" /></td><td class="ObjListNewsData">01.01.26</td><td class="ObjListNewsCat"></td><td class="ObjListNewsTitolo"><h3>Programma animazioni Casa Rea</h3></td><td class="ObjListNewsTxt"><div class="testo"><p><a href="Programma-animazione-gennaio-8dbfc600" target="_self">Programma animazioni gennaio 2026</a></p></div></td><td class="ObjListNewsLink"><a href="Programma-animazioni-Casa-Rea-ee406800">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
 </div><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"><img id="g1_3847_1_img_1" src="./imgcache/352_5c33ec2b7a8/4265_800_0_b01a3891eb.jpeg" width="800" height="600" alt="" title="Sentiero Navegna - fine lavori" border="0" /></td><td class="ObjListNewsData">23.12.25</td><td class="ObjListNewsCat">Comunicati</td><td class="ObjListNewsTitolo"><h3>Fine lavori sentiero Navegna - riapertura percorso</h3></td><td class="ObjListNewsTxt"><div class="testo"><p>Il Municipio di Minusio comunica la fine dei lavori per il ripristino del percorso comunale e la messa in sicurezza della scarpata sottostante il sentiero Navegna in zona Fontana ferruginosa.</p>  <p>Da oggi &egrave; nuovamente possibile percorrere il tratto di cammino chiuso per i lavori di riparazione e miglioria.</p>  <p>&nbsp;</p>  <p>&nbsp;</p></div></td><td class="ObjListNewsLink"><a href="Fine-lavori-sentiero-Navegna-riapertura-percorso-c02a8d00">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
-</div><div class="Item3Col ItemNews"><table width="100%" class="ItemNewsTab" lang="it" cellspacing="0" cellpadding="0" border="0"><tr><td class="ObjListNewsImg"></td><td class="ObjListNewsData">01.12.25</td><td class="ObjListNewsCat">Comunicati</td><td class="ObjListNewsTitolo"><h3>Chiusura uffici e servizi dell'Amministrazione comunale, anno 2026</h3></td><td class="ObjListNewsTxt"><div class="testo"></div></td><td class="ObjListNewsLink"><a href="Chiusura-uffici-e-servizi-dell-Amministrazione-comunale-anno-2026-0fcfd600">Leggi tutto</a></td><td class="ObjListNewsLink"></td></tr></table>
 </div></div></td>
   </tr>
 <tr>  <!-- ds_paragrafi.17413.* --><td><p><a class="MostraTutto" href="News-e-comunicati-b4372a00" target="_self">Mostra tutto</a></p></td>
@@ -2743,61 +2743,87 @@ try {
 </div>
 
 <script type="application/javascript">
-        var PROJECT_ID = "67a7296b7b909d00137727c9"
-       
-        window.tiledeskSettings=
-        {
-            projectid: PROJECT_ID,
-            align: 'right',
-            marginX: '40px',
-            marginY: '40px',
-            restartConversation: true,
-            launcherWidth: '85px',
-            launcherHeight: '85px',
-            mobileMarginX: '20px'
+  var PROJECT_ID = "67a7296b7b909d00137727c9";
 
+  window.tiledeskSettings = {
+    projectid: PROJECT_ID,
+    align: 'right',
+    marginX: '10px',
+    marginY: '10px',
+    restartConversation: true,
+    launcherWidth: '150px',
+    launcherHeight: '150px',
+    mobileMarginX: '10px'
   };
+
   (function(d, s, id) {
-       var w=window; var d=document; var i=function(){i.c(arguments);};
-       i.q=[]; i.c=function(args){i.q.push(args);}; w.Tiledesk=i;
-       var js, fjs=d.getElementsByTagName(s)[0];
-       if (d.getElementById(id)) return;
-       js=d.createElement(s);
-       js.id=id; js.async=true; js.src="https://widget.tiledesk.com/v6/launch.js";
-       fjs.parentNode.insertBefore(js, fjs);
+    var w=window; var d=document; var i=function(){i.c(arguments);};
+    i.q=[]; i.c=function(args){i.q.push(args);}; w.Tiledesk=i;
+    var js, fjs=d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js=d.createElement(s);
+    js.id=id; js.async=true; js.src="https://widget.tiledesk.com/v6/launch.js";
+    fjs.parentNode.insertBefore(js, fjs);
   }(document,'script','tiledesk-jssdk'));
 
-            window.Tiledesk('onLoadParams', function (event_data) {
-                //var tiledeskDiv = document.getElementById("tiledeskdiv")
+  window.Tiledesk('onLoadParams', function () {
 
-                var head = document.getElementsByTagName('head')[0];
-                var style = document.createElement('style');
-                style.id = 'customStyle';
-                style.type = 'text/css';
+    /* ===== PATCH HOST ===== */
+    if (!document.getElementById('customStyleHost')) {
+      const styleHost = document.createElement('style');
+      styleHost.id = 'customStyleHost';
+      styleHost.innerHTML = `
+        #tiledesk-container.closed #tiledeskdiv{
+          min-width:150px;
+          height:150px;
+          display:flex;
+          justify-content:flex-end;
+        }
+        #tiledesk-container.closed #tiledeskdiv:not(.callout) #tiledeskiframe{
+          width: fit-content;
+        }`;
+      document.head.appendChild(styleHost);
+    }
 
-                style.innerHTML += '#tiledeskdiv { height: 100%; width: 550px; }\n';
-               
+    /* ===== CSS HOST ===== */
+    if (!document.getElementById('customStyle')) {
+      var style = document.createElement('style');
+      style.id = 'customStyle';
+      style.type = 'text/css';
+      style.innerHTML = '#tiledeskdiv { height:100%; width:550px; }\n';
+      document.head.appendChild(style);
+    }
 
-                head.appendChild(style);
+    /* ===== CSS IFRAME ===== */
+    var iframeTiledesk = document.getElementById("tiledeskiframe");
+    if (!iframeTiledesk) return;
 
-                var iframeTiledesk = document.getElementById("tiledeskiframe");
+    try {
+      var doc = iframeTiledesk.contentWindow.document;
+      if (!doc || doc.getElementById('customStyleIframe')) return;
 
-                var style2 = iframeTiledesk.contentWindow.document.createElement('style');
-                style2.type = 'text/css';
-                style2.innerHTML += '.message_sender_fullname.ng-star-inserted{ color:rgb(0,0,0)!important; }\n';
-                style2.innerHTML += '.message_innerhtml p{ font-weight:400;}\n';
-                style2.innerHTML += '#chat21-sheet-content chat-text a{ color:#2d6b97!important;}\n';
-                style2.innerHTML += '#tiledesk-container .titleText{ font-size:1.1em!important;}\n';
-                style2.innerHTML += '.eye-catcher-card .eye-catcher_row{background-color:#ffffff!important;border-radius:30px;}\n';
-                style2.innerHTML += '.eye-catcher-card .eye-catcher-card-msg{width:90%!important;}\n';
-                style2.innerHTML += '#c21-launcher-button{ margin-bottom:5px!important;margin-right:0px!important;box-shadow:none!important;}\n';
-style2.innerHTML += '.eye-catcher-card{width:250px!important;}\n';
+      var style2 = doc.createElement('style');
+      style2.id = 'customStyleIframe';
+      style2.type = 'text/css';
+
+      style2.innerHTML += '.message_sender_fullname.ng-star-inserted{ color:#000!important; }\n';
+      style2.innerHTML += '.message_innerhtml p{ font-weight:400; }\n';
+      style2.innerHTML += '#chat21-sheet-content chat-text a{ color:#2d6b97!important; }\n';
+      style2.innerHTML += '#tiledesk-container .titleText{ font-size:1.2em!important; }\n';
+      style2.innerHTML += '.eye-catcher-card .eye-catcher_row{ background:#fff!important; border-radius:25px; }\n';
+      style2.innerHTML += '.eye-catcher-card .eye-catcher-card-msg{ width:90%!important; }\n';
+      style2.innerHTML += '#c21-launcher-button{ margin:0!important; box-shadow:none!important; }\n';
+      style2.innerHTML += '.eye-catcher-card{ width:310px!important; min-height:90px!important; }\n';
 
 
-                iframeTiledesk.contentWindow.document.getElementsByTagName('head')[0].appendChild(style2);
-            })
+      /* --- AVATAR 150px --- */
+      style2.innerHTML += '#c21-launcher-button{ width:150px!important; height:150px!important; }\n';
+      style2.innerHTML += '#c21-launcher-button img{ width:150px!important; height:150px!important; object-fit:contain!important; }\n';
 
-        </script>
+      doc.head.appendChild(style2);
+    } catch(e) {}
+  });
+</script>
 
 	
 
