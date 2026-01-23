@@ -2213,7 +2213,10 @@ else if (window.addEventListener) window.addEventListener('load', initMostraDett
 <form name="fric_6164" id="fric_6164" action="index.php#p6164" method="post"><!-- ts2_contents.6164.tab_* --><table width="100%" class="ListHomeTab" cellspacing="0" cellpadding="0" border="0">
 <tr>  <!-- ds_paragrafi.15372.* --><td class="PadBot40"><p><span class="titolo">Albo comunale</span></p></td>
   </tr>
-<tr>  <!-- ds_paragrafi.17417.* --><td><div class="ListCont"><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Concorsi</div></td></tr>
+<tr>  <!-- ds_paragrafi.17417.* --><td><div class="ListCont"><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
+<tr><td class="PadBot10"><div class="OggListAlboData">22.01.2026</div></td></tr>
+<tr><td><div class="sottotitolo"><a href="Avviso-di-pubblicazione-ai-sensi-della-Legge-sulle-strade-del-progetto-Sperimentazione-strada-ciclabile-in-Via-R-Simen-segmento-Via-C-di-Ferro-Verbanella-a57bf600?i=1" class="AlboTitolo-Link" target="_blank">Avviso di pubblicazione ai sensi della Legge sulle strade del progetto "Sperimentazione strada ciclabile in Via R. Simen" segmento Via Cà di Ferro - Verbanella</a></div></td></tr></table>
+</div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Concorsi</div></td></tr>
 <tr><td class="PadBot10"><div class="OggListAlboData">21.01.2026</div></td></tr>
 <tr><td><div class="sottotitolo"><a href="Concorso-concessione-vendita-alimentari-da-asporto-di-produzione-artigianale-locale-anno-2026-3c802100?i=1" class="AlboTitolo-Link" target="_blank">Concorso concessione vendita alimentari da asporto di produzione artigianale locale, anno 2026</a></div></td></tr></table>
 </div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Concorsi</div></td></tr>
@@ -2234,9 +2237,6 @@ else if (window.addEventListener) window.addEventListener('load', initMostraDett
 </div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
 <tr><td class="PadBot10"><div class="OggListAlboData">13.01.2026</div></td></tr>
 <tr><td><div class="sottotitolo"><a href="507-Giuseppina-Matozzo-D2025-505-d9578200?i=1" class="AlboTitolo-Link" target="_blank">2927 Daniele Chiappini D2025-503</a></div></td></tr></table>
-</div><div class="Item3Col ItemAlbo"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><div class="OggListAlboData">Avvisi di pubblicazione</div></td></tr>
-<tr><td class="PadBot10"><div class="OggListAlboData">13.01.2026</div></td></tr>
-<tr><td><div class="sottotitolo"><a href="3960-Stefania-Ramirez-D2025-516-c462a400?i=1" class="AlboTitolo-Link" target="_blank">3960 Stefania Ramirez D2025-516</a></div></td></tr></table>
 </div></div></td>
   </tr>
 <tr>  <!-- ds_paragrafi.17418.* --><td><p><a class="MostraTutto" href="Albo-comunale-c3dfab00" target="_self">Mostra tutto</a></p></td>
