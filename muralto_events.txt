@@ -1629,18 +1629,6 @@ if (window.addEventListener) {
   </tr>
 <tr valign="top"><td height="10"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="10" alt=""  border="0" /></td>
 </tr>
-<tr valign="top"><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="5" width="65" class="date_evento">24.01.26</td><td height="1" class="nome_evento">Incontro pubblico con Paolo Giordano: Dalla scrittura al  cinema raccontando la resilienza</td><td rowspan="5" width="10"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="10" height="20" alt=""  border="0" /></td><td rowspan="5" width="1" class="testo_evento"></td></tr>
-<tr><td height="1" class="testo_evento">Muralto, Palazzo dei Congressi , sabato 24 gennaio 2026 ore  18.00</td></tr>
-<tr><td height="10" class="testo_evento"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="10" alt=""  border="0" /></td></tr>
-<tr><td height="1" class="testo_evento"><p><img src="displimg.php?id=1411" alt="" /></p></td></tr>
-<tr><td><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="20" alt=""  border="0" /></td></tr></table>
-</td></tr>
-<tr valign="top"><td height="10"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="10" alt=""  border="0" /></td>
-</tr>
-<tr valign="top"><td height="2" class="grigio_filetto"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="2" alt=""  border="0" /></td>
-</tr>
-<tr valign="top"><td height="10"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="10" alt=""  border="0" /></td>
-</tr>
 <tr valign="top"><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="5" width="65" class="date_evento">06.02.26</td><td height="1" class="nome_evento">UNFORGETTABLE</td><td rowspan="5" width="10"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="10" height="20" alt=""  border="0" /></td><td rowspan="5" width="1" class="testo_evento"></td></tr>
 <tr><td height="1" class="testo_evento">Muralto, Palazzo dei Congressi venerdì 06.02.2026 ore 20.30 18.00</td></tr>
 <tr><td height="10" class="testo_evento"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="10" alt=""  border="0" /></td></tr>
@@ -1663,7 +1651,7 @@ if (window.addEventListener) {
 </tr>
 <tr valign="top"><td height="2" class="grigio_filetto"><img src="./imgcache/5_s2a46c15350d/522_20_20_618db0e2a5.gif" width="20" height="2" alt=""  border="0" /></td>
 </tr>
-<tr>  <!-- ds_paragrafi.8880.* --><td height="30"><div class=""><span class="">3</span> manifestazioni trovate</div>
+<tr>  <!-- ds_paragrafi.8880.* --><td height="30"><div class=""><span class="">2</span> manifestazioni trovate</div>
 </td>
   </tr>
 
