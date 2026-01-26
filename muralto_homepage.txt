@@ -1810,12 +1810,6 @@ if (window.addEventListener) {
 <tr><td colspan="2" class="PadBot"><a href="InfoTESSERA-CITTADINO-ede5ca00" target="_blank"><h2>TESSERA CITTADINO</h2></a></td></tr>
 <tr><td colspan="2"><p style="text-align: center;"><strong class="titolo">MURALTO CARD&nbsp;</strong></p>  <p class="testomiddle" style="text-align: center;"><strong class="titolo"><span class="testo">Ottenibile a partire dal 06 dicembre 2024</span></strong></p>  <p class="testomiddle" style="text-align: center;"><strong class="titolo"><span class="testo"><a href="TESSERA-CITTADINO-11a16800" target="_self"><br /></a></span></strong></p>  <p class="testomiddle" style="text-align: center;"><strong class="titolo"><span class="testo"><a href="InfoTESSERA-CITTADINO-ede5ca00" target="_self">Info Muralto Card</a></span></strong></p>  <p class="testomiddle" style="text-align: center;"><strong class="titolo"><span class="testo"><br /></span></strong></p>  <p class="testomiddle" style="text-align: center;"><strong class="titolo"><span class="testo"><a href="Formulario-richiesta-MuraltoCard-0a5c8f00" target="_self">Formulario richiesta Muralto Card</a></span></strong></p>  <p class="testomiddle" style="text-align: center;"><strong class="titolo"><span class="testo"><a href="Domande-e-Risposte-Tessera-Cittadino-7eafd800" target="_self"><br /></a></span></strong></p>  <p class="testomiddle" style="text-align: center;"><strong class="titolo"><span class="testo"><a href="Domande-e-Risposte-Tessera-Cittadino-7eafd800" target="_self">Domande risposte pi&ugrave; frequenti</a></span></strong></p>  <p style="text-align: center;"><strong class="titolo"><span class="testo"><br /></span></strong></p></td></tr>
 <tr><td colspan="2"></td></tr></table>
-</div><div class="Item2Col"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td colspan="2"><div class="ObjListImg imgNews"><img id="g1_618_1_img_1" src="./imgcache/5_7531b158dcb/1337_301_0_4190a0d855.jpeg" width="301" height="63" alt="Festival libro"  border="0" /></div></td></tr>
-<tr><td colspan="2" class="PadBot"><div class="ObjListCatEvidenza">IN PRIMO PIANO</div></td></tr>
-<tr><td width="1"><div class="ObjListNewsData">00.00.00</div></td><td><div class="ObjListNewsCat"></div></td></tr>
-<tr><td colspan="2" class="PadBot"><a href="Pre-Festivallibro-Incontro-pubblico-con-Paolo-Giordano-147c0400"><h2>Pre Festivallibro, incontro con Paolo Giordano </h2></a></td></tr>
-<tr><td colspan="2"><p><img src="displimg.php?id=1411" alt="" /></p></td></tr>
-<tr><td colspan="2"></td></tr></table>
 </div><div class="Item2Col"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td colspan="2"><div class="ObjListImg imgNews"><img id="g1_604_1_img_1" src="./imgcache/5_5286770882b/1405_371_0_9a31f52913.png" width="371" height="47" alt="" title="Comune alvad" border="0" /></div></td></tr>
 <tr><td colspan="2" class="PadBot"><div class="ObjListCatEvidenza">IN PRIMO PIANO, NORMALE</div></td></tr>
 <tr><td width="1"><div class="ObjListNewsData">13.12.25</div></td><td><div class="ObjListNewsCat"></div></td></tr>
@@ -1928,7 +1922,11 @@ if (window.addEventListener) {
 <form name="fric_4432" id="fric_4432" action="index.php#p4432" method="post"><!-- ts2_contents.4432.tab_* --><table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>  <!-- ds_paragrafi.11282.* --><td><div class="HomeTitoletto"><h2 style="display: inline-block; width: calc(100% - 120px);">Albo comunale</h2><p style="display: inline-block;"><a class="LinkBottone" href="Albo-comunale/IT-c3dfab00" target="_self">Mostra tutto</a></p></div></td>
   </tr>
-<tr>  <!-- ds_paragrafi.11283.* --><td><div class="ListCont"><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>13.02.26</td></tr>
+<tr>  <!-- ds_paragrafi.11283.* --><td><div class="ListCont"><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>09.03.26</td></tr>
+<tr><td class="ObjListDocTitle"><div class="titoletto">Convocazione CC seduta straordinaria del 09.03.2026</div></td></tr>
+<tr><td>Ordini del giorno, Sedute</td></tr>
+<tr><td colspan="2" class="ListDocLink"><a href="Convocazione-CC-seduta-straordinaria-del-09032026-bdd0de00?i=1" target="_blank"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></a></td></tr></table>
+</div><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>13.02.26</td></tr>
 <tr><td class="ObjListDocTitle"><div class="titoletto">Commediant Da Minüs  13.02.2026 ore 20.30</div></td></tr>
 <tr><td>Pubblicazioni diverse</td></tr>
 <tr><td colspan="2" class="ListDocLink"><a href="Commediant-Da-Minus-13022026-ore-2030-ad94be00?i=1" target="_blank"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></a></td></tr></table>
@@ -1960,10 +1958,6 @@ if (window.addEventListener) {
 <tr><td class="ObjListDocTitle"><div class="titoletto">MM2026/02 Avviso di pubblicazione</div></td></tr>
 <tr><td>Messaggi al Consiglio Comunale</td></tr>
 <tr><td colspan="2" class="ListDocLink"><a href="MM202602-Avviso-di-pubblicazione-8b0f8900?i=1" target="_blank"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></a></td></tr></table>
-</div><div class="Item3Col ItemDoc"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td rowspan="3" class="ObjListDocIcon"><img src="./imgcache/5_039a02dacff/1110_48_64_281c8e5b91.png" width="48" height="64" alt=""  border="0" /></td><td>19.01.26</td></tr>
-<tr><td class="ObjListDocTitle"><div class="titoletto">MM2026/03 Avviso di pubblicazione</div></td></tr>
-<tr><td>Messaggi al Consiglio Comunale</td></tr>
-<tr><td colspan="2" class="ListDocLink"><a href="MM202603-Avviso-di-pubblicazione-3638d100?i=1" target="_blank"><img src="./imgcache/5_2358aad7208/522_0_1_3b02ca46f0.gif" width="1" height="1" alt=""  border="0" /></a></td></tr></table>
 </div></div></td>
   </tr>
 
