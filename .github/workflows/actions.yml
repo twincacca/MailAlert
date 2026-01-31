@@ -133,6 +133,8 @@ jobs:
           rm minusio_homepage_all.txt minusio_events_all.txt
 
 
+          # Check ficedula website (con lynx basta cosi...)
+          lynx -dump -nolist https://ficedula.ch/ > ficedula_homepage.txt
 
 
           
