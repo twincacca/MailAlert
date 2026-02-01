@@ -12,7 +12,7 @@ on:
 
   schedule:
     - cron: "30 18 * * *" # UTC time
-  
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -27,7 +27,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-      
+
       - name: Install stuff
         run: |
           sudo apt-get update
@@ -37,7 +37,7 @@ jobs:
           #pip install yfinance pandas numpy tabpfn matplotlib seaborn
 
 
-          
+
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
@@ -63,7 +63,7 @@ jobs:
           | sed 's/\]//g' \
           | egrep "currentWeather|warningsOverview|windSpeed3h|precipitationProbability3h" \
           > info_meteo.txt
-          
+
           # Cleanup
           rm info_meteo_all.txt
 
@@ -78,7 +78,7 @@ jobs:
           awk '/Region:/{block=$0; next} /Pernis apivorus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho_falco_pecchiaiolo.txt
           awk '/Region:/{block=$0; next} /Bombycilla garrulus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho_beccofrusone.txt
 
-          
+
           # Also wget lost pets
           wget https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
           egrep -i "muralto|minusio|tenero|locarno" info_pets_all.txt --color | sed 's/ /\n/g' | grep href | grep -v "><img" > info_pets.txt
@@ -113,31 +113,17 @@ jobs:
 
 
 
-
           # Check Muralto website
-          wget https://www.muralto.ch/ -O muralto_homepage_all.txt
-          wget https://www.muralto.ch/Eventi-e-Manifestazioni/IT-cf274700 -O muralto_events_all.txt
-          cat muralto_homepage_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > muralto_homepage.txt # togliere slideshow in webpage
-          cat muralto_events_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > muralto_events.txt
-          
-          # Cleanup
-          rm muralto_homepage_all.txt muralto_events_all.txt
+          lynx -dump -nolist https://www.muralto.ch/ > muralto_homepage.txt
+          lynx -dump -nolist https://www.muralto.ch/Eventi-e-Manifestazioni/IT-cf274700 > muralto_events.txt
 
           # Check Minusio website
-          wget https://www.minusio.ch/ -O minusio_homepage_all.txt
-          wget https://www.minusio.ch/Agenda-eventi-cf274700 -O minusio_events_all.txt
-          cat minusio_homepage_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > minusio_homepage.txt
-          cat minusio_events_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > minusio_events.txt
-
-          # Cleanup
-          rm minusio_homepage_all.txt minusio_events_all.txt
-
+          lynx -dump -nolist https://www.minusio.ch/ > minusio_homepage.txt
+          lynx -dump -nolist https://www.minusio.ch/Agenda-eventi-cf274700 > minusio_events.txt
 
           # Check ficedula website (con lynx basta cosi...)
           lynx -dump -nolist https://ficedula.ch/ > ficedula_homepage.txt
 
-
-          
 
 
           git config --global user.name "twincacca"
@@ -150,4 +136,3 @@ jobs:
 
 
 
-          
