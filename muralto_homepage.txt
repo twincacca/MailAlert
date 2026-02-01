@@ -1,119 +1,302 @@
-"BtScrivici" 
-"Home/IT-8ecf0300" 
-"Il-Comune/IT-0e933800" 
-"Scopri-Muralto/IT-83cc8700" 
-"Saluto-del-Sindaco/IT-eefa3e00" 
-"Patriziato-di-Muralto/IT-a0ce9a00" 
-"Sala-congressi/IT-5089f900" 
-"Eventi-e-Manifestazioni/IT-cf274700" 
-"Associazioni-ed-Enti-che-operano-a-Muralto/IT-27167700" 
-"Alberghi-e-Garni/IT-e7c42900" 
-"Comunicati/IT-22369e00" 
-"Bollettino-informativo/IT-cfe30a00" 
-"Gallerie-foto/IT-d4101100" 
-"Politica/IT-db0a4400" 
-"Municipali-e-dicasteri/IT-54cc2200" 
-"Consiglio-comunale/IT-f342b400" 
-"Commissioni-del-Consiglio-Comunale/IT-a8789a00" 
-"Legislazione-vigente/IT-e2942f00" 
-"Atti-pubblici-e-amministrativi/IT-478eac00" 
-"Albo/IT-3ebcda00" 
-"Albo-comunale/IT-c3dfab00" 
-"Albo-immobiliare-del-comune-di-Muralto/IT-e9f4e000" 
-"Servizi-comunali/IT-58955b00" 
-"Amministrazione-e-Cancelleria/IT-861f7d00" 
-"Controllo-abitanti/IT-aa549600" 
-"Finanze-Contribuzioni-e-cassa/IT-43c1f900" 
-"Istituto-scolastico/IT-4f255900" 
-"Servizi-sociali-e-Agenzia-AVS/IT-81a74500" 
-"Ufficio-tecnico/IT-85065000" 
-"polizia" 
-"Mobilita-Socialita-e-Diversi-Servizi/IT-fcc18300" 
-"Sportello/IT-782eb600" 
-"Formulari/IT-039aba00" 
-"Richiesta-certificati/IT-badaab00" 
-"Uffici/IT-b14d9200" 
-"Contatti/IT-d737a700" 
-"Richiesta-informazioni/IT-27f03d00" 
-"Uffici-e-contatti/IT-c5f97500" 
-"Formulari/IT-039aba00" 
-"MenuSportello-Link-Off"
-"Richiesta-certificati/IT-badaab00" 
-"MenuSportello-Link-Off"
-"Uffici/IT-b14d9200" 
-"MenuSportello-Link-Off"
-"TESSERA-CITTADINO-11a16800" target="_self"
-"testomiddle" style="text-align: center;"
-"testomiddle" style="text-align: center;"
-"testomiddle" style="text-align: center;"
-"Domande-e-Risposte-Tessera-Cittadino-7eafd800" target="_self"
-"testomiddle" style="text-align: center;"
-"titolo"
-"Decisione-Consiglio-di-Stato-sulla-variante-del-Piano-regolatore-PR-declassamento-Via-GG-Nessi-e9a5e500"
-"Giornate-informative-2025-obbligatorie-prima-della-visita-di-reclutamento-per-i-giovani-della-classe-2007-o-piu-anziani-f93e8300"
-"Amministrazione-e-Cancelleria/IT-861f7d00" 
-"Controllo-abitanti/IT-aa549600" 
-"Finanze-Contribuzioni-e-cassa/IT-43c1f900" 
-"Istituto-scolastico/IT-4f255900" 
-"Servizi-sociali-e-Agenzia-AVS/IT-81a74500" 
-"Ufficio-tecnico/IT-85065000" 
-"polizia" 
-"Mobilita-Socialita-e-Diversi-Servizi/IT-fcc18300" 
-"https://www4.ti.ch/" 
-"" target="_blank"
-"https://www4.ti.ch/" 
-"https://www.admin.ch/" 
-"" target="_blank"
-"https://www.admin.ch/" 
-"https://www.ch.ch/" 
-"" target="_blank"
-"https://www.ch.ch/" 
-"https://www.parlament.ch/" 
-"" target="_blank"
-"https://www.parlament.ch/" 
-"Home/IT-8ecf0300" 
-"Il-Comune/IT-0e933800" 
-"Scopri-Muralto/IT-83cc8700" 
-"Saluto-del-Sindaco/IT-eefa3e00" 
-"Patriziato-di-Muralto/IT-a0ce9a00" 
-"Sala-congressi/IT-5089f900" 
-"Eventi-e-Manifestazioni/IT-cf274700" 
-"Associazioni-ed-Enti-che-operano-a-Muralto/IT-27167700" 
-"Alberghi-e-Garni/IT-e7c42900" 
-"Comunicati/IT-22369e00" 
-"Bollettino-informativo/IT-cfe30a00" 
-"Gallerie-foto/IT-d4101100" 
-"Politica/IT-db0a4400" 
-"Municipali-e-dicasteri/IT-54cc2200" 
-"Consiglio-comunale/IT-f342b400" 
-"Commissioni-del-Consiglio-Comunale/IT-a8789a00" 
-"Legislazione-vigente/IT-e2942f00" 
-"Atti-pubblici-e-amministrativi/IT-478eac00" 
-"Comunicati-stampa/IT-dd578400" 
-"Sedute-del-Consiglio-comunale/IT-3f656400" 
-"Messaggi-municipali/IT-ac4d1f00" 
-"Mozioni/IT-afac9800" 
-"Interpellanze/IT-0d733d00" 
-"Interrogazioni/IT-048f3600" 
-"Albo/IT-3ebcda00" 
-"Albo-comunale/IT-c3dfab00" 
-"Albo-immobiliare-del-comune-di-Muralto/IT-e9f4e000" 
-"Servizi-comunali/IT-58955b00" 
-"Amministrazione-e-Cancelleria/IT-861f7d00" 
-"Controllo-abitanti/IT-aa549600" 
-"Finanze-Contribuzioni-e-cassa/IT-43c1f900" 
-"Istituto-scolastico/IT-4f255900" 
-"Servizi-sociali-e-Agenzia-AVS/IT-81a74500" 
-"Ufficio-tecnico/IT-85065000" 
-"Domande-di-costruzione-e-notifiche-di-costruzione/IT-ec129a00" 
-"Energia-e-ambiente/IT-241dfa00" 
-"Informazioni-generali-e-link-utili/IT-8b70cf00" 
-"polizia" 
-"Mobilita-Socialita-e-Diversi-Servizi/IT-fcc18300" 
-"Sportello/IT-782eb600" 
-"Formulari/IT-039aba00" 
-"Richiesta-certificati/IT-badaab00" 
-"Uffici/IT-b14d9200" 
-"Contatti/IT-d737a700" 
-"Richiesta-informazioni/IT-27f03d00" 
-"Uffici-e-contatti/IT-c5f97500" 
+   Comune di Muralto
+
+   Italiano  |  Deutsch    Scrivici
+     * Home
+     * Il Comune
+          + Scopri Muralto
+          + Saluto del Sindaco
+          + Patriziato di Muralto
+          + Sala congressi
+          + Eventi e Manifestazioni
+          + Enti e Associazioni
+          + Alberghi e Garni
+          + Comunicati
+          + Bollettino informativo
+          + Gallerie foto
+     * Politica
+          + Municipio
+          + Consiglio comunale
+          + Commissioni
+          + Legislazione vigente
+          + Atti pubblici e amministrativi
+     * Albo
+          + Albo comunale
+          + Albo immobiliare
+     * Servizi
+          + Amministrazione e Cancelleria
+          + Controllo abitanti
+          + Finanze
+          + Istituto scolastico
+          + Servizi sociali e Agenzia AVS
+          + Ufficio tecnico
+          + Polizia
+          + Mobilità Socialità e Diversi
+     * Sportello
+          + Formulari
+          + Certificati
+          + Uffici
+     * Contatti
+          + Richiesta informazioni
+          + Uffici e contatti
+
+   SPORTELLO ONLINE
+     * [1117_64_64_a1e39e3d9f.png] Formulari
+     * [1115_64_64_da556efc77.png] Certificati
+     * [1116_64_64_799ba1c445.png] Uffici
+
+Benvenuti a Muralto
+
+   A nome del Municipio vi accogliamo cordialmente sul sito del nostro
+   piccolo Comune.
+   Leggi il saluto del Sindaco
+   Attualità
+   IN PRIMO PIANO, NORMALE
+   00.00.00
+   Comunicati
+
+TESSERA CITTADINO
+
+   MURALTO CARD
+
+   Ottenibile a partire dal 06 dicembre 2024
+
+   Info Muralto Card
+
+   Formulario richiesta Muralto Card
+
+   Domande risposte più frequenti
+
+   IN PRIMO PIANO
+   01.01.26
+
+Fondazione Ubaldo e Maria Scazziga, sussidio per abbonamento Generale 2025-26
+
+   IN PRIMO PIANO
+   04.02.26
+
+PROVA SIRENE 2026
+
+   17.11.25
+   Comunicati
+
+Decisione Consiglio di Stato sulla variante del Piano regolatore (PR)
+declassamento Via G.G. Nessi
+
+   25.07.25
+   Comunicati
+
+Giornate informative 2025 obbligatorie prima della visita di reclutamento per
+i giovani della classe 2007 o più anziani
+
+   12.06.25
+   Comunicati
+
+Avviso di pubblicazione del progetto stradale per la valorizzazione con
+arredi vegetali in via Sciaroni a Muralto
+
+   05.02.25
+   Comunicati
+
+Ordinanza Municipale Sulle tasse di decisione nelle procedure di
+naturalizzazione ( 27.04.2015)
+
+   08.01.25
+   Comunicati
+
+Ordinanza Municipale Tasse sui quantitativi e tasse causali annue 2025 per la
+raccolta rifiuti
+
+   05.12.24
+   Comunicati
+
+Consiglio parrocchiale di Muralto
+
+   05.11.24
+   Comunicati
+
+La Cardada Impianti Turistici SA - Tariffe per i Comuni azionisti
+
+   04.09.24
+   Comunicati
+
+Campagna di sensibilizzazione per patentino fitosanitario
+
+   25.04.24
+   Comunicati
+
+143 telefono amico - Nuovo logo e nuovo sito
+
+   00.00.00
+   Comunicati
+
+TESSERA CITTADINO
+
+Albo comunale
+
+   Mostra tutto
+   27.11.26
+   MM2026/05 Concernente la presentazione del Piano Finanziario del Comune
+   di Muralto per il periodo 2025-2030
+   Messaggi al Consiglio Comunale
+   09.03.26
+   Convocazione CC seduta straordinaria del 09.03.2026
+   Ordini del giorno, Sedute
+   13.02.26
+   Commediant Da Minüs 13.02.2026 ore 20.30
+   Pubblicazioni diverse
+   06.02.26
+   Commedia dialettale con Rosi Nervi e Flavio Sala "Unforgettable"
+   Venerdi 6 febbraio 2026 ore 20.30
+   Pubblicazioni diverse
+   28.01.26
+   MM2026/05 Avviso di pubblicazione
+   Messaggi al Consiglio Comunale
+   26.01.26
+   Ordinanza riscossione imposte comunali 2026
+   Ordinanze, Pubblicazioni diverse
+   26.01.26
+   Ordinanza sulla custodia dei cani 2026
+   Ordinanze, Pubblicazioni diverse
+   26.01.26
+   Ordinanza tassa sui quantitativi e tasse causali annue 2026 per la
+   raccolta rifiuti
+   Ordinanze, Pubblicazioni diverse
+   21.01.26
+   Prova sirene 2026
+   Pubblicazioni diverse
+
+Link utili
+
+Abbonamento piscine
+
+   Riduzione di tariffa, per domiciliati, presso Centro
+   Balneare Regionale (Lido di Locarno).
+   Vai alla pagina
+
+Funivia Cardada e seggiovia Cimetta
+
+   Riduzione di tariffa, per domiciliati, presso Cardada
+   Impianti Turistici SA (Cardada - Cimetta).
+   Vai alla pagina
+
+Arrivo / partenza dal comune
+
+   Presso l’ufficio Controllo abitanti ci si annuncia per l'arrivo
+   e la partenza nel/dal Comune e per il cambio d'indirizzo.
+   Vai alla pagina
+
+Raccolta rifiuti
+
+   Richiesta di braccialetti e vignette per la raccolta e lo
+   smaltimento de rifiuti.
+   Vai alla pagina
+
+Albo immobiliare
+
+   Lista di oggetti immobiliari di qualsiasi tipo presenti sul
+   nostro territorio.
+   Vai alla pagina
+
+Scopri gli Alberghi, Garni e Affittacamere a Muralto
+
+   Esplorate il lato più affascinante di Muralto attraverso il seguente
+   link, dove troverete una raffinata selezione di alberghi, garni e
+   affittacamere. Ogni opzione è accuratamente scelta per offrire
+   un'esperienza di soggiorno indimenticabile, completa di tutte le
+   informazioni di contatto necessarie per rendere la vostra prenotazione
+   facile e veloce. Scoprite il vostro rifugio ideale e preparatevi a
+   immergervi nell'atmosfera unica di questo incantevole comune sulle rive
+   del Lago Maggiore.
+   Vai alla pagina
+
+Passo, avanzo, raddoppio: la guida
+
+   Che si tratti di far quadrare i conti alla fine del mese, massimizzare
+   la propria strategia di risparmio oppure prepararsi ad affrontare
+   finanziariamente un cambiamento o un imprevisto, la guida Passo,
+   avanzo, raddoppio offre suggerimenti semplici, pratici e accessibili a
+   tutti. Analizzare, scegliere, ottimizzare e adattare sono solo alcune
+   delle mosse vincenti proposte lungo il percorso, suddiviso in dieci
+   capitoli e arricchito da esempi di vita quotidiana e spunti di
+   approfondimento. Il percorso può essere fatto seguendo l’ordine dei
+   capitoli oppure consultando un tema specifico in base alla propria
+   necessità.
+   Passo, avanzo, raddoppio: la guida
+   Municipio
+   Via Municipio 3
+   6600 Muralto
+   +41 (0)91 735 89 70
+   +41 (0)91 735 89 85
+   info@muralto.ch
+
+   → Tutti gli uffici
+
+   Servizi alla popolazione
+     * Amministrazione e Cancelleria
+     * Controllo abitanti
+     * Finanze
+     * Istituto scolastico
+     * Servizi sociali e Agenzia AVS
+     * Ufficio tecnico
+     * Polizia
+     * Mobilità Socialità e Diversi
+
+   Amministrazioni cantonali e federali
+   www.ti.ch
+   www.admin.ch
+   www.ch.ch
+   www.parlament.ch
+
+   © Comune di Muralto  –  Ultimo aggiornamento: 31.10.2025  –
+   Realizzazione sito  -  Privacy Policy  -  Area riservata Municipio
+   Torna su
+
+   Italiano  |  Deutsch
+   Cerca nel sito...___
+   Submit
+     * Home
+     * Il Comune
+          + Scopri Muralto
+          + Saluto del Sindaco
+          + Patriziato di Muralto
+          + Sala congressi
+          + Eventi e Manifestazioni
+          + Enti e Associazioni
+          + Alberghi e Garni
+          + Comunicati
+          + Bollettino informativo
+          + Gallerie foto
+     * Politica
+          + Municipio
+          + Consiglio comunale
+          + Commissioni
+          + Legislazione vigente
+          + Atti pubblici e amministrativi
+               o Comunicati stampa
+               o Sedute del Consiglio comunale
+               o Messaggi municipali
+               o Mozioni
+               o Interpellanze
+               o Interrogazioni
+     * Albo
+          + Albo comunale
+          + Albo immobiliare
+     * Servizi
+          + Amministrazione e Cancelleria
+          + Controllo abitanti
+          + Finanze
+          + Istituto scolastico
+          + Servizi sociali e Agenzia AVS
+          + Ufficio tecnico
+               o Edilizia Privata
+               o Energia e ambiente
+               o Informazioni e link
+          + Polizia
+          + Mobilità Socialità e Diversi
+     * Sportello
+          + Formulari
+          + Certificati
+          + Uffici
+     * Contatti
+          + Richiesta informazioni
+          + Uffici e contatti

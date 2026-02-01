@@ -1,243 +1,414 @@
-"Istituzioni" 
-"Municipio-db0a4400" 
-"Municipio" 
-"Commissioni-municipali" 
-"Consiglio-comunale-e1a36e00" 
-"Consiglio-comunale" 
-"Ufficio-presidenziale" 
-"Commissioni-e-delegati" 
-"Documenti-d124ce00" 
-"Convocazioni-Consiglio-comunale-52a2f100" 
-"Messaggi-municipali-584f1a00" 
-"Mozioni-5142da00" 
-"Interpellanze-d789d600" 
-"Risoluzioni-5592f600" 
-"Verbali-09cb0900" 
-"Legislazione-426a5300" 
-"Regolamenti-377a7d00" 
-"Ordinanze-1f8cc400" 
-"Albo-comunale-c3dfab00" 
-"Servizi-comunali-716dca00" 
-"Servizi-comunali-871ea300" 
-"Cancelleria-comunale-861f7d00" 
-"Sportello-comunale-632fc400" 
-"Ufficio-controllo-abitanti-8d86ac00" 
-"Ufficio-tecnico-comunale-5089f900" 
-"acap" 
-"Centro-anziani-Casa-Rea-73449400" 
-"Ufficio-opere-sociali" 
-"Ufficio-cassa-e-contabilit-baf81e00" 
-"Ufficio-contribuzioni-esazione-490b6900" 
-"Polizia-Sicurezza-pubblica-0b957f00" 
-"Istituto-scolastico-comunale-4f255900" 
-"https://www.minusiocultura.ch/" target="_blank" 
-"Villa-San-Quirico-e2db7600" 
-"uc" 
-"Autorit-regionale-di-protezione-a8789a00" 
-"Servizi-di-conciliazione-famiglia-lavoro-d974c600" 
-"Argomenti-generali-0e933800" 
-"Ambiente-e-territorio-27167700" 
-"Minusio-presenta-il-suo-ambiente-57241400" 
-"Energia-e-ambiente-bc6f4000" 
-"Raccolta-dei-rifiuti" 
-"Lotta-alla-zanzara-tigre-baf0b600" 
-"Attualit-ed-eventi-180d0200" 
-"Agenda-eventi-cf274700" 
-"Minusio-Informa-18081600" 
-"Pubblicazioni-su-Minusio-e0000600" 
-"News-e-comunicati-b4372a00" 
-"Gallerie-di-immagini-1c74f400" 
-"Sport-e-svago-6d1b4700" 
-"Porti-comunali" 
-"Mobilit-17921a00" 
-"Parchi-giochi-f863f400" 
-"Defibrillatori-1c068c00" 
-"Mappa-del-Comune-92d69d00" 
-"Centro-sportivo-ricreativo-Mappo" 
-"Associazioni-e-tempo-libero-86e8bc00" 
-"La-nostra-storia-bb215300" 
-"Scopri-Minusio-ef382100" 
-"Presentazione-352de600" 
-"Stemma-comunale-af2c3e00" 
-"Cenni-storici-85deed00" 
-"Dati-generali-83cc8700" 
-"Biassono-9822dd00" 
-"Lingua-facile-1d894000" 
-"Menu1-Link1-Off"
-"Lingua-facile-1e217100" 
-"Consiglio-comunale-lingua-facile" 
-"Municipio-lingua-facile" 
-"Amministrazione-comunale-lingua-facile" 
-"Cancelleria-Controllo-abitanti-lingua-facile" 
-"Servizi-sociali-comunali-lingua-facile" 
-"Ufficio-tecnico-lingua-facile" 
-"Polizia-e-sicurezza-pubblica-lingua-facile" 
-"Servizio-anziani-soli-lingua-facile" 
-"Centro-anziani-Casa-Rea-lingua-facile" 
-"Protezione-delle-persone-lingua-facile" 
-"Finanze-e-imposte-lingua-facile" 
-"Sportello-online-598fb200" 
-"Formulari-e-procedure-00cfbb00" 
-"Menu1-Sportello-Link2-Off"
-"info-e-cittadino" 
-"Menu1-Sportello-Link2-Off"
-"MinusioCard" 
-"Menu1-Sportello-Link2-Off"
-"Uffici-e-collaboratori-f0a0b300" 
-"Menu1-Sportello-Link2-Off"
-"Richiesta-di-informazioni-52062600" 
-"Menu1-Sportello-Link2-Off"
-"ObjListNewsLink"
-"ObjListNewsLink"
-"ObjListNewsLink"
-"ObjListNewsLink"
-"ObjListNewsLink"
-"ObjListNewsLink"
-"ObjListNewsLink"
-"Diciottenni-febbraio-2026-bc774200?i=1" 
-"Iscrizioni-Stralci-catalogo-gennaio-2026-fe71e500?i=1" 
-"777-Stefan-Steiff-D2026-007-35ef2000?i=1" 
-"Risoluzione-municipale-concernente-la-riscossione-dell-imposta-comunale-2026-57176700?i=1" 
-"751-Anna-Semeraro-D2025-483-9e40d200?i=1" 
-"1840-Geminis-SA-N2026-001-c9e90100?i=1" 
-"2629-Aurelia-e-Alberto-Planta-N2026-005-19929e00?i=1" 
-"Concorso-direttore-sanitario-2026pdf-a345f500?i=1" 
-"Cancelleria-comunale-861f7d00" 
-"Elelink-Link" target="_self"
-"Cancelleria-comunale-861f7d00" 
-"Sportello-comunale-632fc400" 
-"Elelink-Link" target="_self"
-"Sportello-comunale-632fc400" 
-"Ufficio-controllo-abitanti-8d86ac00" 
-"Elelink-Link" target="_self"
-"Ufficio-controllo-abitanti-8d86ac00" 
-"Ufficio-tecnico-comunale-5089f900" 
-"Elelink-Link" target="_self"
-"Ufficio-tecnico-comunale-5089f900" 
-"Ufficio-opere-sociali" 
-"Elelink-Link" target="_self"
-"Ufficio-opere-sociali" 
-"Servizi-finanziari-43c1f900" 
-"Elelink-Link" target="_self"
-"Servizi-finanziari-43c1f900" 
-"Istituto-scolastico-comunale-4f255900" 
-"Elelink-Link" target="_self"
-"Istituto-scolastico-comunale-4f255900" 
-"Item4Col ItemEnergia"
-"Item4Col ItemEnergia"
-"Item4Col ItemEnergia"
-"Cancelleria-comunale-861f7d00" 
-"" target="_self"
-"Cancelleria-comunale-861f7d00" 
-"Sportello-comunale-632fc400" 
-"" target="_self"
-"Sportello-comunale-632fc400" 
-"Ufficio-controllo-abitanti-8d86ac00" 
-"" target="_self"
-"Ufficio-controllo-abitanti-8d86ac00" 
-"Ufficio-opere-sociali" 
-"" target="_self"
-"Ufficio-opere-sociali" 
-"Ufficio-tecnico-comunale-5089f900" 
-"" target="_self"
-"Ufficio-tecnico-comunale-5089f900" 
-"Ufficio-cassa-e-contabilit-baf81e00" 
-"" target="_self"
-"Ufficio-cassa-e-contabilit-baf81e00" 
-"Ufficio-contribuzioni-esazione-490b6900" 
-"" target="_self"
-"Ufficio-contribuzioni-esazione-490b6900" 
-"https://www4.ti.ch/stato-e-organizzazione/" target="_blank"
-"FooterLink"
-"https://www.admin.ch/gov/it/pagina-iniziale.html" target="_blank"
-"FooterLink"
-"https://www.ch.ch/it/" target="_blank"
-"FooterLink"
-"Istituzioni" 
-"Municipio-db0a4400" 
-"Municipio" 
-"Commissioni-municipali" 
-"Consiglio-comunale-e1a36e00" 
-"Consiglio-comunale" 
-"Ufficio-presidenziale" 
-"Commissioni-e-delegati" 
-"Documenti-d124ce00" 
-"Convocazioni-Consiglio-comunale-52a2f100" 
-"Messaggi-municipali-584f1a00" 
-"Mozioni-5142da00" 
-"Interpellanze-d789d600" 
-"Risoluzioni-5592f600" 
-"Verbali-09cb0900" 
-"Legislazione-426a5300" 
-"Regolamenti-377a7d00" 
-"Ordinanze-1f8cc400" 
-"Albo-comunale-c3dfab00" 
-"Servizi-comunali-716dca00" 
-"Servizi-comunali-871ea300" 
-"Cancelleria-comunale-861f7d00" 
-"Sportello-comunale-632fc400" 
-"Ufficio-controllo-abitanti-8d86ac00" 
-"Ufficio-tecnico-comunale-5089f900" 
-"acap" 
-"Centro-anziani-Casa-Rea-73449400" 
-"Ufficio-opere-sociali" 
-"Ufficio-cassa-e-contabilit-baf81e00" 
-"Ufficio-contribuzioni-esazione-490b6900" 
-"Polizia-Sicurezza-pubblica-0b957f00" 
-"Istituto-scolastico-comunale-4f255900" 
-"https://www.minusiocultura.ch/" target="_blank" 
-"Villa-San-Quirico-e2db7600" 
-"uc" 
-"Autorit-regionale-di-protezione-a8789a00" 
-"Servizi-di-conciliazione-famiglia-lavoro-d974c600" 
-"Argomenti-generali-0e933800" 
-"Ambiente-e-territorio-27167700" 
-"Minusio-presenta-il-suo-ambiente-57241400" 
-"Energia-e-ambiente-bc6f4000" 
-"Raccolta-dei-rifiuti" 
-"Lotta-alla-zanzara-tigre-baf0b600" 
-"Attualit-ed-eventi-180d0200" 
-"Agenda-eventi-cf274700" 
-"Minusio-Informa-18081600" 
-"Pubblicazioni-su-Minusio-e0000600" 
-"News-e-comunicati-b4372a00" 
-"Gallerie-di-immagini-1c74f400" 
-"Sport-e-svago-6d1b4700" 
-"Porti-comunali" 
-"Mobilit-17921a00" 
-"Parchi-giochi-f863f400" 
-"Defibrillatori-1c068c00" 
-"Mappa-del-Comune-92d69d00" 
-"Centro-sportivo-ricreativo-Mappo" 
-"Associazioni-e-tempo-libero-86e8bc00" 
-"La-nostra-storia-bb215300" 
-"Scopri-Minusio-ef382100" 
-"Presentazione-352de600" 
-"Stemma-comunale-af2c3e00" 
-"Cenni-storici-85deed00" 
-"Dati-generali-83cc8700" 
-"Biassono-9822dd00" 
-"Lingua-facile-1d894000" 
-"Lingua-facile-1e217100" 
-"Consiglio-comunale-lingua-facile" 
-"Municipio-lingua-facile" 
-"Amministrazione-comunale-lingua-facile" 
-"Cancelleria-Controllo-abitanti-lingua-facile" 
-"Servizi-sociali-comunali-lingua-facile" 
-"Ufficio-tecnico-lingua-facile" 
-"Polizia-e-sicurezza-pubblica-lingua-facile" 
-"Servizio-anziani-soli-lingua-facile" 
-"Centro-anziani-Casa-Rea-lingua-facile" 
-"Protezione-delle-persone-lingua-facile" 
-"Finanze-e-imposte-lingua-facile" 
-"Sportello-online-598fb200" 
-"Formulari-e-procedure-00cfbb00" 
-"SmartMenu1bLinkSportelloOff"
-"info-e-cittadino" 
-"SmartMenu1bLinkSportelloOff"
-"MinusioCard" 
-"SmartMenu1bLinkSportelloOff"
-"Uffici-e-collaboratori-f0a0b300" 
-"SmartMenu1bLinkSportelloOff"
-"Richiesta-di-informazioni-52062600" 
-"SmartMenu1bLinkSportelloOff"
+   Logo
+     * Istituzioni
+          + Municipio
+               o Composizione
+               o Commissioni municipali
+          + Consiglio comunale
+               o Composizione
+               o Ufficio presidenziale
+               o Commissioni e delegati
+          + Documenti
+               o Convocazioni
+               o Messaggi municipali
+               o Mozioni
+               o Interpellanze
+               o Risoluzioni
+               o Verbali
+          + Legislazione
+               o Regolamenti
+               o Ordinanze
+     * Albo
+     * Servizi
+          + Servizi comunali
+               o Cancelleria comunale
+               o Sportello comunale
+               o Ufficio controllo abitanti
+               o Ufficio tecnico comunale
+               o Azienda acqua potabile
+               o Centro anziani Casa Rea
+               o Ufficio opere sociali
+               o Ufficio cassa e contabilità
+               o Ufficio contribuzioni-esazione
+               o Polizia, Sicurezza pubblica
+               o Istituto scolastico
+               o Minusio cultura
+               o Villa San Quirico
+               o Ufficio di conciliazione in materia di locazione
+               o Autorità regionale di protezione
+          + Servizi di conciliazione famiglia-lavoro
+     * Argomenti generali
+          + Ambiente e territorio
+               o Minusio presenta il suo ambiente
+               o Energia e ambiente
+               o Raccolta dei rifiuti
+               o Zanzara tigre
+          + Attualità ed eventi
+               o Agenda eventi
+               o Minusio Informa
+               o Pubblicazioni
+               o News e comunicati
+               o Gallerie di immagini
+          + Sport e svago
+               o Porti comunali
+               o Mobilità
+               o Parchi giochi
+               o Defibrillatori
+               o Mappa del Comune
+               o Centro sportivo-ricreativo Mappo
+               o Associazioni e tempo libero
+     * La nostra storia
+          + Scopri Minusio
+               o Presentazione
+               o Stemma comunale
+               o Cenni storici
+               o Dati generali
+               o Comune gemellato
+
+   Ricerca
+     * [2967_120_120_8cdbfe076c.png] Lingua facile
+          + Sito in lingua facile
+               o Consiglio comunale
+               o Municipio
+               o Amministrazione comunale
+               o Cancelleria comunale, Controllo abitanti
+               o Servizi sociali comunali
+               o Ufficio tecnico comunale
+               o Polizia e sicurezza pubblica
+               o Servizio anziani soli
+               o Centro anziani Casa Rea
+               o Protezione delle persone
+               o Finanze e imposte
+     * Sportello online
+          + [2394_64_64_a043a15682.png] Formulari e procedure
+          + [2964_64_64_23b5ca043f.png] eCittadino
+          + [2965_64_64_b075026413.png] Tessera eCittadino
+          + [2393_64_64_3a6d504921.png] Uffici e contatti
+          + [2396_64_64_584f163898.png] Scrivici
+
+   Cerca nel sito...___
+   Submit
+   1
+   2
+   3
+   4
+   5
+   6
+   7
+   8
+   9
+   10
+
+Benvenuti a
+Minusio
+
+   News e comunicati
+   29.01.26    Comunicati
+
+Risoluzione municipale concernente l'imposta comunale 2026
+
+   Leggi tutto
+   29.01.26    Comunicati
+
+Nuovi elicotteri Rega: esercitazioni di volo sul territorio
+
+   Leggi tutto
+   28.01.26    Comunicati
+
+Consiglio cantonale dei giovani 2026
+
+   Leggi tutto
+   27.01.26 Comunicati
+
+Il Comune di Minusio vi invita alla serata informativa sulla sperimentazione
+della strada ciclabile in Via R. Simen
+
+   Martedì 3 febbraio 2026 alle 20:00 presso l’aula magna delle Scuole
+   Medie di Minusio
+   Leggi tutto
+   26.01.26 Comunicati
+
+Sfida digitale ACAP: grazie a tutti i partecipanti!
+
+   La sfida digitale per la lettura dei contatori dell'acqua si è
+   conclusa.
+   Leggi tutto
+                                    21.01.26
+
+Programma animazioni Casa Rea
+
+   Programma animazioni gennaio 2026
+
+
+
+   Programma animazione febbraio 2026
+   Leggi tutto
+
+   Mostra tutto
+
+   Albo comunale
+   Comunicazioni ufficiali
+   01.02.2026
+   Diciottenni (febbraio 2026)
+   Comunicazioni ufficiali
+   01.02.2026
+   Iscrizioni / Stralci catalogo (gennaio 2026)
+   Avvisi di pubblicazione
+   29.01.2026
+   777 Stefan Steiff D2026-007
+   Comunicazioni ufficiali
+   29.01.2026
+   Risoluzione municipale concernente la riscossione dell'imposta comunale
+   2026
+   Avvisi di pubblicazione
+   28.01.2026
+   1328 Marco Gruenenfelder D2026-003
+   Avvisi di pubblicazione
+   28.01.2026
+   1840 Geminis SA N2026-001
+   Avvisi di pubblicazione
+   28.01.2026
+   2629 Aurelia e Alberto Planta N2026-005
+   Concorsi
+   26.01.2026
+   Concorso per l'assunzione a tempo determinato di un/a Direttore
+   sanitario (periodo 01.03.2026 / 29.02.2028)
+
+   Mostra tutto
+
+   Servizi comunali
+
+
+   Grazie alla completezza dei servizi diretti alla popolazione Minusio è
+   un Comune attento e responsabile nei confronti delle generazioni di
+   oggi e di quelle di domani.
+   Cancelleria comunale
+   Sportello comunale
+   Ufficio controllo abitanti
+   Ufficio tecnico comunale
+   Servizi sociali
+   Servizi finanziari
+   Istituto scolastico
+
+   Vita politica
+
+
+   Il municipio
+
+   → Composizione
+
+
+   Il Consiglio comunale
+
+   → Composizione
+
+   → Documenti e sedute
+
+
+   → Agenda culturale
+
+   → Centro Elisarion
+
+   Sport, turismo e svago
+
+
+   → Porto Mappo
+
+   → Centro Sportivo Mappo
+
+   → Villa San Quirico
+
+   Sostenibilità
+
+
+   Particolarmente attento ai temi ambientali, Minusio ha ottenuto il
+   marchio “Città dell’energia“.
+
+
+   Il label “Città dell’energia” viene assegnato a Comuni che hanno
+   realizzato almeno il 50% dei provvedimenti possibili di politica
+   energetica.
+
+
+   → Produzione locale di energia
+
+   → Bike sharing
+
+   CS Mappo
+
+   353'821 kWh
+   + info
+
+   Val Resa
+
+   65'900.74 kWh
+   + info
+
+   Cimitero
+
+   351'209 kWh
+   + info
+
+   Zotte
+
+   916'577.31 kWh
+   + info
+   Centro Elisarion Centro Anziani Casa Rea Patriziato di Minusio Comune
+   di Biassono Ascona-Locarno
+
+   (BUTTON)
+   Cancelleria comunale
+   Via San Gottardo 60
+   CP 115
+   CH-6648 Minusio
+   T. +41 91 735 81 81
+   F. +41 91 743 12 89
+   cancelleria@minusio.ch
+
+   Orari di sportello
+   da lunedì a venerdì
+   09:00 - 11:00 / 14:00 - 16:00
+   Ufficio tecnico comunale
+   Via Giuseppe Motta 7
+   CP 115
+   6648 Minusio
+   T. +41 91 735 81 41
+   F. +41 91 743 43 32
+
+   ufficiotecnico@minusio.ch
+
+   ediliziaprivata@minusio.ch
+
+   Orari di sportello e telefono
+
+   lunedì, mercoledì, venerdì
+
+   09:00 - 11:00 / 14:00 - 16:00
+
+   martedì, giovedì
+
+   09:00 - 11:00
+   Sportello comunale
+   Via San Gottardo 60
+   CP 115
+   CH-6648 Minusio
+   T. +41 91 735 81 81
+   F. +41 91 743 12 89
+   info@minusio.ch
+
+   Orari di sportello
+
+   da lunedì a venerdì
+
+   09:00 - 11:00 / 14:00 - 16:00
+
+
+   Servizi più richiesti
+   Cancelleria comunale
+   Sportello comunale
+   Ufficio controllo abitanti
+   Ufficio opere sociali
+   Ufficio tecnico comunale
+   Ufficio cassa e contabilità
+   Ufficio contribuzioni-esazione
+
+   Amministrazione cantonale
+   www.ti.ch
+
+   Amministrazione federale
+   www.admin.ch
+
+   Portale d'informazione
+   www.ch.ch
+
+   Parlamento svizzero
+   www.parlament.ch
+
+   © 2024 by Comune di Minusio - Ticino - Switzerland all rights
+   reserved — Note legali  |  Privacy Policy  |  Sitemap  |  Credits
+     * Istituzioni
+          + Municipio
+               o Composizione
+               o Commissioni municipali
+          + Consiglio comunale
+               o Composizione
+               o Ufficio presidenziale
+               o Commissioni e delegati
+          + Documenti
+               o Convocazioni
+               o Messaggi municipali
+               o Mozioni
+               o Interpellanze
+               o Risoluzioni
+               o Verbali
+          + Legislazione
+               o Regolamenti
+               o Ordinanze
+     * Albo
+     * Servizi
+          + Servizi comunali
+               o Cancelleria comunale
+               o Sportello comunale
+               o Ufficio controllo abitanti
+               o Ufficio tecnico comunale
+               o Azienda acqua potabile
+               o Centro anziani Casa Rea
+               o Ufficio opere sociali
+               o Ufficio cassa e contabilità
+               o Ufficio contribuzioni-esazione
+               o Polizia, Sicurezza pubblica
+               o Istituto scolastico
+               o Minusio cultura
+               o Villa San Quirico
+               o Ufficio di conciliazione in materia di locazione
+               o Autorità regionale di protezione
+          + Servizi di conciliazione famiglia-lavoro
+     * Argomenti generali
+          + Ambiente e territorio
+               o Minusio presenta il suo ambiente
+               o Energia e ambiente
+               o Raccolta dei rifiuti
+               o Zanzara tigre
+          + Attualità ed eventi
+               o Agenda eventi
+               o Minusio Informa
+               o Pubblicazioni
+               o News e comunicati
+               o Gallerie di immagini
+          + Sport e svago
+               o Porti comunali
+               o Mobilità
+               o Parchi giochi
+               o Defibrillatori
+               o Mappa del Comune
+               o Centro sportivo-ricreativo Mappo
+               o Associazioni e tempo libero
+     * La nostra storia
+          + Scopri Minusio
+               o Presentazione
+               o Stemma comunale
+               o Cenni storici
+               o Dati generali
+               o Comune gemellato
+
+     * Lingua facile
+          + Sito in lingua facile
+               o Consiglio comunale
+               o Municipio
+               o Amministrazione comunale
+               o Cancelleria comunale, Controllo abitanti
+               o Servizi sociali comunali
+               o Ufficio tecnico comunale
+               o Polizia e sicurezza pubblica
+               o Servizio anziani soli
+               o Centro anziani Casa Rea
+               o Protezione delle persone
+               o Finanze e imposte
+     * Sportello online
+          + [2394_64_64_a043a15682.png] Formulari e procedure
+          + [2964_64_64_23b5ca043f.png] eCittadino
+          + [2965_64_64_b075026413.png] Tessera eCittadino
+          + [2393_64_64_3a6d504921.png] Uffici e contatti
+          + [2396_64_64_584f163898.png] Scrivici
+
+   Cerca nel sito...___
+   Submit

@@ -1,114 +1,141 @@
-"BtScrivici" 
-"Home/IT-8ecf0300" 
-"Il-Comune/IT-0e933800" 
-"Scopri-Muralto/IT-83cc8700" 
-"Saluto-del-Sindaco/IT-eefa3e00" 
-"Patriziato-di-Muralto/IT-a0ce9a00" 
-"Sala-congressi/IT-5089f900" 
-"Eventi-e-Manifestazioni/IT-cf274700" 
-"Associazioni-ed-Enti-che-operano-a-Muralto/IT-27167700" 
-"Alberghi-e-Garni/IT-e7c42900" 
-"Comunicati/IT-22369e00" 
-"Bollettino-informativo/IT-cfe30a00" 
-"Gallerie-foto/IT-d4101100" 
-"Politica/IT-db0a4400" 
-"Municipali-e-dicasteri/IT-54cc2200" 
-"Consiglio-comunale/IT-f342b400" 
-"Commissioni-del-Consiglio-Comunale/IT-a8789a00" 
-"Legislazione-vigente/IT-e2942f00" 
-"Atti-pubblici-e-amministrativi/IT-478eac00" 
-"Albo/IT-3ebcda00" 
-"Albo-comunale/IT-c3dfab00" 
-"Albo-immobiliare-del-comune-di-Muralto/IT-e9f4e000" 
-"Servizi-comunali/IT-58955b00" 
-"Amministrazione-e-Cancelleria/IT-861f7d00" 
-"Controllo-abitanti/IT-aa549600" 
-"Finanze-Contribuzioni-e-cassa/IT-43c1f900" 
-"Istituto-scolastico/IT-4f255900" 
-"Servizi-sociali-e-Agenzia-AVS/IT-81a74500" 
-"Ufficio-tecnico/IT-85065000" 
-"polizia" 
-"Mobilita-Socialita-e-Diversi-Servizi/IT-fcc18300" 
-"Sportello/IT-782eb600" 
-"Formulari/IT-039aba00" 
-"Richiesta-certificati/IT-badaab00" 
-"Uffici/IT-b14d9200" 
-"Contatti/IT-d737a700" 
-"Richiesta-informazioni/IT-27f03d00" 
-"Uffici-e-contatti/IT-c5f97500" 
-"Scopri-Muralto/IT-83cc8700" 
-"Saluto-del-Sindaco/IT-eefa3e00" 
-"Patriziato-di-Muralto/IT-a0ce9a00" 
-"Sala-congressi/IT-5089f900" 
-"Eventi-e-Manifestazioni/IT-cf274700" 
-"Associazioni-ed-Enti-che-operano-a-Muralto/IT-27167700" 
-"Alberghi-e-Garni/IT-e7c42900" 
-"Comunicati/IT-22369e00" 
-"Bollettino-informativo/IT-cfe30a00" 
-"Gallerie-foto/IT-d4101100" 
-"Amministrazione-e-Cancelleria/IT-861f7d00" 
-"Controllo-abitanti/IT-aa549600" 
-"Finanze-Contribuzioni-e-cassa/IT-43c1f900" 
-"Istituto-scolastico/IT-4f255900" 
-"Servizi-sociali-e-Agenzia-AVS/IT-81a74500" 
-"Ufficio-tecnico/IT-85065000" 
-"polizia" 
-"Mobilita-Socialita-e-Diversi-Servizi/IT-fcc18300" 
-"https://www4.ti.ch/" 
-"" target="_blank"
-"https://www4.ti.ch/" 
-"https://www.admin.ch/" 
-"" target="_blank"
-"https://www.admin.ch/" 
-"https://www.ch.ch/" 
-"" target="_blank"
-"https://www.ch.ch/" 
-"https://www.parlament.ch/" 
-"" target="_blank"
-"https://www.parlament.ch/" 
-"Home/IT-8ecf0300" 
-"Il-Comune/IT-0e933800" 
-"Scopri-Muralto/IT-83cc8700" 
-"Saluto-del-Sindaco/IT-eefa3e00" 
-"Patriziato-di-Muralto/IT-a0ce9a00" 
-"Sala-congressi/IT-5089f900" 
-"Eventi-e-Manifestazioni/IT-cf274700" 
-"Associazioni-ed-Enti-che-operano-a-Muralto/IT-27167700" 
-"Alberghi-e-Garni/IT-e7c42900" 
-"Comunicati/IT-22369e00" 
-"Bollettino-informativo/IT-cfe30a00" 
-"Gallerie-foto/IT-d4101100" 
-"Politica/IT-db0a4400" 
-"Municipali-e-dicasteri/IT-54cc2200" 
-"Consiglio-comunale/IT-f342b400" 
-"Commissioni-del-Consiglio-Comunale/IT-a8789a00" 
-"Legislazione-vigente/IT-e2942f00" 
-"Atti-pubblici-e-amministrativi/IT-478eac00" 
-"Comunicati-stampa/IT-dd578400" 
-"Sedute-del-Consiglio-comunale/IT-3f656400" 
-"Messaggi-municipali/IT-ac4d1f00" 
-"Mozioni/IT-afac9800" 
-"Interpellanze/IT-0d733d00" 
-"Interrogazioni/IT-048f3600" 
-"Albo/IT-3ebcda00" 
-"Albo-comunale/IT-c3dfab00" 
-"Albo-immobiliare-del-comune-di-Muralto/IT-e9f4e000" 
-"Servizi-comunali/IT-58955b00" 
-"Amministrazione-e-Cancelleria/IT-861f7d00" 
-"Controllo-abitanti/IT-aa549600" 
-"Finanze-Contribuzioni-e-cassa/IT-43c1f900" 
-"Istituto-scolastico/IT-4f255900" 
-"Servizi-sociali-e-Agenzia-AVS/IT-81a74500" 
-"Ufficio-tecnico/IT-85065000" 
-"Domande-di-costruzione-e-notifiche-di-costruzione/IT-ec129a00" 
-"Energia-e-ambiente/IT-241dfa00" 
-"Informazioni-generali-e-link-utili/IT-8b70cf00" 
-"polizia" 
-"Mobilita-Socialita-e-Diversi-Servizi/IT-fcc18300" 
-"Sportello/IT-782eb600" 
-"Formulari/IT-039aba00" 
-"Richiesta-certificati/IT-badaab00" 
-"Uffici/IT-b14d9200" 
-"Contatti/IT-d737a700" 
-"Richiesta-informazioni/IT-27f03d00" 
-"Uffici-e-contatti/IT-c5f97500" 
+   Comune di Muralto
+
+   Italiano  |  Deutsch    Scrivici
+     * Home
+     * Il Comune
+          + Scopri Muralto
+          + Saluto del Sindaco
+          + Patriziato di Muralto
+          + Sala congressi
+          + Eventi e Manifestazioni
+          + Enti e Associazioni
+          + Alberghi e Garni
+          + Comunicati
+          + Bollettino informativo
+          + Gallerie foto
+     * Politica
+          + Municipio
+          + Consiglio comunale
+          + Commissioni
+          + Legislazione vigente
+          + Atti pubblici e amministrativi
+     * Albo
+          + Albo comunale
+          + Albo immobiliare
+     * Servizi
+          + Amministrazione e Cancelleria
+          + Controllo abitanti
+          + Finanze
+          + Istituto scolastico
+          + Servizi sociali e Agenzia AVS
+          + Ufficio tecnico
+          + Polizia
+          + Mobilità Socialità e Diversi
+     * Sportello
+          + Formulari
+          + Certificati
+          + Uffici
+     * Contatti
+          + Richiesta informazioni
+          + Uffici e contatti
+
+Eventi e Manifestazioni
+
+   Il Comune
+     * Scopri Muralto
+     * Saluto del Sindaco
+     * Patriziato di Muralto
+     * Sala congressi
+     * Eventi e Manifestazioni
+     * Enti e Associazioni
+     * Alberghi e Garni
+     * Comunicati
+     * Bollettino informativo
+     * Gallerie foto
+
+   >> ricerca avanzata
+   06.02.26 UNFORGETTABLE
+            Muralto, Palazzo dei Congressi venerdì 06.02.2026 ore 20.30 18.00
+
+   13.02.26 A rubar poco si va in galera
+            Muralto, Palazzo dei Congressi venerdì 13.02.2026 ore 20.30
+
+   2 manifestazioni trovate
+   Municipio
+   Via Municipio 3
+   6600 Muralto
+   +41 (0)91 735 89 70
+   +41 (0)91 735 89 85
+   info@muralto.ch
+
+   → Tutti gli uffici
+
+   Servizi alla popolazione
+     * Amministrazione e Cancelleria
+     * Controllo abitanti
+     * Finanze
+     * Istituto scolastico
+     * Servizi sociali e Agenzia AVS
+     * Ufficio tecnico
+     * Polizia
+     * Mobilità Socialità e Diversi
+
+   Amministrazioni cantonali e federali
+   www.ti.ch
+   www.admin.ch
+   www.ch.ch
+   www.parlament.ch
+
+   © Comune di Muralto  –  Ultimo aggiornamento: 07.01.2026  –
+   Realizzazione sito  -  Privacy Policy  -  Area riservata Municipio
+   Torna su
+
+   Italiano  |  Deutsch
+   Cerca nel sito...___
+   Submit
+     * Home
+     * Il Comune
+          + Scopri Muralto
+          + Saluto del Sindaco
+          + Patriziato di Muralto
+          + Sala congressi
+          + Eventi e Manifestazioni
+          + Enti e Associazioni
+          + Alberghi e Garni
+          + Comunicati
+          + Bollettino informativo
+          + Gallerie foto
+     * Politica
+          + Municipio
+          + Consiglio comunale
+          + Commissioni
+          + Legislazione vigente
+          + Atti pubblici e amministrativi
+               o Comunicati stampa
+               o Sedute del Consiglio comunale
+               o Messaggi municipali
+               o Mozioni
+               o Interpellanze
+               o Interrogazioni
+     * Albo
+          + Albo comunale
+          + Albo immobiliare
+     * Servizi
+          + Amministrazione e Cancelleria
+          + Controllo abitanti
+          + Finanze
+          + Istituto scolastico
+          + Servizi sociali e Agenzia AVS
+          + Ufficio tecnico
+               o Edilizia Privata
+               o Energia e ambiente
+               o Informazioni e link
+          + Polizia
+          + Mobilità Socialità e Diversi
+     * Sportello
+          + Formulari
+          + Certificati
+          + Uffici
+     * Contatti
+          + Richiesta informazioni
+          + Uffici e contatti
