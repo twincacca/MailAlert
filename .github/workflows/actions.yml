@@ -31,7 +31,7 @@ jobs:
       - name: Install stuff
         run: |
           sudo apt-get update
-          sudo apt-get install cowsay
+          sudo apt-get install cowsay  lynx
           pip install playwright beautifulsoup4
           playwright install
           #pip install yfinance pandas numpy tabpfn matplotlib seaborn
