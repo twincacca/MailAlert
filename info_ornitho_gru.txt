@@ -1,3 +1,18 @@
+Region: Ziegelhof-Erlenhof / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Altenrhein / Hüttenry / Thal (SG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Kaltbrunner Riet (gesamt) / Uznach (SG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Hemishofen / Raatli - Wisacker / Hemishofen (SH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ermatinger Becken TG / S-E / Ermatingen (TG)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Studweid / Rottenschwil (AG)
   - Gru (Grus grus)
 ----------------------------------------
@@ -20,11 +35,5 @@ Region: Riediker/Rälliker Ried / Uster (ZH)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Zürich / Landesmuseum / Zürich (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Court [593/232] / Court (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Oberriet / Golderen / Oberriet (SG)
   - Gru (Grus grus)
 ----------------------------------------
