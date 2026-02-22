@@ -125,6 +125,13 @@ jobs:
           lynx -dump -nolist https://ficedula.ch/ > ficedula_homepage.txt
 
 
+          # Check Transnational Red Sea Center <<< 20260222 >>>
+          lynx -dump -nolist https://trsc.org/en/center/ > trsc_page_center.txt
+          lynx -dump -nolist https://trsc.org/en/expedition/ > trsc_page_expedition.txt
+          lynx -dump -nolist https://trsc.org/en/science-and-education/ > trsc_page_science-and-education.txt
+          lynx -dump -nolist https://trsc.org/en/news/ > trsc_page_news.txt
+
+
 
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
