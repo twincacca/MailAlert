@@ -4,6 +4,9 @@ Region: Safenwil / Striegel [640/240] / Safenwil (AG)
 Region: Aarberg [588/210] / Aarberg (BE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Hellsau [615/221] / Hellsau (BE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Lyss [591/213] / Lyss (BE)
   - Gru (Grus grus)
 ----------------------------------------
@@ -68,62 +71,5 @@ Region: Burgdorf [614/211] / Burgdorf (BE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Burgdorf [613/211] / Burgdorf (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Grosshöchstetten [614/195] / Grosshöchstetten (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Grosshöchstetten Oberdorf / Grosshöchstetten (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Inkwilersee BE/SO / Inkwil (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Ittigen [603/203] / Ittigen (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Niedermuhlern [600/189] / Niedermuhlern (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Niederriedstausee / Radelfingen (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Oberthal [618/196] / Oberthal (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Wohlensee bei Hinterkappelen [595/201] / Wohlen bei Bern (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Wynau / Hubel [628/234] / Wynau (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Berlens [562/171] / Berlens (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Cerniat [577/164] / Cerniat (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Erlehof / Galmiz (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Grolley Gare / Grolley (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Krümmi (Ausgleichsfläche) / Ried bei Kerzers (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Noréaz / Noréaz (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Vauderens / Vauderens (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Wallenried [575/191] / Wallenried (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Ancien marais de Sionnet / Choulex (GE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Chêne-Bourg N / Chêne-Bourg (GE)
   - Gru (Grus grus)
 ----------------------------------------
