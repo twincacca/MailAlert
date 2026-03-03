@@ -16,6 +16,9 @@ Region: Thunstetten / Bammertswald [624/228] / Thunstetten (BE)
 Region: Twann [581/216] / Twann (BE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Krümmi (Ausgleichsfläche) / Ried bei Kerzers (FR)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Krümmi / Hanematt / Ried bei Kerzers (FR)
   - Gru (Grus grus)
 ----------------------------------------
@@ -32,5 +35,32 @@ Region: Horriwil [613/225] / Horriwil (SO)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Wolfwil / Oberdorf [626/235] / Wolfwil (SO)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Hüttwilen [709/275] / Hüttwilen (TG)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Embouchure du Mujon / Yverdon-les-Bains (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Etang de Pré Bovet / Grandcour (VD)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Küsnacht / Zentrum / Küsnacht (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Neeracherried (gesamt) / Neerach (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Rickenbach [702/268] / Rickenbach (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Zumikon / Waltikon / Zumikon (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Zürich / Tierspital / Zürich (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Zürich / Milchbuck / Zürich (ZH)
   - Gru (Grus grus)
 ----------------------------------------
