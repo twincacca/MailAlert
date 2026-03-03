@@ -80,6 +80,35 @@ jobs:
           awk '/Region:/{block=$0; next} /Bombycilla garrulus/{print block "\n" $0 "\n----------------------------------------"}' all_birds.txt > info_ornitho_beccofrusone.txt
 
 
+
+
+          #rm -r monRNA
+
+
+
+          # Check Muralto website
+          wget https://www.muralto.ch/ -O muralto_homepage_all.txt
+          wget https://www.muralto.ch/Eventi-e-Manifestazioni/IT-cf274700 -O muralto_events_all.txt
+          cat muralto_homepage_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > muralto_homepage.txt # togliere slideshow in webpage
+          cat muralto_events_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > muralto_events.txt
+
+          # Cleanup
+          rm muralto_homepage_all.txt muralto_events_all.txt
+
+          # Check Minusio website
+          wget https://www.minusio.ch/ -O minusio_homepage_all.txt
+          wget https://www.minusio.ch/Agenda-eventi-cf274700 -O minusio_events_all.txt
+          cat minusio_homepage_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > minusio_homepage.txt
+          cat minusio_events_all.txt | grep -v "position:absolute;  top:0px;  left:0px;" | sed 's/href=/\nhref=/g' | grep href | sed 's/href=/\n/g' | grep class | sed 's/class=/\n/' | sed 's/></\n/' | grep "^\"" | grep -v ">" > minusio_events.txt
+
+          # Cleanup
+          rm minusio_homepage_all.txt minusio_events_all.txt
+
+
+
+
+
+
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
           git add .
