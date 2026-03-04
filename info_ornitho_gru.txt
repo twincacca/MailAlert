@@ -1,39 +1,12 @@
-Region: Safenwil / Striegel [640/240] / Safenwil (AG)
+Region: Klingnauer Stausee / Leuggern (AG)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Aarberg [588/210] / Aarberg (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Hellsau [615/221] / Hellsau (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Lyss [591/213] / Lyss (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Thunstetten / Bammertswald [624/228] / Thunstetten (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Twann [581/216] / Twann (BE)
+Region: Leuggern / Klingnauer Stausee - Steinächer / Leuggern (AG)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Krümmi (Ausgleichsfläche) / Ried bei Kerzers (FR)
   - Gru (Grus grus)
 ----------------------------------------
-Region: Krümmi / Hanematt / Ried bei Kerzers (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Sous les Rangs / Les Bois (JU)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Fontainemelon [558/211] / Fontainemelon (NE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Place du 650e / Boudry (NE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Horriwil [613/225] / Horriwil (SO)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Wolfwil / Oberdorf [626/235] / Wolfwil (SO)
+Region: Ascona [701/112] / Ascona (TI)
   - Gru (Grus grus)
 ----------------------------------------
