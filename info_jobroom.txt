@@ -24,9 +24,9 @@ Postdoc: AAV capsid engineering with generative AI || ETH Zurich
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Data & Process Development Specialist – Sensor Manufacturing / R&D || Manpower
 Data scientist in diagnostic molecular pathology (f/m/d) 80-100% || Universitätsspital Zürich
-Quality Manager Pharma and Deputy Qualified Person (m/f/d) || Jobup
-Responsable Développement & Validation IVD || Jobup
 Responsable Qualité Pharma et adjoint FvP (h/f/d) || Jobup
+Responsable Développement & Validation IVD || Jobup
+Quality Manager Pharma and Deputy Qualified Person (m/f/d) || Jobup
 Senior Scientist, Comparative Digital Pathology, Computational Biology and Medicine || Roche
 Two PhD positions in Paleogenomics and Ice Age Ecosystems || Universität Bern
 Postdoc in genetics of arthropod vector - pathogen interactions 80 - 100 % || Universität Zürich
@@ -44,6 +44,7 @@ Development Engineer Manufacturing Processes || Hays (Schweiz) AG
 Software engineer (viral and bacterial sequence database) || ETH Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Scientist for Sterility testing, QCMicrobiology || Lonza Group
 Senior Microbiologist || Nutreco Switzerland GmbH
 MicrobiologyLab Technician || Sanitized AG
 Junior Technical Writer (m/f/d) || Bruker
@@ -51,7 +52,6 @@ Quality Manager || MBV AG, Mikrobiologie und Bioanalytik
 Senior Laboratory AssistantMicrobiologyValidation  100 % || Ophtapharm AG
 Senior Microbiologist || Nutreco Switzerland GmbH
 Lab Technician QCMicrobiology(f/m/d) || Bavarian Nordic Berna GmbH
-Produktionsplaner 100% in Werthenstein || Manpower SA
 Coordinator of Environmental Monitoring/Utilities (EM) - All Genders || Merck KGaA
 Produktionsplaner 100% in Werthenstein (LU) || Manpower
 QC ScientistMicrobiology || Hays (Schweiz) AG
@@ -59,6 +59,7 @@ Scientist, Antibiotics Discovery || Roche
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Technicien-ne de laboratoire enmicrobiologie || bNovate Technologies SA
+Scientist for Sterility testing, QCMicrobiology || Lonza Group
 SeniorMicrobiologist || Nutreco Switzerland GmbH
 Technicien·ne en analyses biomédicales || Clinique de La Source
 MicrobiologyLab Technician || Sanitized AG
@@ -68,7 +69,6 @@ Quality Manager || MBV AG, Mikrobiologie und Bioanalytik
 Senior Laboratory AssistantMicrobiologyValidation  100 % || Ophtapharm AG
 SeniorMicrobiologist || Nutreco Switzerland GmbH
 Lab Technician QCMicrobiology(f/m/d) || Bavarian Nordic Berna GmbH
-Produktionsplaner 100% in Werthenstein || Manpower SA
 PhD position - Source tracking for bioaerosol || ETH Zurich
 Postdoctoral Researcher - Bioinformatics || ETH Zurich
 Coordinator of Environmental Monitoring/Utilities (EM) - All Genders || Merck KGaA
@@ -79,19 +79,19 @@ Scientist, Antibiotics Discovery || Roche
 Laborantin·e || Cremo
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
+QC AnalystMikrobiologie || Gi Life Sciences Basel
 Fachspezialist:in Qualitätssicherung 50%-60% || Rivella AG
+Scientist for Sterility testing, QC Microbiology || Lonza Group
 Biologielaborant für die BI-Produktion (m/w/d) || Skan AG
 Emmi Schweiz AG  Mitarbeiter in Labor 100% in Suhr || Emmi Group
 Laborant/in Material- & Polymeranalytik (60 - 80%) || Medmix Switzerland AG
 Fachmitarbeiter/in Qualitätssicherung Lebensmittel || Ramseier Suisse AG
-Operator || Personal Contact Basel AG
 Logistiker || Bruker Switzerland AG
-Biologielaborant für die BI-Produktion || SKAN AG
 Applikationsverantwortliche:r IT || Universität Bern
 Electronic Technician || Bruker Switzerland AG
 Microbiology Lab Technician || Sanitized AG
 QC Analyst || Coopers Group AG
-Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
 Spezialist:in Controlled Cleaning (m|w)  80–100 % || Enzler Reinigungen AG
 Berufslehre Chemie- und Pharmatechnologe/-in EFZ per 01. August 2026 (m/f/d) || Lonza Group
 Sachbearbeiter / Sachbearbeiterin HR || Universität Bern
@@ -114,9 +114,8 @@ Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22
 PhD-student position in Palaeoecology || Universität Bern
 Ingénieur·e de projets - Electricité (MT-BT) || Jobup
 Assistant(e) administratif(ve) 60 % (h/f/d) || Jobup
-Chef de projet rails d-énergie - dans la basse tension 80-100% (f/h/d) || Siemens
-Chef de projet tableau électrique dans la basse tension 80-100% (f/h/d) || Siemens
-Chef de projet tableau électrique basse tension - supervision énergétique 80-100% (f/h/d) || Siemens
+Chef de projet tableau électrique basse-tension et supervision énergétique 80-100% (f/h/d) || Siemens
+Collaborateur scientifique (avec possibilité de doctorat) en droit animalier 60 - 100 % || Jobup
 Chef.fe de projet aménagement des espaces de jeu 80-90 % || Jobup
 Assistant(e) de direction 80-100% (h/f/d) || Jobup
 Collaboratore/trice tecnico-agricolo/a in frutticoltura || Agroscope
@@ -131,3 +130,4 @@ PROGRAMME MANAGER INTERNATIONAL PARTNERSHIPS (80-100%) || Biovision - Stiftung f
 Postdoctoral researcher: Chemical Diversity of Amazonian Plant 80 % || Universität Zürich
 Responsable Rail à 100% || railCare
 Chemielaborant  60-100% || TESTEX AG
+Aide de cuisine remplaçant·e CDD 3 mois – contrat horaire || Fondation de Nant
