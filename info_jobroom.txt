@@ -2,6 +2,8 @@
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 NGS Sales Manager - 100% || Genesupport
 Head Engineering and Technology CP R&D IT || Syngenta Crop Protection AG Forschungszentrum Stein
+NGS Sales Manager - 100% || Jobup
+Sr. Scientist - Computational Biology || Roche
 Internship - Machine Learning for Antibody Discovery from Sequencing Data || Roche
 Data scientist in diagnostic molecular pathology (f/m/d) 80-100% || Universitätsspital Zürich
 Two PhD positions in Paleogenomics and Ice Age Ecosystems || Universität Bern
@@ -13,17 +15,18 @@ PhD position - Source tracking for bioaerosol || ETH Zurich
 Postdoctoral Researcher -Bioinformatics || ETH Zurich
 Software engineer (viral and bacterial sequence database) || ETH Zurich
 Development Engineer Manufacturing Processes || Hays (Schweiz) AG
+Software engineer (viral and bacterial sequence database) || ETH Zürich
 Group Leader Systems Operations || ETH Zurich
 Group Leader ClinicalBioinformatics || ETH Zurich
 Group Leader ClinicalBioinformatics80-100% || ETH Zürich
 Data Engineer (m/w) || myitjob GmbH
-Two PhD positions in Statistical Genomics / Computational Genomics || ETH Zurich
-Postdoc 100 % || Universität Zürich
-Postdoc: AAV capsid engineering with generative AI || ETH Zurich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 NGS Sales Manager - 100% || Genesupport
 Head Engineering and Technology CP R&D IT || Syngenta Crop Protection AG Forschungszentrum Stein
+NGS Sales Manager - 100% || Jobup
+Sr. Scientist - Computational Biology || Roche
+Stagiaire Ingénieur IA (80-100%) || Jobup
 Fachspezialist/in Automation von Zellkulturen 80 - 100% || EMPA
 Fachspezialist/in Automation von Zellkulturen 80 - 100% (a) || Empa
 Internship - Machine Learning for Antibody Discovery from Sequencing Data || Roche
@@ -39,9 +42,6 @@ Postdoctoral Researcher || Insel Gruppe SA
 Senior Real World Data Scientist / Epidemiologist / Biostatistician || Firmenich
 Software engineer (viral and bacterial sequence database) || ETH Zurich
 Development Engineer Manufacturing Processes || Hays (Schweiz) AG
-Group Leader Systems Operations || ETH Zurich
-Group Leader ClinicalBioinformatics || ETH Zurich
-Group Leader ClinicalBioinformatics80-100% || ETH Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Senior Microbiologist || Nutreco Switzerland GmbH
@@ -55,7 +55,6 @@ QC ScientistMicrobiology || Hays (Schweiz) AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Infirmiers ou Infirmières spécialistes cliniques dans le domaine de la prévention et du contrôle de l'infection - 80% à 100% || Hôpitaux universitaires de Genève (HUG)
-Laborantin - poste fixe || Jobup
 Manager QA Operations & FvP (h/f) 100% || Jobup
 Responsable Assurance qualité & Management qualité || Bell Food Group
 Technicien-ne de laboratoire enmicrobiologie || bNovate Technologies SA
@@ -74,12 +73,14 @@ QC ScientistMicrobiology || Hays (Schweiz) AG
 Laborantin·e || Cremo
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Fachmitarbeiter/in Qualitätssicherung Lebensmittel || Ramseier Suisse AG
+Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
+Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
 Mitarbeiter/in Qualitätssicherung || Sempione AG
 Operator Support Team Manufacturing (w/m/d) || Bachem AG
 Mitarbeiter/in analytisches Labor (60-80%) || medmix Switzerland AG
 Sterility Assurance Quality Engineer || Jabil
 Mitarbeiter in der Qualitätssicherung (m/w/d) || Work Selection
-Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
 QC AnalystMikrobiologie || Gi Life Sciences Basel
 Fachspezialist:in Qualitätssicherung 50%-60% || Rivella AG
 Biologielaborant für die BI-Produktion (m/w/d) || Skan AG
@@ -91,9 +92,7 @@ Electronic Technician || Bruker Switzerland AG
 Microbiology Lab Technician || Sanitized AG
 Spezialist:in Controlled Cleaning (m|w)  80–100 % || Enzler Reinigungen AG
 Manufacturing Laboratory Technician  Final Test 80-100% || Bruker Switzerland AG
-Senior Laboratory Assistant Microbiology Validation  100 % || Ophtapharm AG
-BMA HF oder MTL  für polyvalentes Labor || A-Labs Switzerland AG
-Mitarbeiter:in Berichtswesen 60-100% || Bioexam AG
+Electronic Technician (m/f/d) || Bruker
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 PhD-student position in Palaeoecology || Universität Bern
@@ -103,15 +102,17 @@ Digital Design Methods 1 Instructor for MSc Landscape Architecture || ETH Züric
 PROGRAMME MANAGER INTERNATIONAL PARTNERSHIPS (80-100%) || Biovision - Stiftung für ökologische Entwicklung
 Postdoctoral researcher: Chemical Diversity of Amazonian Plant 80 % || Universität Zürich
 Chemielaborant  60-100% || TESTEX AG
-Postdoc in Forest Dynamics Modeling || ETH Zurich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Inspecteur/trice Suisse Romande || Inspection fédérale des installations à courant fort ESTI
+Key Account Manager (m/f/d) secteur de la construction et de la sidérurgie || Schweizerische Bundesbahnen SBB
+Ingénieur·e de projets électrotechnique || Jobup
 Collaborateur/trice Service clientèle || MISAPOR AG
 Chauffeur de bus de ligne Zofingen (h/f/d) 40-100% || Jobup
 Collaboratore/trice scientifico/a specializzato inecologiadei corsi d'acqua e spazio riservato || Ufficio federale dell'ambiente UFAM
 Collaborateur/trice scientifique spécialiste enécologiedes cours d'eau et espace réservée || Office fédéral de l'environnement OFEV
-Marketing and Communications Employee, 50 - 60 %, LU || Jobup
+Impiegato di pulizie || Swiss Multi Groupe Sagl
+Impiegata di pulizie || Honegger AG
 PhD-student position in Palaeoecology || Universität Bern
 Ingénieur·e de projets - Electricité (MT-BT) || Jobup
 Chef de projet tableau électrique basse-tension et supervision énergétique 80-100% (f/h/d) || Siemens
@@ -123,6 +124,3 @@ Two PhD positions in Paleogenomics and Ice Age Ecosystems || Universität Bern
 Architecte || Jobup
 Nettoyeuse sans formation professionnelle || New Work Human Resources SA, succursale de Bulle
 Nettoyeuse sans formation professionnelle || New Work Human Resources SA, succursale de Bulle
-Digital Design Methods 1 Instructor for MSc Landscape Architecture || ETH Zürich
-PROGRAMME MANAGER INTERNATIONAL PARTNERSHIPS (80-100%) || Biovision - Stiftung für ökologische Entwicklung
-Postdoctoral researcher: Chemical Diversity of Amazonian Plant 80 % || Universität Zürich
