@@ -11,7 +11,7 @@ on:
     branches: [ "main" ]
 
   schedule:
-    - cron: "30 18 * * *" # UTC time
+    - cron: "30 16 * * *" # UTC time
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -118,6 +118,10 @@ jobs:
           # Cleanup
           rm minusio_homepage_all.txt minusio_events_all.txt
 
+
+          # Check ficedula website (con lynx basta cosi...)
+          lynx -dump -nolist https://ficedula.ch/corsi/ > ficedula_corsi.txt
+          lynx -dump -nolist https://ficedula.ch/attivita-ed-escursioni/ > ficedula_attivita.txt
 
 
 
