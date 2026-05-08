@@ -1,54 +1,27 @@
-Region: Graströchni / Holziken (AG)
+Region: Fanel / Gampelen (BE)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Kölliken / Wallis [643/242] / Kölliken (AG)
+Region: Zollikofen [600/204] / Zollikofen (BE)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Mägenwil [660/251] / Mägenwil (AG)
+Region: Buus [632/262] / Buus (BL)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Münchenstein [614/262] / Münchenstein (BL)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Reinach [611/262] / Reinach (BL)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Bern [593/198] / Bern (BE)
+Region: Lange Erlen Ost / Basel (BS)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Riehen [615/270] / Riehen (BS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Dählihubel / Gampelen (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Gampelen [572/206] / Gampelen (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Gurten / Köniz (BE)
+Region: Riehen [614/270] / Riehen (BS)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Homberg [617/180] / Homberg (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Ancien marais de Sionnet / Choulex (GE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Bernex (ceinture nord) / Bernex (GE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Chêne-Bourg N / Chêne-Bourg (GE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Ecole d'ingénieurs de Lullier N / Jussy (GE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Signal de Bernex / Bernex (GE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Thônex [504/116] / Thônex (GE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Bonfol [577/259] / Bonfol (JU)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Etang des Queues de Chats / Bonfol (JU)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Les Tervannes / Coeuve (JU)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Porrentruy [571/251] / Porrentruy (JU)
+Region: Schlipf / Riehen (BS)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
