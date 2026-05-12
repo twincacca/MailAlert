@@ -1,4 +1,88 @@
+Region: Häusernmoos / Dürrenroth (BE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Köniz [600/195] / Köniz (BE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Wohlen bei Bern [596/203] / Wohlen bei Bern (BE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Wohlensee beim Kappelenring [594/201] / Frauenkappelen (BE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Buus [632/262] / Buus (BL)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Läufelfingen [631/250] / Läufelfingen (BL)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Krümmi (Ausgleichsfläche) / Ried bei Kerzers (FR)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Ecole d'ingénieurs de Lullier N / Jussy (GE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Gy / Gy (GE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Marais de Sionnet / Meinier (GE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Mouilles (Poudrière) / Corsier (GE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Pré de l'Oie / Meinier (GE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Retenue du barrage de Verbois / Aire-la-Ville (GE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Courgenay [575/249] / Courgenay (JU)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Wauwilermoos / Schutzgebiet / Schötz (LU)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Kestenholz / Rain [624/236] / Kestenholz (SO)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Bussigny-près-Lausanne [532/156] / Bussigny-près-Lausanne (VD)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Echandens [530/155] / Echandens (VD)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Ile de Préverenges / Préverenges (VD)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Lausanne: UNIL / Ecublens (VD)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Préverenges / Préverenges (VD)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Rte de Cossonay / Crissier (VD)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Brentjong W / Leuk (VS)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Guttet [617/131] / Guttet-Feschel (VS)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Irchelpark gesamt / Zürich (ZH)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Neeracherried (gesamt) / Neerach (ZH)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Triesen [758/220] / Triesen (FL)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
 Region: Bolligen [603/204] / Bolligen (BE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Eaux-Vives / Genève (GE)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
 Region: Les Grottes / Genève (GE)
@@ -10,6 +94,9 @@ Region: Arogno [720/91] / Arogno (TI)
 Region: Bussigny-près-Lausanne [532/156] / Bussigny-près-Lausanne (VD)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
+Region: Brig-Glis [642/129] / Brig-Glis (VS)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
 Region: Jaggaseiu S / Turtmann (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
@@ -17,32 +104,5 @@ Region: Lumaires / Chamoson (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
 Region: Marais d'Ardon-Chamoson / Chamoson (VS)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Kölliken / Risi [644/243] / Kölliken (AG)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Leuggern / Felsenau / Leuggern (AG)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Möhlin [630/268] / Möhlin (AG)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Bremgartenfriedhof / Bern (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Egelsee / Bern (BE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Häusernmoos / Dürrenroth (BE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Kirchberg [613/214] / Kirchberg (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Les Tervannes / Coeuve (JU)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Buchser Moos / Uffikon (LU)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
