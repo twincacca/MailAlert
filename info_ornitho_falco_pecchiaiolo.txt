@@ -1,3 +1,36 @@
+Region: Rothrist / Bonigen [632/239] / Rothrist (AG)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Lauwil [616/247] / Lauwil (BL)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Arogno [720/89] / Arogno (TI)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Medeglia [716/109] / Medeglia (TI)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Bettens [534/163] / Bettens (VD)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Bussigny-près-Lausanne [532/156] / Bussigny-près-Lausanne (VD)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Rte de Cossonay / Crissier (VD)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Yvonand [545/182] / Yvonand (VD)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Sion [594/120] / Sion (VS)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Marthalen / Niederholz [689/274] / Marthalen (ZH)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Fanel / Ins (BE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
 Region: Häusernmoos / Dürrenroth (BE)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
@@ -37,13 +70,28 @@ Region: Pré de l'Oie / Meinier (GE)
 Region: Retenue du barrage de Verbois / Aire-la-Ville (GE)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
+Region: Clairbief / Soubey (JU)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
 Region: Courgenay [575/249] / Courgenay (JU)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Les Tervannes / Coeuve (JU)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
 Region: Wauwilermoos / Schutzgebiet / Schötz (LU)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
+Region: L'Areteau / Rochefort (NE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Pré de Treymont / Boudry (NE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
 Region: Kestenholz / Rain [624/236] / Kestenholz (SO)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Cugnasco [714/114] / Cugnasco (TI)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
 Region: Bussigny-près-Lausanne [532/156] / Bussigny-près-Lausanne (VD)
@@ -76,33 +124,9 @@ Region: Irchelpark gesamt / Zürich (ZH)
 Region: Neeracherried (gesamt) / Neerach (ZH)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
+Region: Neeracherried / Neerach (ZH)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
 Region: Triesen [758/220] / Triesen (FL)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Bolligen [603/204] / Bolligen (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Eaux-Vives / Genève (GE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Les Grottes / Genève (GE)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Arogno [720/91] / Arogno (TI)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Bussigny-près-Lausanne [532/156] / Bussigny-près-Lausanne (VD)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Brig-Glis [642/129] / Brig-Glis (VS)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Jaggaseiu S / Turtmann (VS)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Lumaires / Chamoson (VS)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Marais d'Ardon-Chamoson / Chamoson (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
