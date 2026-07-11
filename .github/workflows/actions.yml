@@ -143,8 +143,12 @@ jobs:
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
           git add .
-          git commit -m "Update info"
-          git push
+          
+          #git commit -m "Update info"
+          #git push
+          git commit -m "Update info" || true  # Allow empty commits if nothing changed
+          git pull --rebase origin main
+          git push origin main
 
 
 
