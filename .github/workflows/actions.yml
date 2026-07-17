@@ -72,10 +72,11 @@ jobs:
 
           # Also wget lost pets
           ##wget https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
-          wget --user-agent="Mozilla/5.0" https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
-          egrep -i "muralto|minusio|tenero|locarno" info_pets_all.txt --color | sed 's/ /\n/g' | grep href | grep -v "><img" > info_pets.txt
+          #wget --user-agent="Mozilla/5.0" https://www.spalv.ch/it/animali/smarriti -O info_pets_all.txt
+          #egrep -i "muralto|minusio|tenero|locarno" info_pets_all.txt --color | sed 's/ /\n/g' | grep href | grep -v "><img" > info_pets.txt
 
           # Cleanup
+          touch info_pets_all.txt
           rm info_pets_all.txt
 
 
