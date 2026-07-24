@@ -1,45 +1,33 @@
-Region: Wittnau / Moosmet [640/259] / Wittnau (AG)
+Region: Ins [575/203] / Ins (BE)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Allschwil [607/265] / Allschwil (BL)
+Region: Les Sauces / Les Bois (JU)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: La Prise / Champagne (VD)
+Region: Walenstadt / Am See / Walenstadt (SG)
+  - Poiana/Falco pecchiaiolo (Pernis apivorus / Buteo buteo)
+----------------------------------------
+Region: Creux à la Sierge / Villeneuve (VD)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Ernen [654/138] / Ernen (VS)
+Region: Moulin de la Foule / Croy (VD)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Meilen / Bergmeilen / Meilen (ZH)
+Region: Bellwald [655/145] / Bellwald (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Triesen [758/216] / Triesen (FL)
+Region: Betten [647/137] / Betten (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Niederriedstausee / Radelfingen (BE)
+Region: Lärch / Bellwald (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Sumvitg [715/177] / Sumvitg (GR)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Sumvitg [716/176] / Sumvitg (GR)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Cimetière Saignelégier / Saignelégier (JU)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Aquila [716/150] / Aquila (TI)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Sonvico [720/102] / Sonvico (TI)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Bettens [534/163] / Bettens (VD)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Mont Dessous / Rossinière (VD)
+Region: Martisberg [649/139] / Martisberg (VS)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
 Region: Neeracherried (gesamt) / Neerach (ZH)
   - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Wittnau / Moosmet [640/259] / Wittnau (AG)
+  - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------

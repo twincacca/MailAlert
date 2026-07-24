@@ -2,7 +2,6 @@
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Laboratory Technician in Genomics/Transcriptomics || ETH Zurich
 Laboratory Technician in Genomics/Transcriptomics || ETH Zürich
-Lab Automation Consultant || Jobup
 Machine Learning Engineer (Fix Term - 12 months) 100% Job Details | Tecan Trading AG || Tecan Schweiz AG
 Bioinformatician (m/f) 80-100% - in translational research teams in pediatric cancer || Universitäts Kinderspital Zürich
 Data Manager || ETH Zurich
@@ -22,11 +21,10 @@ System-Engineer Cell Culture Automation 80 - 100% || EMPA
 Développeur de logiciels || Jobup
 Laboratory Technician in Genomics/Transcriptomics || ETH Zurich
 Laboratory Technician in Genomics/Transcriptomics || ETH Zürich
-Lab Automation Consultant || Jobup
+Consultant en automatisation de laboratoire || Jobup
 Machine Learning Engineer (Fix Term - 12 months) 100% Job Details | Tecan Trading AG || Tecan Schweiz AG
 Bioinformatician(m/f) 80-100% - in translational research teams in pediatric cancer || Universitäts Kinderspital Zürich
 Data Manager || ETH Zurich
-Bioprocess Data Management Specialist || Agap2 - HIQ Consulting AG
 Senior Bioprocess Engineer (m/w/d) 80%-100% || Lonza Group
 Data Manager || ETH Zürich
 Bioprocess Data Management Specialist || Agap2 - HIQ Consulting AG
@@ -35,9 +33,10 @@ Investigative Toxicology Junior Scientist || Roche
 PhD Position in Toxicology || ETH Zurich
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
-Laborleiterin / Laborleiter Precise (a) 80-100% || Hirslanden AG
 Senior Principal Scientist / Associate Director Translational Oncology || Novartis Pharma AG
 Principal Biostatistician || CSL
+Bioimage Analyst 100 % || Universität Zürich
+Laborleiterin / Laborleiter Precise (a) 80-100% || Hirslanden AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
@@ -48,15 +47,16 @@ Frontdesk Manager || Bruker Switzerland AG
 PhD Position in Toxicology || ETH Zurich
 (Senior) Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza AG
 Lab Operations & Materials Specialist (f/m/d) || Bavarian Nordic Berna GmbH
-Microbiological Analyst || Hays (Schweiz) AG
 Senior Quality Associate x2 || CSL
 Internship -MicrobiologyQuality Control (m/f/d) || Merck KGaA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laboratory Technician || Jobup
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
 Laboratory Technician || EPFL
 Formation de technicien(ne) en agroalimentaire (h/f/d) || Bell Food Group
 BMA HFMicrobiologie100% || Jobup
+QCMicrobiologist || Jobup
 Certified Animal Caretaker - Axenic and Gnotobiotic Animal Housing || Universität Bern
 QC Micro Technician Monitoring // Johnson&Johnson || Randstad Inhouse Services
 Senior Scientist Electronic Laboratory Systems (M&W) || Thermo Fisher Scientific (Schweiz) AG
@@ -69,18 +69,18 @@ Epidemiologo/-a Collaboratore/-trice scientifico/-a || Ufficio federale della sa
 PhD Position in Toxicology || ETH Zurich
 (Senior) Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza AG
 Lab Operations & Materials Specialist (f/m/d) || Bavarian Nordic Berna GmbH
-MicrobiologicalAnalyst || Hays (Schweiz) AG
 Senior Quality Associate x2 || CSL
 Laborantin(e) 60-100 || Bell Food Group
-Internship -MicrobiologyQuality Control (m/f/d) || Merck KGaA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
+​Monitoring Specialist || CARBOGEN AMCIS AG
 Leiter/in Qualitätsmanagement || Mineralquelle Eptingen AG
+Mechanical Technician DPS Growth Project 80-100% (m/w/d) || Lonza Group
 Quality Assurance & Sample Technician (m/w/d) || Jobup
 Associate QC Manager Environmental Monitoring & Training Specialist (GMP) (a) 100% || Bachem AG
 Customer & Operations Specialist Bioindikatoren 80-100% (m/w/d) || Skan AG
 Customer & Operations Specialist Bioindikatoren 80-100% || SKAN AG
-Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
 Mechanical Technician DPS Growth Project 80-100% (m/w/d) || Lonza Group
 BMA HFMikrobiologie100% || Unilabs
 Tierpfleger*in EFZ – axenische und gnotobiotische Tierhaltung || Universität Bern
@@ -93,10 +93,9 @@ Biomedizinische/r Analytiker/in HF || Spitäler Schaffhausen
 Mitarbeiter/in GMP-Spezialreinigung (m/w) 60-100 % || Enzler Reinigungen AG
 Epidemiologe/-in Wissenschaftliche/-r Mitarbeiter/-in || Bundesamt für Gesundheit BAG
 Quality Assurance Associate || Hays (Schweiz) AG
-Quality Assurance Scientist || CSL
-Qualitätsprüfer/in (w/m/d) 50% || Randstad
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Shift Supervisor Paper Production 100% in 4-Shift Operation (m/f/d) || Jobup
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
 AVOR Specialist 100% (m/f/d) || Jobup
 Doctoral Student Range shifts of mountain plants || ETH Zurich
@@ -108,8 +107,10 @@ PhD position in the spatial genetics of ecosystems 80 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 CDD - Agent conduite et exploitation 3*8 - Traitement eaux usées || SIG - Services Industriels de Genève
+Responsable du développement durable (80-100 %) || Jobup
 Ingénieure ou Ingénieur chef ou cheffe de projet technique et bâtiment CVC, Sanitaire, Gaz Médiaux & Régulation – 100% || HUG - Hôpitaux Universitaires de Genève
 Ingénieur ou Ingénieure cheffe de projet technique et bâtiment en électricité – 100% || HUG - Hôpitaux Universitaires de Genève
+Shift Supervisor Paper Production 100% in 4-Shift Operation (m/f/d) || Jobup
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
 Gestionnaire du commerce de détail - ménage (apprentissage) || Pfister AG
 Stagiaire en Ressources Humaines || Ville de Renens
@@ -125,5 +126,3 @@ Employé(e) de service ferroviaire avec tâches administratives (h/f/d) 80-100% 
 Chef de projet, 60 - 100 % dans le domaine du génie hydraulique avec lieu de travail à Berne || Jobup
 Responsable technique || Mercuri Urval SA
 CDD Premier Emploi - Chargé de clientèle || SIG - Services Industriels de Genève
-Cheffe ou Chef de projets Processus - 80% à 100% || Hôpitaux universitaires de Genève (HUG)
-Responsable de la gestion des risques immobiliers et du management des actifs - 100% || Hôpitaux universitaires de Genève (HUG)
