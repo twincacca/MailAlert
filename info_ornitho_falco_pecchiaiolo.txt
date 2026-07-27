@@ -1,7 +1,37 @@
+Region: Wittnau [639/259] / Wittnau (AG)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Rüschegg [598/181] / Rüschegg (BE)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Buus [632/260] / Buus (BL)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Lumbrein [729/172] / Lumbrein (GR)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Cornaux : cibles / Cornaux (NE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Schaffhausen / Sommerwies / Schaffhausen (SH)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: La Reguéla / Longirod (VD)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Alte Rhone / Leuk (VS)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Chalais [607/123] / Chalais (VS)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
 Region: Wittnau / Moosmet [640/259] / Wittnau (AG)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
 Region: Rüschegg [598/181] / Rüschegg (BE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Muttenz [616/262] / Muttenz (BL)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
 Region: Bösingen [584/191] / Bösingen (FR)
@@ -9,6 +39,15 @@ Region: Bösingen [584/191] / Bösingen (FR)
 ----------------------------------------
 Region: Canal et port de Gletterens / Gletterens (FR)
   - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Hemishofen / Wolkensteinerberg West / Hemishofen (SH)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Chironico [707/142] / Chironico (TI)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: Meride [717/83] / Meride (TI)
+  - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
 Region: Semione [716/140] / Semione (TI)
   - Falco pecchiaiolo (Pernis apivorus)
@@ -20,8 +59,5 @@ Region: Alte Rhone / Leuk (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
 Region: Ritti / Martisberg (VS)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Möhlin [630/267] / Möhlin (AG)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
