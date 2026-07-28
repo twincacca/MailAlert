@@ -9,7 +9,6 @@ Data Manager || ETH Zurich
 Data Manager || ETH Zürich
 Principal Scientist si-RNA Design || Roche
 Investigative Toxicology Junior Scientist || Roche
-PhD Position in Toxicology || ETH Zurich
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 Forward Deployed Engineer (FDE) Data42 || Novartis Pharma AG
@@ -17,6 +16,7 @@ Principal Biostatistician || CSL
 Bioimage Analyst 100 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laborleiterin / Laborleiter Precise (a) 80-100% || Hirslanden AG
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 System-Engineer Cell Culture Automation 80 - 100% || EMPA
 Développeur de logiciels || Jobup
@@ -29,7 +29,6 @@ Data Manager || ETH Zürich
 Bioprocess Data Management Specialist || Agap2 - HIQ Consulting AG
 Principal Scientist si-RNA Design || Roche
 Investigative Toxicology Junior Scientist || Roche
-PhD Position in Toxicology || ETH Zurich
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 Forward Deployed Engineer (FDE) Data42 || Novartis Pharma AG
@@ -43,15 +42,14 @@ Senior Scientist Digital Quality Control || CSL
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
 QC Micro Technician Monitoring // Johnson&Johnson || Randstad Inhouse Services
 Senior Scientist Electronic Laboratory Systems (M&W) || Thermo Fisher Scientific (Schweiz) AG
-PhD Student Infection Biology and Field Assisted Biofabrication || AO Foundation
 Frontdesk Manager || Bruker Switzerland AG
-PhD Position in Toxicology || ETH Zurich
 (Senior) Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza AG
 Lab Operations & Materials Specialist (f/m/d) || Bavarian Nordic Berna GmbH
 Senior Quality Associate x2 || CSL
 Internship -MicrobiologyQuality Control (m/f/d) || Merck KGaA
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Senior Specialist Data Science || Nestlé Operational Services Worldwide SA
 Research Associate - Preclinical Vaccine Evaluation || Baxiva AG
 Apprenti-e technologue du lait CFC 2027 || Jobup
 MSAT Associate Principal Scientist || Coopers Group AG
@@ -66,12 +64,11 @@ Certified Animal Caretaker - Axenic and Gnotobiotic Animal Housing || Universit�
 QC Micro Technician Monitoring // Johnson&Johnson || Randstad Inhouse Services
 Senior Scientist Electronic Laboratory Systems (M&W) || Thermo Fisher Scientific (Schweiz) AG
 Technicien(-ne) en analyses biomédicales || Jobup
-PhD Student Infection Biology and Field Assisted Biofabrication || AO Foundation
 Frontdesk Manager || Bruker Switzerland AG
 Épidémiologiste   Collaborateur/-trice scientifique || Office fédéral de la santé publique OFSP
 Épidémiologiste (h/f) Collaborateur/-trice scientifique || Office fédéral de la santé publique OFSP
 Epidemiologo/-a Collaboratore/-trice scientifico/-a || Ufficio federale della sanità pubblica UFSP
-PhD Position in Toxicology || ETH Zurich
+(Senior) Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Senior Scientist Qualitätskontrolle -Mikrobiologie || CSL
@@ -84,7 +81,6 @@ Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
 Leiter/in Qualitätsmanagement || Mineralquelle Eptingen AG
 Mechanical Technician DPS Growth Project 80-100% (m/w/d) || Lonza Group
 Quality Assurance & Sample Technician (m/w/d) || Jobup
-Associate QC Manager Environmental Monitoring & Training Specialist (GMP) (a) 100% || Bachem AG
 Customer & Operations Specialist Bioindikatoren 80-100% (m/w/d) || Skan AG
 Customer & Operations Specialist Bioindikatoren 80-100% || SKAN AG
 BMA HFMikrobiologie100% || Unilabs
@@ -94,6 +90,7 @@ QC Micro Technician Monitoring // Johnson&Johnson || Randstad Inhouse Services
 Chemielaborant Qualitätskontrolle  100% || Amino AG, Fabrikation pharmazeutischer und chemischer Produkte
 CHEMIE-/BIOLOGIELABORANT/IN QUALITÄTSKONTROLLE || Similasan AG
 LIS/LimS-Spezialist:in Laborinformatik || Universität Zürich
+Biomedizinische/r Analytiker/in HF || Spitäler Schaffhausen
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
@@ -103,10 +100,11 @@ Postdoctoral Researcher - Forest Management and Economics || ETH Zurich
 2x PhD Positions as part of the SNSF Project -From Alps to Arctic: Satellite-based Assessment of Forest Canopy Height across Decades- 80 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Technicien de service Pharma & Biotech 100%   – Région Romandie || BWT AQUA AG
+Architecte de solutions || SIG - Services Industriels de Genève
 PEP - Maître d'ouvrage délégué-e || SIG - Services Industriels de Genève
 Assistant/e en Soins et Santé Communautaire (ASSC) || Jobup
 Vendeur d-équipements de sport et de fitness (h/f) à temps partiel || Jobup
-Stagiaire en Ressources Humaines || Jobup
 Responsable Product Stewardship 100% || Jobup
 CDD - Agent conduite et exploitation 3*8 - Traitement eaux usées || SIG - Services Industriels de Genève
 Responsable du développement durable (80-100 %) || Jobup
@@ -118,8 +116,7 @@ Stagiaire en Ressources Humaines || Ville de Renens
 Chauffeur·euse de camion pour le transport de marchandises (100 %) || Aeby Transporte AG
 Responsable technique (f/h/d) || Jobup
 Stagiaire en Ressources Humaines || Ville de Renens
+Impiegata di pulizie || LUX SERVICES SAGL
 Doctoral Student Range shifts of mountain plants || ETH Zurich
 Marine Operations Officer || MSC Cruises
 Responsable technique || Mercuri Urval SA
-Employé(e) de service ferroviaire avec tâches administratives (h/f/d) 80-100% || Jobup
-Employé(e) de service ferroviaire avec tâches administratives (h/f/d) 80-100% || Jobup
