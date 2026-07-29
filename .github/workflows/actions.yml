@@ -134,8 +134,8 @@ jobs:
 
 
           # Check ficedula website (con lynx basta cosi...)
-          #lynx -dump -nolist https://ficedula.ch/corsi/ > ficedula_corsi.txt
-          #lynx -dump -nolist https://ficedula.ch/attivita-ed-escursioni/ > ficedula_attivita.txt
+          lynx -dump -nolist https://ficedula.ch/corsi/ > ficedula_corsi.txt
+          lynx -dump -nolist https://ficedula.ch/attivita-ed-escursioni/ > ficedula_attivita.txt
 
 
 
