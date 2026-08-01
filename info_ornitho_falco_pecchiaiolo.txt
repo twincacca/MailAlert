@@ -1,66 +1,57 @@
-Region: Canal et port de Gletterens / Gletterens (FR)
+Region: Aue Chly Rhy / Rietheim (AG)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Les Dailles / Villars-sur-Glâne (FR)
+Region: Faulensee / Spiez (BE)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Môtier / Haut-Vully (FR)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Einsiedeln [706/220] / Einsiedeln (SZ)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Rigi Kulm / Küssnacht (SZ)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Bedigliora [708/95] / Bedigliora (TI)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Morbio Superiore [724/80] / Morbio Superiore (TI)
+Region: Leissigen [626/166] / Leissigen (BE)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: La Combe-Barathoux / Vallorbe (VD)
+Region: Wallenried [574/192] / Wallenried (FR)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Grosseia N / Baltschieder (VS)
+Region: Lohn [750/168] / Lohn (GR)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Varen [613/130] / Varen (VS)
+Region: St.Peter / Dorf / St.Peter-Pagig (GR)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Hasliberg [663/177] / Hasliberg (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Hindelbank [608/210] / Hindelbank (BE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Teppes : Etang Paul Géroudet / Russin (GE)
-  - Falco pecchiaiolo (Pernis apivorus)
-----------------------------------------
-Region: Lumbrein [729/172] / Lumbrein (GR)
+Region: Olten / Dickenbännli [634/245] / Olten (SO)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Tinizong-Rona [767/162] / Tinizong-Rona (GR)
+Region: Fischingen [711/252] / Fischingen (TG)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Etang de la Gruère / Saignelégier (JU)
+Region: Ludiano [716/142] / Ludiano (TI)
+  - Falchi pecchiaioli (Pernis apivorus)
+----------------------------------------
+Region: La Grandsonne Dessus / Fiez (VD)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Arogno [719/90] / Arogno (TI)
+Region: Taillée du Rizel / Montricher (VD)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Cabbio [726/85] / Cabbio (TI)
+Region: Chalais [608/123] / Chalais (VS)
   - Falchi pecchiaioli (Pernis apivorus)
 ----------------------------------------
-Region: Cabbio [726/84] / Cabbio (TI)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Bassins [504/151] / Bassins (VD)
-  - Falchi pecchiaioli (Pernis apivorus)
-----------------------------------------
-Region: Bassins [501/150] / Bassins (VD)
+Region: Leuk [616/131] / Leuk (VS)
   - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
-Region: Col de Jaman / Montreux (VD)
-  - Falchi pecchiaioli (Pernis apivorus)
+Region: Pfynwald / Leuk (VS)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Wilawi / Varen (VS)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Neeracherried / Neerach (ZH)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Neeracherried (gesamt) / Neerach (ZH)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Hindelbank [608/209] / Hindelbank (BE)
+  - Falco pecchiaiolo (Pernis apivorus)
+----------------------------------------
+Region: Staatswald W / Ins (BE)
+  - Falco pecchiaiolo (Pernis apivorus)
 ----------------------------------------
