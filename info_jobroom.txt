@@ -2,37 +2,35 @@
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinformatics%22,%22label%22:%22bioinformatics%22,%22order%22:0,%22_id%22:%22free-text_bioinformatics%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Post Doctoral Scientist, Drug Discovery and Preclinical Safety || Jobup
 Research Software Engineer for Computational Mass Spectrometry || ETH Zurich
-Principal Scientist si-RNA Design || Roche
+"Principal Scientist siRNA Design || Roche
 Research Software Engineer for Computational Mass Spectrometry || ETH Zürich
-Associate Director, Applied Data Science & Modelling || Lonza Group
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 Laboratory Technician in Genomics/Transcriptomics || ETH Zürich
 Machine Learning Engineer (Fix Term - 12 months) 100% Job Details | Tecan Trading AG || Tecan Schweiz AG
 Data Manager || ETH Zurich
-Data Manager || ETH Zürich
 Forward Deployed Engineer (FDE) Data42 || Novartis Pharma AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22bioinfo%22,%22label%22:%22bioinfo%22,%22order%22:0,%22_id%22:%22free-text_bioinfo%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Développeur·euse full stack senior || Université de Lausanne - Centre informatique
 Post Doctoral Scientist, Drug Discovery and Preclinical Safety || Jobup
 Research Software Engineer for Computational Mass Spectrometry || ETH Zurich
-Principal Scientist si-RNA Design || Roche
+"Principal Scientist siRNA Design || Roche
 Research Software Engineer for Computational Mass Spectrometry || ETH Zürich
-Associate Director, Applied Data Science & Modelling || Lonza Group
 Data scientist in diagnostic molecular pathology 80-100% || Universitätsspital Zürich
 Laborleiterin / Laborleiter Precise (a) 80-100% || Hirslanden AG
 System-Engineer Cell Culture Automation 80 - 100% || EMPA
 Laboratory Technician in Genomics/Transcriptomics || ETH Zürich
 Machine Learning Engineer (Fix Term - 12 months) 100% Job Details | Tecan Trading AG || Tecan Schweiz AG
 Data Manager || ETH Zurich
-Data Manager || ETH Zürich
 Forward Deployed Engineer (FDE) Data42 || Novartis Pharma AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbiology%22,%22label%22:%22microbiology%22,%22order%22:0,%22_id%22:%22free-text_microbiology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laboratory Manager || ETH Zurich
+QC Micro Technician 3 // Johnson&Johnson || Randstad
+(Senior) Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza Group
 Laboratory Manager || ETH Zürich
 Research Assistant in Fermentation || Nestlé SA
 Lab Specialist MS&T Drug Product (f/m/d) || Takeda Pharmaceuticals
-Senior Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza Group
 Senior Scientist Digital Quality Control || CSL
 Senior Scientist Digital Quality Control || CSL
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
@@ -45,14 +43,17 @@ Microbiological Analyst || Hays (Schweiz) AG
 Senior Quality Associate x2 || CSL
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22microbio%22,%22label%22:%22microbio%22,%22order%22:0,%22_id%22:%22free-text_microbio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Laboratory Manager || ETH Zurich
+QC Micro Technician 3 // Johnson&Johnson || Randstad
+(Senior) Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza Group
 Laboratory Manager || ETH Zürich
 Research Assistant in Fermentation || Nestlé SA
 Lab Specialist MS&T Drug Product (f/m/d) || Takeda Pharmaceuticals
 Technicien(-ne) en analyses biomédicales || Jobup
 Quality Assurance & Sample Technician (m/w/d) || Jobup
-Senior Scientist (m/w/d) Quality Control, Environmental Monitoring || Lonza Group
 Senior Scientist Digital Quality Control || CSL
 Senior Specialist Data Science || Nestlé Operational Services Worldwide SA
+Apprenti-e technologue du lait CFC 2027 || Jobup
 Senior Scientist Digital Quality Control || CSL
 Laboratory Technician || Jobup
 PhD Position: Sustainable Food Production with Biologicals 80 % || Universität Zürich
@@ -62,11 +63,12 @@ Certified Animal Caretaker - Axenic and Gnotobiotic Animal Housing || Universit�
 QC Micro Technician Monitoring // Johnson&Johnson || Randstad Inhouse Services
 Senior Scientist Electronic Laboratory Systems (M&W) || Thermo Fisher Scientific (Schweiz) AG
 Frontdesk Manager || Bruker Switzerland AG
-QC Micro Technician Monitoring // Johnson&Johnson || Randstad
-Lab Operations & Materials Specialist (f/m/d) || Bavarian Nordic Berna GmbH
-MicrobiologicalAnalyst || Hays (Schweiz) AG
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22mikrobio%22,%22label%22:%22mikrobio%22,%22order%22:0,%22_id%22:%22free-text_mikrobio%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+Produktionsplaner AVOR / PPS || Bruker Switzerland AG
+Senior Scientist Qualitätskontrolle - Biochemie || CSL
+QC Micro Technician 3 // Johnson&Johnson || Randstad
+R-285629 Senior Scientist Qualitätskontrolle - Chemie || CSL
 Laborant Umgebungsmonitoring QCMikrobiologie(m/w/d) (LSB) – Basel || Manpower
 Emmi Schweiz AG  Laborant in 90% in Dagmersellen || Emmi Group
 Lehrstelle Laborant/in EFZ Biologie per 1. August 2027 (m/f/d) || Lonza Group
@@ -83,10 +85,6 @@ Laborant:in Biologie, 60% || Coop Genossenschaft
 Customer & Operations Specialist Bioindikatoren 80-100% (m/w/d) || Skan AG
 Customer & Operations Specialist Bioindikatoren 80-100% || SKAN AG
 BMA HFMikrobiologie100% || Unilabs
-Tierpfleger*in EFZ – axenische und gnotobiotische Tierhaltung || Universität Bern
-QC Micro Technician Monitoring // Johnson&Johnson || Randstad Inhouse Services
-Chemielaborant Qualitätskontrolle  100% || Amino AG, Fabrikation pharmazeutischer und chemischer Produkte
-Biomedizinische/r Analytiker/in HF || Spitäler Schaffhausen
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecology%22,%22label%22:%22ecology%22,%22order%22:0,%22_id%22:%22free-text_ecology%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
 Mitarbeiter Probevorbereitung || TESTEX AG
@@ -97,6 +95,9 @@ Postdoctoral Researcher - Forest Management and Economics || ETH Zurich
 2x PhD Positions as part of the SNSF Project -From Alps to Arctic: Satellite-based Assessment of Forest Canopy Height across Decades- 80 % || Universität Zürich
 
 Processing: https://www.job-room.ch/job-search?query-values=%7B%22occupations%22:%5B%5D,%22keywords%22:%5B%7B%22type%22:%22free-text%22,%22payload%22:%22ecolog%22,%22label%22:%22ecolog%22,%22order%22:0,%22_id%22:%22free-text_ecolog%22%7D%5D,%22localities%22:%5B%5D,%22radius%22:30%7D
+NGS Sales Specialist || INTEGRA Biosciences AG
+5 vendeurs/vendeuses  s accepté s) || Matériels Cycloniques Distribution Sàrl
+Responsable Affaires régulatoires || Jobup
 Mitarbeiter Probevorbereitung || TESTEX AG
 Technicien publicitaire - Poseur d'adhésifs (h/f/d) - Staad || Jobup
 Project Manager: Timber Construction Western Switzerland || Jobup
@@ -110,10 +111,7 @@ Horticultrice / Horticulteur || Ville de Bienne - Département du personnel
 CDD Premier Emploi - Agent relation client-e || SIG - Services Industriels de Genève
 Field Sales Engineer – Électriciens || Feller AG
 Monteur für den Austausch von Kücheneinbaugeräten || Jobup
-Horticultrice / Horticulteur || Jobup
-Monteur für den Austausch von Kücheneinbaugeräten || Jobup
 Ausbildungsplatz zur Köchin/zum Koch EFZ || Jobup
 Horticultrice / Horticulteur || Ville de Bienne - Département du personnel
 Spécialiste en soin aux arbres ou forestière-bûcheronne / forestier-bûcheron || Ville de Bienne - Département du personnel
 Responsable commercial régional pour la Suisse romande || Pragmatiq SA
-Horticulteur Paysagiste   Chef d'équipes || Espaces-Paysages Stefan Strobl
