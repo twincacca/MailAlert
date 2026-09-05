@@ -30,7 +30,7 @@ with sync_playwright() as p:
 
     with open(output_file, "w", encoding="utf-8") as out:
         for url in urls:
-            print(f"\nProcessing: {url}")
+            #print(f"\nProcessing: {url}")
             page.goto(url)
             page.wait_for_timeout(5000)  # wait for JS
 
