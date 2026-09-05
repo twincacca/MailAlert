@@ -140,6 +140,12 @@ jobs:
 
 
 
+          # Check per Nadia Monsieur Cuisine
+          lynx -dump -nolist https://www.lidl.ch/c/it-CH/cucina-casalinghi/s10068166 | grep -i monsieur > monsieur_cuisine_lidl.txt
+
+
+
+
 
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
