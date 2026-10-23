@@ -1,3 +1,12 @@
+Region: Birkenhof / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Bassersdorf / Eich / Bassersdorf (ZH)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Rüti [707/234] / Rüti (ZH)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Rothrist / Bonigen [632/239] / Rothrist (AG)
   - Gru (Grus grus)
 ----------------------------------------
@@ -7,7 +16,19 @@ Region: Biglen [613/197] / Biglen (BE)
 Region: Birkenhof / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Fanel / Gampelen (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Fanel / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ins [573/203] / Ins (BE)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Sumiswald [632/209] / Sumiswald (BE)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Ziegelhof-Erlenhof / Ins (BE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Schönenbuch [604/264] / Schönenbuch (BL)
@@ -20,6 +41,9 @@ Region: Canal et port de Gletterens / Gletterens (FR)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Haut-Vully [571/201] / Haut-Vully (FR)
+  - Gru (Grus grus)
+----------------------------------------
+Region: Moillesulaz / Thônex (GE)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Entlebuch / Mettilimoos / Entlebuch (LU)
@@ -46,6 +70,9 @@ Region: Canal de la Broye / Cudrefin (VD)
 Region: Chablais de Cudrefin / Cudrefin (VD)
   - Gru (Grus grus)
 ----------------------------------------
+Region: Chablais de Cudrefin / Cudrefin (VD)
+  - Gru (Grus grus)
+----------------------------------------
 Region: Cudrefin [568/202] / Cudrefin (VD)
   - Gru (Grus grus)
 ----------------------------------------
@@ -59,35 +86,5 @@ Region: Marthalen / Thur - Auen / Marthalen (ZH)
   - Gru (Grus grus)
 ----------------------------------------
 Region: Pfäffikersee Süd / Wetzikon (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Riediker/Rälliker Ried / Uster (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Unterstammheim / Ortschaft / Unterstammheim (ZH)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Birkenhof / Ins (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Fanel : Lagunes / Ins (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Fanel / Ins (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Witzwil E / Ins (BE)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Le Rondet / Haut-Vully (FR)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Kaltbrunner Riet (gesamt) / Uznach (SG)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Bolla Rossa / Locarno (TI)
-  - Gru (Grus grus)
-----------------------------------------
-Region: Chablais de Cudrefin / Cudrefin (VD)
   - Gru (Grus grus)
 ----------------------------------------
